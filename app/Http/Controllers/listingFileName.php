@@ -14,11 +14,7 @@ use App\Exports\ExportFile;
 
 class listingFileName extends Controller
 {
-    // public function listingFileName()
-    // {
-    //     $listingFileNameData = Listing_file_name::all();
-    //     return view('admin/listingFileName', compact('listingFileNameData'));
-    // }
+   
 
     public function fileDelete($id)
     {
