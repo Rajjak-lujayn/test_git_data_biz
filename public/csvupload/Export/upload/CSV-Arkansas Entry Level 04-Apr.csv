@@ -1,0 +1,716 @@
+DATE,"Job Title",Company,Website,Industry,Salary,Remote,AREA,City,State,"Zip Code"
+1970-01-01,"Data Specialist","City of Little Rock, AR",littlerock.gov,"Government Administration","$42,641 - $63,961 a year",,,"Little Rock",AR,""
+1970-01-01,"Conflicts Analyst",Deloitte,deloitte.com,"Management Consulting",,,"Downtown CBD area)","Little Rock",AR," 72201"
+1970-01-01,"Production Support Analyst",Deloitte,deloitte.com,"Management Consulting",,,"Downtown CBD area)","Little Rock",AR," 72201"
+1970-01-01,Instructor,"UAMS Medical Center",uamshealth.com,"Hospital & Health Care",,,"Medical Center area)","Little Rock",AR," 72205"
+1970-01-01,CT,"ARC Healthcare LLC",arc.healthcare,"Medical Practice",,,,"Little Rock",AR,""
+1970-01-01,"Destination Services Specialist","City of Little Rock, AR",littlerock.gov,"Government Administration","$35,242 - $52,862 a year",,,"Little Rock",AR,""
+1970-01-01,"Therapy Tech.","OrthoArkansas, PA",orthoarkansas.com,"Medical Practice",,,"John Barrow area)","Little Rock",AR," 72205"
+1970-01-01,"Retail Sales Consultant Park Ave",AT&T,att.com,Telecommunications,"$55,965 a year",,,"Little Rock",AR,""
+1970-01-01,"Simmons Bank Analyst Program","Simmons Bank",simmonsbank.com,Banking,,,,"Little Rock",AR,""
+1970-01-01,"Research Assistant I","UAMS Medical Center",uamshealth.com,"Hospital & Health Care",,,"Medical Center area)","Little Rock",AR," 72205"
+1970-01-01,"Secondary School Registrar","Pulaski County Special School District",pcssd.org,"Primary/Secondary Education","$11.10 - $20.50 an hour",,,"Little Rock",AR," 72206"
+1970-01-01,"Customer Service Representative I","Arkansas Blue Cross and Blue Shield",arkansasbluecross.com,Insurance,,,,"Little Rock",AR,""
+1970-01-01,"Manager 1, Regional Operations Support",Sodexo,sodexo.com,"Facilities Services",,,"Boyle Park area)","Little Rock",AR," 72204"
+1970-01-01,"Home Care Consultant","Home Instead Senior Care",homeinsteadla.net,,,,"Downtown CBD area)","Little Rock",AR," 72202"
+1970-01-01,"Talent Acquisition Specialist - Little Rock, AR","Southern Bancorp",banksouthern.com,Banking,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Manager of Nursing - Spine and Pain Center","OrthoArkansas, PA",orthoarkansas.com,"Medical Practice",,,"Boyle Park area)","Little Rock",AR," 72204"
+1970-01-01,"Athletic Trainer","OrthoArkansas, PA",orthoarkansas.com,"Medical Practice",,,"Boyle Park area)","Little Rock",AR," 72204"
+1970-01-01,"Administrative Assistant","Elliott Electric Supply",elliotelectric.com,,,,,"Little Rock",AR,""
+1970-01-01,"Lab Asst IV",Labcorp,labcorp.com,"Hospital & Health Care",,,"Briarwood area)","Little Rock",AR," 72205"
+1970-01-01,Operator,"Ring Container Technologies",ringcontainer.com,Plastics,,,,"Little Rock",AR," 72206"
+1970-01-01,"Parenting Program Implementation Coordinator","University of Arkansas at Little Rock",ualr.edu,"Higher Education",,,"Oak Forest area)","Little Rock",AR," 72204"
+1970-01-01,"ELEMENTARY ASSISTANT PRINCIPAL (TEMPORARY FOR THE 2022-2023...","Pulaski County Special School District",pcssd.org,"Primary/Secondary Education",,,,"Little Rock",AR," 72206"
+1970-01-01,"Transportation Security Officer (TSO)","TSA (Transportation Security Administration)",tsa.gov,"Government Administration","$38,807 - $53,927 a year",,,"Little Rock",AR,""
+1970-01-01,"AOC Dev Ops Architect","Arkansas Judiciary",arcourts.gov,"Law Practice",,,,"Little Rock",AR,""
+1970-01-01,"Leasing Consultant","Oakland Management Corp",beztak.com,"Real Estate",,,,"Little Rock",AR," 72223"
+1970-01-01,"Truckload Claims Analyst","Priority-1 Inc",priority1inc.com,Transportation/Trucking/Railroad,,,"Downtown CBD area)","Little Rock",AR," 72201"
+1970-01-01,"Lab Asst IV",Labcorp,labcorp.com,"Hospital & Health Care",,,,"Little Rock",AR," 72205"
+1970-01-01,"Master Principal Program Director - Arkansas Leadership Acad...","Arkansas Public School Resource Center",apsrc.net,"SIC Codes:Â  8211 NAICS Codes:Â  611110",,,"Downtown CBD area)","Little Rock",AR," 72201"
+1970-01-01,"Supply Technician","UAMS Medical Center",uamshealth.com,"Hospital & Health Care",,,"Medical Center area)","Little Rock",AR," 72205"
+1970-01-01,"POS Charge Specialist","Banner Health",bannerhealth.com,"Hospital & Health Care",,Remote,,"Remote in Little Rock",AR," 72206"
+1970-01-01,Histotechnician,"ARC Healthcare LLC",arc.healthcare,"Medical Practice",,,,"Little Rock",AR,""
+1970-01-01,"Financial Relationship Associate (FInancial West)",Regions,regions.com,Banking,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Financial Relationship Consultant (Medical Center)",Regions,regions.com,Banking,,,"Hillcrest area)","Little Rock",AR," 72205"
+1970-01-01,"Routing Supervisor","First Student",workatfirst.com,Transportation/Trucking/Railroad,"$18 an hour",,"Upper Baseline area)","Little Rock",AR," 72209"
+1970-01-01,"Specialist I, II, III-Service Delivery (RR)","Windstream Communications",windstreamenterprise.com,Telecommunications,,,"River Mountain area)","Little Rock",AR," 72212"
+1970-01-01,"Medical Technician","U.S. Military Entrance Processing Command",,,"$36,118 - $52,341 a year",Remote,,"Temporarily Remote in Little Rock",AR,""
+1970-01-01,"Assistant Manager - Lead","Rack Room Shoes",rackroomshoes.com,Retail,,,"Otter Creek Crystal area)","Little Rock",AR," 72210"
+1970-01-01,Phlebotomist,"ARC Healthcare LLC",arc.healthcare,"Medical Practice",,,,"Little Rock",AR,""
+1970-01-01,"Jr. Software Developer",Leidos,opera.org.au,"Performing Arts",,,,"Little Rock",AR," 72201"
+1970-01-01,"Destination Services Specialist","City of Little Rock",,,,,,"Little Rock",AR," 72201"
+1970-01-01,"Jr. Software Developer",Leidos,opera.org.au,"Performing Arts",,,,"Little Rock",AR," 72201"
+1970-01-01,"Detention Clerk","Pulaski County Government",pulaskicounty.net,"Government Administration",,,"Boyle Park area)","Little Rock",AR," 72204"
+1970-01-01,"Pharmacy Technician","ARC Healthcare LLC",arc.healthcare,"Medical Practice",,,,"Little Rock",AR,""
+1970-01-01,Server,"Waffle House",wafflehouse.com,Restaurants,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,Concierge,"Vitality at Pleasant Hills",,,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Leader In Training",Buckle,buckleup.com,"Financial Services",,,"Midtown area)","Little Rock",AR," 72205"
+1970-01-01,"Medical Lab Technician","ARC Healthcare LLC",arc.healthcare,"Medical Practice",,,,"Little Rock",AR,""
+1970-01-01,"Animal Keeper (Reptiles)","City of Little Rock",,,,,"Briarwood area)","Little Rock",AR," 72205"
+1970-01-01,"Academic Coder Physician Practice Remote","Banner Health",bannerhealth.com,"Hospital & Health Care",,Remote,,"Remote in Little Rock",AR," 72206"
+1970-01-01,"Milk Lab Technician","UAMS Medical Center",uamshealth.com,"Hospital & Health Care","$14 an hour",,"Medical Center area)","Little Rock",AR," 72205"
+1970-01-01,"ASSISTANT STORE MANAGER","Family Dollar",familydollar.com,Retail,,,,"Little Rock",AR," 72206"
+1970-01-01,"Medical Benefits Evaluator","Firstsource Solution USA",firstsource.com,Outsourcing/Offshoring,,,,"Little Rock",AR,""
+1970-01-01,Server,"Waffle House",wafflehouse.com,Restaurants,,,"Riverdale area)","Little Rock",AR," 72202"
+1970-01-01,"Customer Service Representative",Progressive,progressivepartnership.co.uk,"Market Research","$16.85 - $19.65 an hour",Remote,,"Remote in Little Rock",AR,""
+1970-01-01,"Registered Polysomnographer","ARC Healthcare LLC",arc.healthcare,"Medical Practice",,,,"Little Rock",AR,""
+1970-01-01,"Warehouse Manager","American Freight Management Company",,,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Patient Ambassador","UAMS Medical Center",uamshealth.com,"Hospital & Health Care","$14 an hour",,"Medical Center area)","Little Rock",AR," 72205"
+1970-01-01,"ASSISTANT STORE MANAGER","Family Dollar",familydollar.com,Retail,,,"Boyle Park area)","Little Rock",AR," 72204"
+1970-01-01,"Sales Representative","National Federation of Independent Business (NFIB)",nfib.com,"Nonprofit Organization Management","$75,000 - $250,000 a year",,,"Little Rock",AR,""
+1970-01-01,Op-Soil,"Aramark Uniform & Career Apparel LLC",aramarkuniform.com,"Facilities Services",,,"Stephens area)","Little Rock",AR," 72204"
+1970-01-01,"ASSISTANT STORE MANAGER","Family Dollar",familydollar.com,Retail,,,,"Little Rock",AR," 72209"
+1970-01-01,"Coder Physician Practice General Surgery Trauma Remote","Banner Health",bannerhealth.com,"Hospital & Health Care",,Remote,,"Remote in Little Rock",AR," 72206"
+1970-01-01,"Team Member","Casey's General Stores",caseys.com,"Food & Beverages",,,,"Little Rock",AR," 72210"
+1970-01-01,"Administrative Assistant III","UAMS Medical Center",uamshealth.com,"Hospital & Health Care","$14.28 an hour",,"Medical Center area)","Little Rock",AR," 72205"
+1970-01-01,"PATIENT CARE ASSOCIATE","Baptist Health Arkansas",,,,,"John Barrow area)","Little Rock",AR," 72205"
+1970-01-01,"Dietary Aide-CHENAL- FT","Fox Ridge Luxury Senior Living",foxridgeliving.net,"Hospital & Health Care",,,,"Little Rock",AR,""
+1970-01-01,"Dietary Aide-CHENAL- FT","Fox Ridge",foxridgeliving.com,"Management Consulting",,,,"Little Rock",AR," 72223"
+1970-01-01,"Cardiovascular Invasive Laboratory Specialist","AdventHealth North Pinellas",,,,,,"Little Rock",AR,""
+1970-01-01,"Casa Executive Director","Pulaski County Government",pulaskicounty.net,"Government Administration",,,,"Little Rock",AR," 72201"
+1970-01-01,"Team Member","Casey's General Stores",caseys.com,"Food & Beverages",,,"Briarwood area)","Little Rock",AR," 72205"
+1970-01-01,"Sonographer Vascular","ARC Healthcare LLC",arc.healthcare,"Medical Practice",,,,"Little Rock",AR,""
+1970-01-01,"Diagnostic Medical Sonographer/Ultrasound Tech - AHH (PRN)","Arkansas Heart Hospital",arheart.com,"Hospital & Health Care",,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Full Time Auto Parts Delivery Driver (Bumper To Bumper) Stor...","Replacement Parts Inc.",replacementpartsinc.com,,,,,"Little Rock",AR," 72206"
+1970-01-01,"RN II-SST, 7a-7p, All Units, Full Time","Arkansas Children's Hospital",archildrens.org,"Hospital & Health Care",,,,"Little Rock",AR,""
+1970-01-01,"Financial Sales Representative (FSR)","Arvest Bank",arvest.com,Banking,,,"Rock Creek area)","Little Rock",AR," 72223"
+1970-01-01,"FINANCIAL ACCOUNTANT","Baptist Health Arkansas",,,,,"John Barrow area)","Little Rock",AR," 72205"
+1970-01-01,"New Grad RN ENT Orthopedic/Surgical Specialties F9","UAMS Medical Center",uamshealth.com,"Hospital & Health Care",,,"Medical Center area)","Little Rock",AR," 72205"
+1970-01-01,Host,Chilis,chilis.com,Restaurants,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,Dispatcher,"Pulaski County Government",pulaskicounty.net,"Government Administration",,,,"Little Rock",AR," 72201"
+1970-01-01,"Food Preparation Supervisor (MD2)","UAMS Medical Center",uamshealth.com,"Hospital & Health Care","$34,944 a year",,"Medical Center area)","Little Rock",AR," 72205"
+1970-01-01,"Lead Housekeeper Full Time-101060","Extended Stay America",extendedstayamerica.com,Hospitality,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Banquet Server - CAPITAL HOTEL, LITTLE ROCK, ARKANSAS","Capital Hotel",capitalhotel.com,Hospitality,,,,"Little Rock",AR," 72201"
+1970-01-01,"Team Member","Casey's General Stores",caseys.com,"Food & Beverages",,,"Boyle Park area)","Little Rock",AR," 72204"
+1970-01-01,"RN CASE MANAGER - BHMC-HOME HEALTH/LR-HOME HEALTH RN","Baptist Health Arkansas",,,,,,"Little Rock",AR," 72210"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,"Boyle Park area)","Little Rock",AR," 72204"
+1970-01-01,Teller,"Arvest Bank",arvest.com,Banking,,,"Chicot West I-30 So. area)","Little Rock",AR," 72209"
+1970-01-01,"Sanitation Technician",Sysco,sysco.com,"Food & Beverages",,,,"Little Rock",AR," 72209"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,,"Little Rock",AR," 72209"
+1970-01-01,"Environmental Waste Technician",Stericycle,stericycle.co,,,,,"Little Rock",AR," 72201"
+1970-01-01,"Route Relief Utility Driver- Little, Rock AR",Alsco,alsco.com,"Computer Software",,,"Otter Creek Crystal area)","Little Rock",AR," 72210"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,,"Little Rock",AR," 72206"
+1970-01-01,"Automotive Detailer - Car Washer - Little Rock North","Enterprise Holdings",enterpriseholdings.com,"Leisure, Travel & Tourism","$12.25 an hour",,,"Little Rock",AR,""
+1970-01-01,"Route Sales Representative 5/8 Hourly- Little Rock, AR",Alsco,alsco.com,"Computer Software",,,"Otter Creek Crystal area)","Little Rock",AR," 72210"
+1970-01-01,"Registered Clinical Assistant - Main Clinic (FTD)","Arkansas Heart Hospital",arheart.com,"Hospital & Health Care",,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"ECMO RN","CHI St. Vincent Health",chistvincent.com,"Hospital & Health Care",,,"Medical Center area)","Little Rock",AR," 72205"
+1970-01-01,"Dental Assistant","Aspen Dental",aspendent.com,"Health, Wellness & Fitness",,,"Walnut Valley area)","Little Rock",AR," 72211"
+1970-01-01,Histotechnologist,"ARC Healthcare LLC",arc.healthcare,"Medical Practice",,,,"Little Rock",AR,""
+1970-01-01,"Addiction Unit Nurse","CHI St. Vincent Health",chistvincent.com,"Hospital & Health Care",,,"Medical Center area)","Little Rock",AR," 72205"
+1970-01-01,Server,"Waffle House",wafflehouse.com,Restaurants,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Cardiovascular Clinic Nurse","CHI St. Vincent Health",chistvincent.com,"Hospital & Health Care",,,"Medical Center area)","Little Rock",AR," 72205"
+1970-01-01,"Patient Access Representative I, Clinics 5/6, Mon-Fri 8-4:30...","Arkansas Children's Hospital",archildrens.org,"Hospital & Health Care",,,,"Little Rock",AR,""
+1970-01-01,"Respiratory Medical Nurse","CHI St. Vincent Health",chistvincent.com,"Hospital & Health Care",,,"Medical Center area)","Little Rock",AR," 72205"
+1970-01-01,"PACU Patient Care Tech","CHI St. Vincent Health",chistvincent.com,"Hospital & Health Care",,,"Medical Center area)","Little Rock",AR," 72205"
+1970-01-01,"Pharmacy Technician","Kroger Stores",kroger.com,Retail,,,"Boyle Park area)","Little Rock",AR," 72204"
+1970-01-01,"Attorney II","Pulaski County Government",pulaskicounty.net,"Government Administration",,,,"Little Rock",AR," 72201"
+1970-01-01,"Animal Service Officer II","Pulaski County Government",pulaskicounty.net,"Government Administration",,,,"Little Rock",AR," 72201"
+1970-01-01,"ASSISTANT STORE MANAGER","Family Dollar",familydollar.com,Retail,,,,"Little Rock",AR," 72206"
+1970-01-01,"ASSISTANT STORE MANAGER","Family Dollar",familydollar.com,Retail,,,,"Little Rock",AR," 72206"
+1970-01-01,"Cardiac ICU Nurse","CHI St. Vincent Health",chistvincent.com,"Hospital & Health Care",,,"Medical Center area)","Little Rock",AR," 72205"
+1970-01-01,"To Go",Chilis,chilis.com,Restaurants,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,Server,Chilis,chilis.com,Restaurants,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Warehouse Material Handler",Graybar,graybar.com,Wholesale,,,"East of I-30 area)","Little Rock",AR," 72202"
+1970-01-01,"Food Runner",Chilis,chilis.com,Restaurants,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"ASSISTANT STORE MANAGER","Family Dollar",familydollar.com,Retail,,,"Boyle Park area)","Little Rock",AR," 72204"
+1970-01-01,"ASSISTANT STORE MANAGER","Family Dollar",familydollar.com,Retail,,,"Boyle Park area)","Little Rock",AR," 72204"
+1970-01-01,"ASSISTANT STORE MANAGER","Family Dollar",familydollar.com,Retail,,,"Boyle Park area)","Little Rock",AR," 72204"
+1970-01-01,"ASSISTANT STORE MANAGER","Family Dollar",familydollar.com,Retail,,,"Boyle Park area)","Little Rock",AR," 72204"
+1970-01-01,QA/Expeditor,Chilis,chilis.com,Restaurants,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"ASSISTANT STORE MANAGER","Family Dollar",familydollar.com,Retail,,,"Boyle Park area)","Little Rock",AR," 72204"
+1970-01-01,Bartender,Chilis,chilis.com,Restaurants,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,Dishwasher,Chilis,chilis.com,Restaurants,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,"Boyle Park area)","Little Rock",AR," 72204"
+1970-01-01,"Medical Surgical Nurse","CHI St. Vincent Health",chistvincent.com,"Hospital & Health Care",,,"Medical Center area)","Little Rock",AR," 72205"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,"Boyle Park area)","Little Rock",AR," 72204"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,,"Little Rock",AR," 72209"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,,"Little Rock",AR," 72209"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,,"Little Rock",AR," 72209"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,,"Little Rock",AR," 72206"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,,"Little Rock",AR," 72206"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,,"Little Rock",AR," 72206"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,,"Little Rock",AR," 72206"
+1970-01-01,"Critical Care Nurse","CHI St. Vincent Health",chistvincent.com,"Hospital & Health Care",,,"Medical Center area)","Little Rock",AR," 72205"
+1970-01-01,"Cardiac Stepdown Nurse","CHI St. Vincent Health",chistvincent.com,"Hospital & Health Care",,,"Medical Center area)","Little Rock",AR," 72205"
+1970-01-01,"Critical care Nurse","CHI St. Vincent Health",chistvincent.com,"Hospital & Health Care",,,"Medical Center area)","Little Rock",AR," 72205"
+1970-01-01,"Cardiac Stepdown Nurse","CHI St. Vincent Health",chistvincent.com,"Hospital & Health Care",,,"Medical Center area)","Little Rock",AR," 72205"
+1970-01-01,"Executive Assistant/Administrative Assistant","Westrock Company",,,"$40,000 - $50,000 a year",,"John Barrow area)","Little Rock",AR," 72204"
+1970-01-01,"CVICU RN","CHI St. Vincent Health",chistvincent.com,"Hospital & Health Care",,,"Medical Center area)","Little Rock",AR," 72205"
+1970-01-01,"Hybrid Onsite/Remote IT Support","Miles Technologies",4miles.com,,,,,"Hybrid remote in Little Rock",AR,""
+1970-01-01,"Human Resources Coordinator","Chick-fil-A | 7th and Broadway",,,"from $20 an hour",,,"Little Rock",AR," 72201"
+1970-01-01,"Operations Manager","Accelerated Property Management",,,"from $65,000 a year",,,"Little Rock",AR,""
+1970-01-01,"Payroll Administrator","WEHCO Media Inc",,,"$50,000 a year",,"Downtown CBD area)","Little Rock",AR," 72201"
+1970-01-01,"Local Manager - Bunny Photos","Cherry Hill Programs",cherryhillprograms.com,Photography,,,"Midtown area)","Little Rock",AR," 72205"
+1970-01-01,"Digital Marketing Account Manager",FLEX360,flex360.com,"Software Development & Design, Software","$50,000 - $70,000 a year",,"Downtown CBD area)","Little Rock",AR," 72201"
+1970-01-01,"Administrative Support Specialist","Alpha Chi National College Honor Society",,,"from $16 an hour",,,"Hybrid remote in Little Rock",AR," 72211"
+1970-01-01,"REO Field Services | Property Preservation Contractor","Midwest Property REO, LLC.",midwest-reo.com,,"$3,000 - $5,000 a month",,,"Little Rock",AR,""
+1970-01-01,"Registered Polysomnographer","ARC Healthcare LLC",arc.healthcare,"Medical Practice",,,,"Little Rock",AR," 72201"
+1970-01-01,"Customer Service Coordinator","Rausch Coleman Development Group Inc.",,,,,"Downtown area)","Little Rock",AR," 72202"
+1970-01-01,CT,"ARC Healthcare LLC",arc.healthcare,"Medical Practice",,,,"Little Rock",AR," 72201"
+1970-01-01,"Registered Polysomnographer","ARC Healthcare LLC",arc.healthcare,"Medical Practice",,,"Briarwood area)","Little Rock",AR," 72205"
+1970-01-01,"Caretaker for Elderly","Home Instead",homeinstead.com.au,"Hospital & Health Care",,,,"Little Rock",AR,""
+1970-01-01,Accountant,"Arkansas Department of Transportation",ardot.gov,Transportation/Trucking/Railroad,"$59,878 a year",,"65th St. West area)","Little Rock",AR," 72209"
+1970-01-01,"Pharmacy Technician","ARC Healthcare LLC",arc.healthcare,"Medical Practice",,,"Briarwood area)","Little Rock",AR," 72205"
+1970-01-01,"Administrative Assistant","SERRATO CORPORATION",serratocorp.com,"Education Management",,,,"Little Rock",AR,""
+1970-01-01,"Store Leader/Manager","Glide Xpress Car Wash",,,"from $50,000 a year",,"Reservoir area)","Little Rock",AR," 72227"
+1970-01-01,Histotechnician,"ARC Healthcare LLC",arc.healthcare,"Medical Practice",,,"Briarwood area)","Little Rock",AR," 72205"
+1970-01-01,"Entry Level Product Installation Technician","Stericycle Inc",,,"$43,600 - $50,000 a year",,,"Little Rock",AR,""
+1970-01-01,Histotechnician,"ARC Healthcare LLC",arc.healthcare,"Medical Practice",,,,"Little Rock",AR," 72201"
+1970-01-01,"Residential Advisor","SERRATO CORPORATION",serratocorp.com,"Education Management",,,,"Little Rock",AR,""
+1970-01-01,"Pharmacy Technician","ARC Healthcare LLC",arc.healthcare,"Medical Practice",,,,"Little Rock",AR," 72201"
+1970-01-01,"Accountant I - 16907","AR Dept of Parks, Heritage & Tourism",,,"$40,340 - $58,493 a year",,"Downtown CBD area)","Little Rock",AR," 72201"
+1970-01-01,"OSP Fielder","Startech Networks Inc",,,,,,"Little Rock",AR,""
+1970-01-01,"Now Hiring - REO Property Preservation Contractors - experie...","Midwest Property REO, LLC.",midwest-reo.com,,"$3,000 - $5,000 a month",,,"Little Rock",AR,""
+1970-01-01,"Fraud Support Associate I - 17.51$ Pay Rate for Hour!!!",ManpowerGroup,manpowergroup.com,"Staffing & Recruiting","$17.51 an hour",,"River Mountain area)","Little Rock",AR," 72212"
+1970-01-01,Cleaner,"BJ's Restaurant and Brewhouse",bjsrestaurants.com,Restaurants,,,"John Barrow area)","Little Rock",AR," 72205"
+1970-01-01,"Automotive Sales Manager ? F&I Manager ? Internet Sales Mana...","Reynolds and Reynolds",reyrey.com,"Computer Software","$80,000 - $100,000 a year",,,"Little Rock",AR,""
+1970-01-01,"Bankruptcy Legal Assistant","Mickel Law Firm",,,"$31,000 - $53,885 a year",,"Heights area)","Little Rock",AR," 72207"
+1970-01-01,"Sales Consultant","The Good Feet Store IRG Investments Group",,,"$70,000 a year",,"River Mountain area)","Little Rock",AR," 72212"
+1970-01-01,"WALMART RETAIL REPRESENTATIVE FULL TIME","CROSSMARK, Inc.",crossmark.com,"Consumer Goods",,,,"Little Rock",AR," 72002"
+1970-01-01,"Administrative Assistant","Moses Tucker Partners",,,"$25,000 - $35,000 a year",,"Downtown CBD area)","Little Rock",AR," 72201"
+1970-01-01,"Medical Lab Technician","ARC Healthcare LLC",arc.healthcare,"Medical Practice",,,"Briarwood area)","Little Rock",AR," 72205"
+1970-01-01,Receptionist,"Le Denza Technologies Inc.",,,"up to $850 a week",,,"Little Rock",AR,""
+1970-01-01,"Billing Assistant","McFarland Eye Care",mcfarlandeye.com,"Medical Practice",,,"River Mountain area)","Little Rock",AR," 72212"
+1970-01-01,"Sonographer Vascular","ARC Healthcare LLC",arc.healthcare,"Medical Practice",,,,"Little Rock",AR," 72201"
+1970-01-01,"Front Desk Receptionist","HealthScope Benefits",,,"$13 - $20 an hour",,"West Markham area)","Little Rock",AR," 72205"
+1970-01-01,"Sales Associate/Customer Service Representative","Contemporary Concepts, Inc",,,"$14 - $20 an hour",,,"Little Rock",AR," 72113"
+1970-01-01,"Crime Scene Technician","MSP Hoarding",minneapolishoarding.com,,"$17 - $20 an hour",,,"Little Rock",AR,""
+1970-01-01,Host,"BJ's Restaurant and Brewhouse",bjsrestaurants.com,Restaurants,,,"John Barrow area)","Little Rock",AR," 72205"
+1970-01-01,"Medical Lab Technician","ARC Healthcare LLC",arc.healthcare,"Medical Practice",,,,"Little Rock",AR," 72201"
+1970-01-01,"Facility Maintenance CTT Instructor","SERRATO CORPORATION",serratocorp.com,"Education Management",,,,"Little Rock",AR,""
+1970-01-01,"Member Service and Security Team Member","The Country Club of Little Rock",,,"$13 - $16 an hour",,"Heights area)","Little Rock",AR," 72207"
+1970-01-01,"Call Centre Representative","ACS LLC",acs-llc.com,"Security & Investigations","up to $35,400 a year",,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Printer Installation - Entry Level IT","Customer Engineering Services",,,"$15 - $16 an hour",,,"Little Rock",AR,""
+1970-01-01,"Screen Printing Assistant","Silver Eagle GPX, Inc.",,,"$11 - $14 an hour",,"Boyle Park area)","Little Rock",AR," 72204"
+1970-01-01,"Property & Casualty Insurance Underwriter","Jencap Group",,,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Branch Administrator 1703/1800","Barnhart Crane & Rigging",barnhartcrane.com,"Mechanical Or Industrial Engineering","$17 - $19 an hour",,,"Little Rock",AR," 72206"
+1970-01-01,"New Home Sales Consultant - 40k Base + Commission","Luv Homes",luvhomeskingsport.com,,"$40,000 - $60,000 a year",,,"Little Rock",AR,""
+1970-01-01,Phlebotomist,"ARC Healthcare LLC",arc.healthcare,"Medical Practice",,,,"Little Rock",AR," 72201"
+1970-01-01,Server,"On The Border Mexican Grill and Cantina",ontheborder.com,Restaurants,,,"Walnut Valley area)","Little Rock",AR," 72211"
+1970-01-01,Server/Cashier,"Gus's World Famous Fried Chicken",,,"$14 - $30 an hour",,"Downtown CBD area)","Little Rock",AR," 72201"
+1970-01-01,"Bunny Character","Cherry Hill Programs",cherryhillprograms.com,Photography,"up to $15 an hour",,"Midtown area)","Little Rock",AR," 72205"
+1970-01-01,"AmeriCorps Camp Counselor Summer 2022","Joseph Pfeifer Kiwanis Camp",pfeifercamp.com,"Primary/Secondary Education","$1,333 a month",,,"Little Rock",AR," 72223"
+1970-01-01,"Fiscal Support Analyst - 16249","AR Dept of Parks, Heritage & Tourism",,,"$36,000 - $43,759 a year",,"Downtown CBD area)","Little Rock",AR," 72201"
+1970-01-01,"Aircraft Painters/Prep","Prime Completions",primeaircraft.com,,,,"Downtown area)","Little Rock",AR," 72202"
+1970-01-01,"Med/surg RN-AR ($2,933 weekly)","Catalytic Solutions",catsolns.com,Automotive,"$2,933 a week",,"Briarwood area)","Little Rock",AR," 72205"
+1970-01-01,"Take Out","BJ's Restaurant and Brewhouse",bjsrestaurants.com,Restaurants,,,"John Barrow area)","Little Rock",AR," 72205"
+1970-01-01,Phlebotomist,"ARC Healthcare LLC",arc.healthcare,"Medical Practice",,,"Briarwood area)","Little Rock",AR," 72205"
+1970-01-01,"Customer Care Representative- FINRA LICENSE","Prime Consulting",,,,,,"Little Rock",AR,""
+1970-01-01,"Merchandising and Customer Support","Customer Engineering Services",,,"$15 an hour",,,"Little Rock",AR,""
+1970-01-01,"Legal Assistant","Kirkendall Dwyer LLP",kirkendalldwyer.com,"Law Practice","from $14 an hour",,"Downtown CBD area)","Little Rock",AR," 72201"
+1970-01-01,"Machine Operator 6:00 AM - 2:30 AM","Ty Garments Usa Llc",,,"$12.50 an hour",,,"Little Rock",AR,""
+1970-01-01,"IT Field Service Technician",CompuCom,,,"$18 - $20 an hour",,,"Little Rock",AR,""
+1970-01-01,Host/Hostess,"Petit and Keet",petitandkeet.com,,,,"Walnut Valley area)","Little Rock",AR," 72211"
+1970-01-01,"Selector - Nights","Ben E. Keith Company",benstevens.co.uk,Design,,,,"Little Rock",AR,""
+1970-01-01,"Outside Sales Representative","Arkansas Performance Roofing",,,"$38,946 - $137,192 a year",,,"Little Rock",AR,""
+1970-01-01,"Local Van Driver - Immediate Openings!",Hallcon,hallcon.com,Transportation/Trucking/Railroad,"$440 - $530 a week",,,"Little Rock",AR,""
+1970-01-01,"Outside Sales Representative - AR PRI","Community Services of America",,,"$63,000 a year",,,"Little Rock",AR," 72201"
+1970-01-01,"Outside Sales Representative","Reynolds and Reynolds",reyrey.com,"Computer Software","$80,000 - $100,000 a year",,,"Little Rock",AR,""
+1970-01-01,"Valet Services Cashier","Parking Management Company",parkingmgt.com,Hospitality,,,"Downtown CBD area)","Little Rock",AR," 72202"
+1970-01-01,"Dental Assistant","Two Rivers Dental Care",,,"from $15 an hour",,"River Mountain area)","Little Rock",AR," 72223"
+1970-01-01,"Front Desk Agent","Delta Hotels",,,"$13 - $14 an hour",,"Walnut Valley area)","Little Rock",AR," 72211"
+1970-01-01,"Movers/Helpers Wanted","All My Sons Moving & Storage",allmysons.com,Transportation/Trucking/Railroad,"$12 - $15 an hour",,,"Little Rock",AR," 72209"
+1970-01-01,"Construction Materials Testing Technician","MTA Engineers",mtaengineers.com,"Civil Engineering","$14 - $16 an hour",,,"Little Rock",AR," 72210"
+1970-01-01,"Registered Behavior Technician (RBT)","HHJ ABA Therapy",,,"$22 - $28 an hour",,,"Little Rock",AR,""
+1970-01-01,"Administrative Assistant","Lax Vaughan Fortson Rowe & Threet PA",,,"$12 - $16 an hour",,"River Mountain area)","Little Rock",AR," 72212"
+1970-01-01,"T-Mobile Retail Sales Representative","Connectivity Source | T-Mobile Premium Retailer at...",,,"$18 - $22 an hour",,,"Little Rock",AR," 72210"
+1970-01-01,"Sales Associate - Bunny Photos","Cherry Hill Programs",cherryhillprograms.com,Photography,,,"Midtown area)","Little Rock",AR," 72205"
+1970-01-01,"Registered Nurse_AR_2","IMCS Group",imcsgroup.net,"Information Technology & Services","$70 - $75 an hour",,,"Little Rock",AR,""
+1970-01-01,"Team Member and Team Leader","Tropical Smoothie Cafe",tropicalsmoothiecafe.com,Restaurants,"$9.50 - $15.00 an hour",,"Briarwood area)","Little Rock",AR," 72205"
+1970-01-01,"Maintenance Worker","Protech Solutions, Inc.",protechsolutions.com,"Human Resources",,,"Downtown CBD area)","Little Rock",AR," 72201"
+1970-01-01,"Experienced Utility Construction Foreman","Holtger Bros., Inc.",holtger.com,Construction,"$24 - $27 an hour",,,"Little Rock",AR,""
+1970-01-01,"Pre-Arrangement Counselor-Independent 1099 Producer","Cyrus Works",,,"$11 - $15 an hour",,,"Little Rock",AR,""
+1970-01-01,"Security Officer - Flex","Allied Universal",aus.com,"Security & Investigations",,,,"Little Rock",AR," 72201"
+1970-01-01,"CUSTOMER SERVICE / SALES REPRESENTATIVE","RNR Tire Express & Custom Wheels",rnrtires.com,Automotive,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Receptionist - State Farm Agent Team Member","Charlotte Potts - State Farm Agent",charlottepottsinsurance.com,Insurance,,,,"Little Rock",AR,""
+1970-01-01,"Counter Sales","R&E Supply",resupplyco.com,Wholesale,"$14 an hour",,"Downtown area)","Little Rock",AR," 72202"
+1970-01-01,Janitor,"Contact Government Services, LLC",cgsfederal.com,"Government Relations",,,"Briarwood area)","Little Rock",AR," 72205"
+1970-01-01,"BOH Team Member","Gus's World Famous Fried Chicken",,,"$14 - $18 an hour",,"Downtown CBD area)","Little Rock",AR," 72201"
+1970-01-01,"Photographer - Bunny Photos","Cherry Hill Programs",cherryhillprograms.com,Photography,,,"Midtown area)","Little Rock",AR," 72205"
+1970-01-01,"Certified Pedorthist or experienced shoe fitter","Horton's Orthotics and Prosthetics",,,"from $40,000 a year",,,"Little Rock",AR,""
+1970-01-01,"Sonographer Vascular","ARC Healthcare LLC",arc.healthcare,"Medical Practice",,,"Briarwood area)","Little Rock",AR," 72205"
+1970-01-01,"Maintenance Technician","Independent Management Services",,,,,"East of I-30 area)","Little Rock",AR," 72202"
+1970-01-01,"(Urgent) Registered Nurse - Med-Surg - $3,945.00 PER WEEK -...","Orion Allied Healthcare",,,"$84.00 - $84.92 an hour",,,"Little Rock",AR,""
+1970-01-01,"TLC Optometrist (Full-Time) - Little Rock, AR",LasikPlus,lasikplus.com,"Medical Practice","$1500 ce credit & paid ce days, a 401k with a match, comprehensive medical benefits, a more?",,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,Server,"BJ's Restaurant and Brewhouse",bjsrestaurants.com,Restaurants,,,"John Barrow area)","Little Rock",AR," 72205"
+1970-01-01,"Assistant Manager","Little Caesar's Pizza of Arkansas, Inc.",littlecaesarsofar.com,,"$13.00 - $13.50 an hour",,"Midtown area)","Little Rock",AR," 72207"
+1970-01-01,"Commercial Fence Installer","JACOR Construction",jacorconstruction.com,"Commercial & Residential Construction","$14 - $18 an hour",,,"Little Rock",AR,""
+1970-01-01,"LTAC Medical Surgical Registered Nurse","BPN Staffing Solutions",bpnstaffing.com,,"$70 - $75 an hour",,,"Little Rock",AR,""
+1970-01-01,"Maintenance Technician-Apartment","Haley Residential",haleyres.com,"Real Estate","from $16 an hour",,"Reservoir area)","Little Rock",AR," 72227"
+1970-01-01,"Experienced Bore Rig Operator",Holtger,,,"$20 - $24 an hour",,,"Little Rock",AR,""
+1970-01-01,"Appliance Home Delivery / Installation Contractors","Pillar Logistics",pillarlogistics.com,Transportation/Trucking/Railroad,"$150,000 - $180,000 a year",,,"Little Rock",AR,""
+1970-01-01,"Refrigeration Service Technician",Hussmann,hussmann.com,Supermarkets,,,,"Little Rock",AR,""
+1970-01-01,"Phlebotomist I - 11066",PathGroup,pathgroup.com,"Hospital & Health Care",,,,"Little Rock",AR,""
+1970-01-01,"Route Sales Representative","SRP Companies",srpcompanies.com,"Consumer Goods","$15 - $16 an hour",,,"Little Rock",AR,""
+1970-01-01,Bartender,"BJ's Restaurant and Brewhouse",bjsrestaurants.com,Restaurants,,,"John Barrow area)","Little Rock",AR," 72205"
+1970-01-01,"TEAM DRIVERS WANTED","Voyager Express, Inc.",shipvoyager.com,Transportation/Trucking/Railroad,"$0.70 per mile",,,"Little Rock",AR," 72201"
+1970-01-01,"(Urgent) Registered Nurse - CVICU - $5,065.00 PER WEEK - Day...","Orion Allied Healthcare",,,"$112 an hour",,,"Little Rock",AR,""
+1970-01-01,Insulator,"Home Energy Rx",,,"$14 - $16 an hour",,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Aerial Lineman","Quanta Telecommunication Services",quantatelcom.com,Telecommunications,"$20 - $30 an hour",,,"Little Rock",AR,""
+1970-01-01,"Crew Member","McDonald's | Retzer Organization",txmcd.com,Restaurants,,,,"Little Rock",AR," 72206"
+1970-01-01,"Caregiver/Personal Assistant",SeniorKare/Homeality,inhomeseniorkare.com,Hospitality,"$12 - $13 an hour",,"West Markham area)","Little Rock",AR," 72205"
+1970-01-01,Busser,"BJ's Restaurant and Brewhouse",bjsrestaurants.com,Restaurants,,,"John Barrow area)","Little Rock",AR," 72205"
+1970-01-01,"Maintenance Technician","Recovery Centers of Arkansas",,,"$30,000 - $50,000 a year",,,"Little Rock",AR,""
+1970-01-01,"Maintenance Technician","SERRATO CORPORATION",serratocorp.com,"Education Management",,,,"Little Rock",AR,""
+1970-01-01,"Local Santa - Natural Beard","Cherry Hill Programs",cherryhillprograms.com,Photography,,,"Midtown area)","Little Rock",AR," 72205"
+1970-01-01,"ICU Registered Nurse LTACH","BPN Staffing Solutions",bpnstaffing.com,,"$80 - $85 an hour",,"Medical Center area)","Little Rock",AR," 72205"
+1970-01-01,"Work Instructor_Little Rock","AEDD Inc",aeddinc.org,"Nonprofit Organization Management",,,"South End area)","Little Rock",AR," 72206"
+1970-01-01,"CUSTOMER SERVICE / SALES REPRESENTATIVE","RNR Tire Express & Custom Wheels",rnrtires.com,Automotive,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"BCBA (Little Rock- AIM Clinics)","Hopebridge, LLC",hopebridge.com,"Hospital & Health Care",,,"Briarwood area)","Little Rock",AR," 72205"
+1970-01-01,Dishwasher,"Count Porkula",,,"$12 an hour",,"East of I-30 area)","Little Rock",AR," 72202"
+1970-01-01,Bartender,"Fassler Hall",,,,,"Downtown CBD area)","Little Rock",AR," 72202"
+1970-01-01,"Teachers Aide_SGS_NLR","AEDD Inc",aeddinc.org,"Nonprofit Organization Management",,,"South End area)","Little Rock",AR," 72206"
+1970-01-01,"Taziki's Cashier","Taziki's Cafe",,,"$11 an hour",,"Reservoir area)","Little Rock",AR," 72227"
+1970-01-01,"RN Weekend Supervisor/ Springs of John Barrow","The Springs Little Rock",hotsprings.org,"Leisure, Travel & Tourism",,,"John Barrow area)","Little Rock",AR," 72204"
+1970-01-01,Cashier,"Count Porkula",,,"$12 an hour",,"East of I-30 area)","Little Rock",AR," 72202"
+1970-01-01,"Commercial Cooking Equipment Service Technician",Bromley,bromley.com,"Recreational Facilities & Services",,,"Downtown Neighborhood area)","Little Rock",AR," 72202"
+1970-01-01,"IT Field Service Technician",CompuCom,,,"$18 - $20 an hour",,,"Little Rock",AR,""
+1970-01-01,"Retail Store Associate - 5262","Goodwill Industries of Arkansas",goodwillar.org,Philanthropy,"$11 an hour",,,"Little Rock",AR," 72223"
+1970-01-01,"Director of Nursing","The Blossoms at West Dixon",dixon.org,"Museums & Institutions",,,,"Little Rock",AR," 72206"
+1970-01-01,"Bakery Team Member","Cinnaholic Little Rock",,,"$11 - $13 an hour",,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Barista Starbucks Geyer Springs",Starbucks,starbucks.com,Retail,"$12 an hour",,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Security Guard","GuardOne Security",guardonesecurity.com,"Security & Investigations","$11 - $12 an hour",,,"Little Rock",AR,""
+1970-01-01,"Dietary Aide","SMS Housekeeping",smshousekeeping.com,"Facilities Services",,,,"Little Rock",AR,""
+1970-01-01,"Crew Member","McDonald's | Retzer Organization",txmcd.com,Restaurants,,,"Boyle Park area)","Little Rock",AR," 72204"
+1970-01-01,"Co Manager","Little Caesar's Pizza of Arkansas, Inc.",littlecaesarsofar.com,,"$14.00 - $14.50 an hour",,"Cloverdale Watson area)","Little Rock",AR," 72209"
+1970-01-01,"Restaurant To Go Server","On The Border Mexican Grill and Cantina",ontheborder.com,Restaurants,,,"Walnut Valley area)","Little Rock",AR," 72211"
+1970-01-01,"Lead Housekeeper Full Time-101060","ESA Management, LLC",,,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Veterinary Receptionist","Landmark Animal Hospital",,,"from $12 an hour",,,"Little Rock",AR," 72206"
+1970-01-01,"(Urgent) Registered Nurse - Med-Surg - $3,945.00 PER WEEK -...","Orion Allied Healthcare",,,"$84.00 - $84.92 an hour",,,"Little Rock",AR,""
+1970-01-01,"TLC Optometrist (Full-Time) - Little Rock, AR",LasikPlus,lasikplus.com,"Medical Practice","$1500 ce credit & paid ce days, a 401k with a match, comprehensive medical benefits, a more?",,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Assistant Manager",Zaxby's,zaxbysfranchising.com,Restaurants,"$12 - $14 an hour",,"John Barrow area)","Little Rock",AR," 72211"
+1970-01-01,Server,"IHOP | Golden Cakes Inc",goldencakesinc.com,Restaurants,,,"Walnut Valley area)","Little Rock",AR," 72211"
+1970-01-01,"Maintenance Technician-Little Rock","Precision Management",precisionmanaged.com,"Real Estate","$15 - $25 an hour",,,"Little Rock",AR," 72209"
+1970-01-01,"Warehouse Clerk","Southern Star",southernstarrestaurant.com,"Security & Investigations","$14 an hour",,"Chicot West I-30 So. area)","Little Rock",AR," 72209"
+1970-01-01,"Counter Sales","R&E Supply",resupplyco.com,Wholesale,"$14 an hour",,"Downtown area)","Little Rock",AR," 72202"
+1970-01-01,"Dish Machine Operator","IHOP | Golden Cakes Inc",goldencakesinc.com,Restaurants,,,"Walnut Valley area)","Little Rock",AR," 72211"
+1970-01-01,"Director of Nursing","Long Term Care Facility",,,,,,"Little Rock",AR,""
+1970-01-01,"Hotel Van Driver","Four Points Little Rock | InnVentures",,,,,"Oak Forest area)","Little Rock",AR," 72204"
+1970-01-01,"Early Childhood Teacher's Assistant","Grow Learning Centre",growlearningcentre.com,"Hospital & Health Care","from $14 an hour",,"Westwood-Pecan Lake area)","Little Rock",AR," 72204"
+1970-01-01,"HotLine Team Member","Freddy's Frozen Custard & Steakburgers | FFC...",,,"up to $13 an hour",,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Crew Member","McDonald's | Retzer Organization",txmcd.com,Restaurants,,,,"Little Rock",AR," 72223"
+1970-01-01,"Packaging & Assembly Operator - Night Shift","HMS Mfg. Co.",hmsmfg.com,"Consumer Goods","from $15.50 an hour",,,"Little Rock",AR," 72206"
+1970-01-01,"Dog Bather","Wags and Whiskers",wagsmn.org,,"$13 - $14 an hour",,"Reservoir area)","Little Rock",AR," 72227"
+1970-01-01,"Dietary Aide","SMS Housekeeping",smshousekeeping.com,"Facilities Services",,,"Hillcrest area)","Little Rock",AR," 72205"
+1970-01-01,"Crew Member","McDonald's | Retzer Organization",txmcd.com,Restaurants,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Chick-fil-A Daytime Team member","Chick-fil-A Chenal & Markham",cfachenal.com,,"$13 - $15 an hour",,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Room Attendant","LIT Hotels",,,"$13 - $14 an hour",,,"Little Rock",AR," 72206"
+1970-01-01,"Crew Member","McDonald's | Retzer Organization",txmcd.com,Restaurants,,,"Reservoir area)","Little Rock",AR," 72227"
+1970-01-01,"ColdLine Team Member","Freddy's Frozen Custard & Steakburgers | FFC...",,,"up to $13 an hour",,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Crew Member","McDonald's | Retzer Organization",txmcd.com,Restaurants,,,"Downtown CBD area)","Little Rock",AR," 72201"
+1970-01-01,"Caregiver in Little Rock AR","HomeWell Care Services Little Rock",,,"$12 - $17 an hour",,"Boyle Park area)","Little Rock",AR," 72204"
+1970-01-01,Server,"IHOP | Golden Cakes Inc",goldencakesinc.com,Restaurants,,,"Briarwood area)","Little Rock",AR," 72205"
+1970-01-01,"Travel Retail Merchandiser (Full Time)","ProVantage Corporate Solutions",provantage-corp.com,Retail,"$15 an hour",,,"Little Rock",AR,""
+1970-01-01,"Retail Store Associate - 5237","Goodwill Industries of Arkansas",goodwillar.org,Philanthropy,"$11 an hour",,"Walnut Valley area)","Little Rock",AR," 72211"
+1970-01-01,"Night Auditor/Overnight Front Desk Agent","Four Points Little Rock | InnVentures",,,,,"Oak Forest area)","Little Rock",AR," 72204"
+1970-01-01,"T-Mobile Retail Sales Representative","Connectivity Source | T-Mobile Premium Retailer at...",,,"$18 - $22 an hour",,,"Little Rock",AR," 72210"
+1970-01-01,"Dish Machine Operator","IHOP | Golden Cakes Inc",goldencakesinc.com,Restaurants,,,"Briarwood area)","Little Rock",AR," 72205"
+1970-01-01,"Commercial Roofer","Ultimate LLC",theultimatellc.com,"Staffing & Recruiting","$20 an hour",,,"Little Rock",AR,""
+1970-01-01,"Laundry Attendant","Allay Health",allayhealthwellness.com,"Health, Wellness & Fitness",,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Medical Office Front Desk/Receptionist (Bilingual)","Arkansas Internal Medicine Clinic, P.A.",arinternalmedicine.com,"Hospital & Health Care",,,"Briarwood area)","Little Rock",AR," 72205"
+1970-01-01,"Crew Member","McDonald's | Retzer Organization",txmcd.com,Restaurants,,,,"Little Rock",AR," 72209"
+1970-01-01,"FedEx Ground Delivery Driver","Iyoyo Enterprise Transportation INC (IET)",,,"$130 a day",,,"Little Rock",AR,""
+1970-01-01,Histotechnologist,"ARC Healthcare LLC",arc.healthcare,"Medical Practice",,,,"Little Rock",AR," 72201"
+1970-01-01,Histotechnologist,"ARC Healthcare LLC",arc.healthcare,"Medical Practice",,,"Briarwood area)","Little Rock",AR," 72205"
+1970-01-01,Janitorial,"MSP Hoarding",minneapolishoarding.com,,"$17 - $20 an hour",,,"Little Rock",AR,""
+1970-01-01,"Commercial Refrigeration Service Technician",Bromley,bromley.com,"Recreational Facilities & Services",,,"Downtown Neighborhood area)","Little Rock",AR," 72202"
+1970-01-01,"Local Van Driver - Immediate Openings!",Hallcon,hallcon.com,Transportation/Trucking/Railroad,"$440 - $530 a week",,,"Little Rock",AR,""
+1970-01-01,"Weekend PCA - Personal Care Assistant","Home Instead",homeinstead.com.au,"Hospital & Health Care",,,,"Little Rock",AR,""
+1970-01-01,"PCA - Personal Care Assistant","Home Instead",homeinstead.com.au,"Hospital & Health Care",,,,"Little Rock",AR,""
+1970-01-01,"Fixture Installer","ProVantage Corporate Solutions",provantage-corp.com,Retail,"$15 an hour",,,"Little Rock",AR,""
+1970-01-01,"Crew Member","McDonald's | Retzer Organization",txmcd.com,Restaurants,,,"Chicot West I-30 So. area)","Little Rock",AR," 72209"
+1970-01-01,"Crew Member","McDonald's | Retzer Organization",txmcd.com,Restaurants,,,"Chicot West I-30 So. area)","Little Rock",AR," 72209"
+1970-01-01,"Part-time Assistant Analyst - Engineering","Arkansas Electric Cooperative Corporation",aecc.com,Utilities,"$22.16 - $27.70 an hour",,"Upper Baseline area)","Little Rock",AR," 72209"
+1970-01-01,"IT Workstation Support","Arkansas Electric Cooperative Corporation",aecc.com,Utilities,"$18.24 - $22.80 an hour",,"Upper Baseline area)","Little Rock",AR," 72209"
+1970-01-01,Janitorial,Chuy's,chuys.com,Restaurants,,,"Rock Creek area)","Little Rock",AR," 72223"
+1970-01-01,"Field Interviewer","NORC at the University of Chicago",norc.org,Research,,,,"Little Rock",AR,""
+1970-01-01,"Delivery Driver","Spectrum Paint Company, Inc.",,,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Fuel Clerk","Kroger Stores",kroger.com,Retail,,,"River Mountain area)","Little Rock",AR," 72223"
+1970-01-01,"Marine Sales Associate","Bass Pro Shops",basspro.com,Retail,,,"Otter Creek Crystal area)","Little Rock",AR," 72210"
+1970-01-01,Tortilla,Chuy's,chuys.com,Restaurants,,,"Rock Creek area)","Little Rock",AR," 72223"
+1970-01-01,"Cocktail Server",Chuy's,chuys.com,Restaurants,,,"Rock Creek area)","Little Rock",AR," 72223"
+1970-01-01,Busser,Chuy's,chuys.com,Restaurants,,,"Rock Creek area)","Little Rock",AR," 72223"
+1970-01-01,"Team Member","Casey's General Stores",caseys.com,"Food & Beverages",,,,"Little Rock",AR," 72210"
+1970-01-01,"Customer Service Associate - Temporary",WALGREENS,walgreens.com,Retail,,,"Otter Creek Crystal area)","Little Rock",AR," 72210"
+1970-01-01,"Customer Service Associate",WALGREENS,walgreens.com,Retail,,,"Briarwood area)","Little Rock",AR," 72205"
+1970-01-01,Server,"Waffle House",wafflehouse.com,Restaurants,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Team Member","Casey's General Stores",caseys.com,"Food & Beverages",,,"Briarwood area)","Little Rock",AR," 72205"
+1970-01-01,Dishwasher,Chuy's,chuys.com,Restaurants,,,"Rock Creek area)","Little Rock",AR," 72223"
+1970-01-01,Server,"Waffle House",wafflehouse.com,Restaurants,,,"Riverdale area)","Little Rock",AR," 72202"
+1970-01-01,"Team Member","Casey's General Stores",caseys.com,"Food & Beverages",,,"Boyle Park area)","Little Rock",AR," 72204"
+1970-01-01,"Cashier Part Time","UAMS Medical Center",uamshealth.com,"Hospital & Health Care","$14 an hour",,"Medical Center area)","Little Rock",AR," 72205"
+1970-01-01,"Part Time School Bus Driver","First Student",workatfirst.com,Transportation/Trucking/Railroad,"$18 an hour",,"Upper Baseline area)","Little Rock",AR," 72209"
+1970-01-01,Bartender,Chuy's,chuys.com,Restaurants,,,"Rock Creek area)","Little Rock",AR," 72223"
+1970-01-01,"Part-Time Sales Teammate",Buckle,buckleup.com,"Financial Services",,,"Midtown area)","Little Rock",AR," 72205"
+1970-01-01,"PATIENT AMBASSADOR / LR","Baptist Health Arkansas",,,,,"John Barrow area)","Little Rock",AR," 72205"
+1970-01-01,"RN II WEO","Baptist Health Arkansas",,,,,"John Barrow area)","Little Rock",AR," 72205"
+1970-01-01,"Part-Time Auto Parts Delivery Driver (Bumper To Bumper) Stor...","Replacement Parts Inc.",replacementpartsinc.com,,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"RN PRN Outpatient Clinic","UAMS Medical Center",uamshealth.com,"Hospital & Health Care",,,"Medical Center area)","Little Rock",AR," 72205"
+1970-01-01,"Part-Time Auto Parts Delivery Driver(Bumper To Bumper) Store...","Replacement Parts Inc.",replacementpartsinc.com,,,,,"Little Rock",AR," 72209"
+1970-01-01,RN,"Baptist Health Arkansas",,,,,"John Barrow area)","Little Rock",AR," 72205"
+1970-01-01,"Customer Service Associate","Ollie's Bargain Outlet, Inc.",ollies.us,Retail,,,"Upper Baseline area)","Little Rock",AR," 72209"
+1970-01-01,Bartender,Chilis,chilis.com,Restaurants,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,Host,Chilis,chilis.com,Restaurants,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,QA/Expeditor,Chilis,chilis.com,Restaurants,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,Server,"Waffle House",wafflehouse.com,Restaurants,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Food Runner",Chilis,chilis.com,Restaurants,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,Server,Chilis,chilis.com,Restaurants,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"To Go",Chilis,chilis.com,Restaurants,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,Dishwasher,Chilis,chilis.com,Restaurants,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,RN,"Baptist Health Arkansas",,,,,"John Barrow area)","Little Rock",AR," 72205"
+1970-01-01,"Part-Time Auto Parts Delivery Driver (Bumper To Bumper) Stor...","Replacement Parts Inc.",replacementpartsinc.com,,,,,"Little Rock",AR," 72209"
+1970-01-01,RN,"Baptist Health Arkansas",,,,,"John Barrow area)","Little Rock",AR," 72205"
+1970-01-01,"Customer Service - Test Center Administrator (PT)",Prometric,prometric.com,"Information Technology & Services",,,"Walnut Valley area)","Little Rock",AR," 72211"
+1970-01-01,"PCA Personal Care Assistant - Weekends","Home Instead",homeinstead.com.au,"Hospital & Health Care","$11.25 - $16.25 an hour",,,"Little Rock",AR,""
+1970-01-01,"Guest Relations","Ronald McDonald House Charities of Arkansas",,,"from $12 an hour",,"Central High area)","Little Rock",AR," 72202"
+1970-01-01,"REO Field Services | Property Preservation Contractor","Midwest Property REO, LLC.",midwest-reo.com,,"$3,000 - $5,000 a month",,,"Little Rock",AR,""
+1970-01-01,"Caretaker for Elderly","Home Instead",homeinstead.com.au,"Hospital & Health Care",,,,"Little Rock",AR,""
+1970-01-01,"Front Desk Receptionist","HealthScope Benefits",,,"$13 - $20 an hour",,"West Markham area)","Little Rock",AR," 72205"
+1970-01-01,"Now Hiring - REO Property Preservation Contractors - experie...","Midwest Property REO, LLC.",midwest-reo.com,,"$3,000 - $5,000 a month",,,"Little Rock",AR,""
+1970-01-01,"Outside Sales Representative","Arkansas Performance Roofing",,,"$38,946 - $137,192 a year",,,"Little Rock",AR,""
+1970-01-01,"Bunny Character","Cherry Hill Programs",cherryhillprograms.com,Photography,"up to $15 an hour",,"Midtown area)","Little Rock",AR," 72205"
+1970-01-01,Server/Cashier,"Gus's World Famous Fried Chicken",,,"$14 - $30 an hour",,"Downtown CBD area)","Little Rock",AR," 72201"
+1970-01-01,"Take Out","BJ's Restaurant and Brewhouse",bjsrestaurants.com,Restaurants,,,"John Barrow area)","Little Rock",AR," 72205"
+1970-01-01,"Member Service and Security Team Member","The Country Club of Little Rock",,,"$13 - $16 an hour",,"Heights area)","Little Rock",AR," 72207"
+1970-01-01,Cleaner,"BJ's Restaurant and Brewhouse",bjsrestaurants.com,Restaurants,,,"John Barrow area)","Little Rock",AR," 72205"
+1970-01-01,"Customer Service - Test Center Administrator (PT)",Prometric,prometric.com,"Information Technology & Services",,,"Walnut Valley area)","Little Rock",AR," 72211"
+1970-01-01,Server,"Buenos Aires Grill & Cafe",,,"$11 - $30 an hour",,"Downtown CBD area)","Little Rock",AR," 72201"
+1970-01-01,"Administrative Assistant","Lax Vaughan Fortson Rowe & Threet PA",,,"$12 - $16 an hour",,"River Mountain area)","Little Rock",AR," 72212"
+1970-01-01,Bartender,"Fassler Hall",,,,,"Downtown CBD area)","Little Rock",AR," 72202"
+1970-01-01,"Valet Services Cashier","Parking Management Company",parkingmgt.com,Hospitality,,,"Downtown CBD area)","Little Rock",AR," 72202"
+1970-01-01,"Receptionist/Office Assistant","Ozark MMJ Cards",,,"$13 - $15 an hour",,"Walnut Valley area)","Little Rock",AR," 72211"
+1970-01-01,Bookkeeper,"Mid South Home Buyers",,,"$15 an hour",,"Heights area)","Little Rock",AR," 72207"
+1970-01-01,Server,"On The Border Mexican Grill and Cantina",ontheborder.com,Restaurants,,,"Walnut Valley area)","Little Rock",AR," 72211"
+1970-01-01,"Photographer - Bunny Photos","Cherry Hill Programs",cherryhillprograms.com,Photography,,,"Midtown area)","Little Rock",AR," 72205"
+1970-01-01,"Professional House Cleaners needed. $15-$17/hrly + Mileage a...",CottageCare,cottagecare.com,"Consumer Services","$15 - $17 an hour",,"West Markham area)","Little Rock",AR," 72205"
+1970-01-01,Host,"BJ's Restaurant and Brewhouse",bjsrestaurants.com,Restaurants,,,"John Barrow area)","Little Rock",AR," 72205"
+1970-01-01,"Looking for an Exceptional Sales Associate","PINK OLIVE",,,"$13 - $15 an hour",,"Downtown Neighborhood area)","Little Rock",AR," 72202"
+1970-01-01,"BOH Team Member","Gus's World Famous Fried Chicken",,,"$14 - $18 an hour",,"Downtown CBD area)","Little Rock",AR," 72201"
+1970-01-01,"Team Member and Team Leader","Tropical Smoothie Cafe",tropicalsmoothiecafe.com,Restaurants,"$9.50 - $15.00 an hour",,"Briarwood area)","Little Rock",AR," 72205"
+1970-01-01,"T-Mobile Retail Sales Representative","Connectivity Source | T-Mobile Premium Retailer at...",,,"$18 - $22 an hour",,,"Little Rock",AR," 72210"
+1970-01-01,"Barista Starbucks Geyer Springs",Starbucks,starbucks.com,Retail,"$12 an hour",,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Sales Associate - Bunny Photos","Cherry Hill Programs",cherryhillprograms.com,Photography,,,"Midtown area)","Little Rock",AR," 72205"
+1970-01-01,"Hotel Van Driver","Four Points Little Rock | InnVentures",,,,,"Oak Forest area)","Little Rock",AR," 72204"
+1970-01-01,"Team Member","Slim Chickens",slimchickens.com,Restaurants,"$10.50 - $13.50 an hour",,,"Little Rock",AR," 72207"
+1970-01-01,"(Urgent) Registered Nurse - Med-Surg - $3,945.00 PER WEEK -...","Orion Allied Healthcare",,,"$84.00 - $84.92 an hour",,,"Little Rock",AR,""
+1970-01-01,"Registered Behavior Technician (RBT)","HHJ ABA Therapy",,,"$22 - $28 an hour",,,"Little Rock",AR,""
+1970-01-01,Server,"BJ's Restaurant and Brewhouse",bjsrestaurants.com,Restaurants,,,"John Barrow area)","Little Rock",AR," 72205"
+1970-01-01,"Crew Member","Little Caesar's Pizza of Arkansas, Inc.",littlecaesarsofar.com,,"$11.50 - $12.00 an hour",,"Cloverdale Watson area)","Little Rock",AR," 72209"
+1970-01-01,"Pre-Arrangement Counselor-Independent 1099 Producer","Cyrus Works",,,"$11 - $15 an hour",,,"Little Rock",AR,""
+1970-01-01,Bartender,"BJ's Restaurant and Brewhouse",bjsrestaurants.com,Restaurants,,,"John Barrow area)","Little Rock",AR," 72205"
+1970-01-01,"Crew Member","McDonald's | Retzer Organization",txmcd.com,Restaurants,,,,"Little Rock",AR," 72206"
+1970-01-01,"(Urgent) Registered Nurse - CVICU - $5,065.00 PER WEEK - Day...","Orion Allied Healthcare",,,"$112 an hour",,,"Little Rock",AR,""
+1970-01-01,"Caregiver/Personal Assistant",SeniorKare/Homeality,inhomeseniorkare.com,Hospitality,"$12 - $13 an hour",,"West Markham area)","Little Rock",AR," 72205"
+1970-01-01,Dishwasher,"BJ's Restaurant and Brewhouse",bjsrestaurants.com,Restaurants,,,"John Barrow area)","Little Rock",AR," 72205"
+1970-01-01,"Job Coach_Ward","AEDD Inc",aeddinc.org,"Nonprofit Organization Management","$11 an hour",,"South End area)","Little Rock",AR," 72206"
+1970-01-01,"Assistant Local Manager","Cherry Hill Programs",cherryhillprograms.com,Photography,"$14 an hour",,"Midtown area)","Little Rock",AR," 72205"
+1970-01-01,"Shift Leader","Freddy's Frozen Custard & Steakburgers | FFC...",,,"up to $15 an hour",,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,Busser,"BJ's Restaurant and Brewhouse",bjsrestaurants.com,Restaurants,,,"John Barrow area)","Little Rock",AR," 72205"
+1970-01-01,"Local Santa - Natural Beard","Cherry Hill Programs",cherryhillprograms.com,Photography,,,"Midtown area)","Little Rock",AR," 72205"
+1970-01-01,"Experienced Wedding Photographer or Videographer, No editing...",Kapturly,,,"$55 - $70 an hour",,,"Little Rock",AR,""
+1970-01-01,"Crew Member","Little Caesar's Pizza of Arkansas, Inc.",littlecaesarsofar.com,,"$11.50 - $12.00 an hour",,"Midtown area)","Little Rock",AR," 72207"
+1970-01-01,"Customer Service Associate - PT","Zips Car Wash",zipscarwash.com,Automotive,,,"River Mountain area)","Little Rock",AR," 72223"
+1970-01-01,"Bakery Team Member","Cinnaholic Little Rock",,,"$11 - $13 an hour",,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Retail Store Associate - 5262","Goodwill Industries of Arkansas",goodwillar.org,Philanthropy,"$11 an hour",,,"Little Rock",AR," 72223"
+1970-01-01,"Home Infusion Registered Nurse (RN)","Infinity Infusion Nursing",infinityinfusionnursing.com,,,,,"Little Rock",AR,""
+1970-01-01,"Security Guard","GuardOne Security",guardonesecurity.com,"Security & Investigations","$11 - $12 an hour",,,"Little Rock",AR,""
+1970-01-01,"Crew Member","McDonald's | Retzer Organization",txmcd.com,Restaurants,,,"Boyle Park area)","Little Rock",AR," 72204"
+1970-01-01,"Co Manager","Little Caesar's Pizza of Arkansas, Inc.",littlecaesarsofar.com,,"$14.00 - $14.50 an hour",,"Cloverdale Watson area)","Little Rock",AR," 72209"
+1970-01-01,"Restaurant To Go Server","On The Border Mexican Grill and Cantina",ontheborder.com,Restaurants,,,"Walnut Valley area)","Little Rock",AR," 72211"
+1970-01-01,"Jimmy John's Delivery Driver","Jimmy John's | GH Food Group",ghfoodjobs.com,,"$30 an hour",,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Jimmy John's Delivery Driver","Jimmy John's | GH Food Group",ghfoodjobs.com,,"$30 an hour",,"Downtown CBD area)","Little Rock",AR," 72201"
+1970-01-01,"RN Weekend Supervisor/ Springs of Chenal","The Springs Little Rock",hotsprings.org,"Leisure, Travel & Tourism",,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,Server,"IHOP | Golden Cakes Inc",goldencakesinc.com,Restaurants,,,"Walnut Valley area)","Little Rock",AR," 72211"
+1970-01-01,"Pizza Crew Member","Marco's Pizza | Travis Worley",,,,,"Walnut Valley area)","Little Rock",AR," 72212"
+1970-01-01,"Crew Member","Little Caesar's Pizza of Arkansas, Inc.",littlecaesarsofar.com,,"$11.50 - $12.00 an hour",,,"Little Rock",AR," 72206"
+1970-01-01,"Food and Beverage/Buffet Attendant","Four Points Little Rock | InnVentures",,,,,"Oak Forest area)","Little Rock",AR," 72204"
+1970-01-01,Bartender,"Four Points Little Rock | InnVentures",,,"$10 an hour",,"Oak Forest area)","Little Rock",AR," 72204"
+1970-01-01,"Dish Machine Operator","IHOP | Golden Cakes Inc",goldencakesinc.com,Restaurants,,,"Walnut Valley area)","Little Rock",AR," 72211"
+1970-01-01,"Crew Member","McDonald's | Retzer Organization",txmcd.com,Restaurants,,,,"Little Rock",AR," 72223"
+1970-01-01,"HotLine Team Member","Freddy's Frozen Custard & Steakburgers | FFC...",,,"up to $13 an hour",,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Chick-fil-A Daytime Team member","Chick-fil-A Chenal & Markham",cfachenal.com,,"$13 - $15 an hour",,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Crew Member","McDonald's | Retzer Organization",txmcd.com,Restaurants,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Crew Member","Little Caesar's Pizza of Arkansas, Inc.",littlecaesarsofar.com,,"$11.50 - $12.00 an hour",,"Boyle Park area)","Little Rock",AR," 72204"
+1970-01-01,"Room Attendant","LIT Hotels",,,"$13 - $14 an hour",,,"Little Rock",AR," 72206"
+1970-01-01,"Crew Member","McDonald's | Retzer Organization",txmcd.com,Restaurants,,,"Reservoir area)","Little Rock",AR," 72227"
+1970-01-01,"Crew Member","McDonald's | Retzer Organization",txmcd.com,Restaurants,,,"Downtown CBD area)","Little Rock",AR," 72201"
+1970-01-01,"ColdLine Team Member","Freddy's Frozen Custard & Steakburgers | FFC...",,,"up to $13 an hour",,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Retail Store Associate - 5237","Goodwill Industries of Arkansas",goodwillar.org,Philanthropy,"$11 an hour",,"Walnut Valley area)","Little Rock",AR," 72211"
+1970-01-01,Server,"IHOP | Golden Cakes Inc",goldencakesinc.com,Restaurants,,,"Briarwood area)","Little Rock",AR," 72205"
+1970-01-01,"Night Auditor/Overnight Front Desk Agent","Four Points Little Rock | InnVentures",,,,,"Oak Forest area)","Little Rock",AR," 72204"
+1970-01-01,"Dish Machine Operator","IHOP | Golden Cakes Inc",goldencakesinc.com,Restaurants,,,"Briarwood area)","Little Rock",AR," 72205"
+1970-01-01,"Laundry Attendant","Allay Health",allayhealthwellness.com,"Health, Wellness & Fitness",,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,Cashier,Zaxby's,zaxbysfranchising.com,Restaurants,"$11 - $13 an hour",,"John Barrow area)","Little Rock",AR," 72211"
+1970-01-01,"Crew Member","McDonald's | Retzer Organization",txmcd.com,Restaurants,,,,"Little Rock",AR," 72209"
+1970-01-01,"FedEx Ground Delivery Driver","Iyoyo Enterprise Transportation INC (IET)",,,"$130 a day",,,"Little Rock",AR,""
+1970-01-01,Bartender,"Clinton Foundation",presidentclinton.com,,"$9 an hour",,"Downtown CBD area)","Little Rock",AR," 72201"
+1970-01-01,"On-Call Catering Server","Clinton Foundation",presidentclinton.com,,"$16 an hour",,"Downtown CBD area)","Little Rock",AR," 72201"
+1970-01-01,"Security Guard - Part-time","GardaWorld Security Services U.S.",garda.com,"Security & Investigations","$11.25 an hour",,,"Little Rock",AR," 72201"
+1970-01-01,"Fine Dining Server","Clinton Foundation",presidentclinton.com,,,,"Downtown CBD area)","Little Rock",AR," 72201"
+1970-01-01,"Weekend PCA - Personal Care Assistant","Home Instead",homeinstead.com.au,"Hospital & Health Care",,,,"Little Rock",AR,""
+1970-01-01,"PCA - Personal Care Assistant","Home Instead",homeinstead.com.au,"Hospital & Health Care",,,,"Little Rock",AR,""
+1970-01-01,"Crew Member","McDonald's | Retzer Organization",txmcd.com,Restaurants,,,"Chicot West I-30 So. area)","Little Rock",AR," 72209"
+1970-01-01,"Crew Member","McDonald's | Retzer Organization",txmcd.com,Restaurants,,,"Chicot West I-30 So. area)","Little Rock",AR," 72209"
+1970-01-01,"Traveling- Medical Assistant","DOCS Health",docs.health,"Hospital & Health Care",,,,"Little Rock",AR,""
+1970-01-01,"NICU Travel Registered Nurse","Aya Healthcare",ayahealthcare.com,"Staffing & Recruiting",,,"Downtown area)","Little Rock",AR," 72202"
+1970-01-01,"Medical Surgical Travel Registered Nurse","Aya Healthcare",ayahealthcare.com,"Staffing & Recruiting",,,"Briarwood area)","Little Rock",AR," 72205"
+1970-01-01,"CVICU Travel Registered Nurse","Aya Healthcare",ayahealthcare.com,"Staffing & Recruiting",,,"Briarwood area)","Little Rock",AR," 72205"
+1970-01-01,"Pediatric ER Travel Registered Nurse","Aya Healthcare",ayahealthcare.com,"Staffing & Recruiting",,,"Downtown area)","Little Rock",AR," 72202"
+1970-01-01,"Pediatric ER Travel Registered Nurse","Aya Healthcare",ayahealthcare.com,"Staffing & Recruiting",,,"Downtown area)","Little Rock",AR," 72202"
+1970-01-01,"REO Field Services | Property Preservation Contractor","Midwest Property REO, LLC.",midwest-reo.com,,"$3,000 - $5,000 a month",,,"Little Rock",AR,""
+1970-01-01,"Registered Behavior Technician (RBT)","HHJ ABA Therapy",,,"$22 - $28 an hour",,,"Little Rock",AR,""
+1970-01-01,"Now Hiring - REO Property Preservation Contractors - experie...","Midwest Property REO, LLC.",midwest-reo.com,,"$3,000 - $5,000 a month",,,"Little Rock",AR,""
+1970-01-01,"Call Centre Representative","ACS LLC",acs-llc.com,"Security & Investigations","up to $35,400 a year",,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"AmeriCorps Camp Counselor Summer 2022","Joseph Pfeifer Kiwanis Camp",pfeifercamp.com,"Primary/Secondary Education","$1,333 a month",,,"Little Rock",AR," 72223"
+1970-01-01,"Registered Nurse_AR_2","IMCS Group",imcsgroup.net,"Information Technology & Services","$70 - $75 an hour",,,"Little Rock",AR,""
+1970-01-01,"Med/surg RN-AR ($2,933 weekly)","Catalytic Solutions",catsolns.com,Automotive,"$2,933 a week",,"Briarwood area)","Little Rock",AR," 72205"
+1970-01-01,"Cabling, Networking and PC Repair/Install Technician Needed",uPortly,,,"$20 an hour",,,"Little Rock",AR,""
+1970-01-01,"Pre-Arrangement Counselor-Independent 1099 Producer","Cyrus Works",,,"$11 - $15 an hour",,,"Little Rock",AR,""
+1970-01-01,"(Urgent) Registered Nurse - Med-Surg - $3,945.00 PER WEEK -...","Orion Allied Healthcare",,,"$84.00 - $84.92 an hour",,,"Little Rock",AR,""
+1970-01-01,"Registered Nurse","Gifted Healthcare",giftedhealthcare.com,"Staffing & Recruiting",,,,"Little Rock",AR,""
+1970-01-01,"LTAC Medical Surgical Registered Nurse","BPN Staffing Solutions",bpnstaffing.com,,"$70 - $75 an hour",,,"Little Rock",AR,""
+1970-01-01,"Appliance Home Delivery / Installation Contractors","Pillar Logistics",pillarlogistics.com,Transportation/Trucking/Railroad,"$150,000 - $180,000 a year",,,"Little Rock",AR,""
+1970-01-01,"(Urgent) Registered Nurse - CVICU - $5,065.00 PER WEEK - Day...","Orion Allied Healthcare",,,"$112 an hour",,,"Little Rock",AR,""
+1970-01-01,"ICU Registered Nurse LTACH","BPN Staffing Solutions",bpnstaffing.com,,"$80 - $85 an hour",,"Medical Center area)","Little Rock",AR," 72205"
+1970-01-01,"Registered Nurse","Gifted Healthcare",giftedhealthcare.com,"Staffing & Recruiting",,,,"Little Rock",AR,""
+1970-01-01,"Experienced Wedding Photographer or Videographer, No editing...",Kapturly,,,"$55 - $70 an hour",,,"Little Rock",AR,""
+1970-01-01,"Field Interviewer","NORC at the University of Chicago",norc.org,Research,,,,"Little Rock",AR,""
+1970-01-01,"Seasonal Sales Associate","Men's Wearhouse",menswearhouse.com,Retail,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Local Manager - Bunny Photos","Cherry Hill Programs",cherryhillprograms.com,Photography,,,"Midtown area)","Little Rock",AR," 72205"
+1970-01-01,"Bunny Character","Cherry Hill Programs",cherryhillprograms.com,Photography,"up to $15 an hour",,"Midtown area)","Little Rock",AR," 72205"
+1970-01-01,Receptionist,"Le Denza Technologies Inc.",,,"up to $850 a week",,,"Little Rock",AR,""
+1970-01-01,"Sales Associate - Bunny Photos","Cherry Hill Programs",cherryhillprograms.com,Photography,,,"Midtown area)","Little Rock",AR," 72205"
+1970-01-01,"Printer Installation - Entry Level IT","Customer Engineering Services",,,"$15 - $16 an hour",,,"Little Rock",AR,""
+1970-01-01,"Photographer - Bunny Photos","Cherry Hill Programs",cherryhillprograms.com,Photography,,,"Midtown area)","Little Rock",AR," 72205"
+1970-01-01,"Seasonal Floral Merchandiser","Falcon Farms Inc.",falconfarmsonline.com,Farming,"$12 an hour",,"River Mountain area)","Little Rock",AR," 72212"
+1970-01-01,"Sales Counter/Delivery Driver 08","Keeling Company",keelingcompany.com,"Building Materials",,,"John Barrow area)","Little Rock",AR," 72204"
+1970-01-01,"Seasonal Sales Associate",JoS.A.Bank,josbank.com,Retail,,,"Rock Creek area)","Little Rock",AR," 72211"
+1970-01-01,"Assistant Local Manager","Cherry Hill Programs",cherryhillprograms.com,Photography,"$14 an hour",,"Midtown area)","Little Rock",AR," 72205"
+1970-01-01,"(Urgent) Registered Nurse - CVICU - $5,065.00 PER WEEK - Day...","Orion Allied Healthcare",,,"$112 an hour",,,"Little Rock",AR,""
+1970-01-01,"(Urgent) Registered Nurse - Med-Surg - $3,945.00 PER WEEK -...","Orion Allied Healthcare",,,"$84.00 - $84.92 an hour",,,"Little Rock",AR,""
+1970-01-01,"Human Resources Specialist","ABF Freight",,,,,,"Fort Smith",AR," 72901"
+1970-01-01,"Rehab Therapy Tech","Encompass Health",encompasshealth.com,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Infection Prevention - Lead",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Leader In Training",Buckle,buckleup.com,"Financial Services",,,,"Fort Smith",AR," 72903"
+1970-01-01,"ASSISTANT STORE MANAGER","Family Dollar",familydollar.com,Retail,,,,"Fort Smith",AR," 72901"
+1970-01-01,"Team Member","Casey's General Stores",caseys.com,"Food & Beverages",,,,"Fort Smith",AR," 72903"
+1970-01-01,Teller,"UNITED FEDERAL CREDIT UNION",unitedfcu.com,"Financial Services",,,,"Fort Smith",AR," 72908"
+1970-01-01,"Team Member","Casey's General Stores",caseys.com,"Food & Beverages",,,,"Fort Smith",AR," 72916"
+1970-01-01,Receptionist,"Encompass Health",encompasshealth.com,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,,"Fort Smith",AR," 72901"
+1970-01-01,"Quality Improvement Specialist",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"OFFICE REPRESENTATIVE","Baptist Health Arkansas",,,,,,"Fort Smith",AR," 72901"
+1970-01-01,"Team Member","Casey's General Stores",caseys.com,"Food & Beverages",,,,"Fort Smith",AR," 72908"
+1970-01-01,"FT-Sales Associate - Building Materials-Day",Lowe's,lowes.com,Retail,,,,"Fort Smith",AR," 72903"
+1970-01-01,"Patient Svc Representative - Internal Med",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,,"Fort Smith",AR," 72904"
+1970-01-01,"Outbound Logistics Lead (Nights)",MARS,accessmars.withgoogle.com,,,,,"Fort Smith",AR," 72901"
+1970-01-01,"Clinic Contact Center - Patient Service Agent, Full Time",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"LPN Rehab Nights",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72916"
+1970-01-01,"Billing Associate",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Planters Peanuts Cost Analyst","Hormel Foods",hormelfoods.com,"Consumer Goods","$21.52 an hour",,,"Fort Smith",AR," 72917"
+1970-01-01,"Patient Care Associate-PCA - Orthopedics",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Patient Care Associate - Multiple Units - Day and Night shif...",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Barista, Full Time, Days",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Housekeeper, Full Time, Evenings",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN ER 1P-1A",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,Server,Chilis,chilis.com,Restaurants,,,,"Fort Smith",AR," 72903"
+1970-01-01,"Social Worker - OB/GYN",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN ICU Days",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"To Go",Chilis,chilis.com,Restaurants,,,,"Fort Smith",AR," 72903"
+1970-01-01,"Physician Assistant - Plastic Surgery",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Physician - Family Medicine - Northwest Arkansas",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Float Days",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN- Resource Pool, Nights",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN- Endoscopy",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Physician - Neurology - Fort Smith, AR",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,LPN/LVN,"Encompass Health",encompasshealth.com,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Advanced Practice Nurse - Behavioral and Women's Health",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Charge RN Med Surg Stepdown Nights",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Advanced Practice Nurse - Gastroenterology",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"LPN- Pain Clinic",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"LPN- PAT",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Physician - Physical Medicine and Rehabilitation - Fort Smit...",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Physician - Endocrinology - Fort Smith, AR",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN-GN ICU",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Physician - Pulmonology - Fort Smith, AR",Mercy,mercy.net,"Hospital & Health Care","annual cme allowance $5,000.",,,"Fort Smith",AR," 72903"
+1970-01-01,"OFFICE NURSE CLINIC LPN - CARDIOLOGY CENTER","Baptist Health Arkansas",,,,,,"Fort Smith",AR," 72901"
+1970-01-01,"Reg Polysomnographic Tech",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN- Operating Room (Weekend Option Nights)",Mercy,mercy.net,"Hospital & Health Care","$10k sign on bonus for 1+ years experience.",,,"Fort Smith",AR," 72903"
+1970-01-01,RECEPTIONIST,"Baptist Health Arkansas",,,,,,"Fort Smith",AR," 72901"
+1970-01-01,"Physician -Ophthalmologist - Fort Smith, Arkansas",Mercy,mercy.net,"Hospital & Health Care","$425,000 a year",,,"Fort Smith",AR," 72903"
+1970-01-01,"Medical Assistant / Care Team Coordinator - Dallas St",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Physician - Emergency Medicine - Fort Smith, Arkansas",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN- Recovery Room",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN- Operating Room",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN - 4 S Observation","Baptist Health Arkansas",,,,,,"Fort Smith",AR," 72901"
+1970-01-01,"RN Neuro Stepdown Nights",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Cardiac Stepdown Days",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Charge RN Observation Nights",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Neuro Nights",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,,"Fort Smith",AR," 72904"
+1970-01-01,QA/Expeditor,Chilis,chilis.com,Restaurants,,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Cardiac Days",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN-Cardiac Cath Lab",Mercy,mercy.net,"Hospital & Health Care","$10,000 a week",,,"Fort Smith",AR," 72903"
+1970-01-01,"Housekeeper, Full Time, Evenings",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Food Runner",Chilis,chilis.com,Restaurants,,,,"Fort Smith",AR," 72903"
+1970-01-01,Dishwasher,Chilis,chilis.com,Restaurants,,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Rehab-Nights",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72916"
+1970-01-01,"Patient Svc Representative - Ophthalmology",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN-Home Care",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Advanced Practice Nurse - Pulmonology",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN/LPN SPRING FLING EVENT",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Labor/Birth Nights",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN- Interventional Radiology",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Neuro Nights",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN-Neuro OR",Mercy,mercy.net,"Hospital & Health Care","sign on bonus for experienced rn up to $10k.",,,"Fort Smith",AR," 72903"
+1970-01-01,"RN- Recovery Room",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN-Home Care",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"LPN Gen Surg Nights",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Med Surg Stepdown Nights",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Neuro Stepdown Nights",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Neuro Stepdown Days",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Med Surg Stepdown Days",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Neuro Stepdown Nights",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Neuro Stepdown Days",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Cardiac Stepdown Days",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Cardiac Stepdown Days",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"LPN Ortho Days",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Charge RN Observation Days",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Cardiac Stepdown Days",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Charge RN Observation Nights",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Charge RN Cardiac Stepdown Nights",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Charge RN Neuro Days",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Charge RN Cardiac Stepdown Days",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,RN-Endoscopy,Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Cardiac Days",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN-ICU (Nights)",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN- Interventional Radiology",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Neuro Days",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Neuro Days",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Charge RN Neuro Days",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Neuro Nights",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN-ICU (Nights)",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Gen Surg Nights",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Gen Surg Nights",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"LPN ICU Nights",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN ICU Days",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Ortho Nights",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Gen Surg Nights",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Cardiac Nights",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Neuro Nights",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"New Grad RN FORT SMITH May 2022",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Gen Surg Nights",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN ICU Nights",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Cardiac Stepdown Days",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN ICU Nights",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Observation Nights",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN-Cardiac Cath Lab",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Float Pool Days",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Admissions / Marketing Coordinator","Northport Health Services of Arkansas, L.L.C.",,,,,,"Fort Smith",AR," 72903"
+1970-01-01,"Property Preservation Contractor | REO Industry","Midwest Property REO, LLC.",midwest-reo.com,,"$3,000 - $5,000 a month",,,"Fort Smith",AR,""
+1970-01-01,"REO Field Services | Property Preservation Contractor","Midwest Property REO, LLC.",midwest-reo.com,,"$3,000 - $5,000 a month",,,"Fort Smith",AR,""
+1970-01-01,"Escrow Officer","First National Title Co.",fnti.com,Insurance,,,,"Fort Smith",AR," 72901"
+1970-01-01,"Assistant Store Manager",GameStop,gamestop.com,Retail,"from $13.75 an hour",,,"Fort Smith",AR," 72903"
+1970-01-01,"Scheduling Coordinator","Elite Community-Based Services",,,,,,"Fort Smith",AR," 72901"
+1970-01-01,"Local Manager - Bunny Photos","Cherry Hill Programs",cherryhillprograms.com,Photography,,,,"Fort Smith",AR," 72903"
+1970-01-01,"Crime Scene Technician","MSP Hoarding",minneapolishoarding.com,,"$17 - $20 an hour",,,"Fort Smith",AR,""
+1970-01-01,"CASHIER (FULL-TIME AND PART-TIME)","Morrison Healthcare",morrisonhealthcare.com,"Food & Beverages",,,,"Fort Smith",AR," 72903"
+1970-01-01,"District Manager","Popeye's Louisiana Kitchen | HZ Ops Holdings",,,,,,"Fort Smith",AR," 72903"
+1970-01-01,"Life Insurance Underwriter/Agent","Lasting Integrity Final Expense",integrityfinalexpense.com,,"$1,000 - $5,000 a week",,,"Fort Smith",AR,""
+1970-01-01,"Insurance and Financial Services Position - State Farm Agent...","Michael Day - State Farm Agent",mikedayagency.com,Insurance,"$40,000 - $65,000 a year",Remote,,"Remote in Fort Smith",AR," 72903"
+1970-01-01,"District Manager","Popeye's Louisiana Kitchen | HZ Ops Holdings",,,,,,"Fort Smith",AR," 72901"
+1970-01-01,"New Counter Sales Associate Position in Fort Smith!","Lennox International",lennoxinternational.com,"Consumer Goods","$34,000 - $47,000 a year",,,"Fort Smith",AR,""
+1970-01-01,"Maintenance Technician","Twin Rivers Foods",2river.com,Accounting,,,,"Fort Smith",AR," 72901"
+1970-01-01,"Security Officer-Access Control Facility","Allied Universal",aus.com,"Security & Investigations",,,,"Fort Smith",AR," 72908"
+1970-01-01,"Assistant Local Manager","Cherry Hill Programs",cherryhillprograms.com,Photography,,,,"Fort Smith",AR," 72903"
+1970-01-01,"Delivery Driver","Wade Carrier",,,"$125 a day",,,"Fort Smith",AR," 72916"
+1970-01-01,"Assistant Manager (Full Time)","SCRUBS & BEYOND, LLC",,,,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Med/Surg","IMCS Group",imcsgroup.net,"Information Technology & Services","$65 - $75 an hour",,,"Fort Smith",AR,""
+1970-01-01,"Team Member","Dunkin' | Lagunita Franchise Operations",,,,,,"Fort Smith",AR," 72903"
+1970-01-01,"Photographer - Bunny Photos","Cherry Hill Programs",cherryhillprograms.com,Photography,,,,"Fort Smith",AR," 72903"
+1970-01-01,"INVENTORY MANAGEMENT REPRESENTATIVE I","Oklahoma Blood Institute",obi.org,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Registered Behavior Technician (RBT)","HHJ ABA Therapy",,,"$22 - $28 an hour",,,"Fort Smith",AR,""
+1970-01-01,"Sales Associate - Bunny Photos","Cherry Hill Programs",cherryhillprograms.com,Photography,,,,"Fort Smith",AR," 72903"
+1970-01-01,"Bunny Character","Cherry Hill Programs",cherryhillprograms.com,Photography,,,,"Fort Smith",AR," 72903"
+1970-01-01,"Dietary Aide","SMS Housekeeping",smshousekeeping.com,"Facilities Services",,,,"Fort Smith",AR,""
+1970-01-01,"Maintenance Technician (All Shifts)","OK Foods",okfoods.com,"Food Production","$15 - $23 an hour",,,"Fort Smith",AR," 72904"
+1970-01-01,"Production Assistant","Keep It Gypsy",,,"from $11 an hour",,,"Fort Smith",AR," 72901"
+1970-01-01,"DISHWASHER (FULL-TIME AND PART-TIME)","Morrison Healthcare",morrisonhealthcare.com,"Food & Beverages",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Medical Social Worker Master's (Hospice)","Heart of Hospice",,,,,,"Fort Smith",AR," 72903"
+1970-01-01,"Maintenance Technician (All Shifts)","OK Foods",okfoods.com,"Food Production","$15 - $23 an hour",,,"Fort Smith",AR," 72904"
+1970-01-01,"DISHWASHER (FULL-TIME AND PART-TIME)","Morrison Healthcare",morrisonhealthcare.com,"Food & Beverages",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Machine Operator","SPF America",,,"$13 - $15 an hour",,,"Fort Smith",AR," 72903"
+1970-01-01,"Security Officer","OK Foods",okfoods.com,"Food Production","up to $12.50 an hour",,,"Fort Smith",AR," 72904"
+1970-01-01,"Shift Leader","Freddy's Frozen Custard & Steakburgers | FFC...",,,"up to $15 an hour",,,"Fort Smith",AR," 72903"
+1970-01-01,"Delivery Driver/Warehouse","Buddy's Home Furnishings",buddyrents.com,Retail,"$13 - $15 an hour",,,"Fort Smith",AR,""
+1970-01-01,"LPN Charge Nurse","Maplewood Care Center",maplewoodctr.com,"Hospital & Health Care",,,,"Fort Smith",AR,""
+1970-01-01,"Registered Nurse, Home Health Full Time","Kindred At Home",kindredhealthcare.com,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Plumbing Technician",Roto-Rooter,rotorooter.com,"Consumer Services",,,,"Fort Smith",AR,""
+1970-01-01,"Security Officer","DSI Security Services",dsisecurity.com,"Security & Investigations","$11.50 an hour",,,"Fort Smith",AR," 72901"
+1970-01-01,"Pizza Manager","Papa John's",papajohns.com,Restaurants,"$12 - $14 an hour",,,"Fort Smith",AR," 72903"
+1970-01-01,"Local Santa - Natural Beard","Cherry Hill Programs",cherryhillprograms.com,Photography,,,,"Fort Smith",AR," 72903"
+1970-01-01,"Shift Leader (CC)","Church's Chicken | MSK Enterprises",,,"$10 an hour",,,"Fort Smith",AR," 72901"
+1970-01-01,"Substance Abuse Counselor","Harbor House, Inc.",recoveryhhi.org,"Hospital & Health Care",,,,"Fort Smith",AR," 72901"
+1970-01-01,"HotLine Team Member","Freddy's Frozen Custard & Steakburgers | FFC...",,,"up to $13 an hour",,,"Fort Smith",AR," 72903"
+1970-01-01,"Material Handler-3rd Shift","Weather Barr Windows and Doors",,,"from $14 an hour",,,"Fort Smith",AR," 72903"
+1970-01-01,"Hospital Housekeeper - Same Day Interviews & Offers",HHS,,,"$13 - $15 an hour",,,"Fort Smith",AR," 72903"
+1970-01-01,"Accounts Payable Associate","OK Foods",okfoods.com,"Food Production","$15.00 - $16.50 an hour",,,"Fort Smith",AR," 72904"
+1970-01-01,"Shift Leader","Dunkin' | Lagunita Franchise Operations",,,,,,"Fort Smith",AR," 72903"
+1970-01-01,"Office Custodian","CFSI Employment Services",cfsijobs.com,,"from $12 an hour",,,"Fort Smith",AR," 72901"
+1970-01-01,"Shift Leader (CC)","Church's Chicken | MSK Enterprises",,,"$10 an hour",,,"Fort Smith",AR," 72901"
+1970-01-01,"ColdLine Team Member","Freddy's Frozen Custard & Steakburgers | FFC...",,,"up to $13 an hour",,,"Fort Smith",AR," 72903"
+1970-01-01,"Front Desk Associate","Fort Smith Courtyard",,,"from $11 an hour",,,"Fort Smith",AR," 72901"
+1970-01-01,"Transportation Security Officer (TSO)","TSA (Transportation Security Administration)",tsa.gov,"Government Administration","$16.90 - $24.15 an hour",,,"Fort Smith",AR,""
+1970-01-01,"Team Member","Casey's General Stores",caseys.com,"Food & Beverages",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Lab Support Technician I",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Team Member","Casey's General Stores",caseys.com,"Food & Beverages",,,,"Fort Smith",AR," 72916"
+1970-01-01,"Part-Time Sales Teammate",Buckle,buckleup.com,"Financial Services",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Store Driver","Advance Auto Parts",advanceautoparts.com,Retail,,,,"Fort Smith",AR," 72901"
+1970-01-01,"Team Member","Casey's General Stores",caseys.com,"Food & Beverages",,,,"Fort Smith",AR," 72908"
+1970-01-01,"Housekeeper, Part Time, Days",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Retail Store Closing Lead","Burlington Stores",burlingtonstores.jobs,,,,,"Fort Smith",AR," 72901"
+1970-01-01,"Patient Care Associate-PCA - Acute Skills Rehab",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72916"
+1970-01-01,"Sales Associate (SA) - Fort Smith Pavilion - Carter's & OshK...","Carter's | OshKosh B'gosh Retail",oshkosh.com,,,,,"Fort Smith",AR," 72903"
+1970-01-01,Server,Chilis,chilis.com,Restaurants,,,,"Fort Smith",AR," 72903"
+1970-01-01,"Warehouse Handler","FedEx Express",fedex.com,"Logistics & Supply Chain","$13.94 an hour",,"Fort Smith Regional Airport area)","Fort Smith",AR," 72903"
+1970-01-01,"To Go",Chilis,chilis.com,Restaurants,,,,"Fort Smith",AR," 72903"
+1970-01-01,"Physical Therapy Assistant",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72916"
+1970-01-01,QA/Expeditor,Chilis,chilis.com,Restaurants,,,,"Fort Smith",AR," 72903"
+1970-01-01,"Food Runner",Chilis,chilis.com,Restaurants,,,,"Fort Smith",AR," 72903"
+1970-01-01,"RN Ortho Days",Mercy,mercy.net,"Hospital & Health Care",,,,"Fort Smith",AR," 72903"
+1970-01-01,Dishwasher,Chilis,chilis.com,Restaurants,,,,"Fort Smith",AR," 72903"
+1970-01-01,"REO Field Services | Property Preservation Contractor","Midwest Property REO, LLC.",midwest-reo.com,,"$3,000 - $5,000 a month",,,"Fort Smith",AR,""
+1970-01-01,"Property Preservation Contractor | REO Industry","Midwest Property REO, LLC.",midwest-reo.com,,"$3,000 - $5,000 a month",,,"Fort Smith",AR,""
+1970-01-01,"CASHIER (FULL-TIME AND PART-TIME)","Morrison Healthcare",morrisonhealthcare.com,"Food & Beverages",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Assistant Manager (Part Time)","SCRUBS & BEYOND, LLC",,,,,,"Fort Smith",AR," 72903"
+1970-01-01,"District Manager","Popeye's Louisiana Kitchen | HZ Ops Holdings",,,,,,"Fort Smith",AR," 72903"
+1970-01-01,"Life Insurance Underwriter/Agent","Lasting Integrity Final Expense",integrityfinalexpense.com,,"$1,000 - $5,000 a week",,,"Fort Smith",AR,""
+1970-01-01,"District Manager","Popeye's Louisiana Kitchen | HZ Ops Holdings",,,,,,"Fort Smith",AR," 72901"
+1970-01-01,"Sales Associate - Bunny Photos","Cherry Hill Programs",cherryhillprograms.com,Photography,,,,"Fort Smith",AR," 72903"
+1970-01-01,"Team Member","Dunkin' | Lagunita Franchise Operations",,,,,,"Fort Smith",AR," 72903"
+1970-01-01,"Assistant Local Manager","Cherry Hill Programs",cherryhillprograms.com,Photography,,,,"Fort Smith",AR," 72903"
+1970-01-01,"Photographer - Bunny Photos","Cherry Hill Programs",cherryhillprograms.com,Photography,,,,"Fort Smith",AR," 72903"
+1970-01-01,"Registered Behavior Technician (RBT)","HHJ ABA Therapy",,,"$22 - $28 an hour",,,"Fort Smith",AR,""
+1970-01-01,"Delivery Driver","Wade Carrier",,,"$125 a day",,,"Fort Smith",AR," 72916"
+1970-01-01,"PRODUCT DEMONSTRATOR PART TIME","CROSSMARK, Inc.",crossmark.com,"Consumer Goods",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Night Auditor","Residence Inn by Marriott Fort Smith",,,,,,"Fort Smith",AR," 72903"
+1970-01-01,"Security Officer","DSI Security Services",dsisecurity.com,"Security & Investigations","$11.50 an hour",,,"Fort Smith",AR," 72901"
+1970-01-01,"DISHWASHER (FULL-TIME AND PART-TIME)","Morrison Healthcare",morrisonhealthcare.com,"Food & Beverages",,,,"Fort Smith",AR," 72903"
+1970-01-01,"Pizza Manager","Papa John's",papajohns.com,Restaurants,"$12 - $14 an hour",,,"Fort Smith",AR," 72903"
+1970-01-01,"Production Assistant","Keep It Gypsy",,,"from $11 an hour",,,"Fort Smith",AR," 72901"
+1970-01-01,"Local Santa - Natural Beard","Cherry Hill Programs",cherryhillprograms.com,Photography,,,,"Fort Smith",AR," 72903"
+1970-01-01,"Front Desk Associate (Part-time)","Fort Smith Courtyard",,,"from $11 an hour",,,"Fort Smith",AR," 72901"
+1970-01-01,"HotLine Team Member","Freddy's Frozen Custard & Steakburgers | FFC...",,,"up to $13 an hour",,,"Fort Smith",AR," 72903"
+1970-01-01,"Inventory Associate (PT)","WIS International",wisintl.com,Retail,"from $13 an hour",,,"Fort Smith",AR,""
+1970-01-01,"Shift Leader","Freddy's Frozen Custard & Steakburgers | FFC...",,,"up to $15 an hour",,,"Fort Smith",AR," 72903"
+1970-01-01,"Shift Leader","Dunkin' | Lagunita Franchise Operations",,,,,,"Fort Smith",AR," 72903"
+1970-01-01,"ColdLine Team Member","Freddy's Frozen Custard & Steakburgers | FFC...",,,"up to $13 an hour",,,"Fort Smith",AR," 72903"
+1970-01-01,"REO Field Services | Property Preservation Contractor","Midwest Property REO, LLC.",midwest-reo.com,,"$3,000 - $5,000 a month",,,"Fort Smith",AR,""
+1970-01-01,"Property Preservation Contractor | REO Industry","Midwest Property REO, LLC.",midwest-reo.com,,"$3,000 - $5,000 a month",,,"Fort Smith",AR,""
+1970-01-01,"Registered Behavior Technician (RBT)","HHJ ABA Therapy",,,"$22 - $28 an hour",,,"Fort Smith",AR,""
+1970-01-01,"Sales Associate - Bunny Photos","Cherry Hill Programs",cherryhillprograms.com,Photography,,,,"Fort Smith",AR," 72903"
+1970-01-01,"Local Manager - Bunny Photos","Cherry Hill Programs",cherryhillprograms.com,Photography,,,,"Fort Smith",AR," 72903"
+1970-01-01,"Assistant Local Manager","Cherry Hill Programs",cherryhillprograms.com,Photography,,,,"Fort Smith",AR," 72903"
+1970-01-01,"Photographer - Bunny Photos","Cherry Hill Programs",cherryhillprograms.com,Photography,,,,"Fort Smith",AR," 72903"
+1970-01-01,"Bunny Character","Cherry Hill Programs",cherryhillprograms.com,Photography,,,,"Fort Smith",AR," 72903"

@@ -1,0 +1,259 @@
+import React, { useState, useEffect } from "react";
+import axios from 'axios';
+import Loader from "react-js-loader";
+import { Url, PubliUrl } from "../Config"
+import { Paginated } from "./table/Paginated";
+import { columns } from "./table/column";
+import FilterForm from "./table/Filter";
+import TableFilter from "./table/TableFilter";
+import { useCookies } from 'react-cookie';
+
+export default function App() {
+
+  // Flags
+  const [isFilterChanged, is_filter_changed] = useState(true);
+  const [showRegiserBox, show_regiser_box] = useState(false);
+  const [showExportButton, show_export_button] = useState(true);
+  const [registrationMsg, registration_msg] = useState(null);
+  const [clearFilterClicked, setClearFilterClicked] = useState(false);
+  // All useStates for data
+  const [data, allData] = useState('');
+  const [getData, get_Data] = useState('');
+  const [dataForExport, data_for_export] = useState('');
+  const [modal, setmodal]=useState(false);
+  const [cookies, setCookie] = useCookies(['auth']);
+  const [doneRegiserBox, done_regiser_box] = useState(false);
+  // All useStates for Filters
+  const [searchByJobTitle, search_by_jobtitle] = useState('');
+  const [searchByCompany, search_by_company] = useState('');
+  const [filterByIndustry, filter_by_industry] = useState('');
+  const [filterByCity, filter_by_city] = useState('');
+  const [filterByLevel, filter_by_level] = useState('');
+  const [filterByState, filter_by_state] = useState('');
+  const [filterBySalary, filter_by_salary] = useState('');
+  const [filterByRemote, filter_by_remote] = useState('');
+
+  // Pagination Objects
+  const [perPage, setPerPage] = useState(25);
+  const [currentPage, setCurrentPage] = useState(null);
+  const [pageChange, setPageChange] = useState(null);
+  const [totalPages, setTotalPages] = useState(null);
+  const [enPreviousPage, setEnPreviousPage] = useState(null);
+  const [enNextPage, setEnNext] = useState(null);
+  const [dataLoading, setDataLetloading] = useState(true);
+  const [pChange, setPChange] = useState(false);
+  const params = {
+    job_title: searchByJobTitle ? searchByJobTitle : '',
+    company: searchByCompany ? searchByCompany : '',
+    industry: filterByIndustry ? filterByIndustry : '',
+    city: filterByCity ? filterByCity : '',
+    level: filterByLevel ? filterByLevel : '',
+    state: filterByState ? filterByState : '',
+    salary: filterBySalary ? filterBySalary : '',
+    remote: filterByRemote ? filterByRemote : '',
+    perPage: perPage
+  };
+
+  // Initial Run
+  useEffect(() => {
+    setDataLetloading(true);
+    setEnPreviousPage(true);
+    setEnNext(true);
+    perPage && axios.post(`${PubliUrl}/api/getData?page=1`, params)
+      .then(res => {
+        setDataLetloading(false);
+        setCurrentPage(res.data.current_page);
+        setTotalPages(res.data.last_page);
+        // setPageChange(null);
+        res.data.current_page == 1 ? setEnPreviousPage(true) : setEnPreviousPage(false);
+        res.data.current_page == res.data.last_page ? setEnNext(true) : setEnNext(false);
+        allData(res.data.data);
+
+        document.getElementById("selectAllCheckboxes").checked = false;
+      })
+  }, [perPage, getData]);
+
+  // Next/Pre Pagi
+  useEffect(() => {
+    setDataLetloading(true);
+    setEnPreviousPage(true);
+    setEnNext(true);
+    pageChange && axios.post(`${PubliUrl}/api/getData?page=${pageChange}`, params)
+      .then(res => {
+        setDataLetloading(false);
+        setCurrentPage(res.data.current_page);
+        setTotalPages(res.data.last_page);
+        res.data.current_page == 1 ? setEnPreviousPage(true) : setEnPreviousPage(false);
+        res.data.current_page == res.data.last_page ? setEnNext(true) : setEnNext(false);
+        allData(res.data.data);
+
+        document.getElementById("selectAllCheckboxes").checked = false;
+      })
+  }, [pChange])
+
+  // For watch changes of filter
+  const filterChanged = (e, filId, newValue) => {
+    let wait = (e.target.id == "searchByJobTitle" || e.target.id == "searchByCompany") ? 200 : 0;
+    if (isFilterChanged) {
+      is_filter_changed(false);
+      setTimeout(() => {
+        e.target.id == "searchByJobTitle" && e.target.value != "clearFilter" ? search_by_jobtitle(e.target.value) : '';
+        filId == "searchByJobTitle" ? search_by_jobtitle(newValue) : '';
+        filId == "searchByCompany" ? search_by_company(newValue) : '';
+        filId == "filterByIndustry" ? filter_by_industry(newValue) : '';
+        filId == "filterByState" ? filter_by_state(newValue) : '';
+        filId == "filterByCity" ? filter_by_city(newValue) : '';
+        filId == "filterByLevel" ? filter_by_level(newValue) : '';
+        filId == "filterBySalary" ? filter_by_salary(newValue) : '';
+        filId == "filterByRemoteYes" ? filter_by_remote(newValue) : '';
+
+        // Changing state of getData for calling api
+        getData ? get_Data(false) : get_Data(true);
+
+        is_filter_changed(true);
+      }, wait);
+    } else { return; }
+  }
+
+  // Clearing filter
+  const clearFilter = () => {
+    clearFilterClicked ? setClearFilterClicked(false) : setClearFilterClicked(true);
+
+    let ele = document.querySelectorAll(".MuiAutocomplete-clearIndicator");
+    ele.forEach((e) => {
+      e.click();
+    })
+
+    let btnFilterByRemote = document.querySelector('input[type=radio][name=filterByRemote]:checked');
+    if (btnFilterByRemote) {
+      btnFilterByRemote.checked = false;
+    }
+
+    // Clearing filter status data
+    let makeFilterStatusNull = () => {
+      search_by_jobtitle(null);
+      search_by_company(null);
+      filter_by_city(null);
+      filter_by_industry(null);
+      filter_by_state(null);
+      filter_by_salary(null);
+      filter_by_level(null);
+      filter_by_remote(null);
+    }
+    makeFilterStatusNull();
+    getData ? get_Data(false) : get_Data(true);
+  }
+
+  // Getting its of checkboxes which are checked
+  const getAllCheckedBoxes = () => {
+    let export_data = (selected) => {
+      const params = {
+        id: selected,
+        filterByState: filterByState,
+        filterByIndustry:filterByIndustry,
+        filterByLevel:filterByLevel,
+        searchByCompany:searchByCompany,
+        searchByJobTitle:searchByJobTitle,
+        filterBySalary:filterBySalary,
+        filterByRemote:filterByRemote
+    };
+      // axios.post(`${PubliUrl}/api/exportData`, { params: selected }).then(res => {
+        axios.post(`${PubliUrl}/api/exportData`, params).then(res => {
+
+        data_for_export(res.data);
+        return;
+      }).catch(err => {
+
+        if (err.response.data.htmlErrorMsg) {
+          registration_msg(err.response.data.htmlErrorMsg);
+        }
+        err = err.response.data.errors;
+        if (!err.email_registered) {
+          show_regiser_box(true);
+        }
+      });
+
+    }
+    let selected = [];
+    const checked = document.querySelectorAll('input.select-id[type="checkbox"]:checked');
+    selected = Array.from(checked).map(x => x.value);
+    selected == '' ? alert('Please Select Records First') : export_data(selected);
+  }
+
+  // Checking checkbox individual and multiple
+  const checkAll = () => {
+    var checkboxes = document.getElementsByClassName('select-id');
+    var main = document.getElementById('selectAllCheckboxes');
+    dataForExport ? data_for_export('') : '';
+    if (main.checked) {
+      for (var i = 0; i < checkboxes.length; i++) {
+        if (checkboxes[i].type == 'checkbox') {
+          checkboxes[i].checked = true;
+        }
+      }
+      if(checkboxes.length !=0){
+        setmodal(true);
+      }
+      // console.log(checkboxes.length);
+     
+    } else {
+      for (var i = 0; i < checkboxes.length; i++) {
+        if (checkboxes[i].type == 'checkbox') {
+          checkboxes[i].checked = false;
+        }
+      }
+      setmodal(false);
+    }
+    // showExportButton ? show_export_button(false): show_export_button(true);
+  }
+
+  const regiterUserEmail = (event) => {
+    event.preventDefault();
+    const data = new FormData(event.target);
+    let userEmail = data.get('email');
+    registration_msg("Checking");
+    axios.post(`${PubliUrl}/api/userRegistration`, { userEmail: userEmail, }).then(res => {
+      res = res.data;
+      if (res) {
+        registration_msg(res.htmlMessage);
+        show_regiser_box(false);
+        done_regiser_box(true);
+        if(res.htmlMessage == 'Sucess'){
+          setCookie('auth', userEmail, { path: '/' });
+        }
+      }
+    }).catch(err => {
+      alert(err.response.data.htmlMessage);
+    });
+  }
+
+  registrationMsg ? setTimeout(() => {
+    registration_msg(false);
+  }, 6000) : '';
+
+  const props = {
+    data,modal,setmodal, clearFilterClicked, dataLoading, setPerPage, enNextPage, enPreviousPage, perPage, setPageChange, setPChange, pChange, currentPage, totalPages, columns, checkAll, showRegiserBox, showExportButton, dataForExport, filterByIndustry, filterByCity, filterByLevel,searchByJobTitle,filterBySalary,filterByRemote,filterByIndustry,searchByCompany, filterByState, filterChanged, clearFilter, getAllCheckedBoxes, regiterUserEmail, checkAll, registrationMsg,doneRegiserBox,
+  }
+
+  return (
+    <>
+      <section id="datatable-dashboard" style={{ display: 'flex' }}>
+        <FilterForm props={props} />
+        <div id="main-content">
+          <TableFilter props={props} />
+          {
+            data ?
+              <Paginated props={props} />
+            : <Loader
+                type="spinner-circle"
+                bgColor={"#111"}
+                title={"box-rotate-x"}
+                color={'#FFFFFF'}
+                size={100}
+              />
+          }
+        </div>
+      </section>
+    </>
+  )
+}

@@ -1,0 +1,162 @@
+import React, { useState } from "react";
+import { useTable, usePagination, useSortBy } from "react-table";
+import FilterForm from "./Filter";
+
+import TableFilter from "./TableFilter";
+
+export const Paginated = ({ props }) => {
+
+  const {
+    getTableProps,
+    getTableBodyProps,
+    headerGroups,
+    page,
+    nextPage,
+    previousPage,
+    canPreviousPage,
+    canNextPage,
+    pageOptions,
+    state,
+    gotoPage,
+    pageCount,
+    rows,
+    setPageSize,
+    prepareRow
+  } = useTable(
+    {
+      columns: props.columns,
+      data: props.data,
+      initialState: {
+        // pageIndex: 1,
+        pageSize: 500
+      }
+    },
+    useSortBy,
+    usePagination
+  );
+
+  // props = {
+  //   ...props,
+  //   setPageSize: setPageSize
+  // }
+  // const { pageIndex, pageSize } = state;
+
+  return (
+    <>
+      <div className="main_body-part">
+        <div className="data_table-section">
+          <div className="responsive_table">
+            <table {...getTableProps()} id="dataTable">
+              <thead>
+                {headerGroups.map((headerGroup) => (
+                  <tr {...headerGroup.getHeaderGroupProps()}>
+                    {headerGroup.headers.map((column) => (
+                      <>
+                        {
+                          column.Header == "#" ?
+                            <th {...column.getHeaderProps()}>
+                              <div className="form-check">
+                                <input className="form-check-input" id="selectAllCheckboxes" onChange={props.checkAll} type="checkbox" />
+                              </div>
+                            </th> :
+                            // <th {...column.getHeaderProps()}>
+                            <th {...column.getHeaderProps(column.getSortByToggleProps())}>
+                              {column.render("Header")}
+                              {/* <span>
+                          {column.isSorted
+                            ? column.isSortedDesc
+                              ? ' 🔽'
+                              : ' 🔼'
+                            : ''}
+                            { !column.isSorted && (
+                              column.render("Header")=="Job Title" || 
+                              column.render("Header") =="Company" || column.render("Header") =="City")
+                              ? ' 🔽': ''}
+                          </span> */}
+                            </th>
+                        }
+                      </>
+                    )
+                    )}
+                  </tr>
+                ))}
+              </thead>
+              {props.dataLoading == false ?
+                <tbody {...getTableBodyProps()} >
+                  {page.map((row) => {
+                    prepareRow(row);
+                    return (
+                      <tr {...row.getRowProps()}>
+                        {row.cells.map((cell) => {
+                          if (cell.column.id == "id") {
+                            return (
+                              <td {...cell.getCellProps()}>
+                                <div className="form-check">
+                                  <input
+                                    className="form-check-input select-id"
+                                    onClick={(e) => {
+                                      let selectAllCheckboxes = document.getElementById("selectAllCheckboxes");
+                                      selectAllCheckboxes.checked && !e.target.checked ? selectAllCheckboxes.checked = false : '';
+                                    }}
+                                    type="checkbox"
+                                    value={cell.render("Cell").props.cell.value} />
+                                </div>
+                              </td>
+                            );
+                          }
+                          return (
+                            <td {...cell.getCellProps()}>{cell.render("Cell")}</td>
+                          );
+                        })}
+                      </tr>
+                    );
+                  })}
+                </tbody>
+                :
+                <tfoot>
+                  <tr>
+                    <td colSpan={11}>Loading...</td>
+                  </tr>
+                </tfoot>
+              }
+              {
+                props.data == '' && !props.dataLoading &&
+                <tfoot>
+                  <tr>
+                    <td colSpan={11}>No Records Found</td>
+                  </tr>
+                </tfoot>
+              }
+            </table>
+          </div>
+        </div>
+        <div className="pagination-section">
+          <button onClick={() => {
+            props.setPageChange(1);
+            props.pChange ? props.setPChange(false): props.setPChange(true);
+          }} disabled={props.enPreviousPage}>
+            {"<<"}
+          </button>{" "}
+          <button onClick={() => {
+            props.setPageChange(props.currentPage - 1);
+            props.pChange ? props.setPChange(false): props.setPChange(true);
+          }} disabled={props.enPreviousPage}>
+            Previous
+          </button>{" "}
+          <button onClick={() => {
+            props.setPageChange(props.currentPage + 1);
+            props.pChange ? props.setPChange(false): props.setPChange(true);
+          }} disabled={props.enNextPage}>
+            Next
+          </button>{" "}
+          <button onClick={() => {
+            props.setPageChange(props.totalPages);
+            props.pChange ? props.setPChange(false): props.setPChange(true);
+          }} disabled={props.enNextPage}>
+            {">>"}
+          </button>{" "}
+        </div>
+      </div>
+    </>
+  );
+};

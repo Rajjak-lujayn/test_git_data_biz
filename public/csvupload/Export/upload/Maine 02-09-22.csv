@@ -1,0 +1,512 @@
+DATE,"Job Title",Company,Website,Industry,Salary,Remote,AREA,City,State,"Zip Code"
+2022-08-30,"Student Support Specialist I","University of New England",une.edu,"Higher Education","estimated $44k - $55.8k a year",,,Portland,ME,""
+2022-09-01,"Residential Helper",WM,,,,,,Portland,ME,""
+2022-09-01,"Sterilization- Dispensary Assistant","University of New England",une.edu,"Higher Education","estimated $34.9k - $44.3k a year",,,Portland,ME,""
+2022-08-30,"Talent Acquisition Administrator",Sevita,sevita.com,"Food Production",,Remote,,"Remote in Portland",ME,""
+2022-09-01,"Entry Level Traveling Customer Trainer","Reynolds and Reynolds",reyrey.com,"Computer Software",,,"West Bayside area)",Portland,ME,"4101"
+2022-09-01,"Property Administrative Assistant","Preservation Management, Inc.",preservationmanagement.com,"Real Estate","estimated $32.7k - $41.5k a year",,,Portland,ME,""
+2022-09-01,"Sterile Processing Technician","Spectrum Healthcare Partners",spectrumhcp.com,"Hospital & Health Care","$23 - $25 an hour",,"Rosemont area)",Portland,ME,"4102"
+2022-08-31,"Project Administrator","Wood Plc",woodplc.com,"Oil & Energy","estimated $45.5k - $57.7k a year",,,Portland,ME,""
+2022-09-01,"Quotations Specialist - Switch Gear",Graybar,graybar.com,Wholesale,,,,Portland,ME,"4122"
+2022-08-31,"Development Associate","Roman Catholic Diocese of Portland, Maine",,,"estimated $39.2k - $49.6k a year",,"West Bayside area)",Portland,ME,"4104"
+2022-09-01,"Construction Coordinator - New England Offices","Burns & McDonnell",burnsmcd.com,Construction,"estimated $60.5k - $76.5k a year",,,Portland,ME,""
+2022-09-01,"Food Services Worker - Driver","Maine Medical Center",mainehealth.org,"Hospital & Health Care",,,"Rosemont area)",Portland,ME,"4102"
+2022-08-31,"Customer Service Representative",Spectrum,spectrumvic.org.au,"Nonprofit Organization Management",,,"North Deering area)",Portland,ME,"4103"
+2022-08-30,"AM Host/Hostess","Hampton Inn by Hilton Portland Downtown Waterfront",,,"$17 an hour",,"East Bayside-India Street area)",Portland,ME,"4101"
+2022-08-30,"E-Commerce Supervisor (In-Store Shopper) - Full Time","Whole Foods Market",wholefoodsmarket.com,Supermarkets,,,"West Bayside area)",Portland,ME,"4101"
+2022-09-01,"Patient Services Representative","University of New England",une.edu,"Higher Education","$18 an hour",,,Portland,ME,""
+2022-09-01,"Nurse Practitioner","University of New England",une.edu,"Higher Education",,,,Portland,ME,""
+2022-08-31,"Human Resource Technology Partner",MaineHealth,,,,,"West Bayside area)",Portland,ME,"4101"
+2022-08-30,"Front Desk Agent","Hampton Inn by Hilton Portland Downtown Waterfront",,,"$16 an hour",,"East Bayside-India Street area)",Portland,ME,"4101"
+2022-08-31,"Guidance Counselor (Full time, 1.0FTE) - Portland High Schoo...","Portland Public Schools",pps.net,"Primary/Secondary Education",,,"West Bayside area)",Portland,ME,"4101"
+2022-08-30,"Lineworker 2nd Class","On Target Utility Services",ontargetservices.com,Utilities,"up to $36 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-09-01,"Assembly Worker (2nd Shift)","Paradigm Windows",paradigmwindows.com,"Building Materials","$20.50 an hour",,"Riverton area)",Portland,ME,"4103"
+2022-08-30,"Client Service Representative",PetMedic,,,"estimated $32.8k - $41.6k a year",,"West Bayside area)",Portland,ME,"4101"
+2022-09-01,Scheduler,"Northern Light Health",northernlighthealth.org,"Hospital & Health Care","estimated $18.9k - $23.9k a year",,"Libbytown area)",Portland,ME,"4102"
+2022-09-01,Bartender,"Hyatt Place Portland-Old Port",,,"$15 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-08-31,"Anesthesiologist - Portland, Maine","Spectrum Healthcare Partners",spectrumhcp.com,"Hospital & Health Care",,,"West Bayside area)",Portland,ME,"4101"
+2022-09-01,"Pediatrics- Registered Nurse or MA- 4 day work week in Portl...","InterMed, P.A.",intermed.com,"Medical Practice","estimated $62k - $78.4k a year",,"West Bayside area)",Portland,ME,"4101"
+2022-08-30,"Warehouse Associate",Wesco,,,"estimated $31.8k - $40.2k a year",,"East Bayside-India Street area)",Portland,ME,"4101"
+2022-09-01,"Child Psychologist","LifeStance Health, Inc.",,,"$145,000 - $155,000 a year",,"Oakdale area)",Portland,ME,"4101"
+2022-08-31,"Pharmacy Technician / Pharm Tech Apprenticeship",WALGREENS,walgreens.com,Retail,,,"Ocean Avenue area)",Portland,ME,"4103"
+2022-08-30,"Direct Support Professional FT","Goodwill Industries of Northern New Engl",goodwillnne.org,"Individual & Family Services","estimated $26.5k - $33.5k a year",,,Portland,ME,""
+2022-08-30,"Parts Delivery","O'Reilly Auto Parts",oreillyauto.com,Retail,,,"Nasons Corner area)",Portland,ME,"4102"
+2022-08-30,"Parts Delivery","O'Reilly Auto Parts",oreillyauto.com,Retail,,,"Nasons Corner area)",Portland,ME,"4102"
+2022-09-01,"Merchandising Service Manager",Lowe's,lowes.com,Retail,,,"Nasons Corner area)",Portland,ME,"4102"
+2022-08-31,"Night Auditor","Hyatt Place Portland-Old Port",,,"$16 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-09-01,"Supervisor - Nutrition Services","Maine Medical Center",mainehealth.org,"Hospital & Health Care",,,"Rosemont area)",Portland,ME,"4102"
+2022-08-31,"Radiologist - Neuroradiologist - Portland, Maine","Spectrum Healthcare Partners",spectrumhcp.com,"Hospital & Health Care",,,"West Bayside area)",Portland,ME,"4101"
+2022-08-31,"Teller I (US) - Northgate Portland, ME","TD Bank",yesbank.com,Banking,,,,Portland,ME,""
+2022-09-01,"Per Diem Custodial and Housekeeping positions","University of New England",une.edu,"Higher Education","estimated $29.7k - $37.5k a year",,,Portland,ME,""
+2022-08-30,"Environmental Services Worker I (EVS) - Housekeeper","Maine Medical Center",mainehealth.org,"Hospital & Health Care","$17 an hour",,"Rosemont area)",Portland,ME,"4102"
+2022-08-31,"Clinical Nurse (RN)-Cardiac Telemetry Unit (R7) - New Gradua...","Maine Medical Center",mainehealth.org,"Hospital & Health Care",,,"Rosemont area)",Portland,ME,"4102"
+2022-08-31,"Full Time Substance Use Counselor (CADC)","Liberty Bay Recovery",libertybayrecovery.com,"Hospital & Health Care","estimated $36.3k - $45.9k a year",,"Oakdale area)",Portland,ME,"4101"
+2022-08-31,"FT Produce Sales Associate",Hannaford,hannaford.com,,"estimated $27.1k - $34.3k a year",,"Oakdale area)",Portland,ME,"4101"
+2022-08-31,"Veterinarian - Relief","Rarebreed Veterinary Partners",rarebreedvet.com,Veterinary,,,"Downtown area)",Portland,ME,"4101"
+2022-08-31,SHIPPER/LOADER,"HP Hood LLC",hphood.com,"Food & Beverages, Food, Beverages & Tobacco, Manufacturing","estimated $33.3k - $42.1k a year",,"Libbytown area)",Portland,ME,"4102"
+2022-09-01,"Associate Team Leader","H&R Block",hrblock.com,Retail,,,,Portland,ME,""
+2022-09-01,"Associate Team Leader","H&R Block",hrblock.com,Retail,,,,Portland,ME,""
+2022-08-30,"Life Skills Coach","Cornerstones of Maine",,,"$40,000 - $53,000 a year",,"West End area)",Portland,ME,"4102"
+2022-09-01,"Automotive Parts Delivery Driver","Quirk Auto Group",quirkauto.com,Automotive,"estimated $28.1k - $35.5k a year",,"Nasons Corner area)",Portland,ME,"4102"
+2022-09-01,"Rehab Therapy Tech","Encompass Health",encompasshealth.com,"Hospital & Health Care",,,,Portland,ME,"4102"
+2022-08-31,"Guest Service Representative","Clarion Hotel",nordicchoicehotels.se,,"from $18 an hour",,"Libbytown area)",Portland,ME,"4102"
+2022-08-31,"Pharmacy Technician Trainee","CVS Health",cvs.colinkedinprofile,,"$17 - $19 an hour",,"Libbytown area)",Portland,ME,"4102"
+2022-08-31,"Blood Collection Staff/Customer Service (FT)","American Red Cross",redcross.org,"Nonprofit Organization Management","warehouse delivery driver - dot- portland, me ($1,000 welcom...",,,Portland,ME,""
+2022-08-31,"Warehouse Delivery Driver - DOT- Portland, ME ($1,000 Welcom...","Safelite Group",safelite.com,Automotive,,,"Riverton area)",Portland,ME,"4103"
+2022-09-01,"Automotive Service Writer/Advisor","Quirk Auto Group",quirkauto.com,Automotive,"estimated $46.6k - $59k a year",,"Nasons Corner area)",Portland,ME,"4102"
+2022-08-30,"Food Delivery Driver",2Dinein,,,"$23 - $29 an hour",,,Portland,ME,""
+2022-08-27,"Regional Recruiter","Temco Logistics",temcologistics.com,"Logistics & Supply Chain","$60,000 - $65,000 a year",,"East Deering area)",Portland,ME,"4103"
+2022-08-31,"Tasting Room Lead","Shipyard Brewing Company",,,"$16 - $25 an hour",,"East Bayside-India Street area)",Portland,ME,"4101"
+2022-08-30,"Care Coordinator Specialist","Eyecare Medical Group",eyecaremed.com,"Hospital & Health Care","$20.16 - $26.97 an hour",,"Libbytown area)",Portland,ME,"4102"
+2022-09-01,"Mobile Device Support","GLC Business Services, Inc.",glcbs.com,"Facilities Services","$21 an hour",,,Portland,ME,""
+2022-08-31,"Solar Sales Consultant","Renewables Worldwide",,,"$100,000 - $125,000 a year",,,Portland,ME,""
+2022-08-30,"Legal Administrative Assistant","BENDETT & MCHUGH",,,"estimated $38.1k - $48.3k a year",,"Downtown area)",Portland,ME,"4101"
+2022-09-01,"Courier/Delivery Driver FULL TIME Opening- Apply now, hire t...","Freedom Xpress Inc.",freedomxpressusa.com,Transportation/Trucking/Railroad,"$700 - $1,000 a week",,"East Deering area)",Portland,ME,"4103"
+2022-08-30,"Real Estate Sales Agent","The Hatcher Group of Keller Williams Realty",,,"$71,004 - $82,900 a year",,,"Hybrid remote in Portland",ME,"4101"
+2022-08-31,"Enrichment Assistant",Waynflete,waynflete.org,"Education Management","estimated $37.6k - $47.6k a year",,"West End area)",Portland,ME,"4102"
+2022-08-31,"Early Childhood Educator","Portside Learning Center",,,"$16 - $22 an hour",,"North Deering area)",Portland,ME,"4103"
+2022-09-01,"Forklift Operator","Capstone Logistics LLC",capstonelogistics.com,"Logistics & Supply Chain","from $20 an hour",,,Portland,ME,""
+2022-08-30,"Night Pizza Delivery Drivers","Leonardo's Pizza",leonardosonline.com,"Food & Beverages","$20 - $30 an hour",,"Oakdale area)",Portland,ME,"4101"
+2022-09-01,"Machine Order/Operator","Geiger Brothers",geigerbrothers.com,Construction,"estimated $33.3k - $42.1k a year",Remote,,"Remote in Portland",ME,""
+2022-09-01,"Associate Claims Representative","Patrons Oxford Insurance Company",patrons.com,Insurance,"estimated $44.3k - $56.1k a year",,,"Hybrid remote in Portland",ME,"4102"
+2022-08-30,"Property Administrative Assistant","Preservation Management, Inc.",preservationmanagement.com,"Real Estate","estimated $34.6k - $43.8k a year",,"North Deering area)",Portland,ME,"4103"
+2022-08-30,"Nursing Unit Secretary","Maine Medical Center - MaineHealth",,,"estimated $30.2k - $38.2k a year",,"Valley Street area)",Portland,ME,"4102"
+2022-08-31,"Independent Sales Associate","Renewables Worldwide",,,"$85,000 - $105,000 a year",,,Portland,ME,""
+2022-08-31,"Warehouse Associate II - Portland, ME ($1,000 Welcome Incent...","Safelite Group",safelite.com,Automotive,,,"Riverton area)",Portland,ME,"4103"
+2022-08-30,"Foreman, Renovation Crew","Mast Construction Corp",,,"$60,000 - $85,000 a year",,,Portland,ME,""
+2022-08-31,"Field Sales Consultant","Renewables Worldwide",,,"$85,000 - $110,000 a year",,,Portland,ME,""
+2022-08-30,"Customer Service and Fulfillment Manager","Marin Skincare",,,"$45,000 - $60,000 a year",,"Riverton area)",Portland,ME,"4103"
+2022-09-01,"Automotive Sales Associate","Quirk Auto Group",quirkauto.com,Automotive,,,"Nasons Corner area)",Portland,ME,"4102"
+2022-09-01,"OSP Manager (Broadband Solutions)",NRTC,nrtc.coop,Telecommunications,"estimated $57.5k - $72.7k a year",,"West Bayside area)",Portland,ME,"4101"
+2022-08-31,"Juice Bar Supervisor - The Juicery Portland","The Juicery",juicery.com,Restaurants,"$20 - $22 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-08-30,"Real Estate Agent (FT)","HFM Realty",hfmrealty.com,"Real Estate","estimated $83.1k - $105k a year",,,Portland,ME,""
+2022-08-31,"Investor Services Representative - June 2023","Stone Coast Fund Services",stone-coast.com,"Financial Services","estimated $51.6k - $65.4k a year",,"West Bayside area)",Portland,ME,"4101"
+2022-08-27,"Flagger - STARTING PAY $20/HR","Project Flagging",,,"from $20 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-08-30,"Gardening Manager","Clement Bros Lawn & Landscape",,,"$18 - $22 an hour",,"North Deering area)",Portland,ME,"4103"
+2022-09-01,"Passionate about Local Produce?","Portland Food Co-op",portlandfood.coop,"Food & Beverages","from $16 an hour",,"East Bayside-India Street area)",Portland,ME,"4101"
+2022-08-31,"Warehouse Worker","K L Jack and Co",,,"from $19 an hour",,"Riverton area)",Portland,ME,"4103"
+2022-08-30,"Accounts Payable/Receivable","Alternative Essence",,,"$45,000 a year",,"Riverton area)",Portland,ME,"4103"
+2022-08-27,"Flagger/Traffic Control - Night work available!","Northeast Safety, Inc.",,,"$19 - $20 an hour",,,Portland,ME,""
+2022-08-31,"Guest Experience Curator | Front Desk | Concierge","The Docent's Collection",,,"$20 - $22 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-08-31,"Medical Receptionist","Bayside Employee Health Center",behc.net,"Medical Devices","$17 - $20 an hour",,"Libbytown area)",Portland,ME,"4102"
+2022-09-01,"Automotive Service Cashier","Quirk Auto Group",quirkauto.com,Automotive,"estimated $30.7k - $38.9k a year",,"Nasons Corner area)",Portland,ME,"4102"
+2022-09-01,"Administrative Coordinator","Amity Companies, LLC",,,"estimated $32.2k - $40.8k a year",,"Downtown area)",Portland,ME,"4101"
+2022-08-30,"Human Resources Manager","Preble Street",preblestreet.org,"Public Policy","$78,000 - $80,000 a year",,"West Bayside area)",Portland,ME,"4101"
+2022-08-30,"Overnight (11-7) Behavioral Health Technician","Pine Tree Recovery Center",,,"$19.50 - $21.00 an hour",,"Riverton area)",Portland,ME,"4103"
+2022-08-31,"Commercial Roofing Foreman","W.H. Demmons",,,"$32 - $40 an hour",,,Portland,ME,""
+2022-09-01,"AP Supplier","GLC Business Services, Inc.",glcbs.com,"Facilities Services","$17 an hour",,"North Deering area)",Portland,ME,"4103"
+2022-09-01,Teller,RepubliCash,,,"$16 - $18 an hour",,"Valley Street area)",Portland,ME,"4102"
+2022-08-27,"On the Spot Hire! Entry Level Technician","Temco Logistics",temcologistics.com,"Logistics & Supply Chain","$42,000 - $52,000 a year",,"East Deering area)",Portland,ME,"4103"
+2022-08-30,"1st/2nd Grade Classroom Assistant & AfterCare Teacher","Breakwater School",,,"estimated $30.8k - $39k a year",,"Nasons Corner area)",Portland,ME,"4102"
+2022-08-31,Server/Bartender,"Clarion Hotel",nordicchoicehotels.se,,"from $13 an hour",,"Libbytown area)",Portland,ME,"4102"
+2022-09-01,"Motorcycle Detailer","Big Moose Harley-Davidson",bigmooseharley.com,Retail,"$17 - $22 an hour",,"Riverton area)",Portland,ME,"4103"
+2022-08-30,"Landscaper / Gardener","Clement Bros Lawn & Landscape",,,"$18 an hour",,"North Deering area)",Portland,ME,"4103"
+2022-08-30,"Front Desk Agent","Courtyard Portland Downtown/Waterfront",,,"$18 - $22 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-08-31,"Lounge Server","Fathom Press LLC",,,"estimated $27.9k - $35.3k a year",,"West Bayside area)",Portland,ME,"4101"
+2022-09-01,"Full and Part-Time Parking Staff","UPP Global",,,"$15 - $20 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-08-31,"Clinician - Living Room Crisis Center","Spurwink Services",spurwink.org,"Mental Health Care",,,"West Bayside area)",Portland,ME,"4101"
+2022-09-01,"Nurse - Living Room Crisis Center","Spurwink Services",spurwink.org,"Mental Health Care",,,"North Deering area)",Portland,ME,"4103"
+2022-08-30,"Dog Daycare Attendant Happy tails","Happy Tails, Inc.",,,"from $13 an hour",,"Riverton area)",Portland,ME,"4103"
+2022-08-31,"Retail Sales - Commercial","Maine Hardware",mainehardware.com,Retail,"$17 - $19 an hour",,"Valley Street area)",Portland,ME,"4102"
+2022-09-01,Bartender,"Hyatt Place Portland Old Port",,,"$15 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-08-31,"Outside Sales Representative","Renewables Worldwide",,,"$65,000 - $95,000 a year",,,Portland,ME,""
+2022-08-30,Dishwasher,"Central Provisions",,,"$18 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-08-31,"School Operator & Coordinator of Administrative Support Cent...",Waynflete,waynflete.org,"Education Management","estimated $33.8k - $42.8k a year",,"West End area)",Portland,ME,"4102"
+2022-09-01,Server,Margaritas,margaritasmexicanrestaurant1.com,Restaurants,"estimated $40.3k - $51.1k a year",,"Valley Street area)",Portland,ME,"4102"
+2022-08-31,"Assistant Guest Services Manager","Fathom Press LLC",,,"estimated $34.9k - $44.3k a year",,"West Bayside area)",Portland,ME,"4101"
+2022-08-31,"Hedge Fund Accountant - June 2023","Stone Coast Fund Services",stone-coast.com,"Financial Services","estimated $49.5k - $62.7k a year",,"West Bayside area)",Portland,ME,"4101"
+2022-08-30,"Bartender and Server","Portland, ME 04101 (Downtown area)",,,,,,,,""
+2022-08-27,"Adult/Children's Mental Health Case Manager","Gateway Community Services",gatewayrecovery.org,,"$15.00 - $31.50 an hour",,"Oakdale area)",Portland,ME,"4101"
+2022-08-31,"Guest Service Agent","Hyatt Place Portland Old Port",,,"estimated $27.9k - $35.3k a year",,"Downtown area)",Portland,ME,"4101"
+2022-09-01,"Speech and Language Pathologist","Spurwink Services",spurwink.org,"Mental Health Care",,,"North Deering area)",Portland,ME,"4103"
+2022-08-27,"Inventory Clerk II","Covetrus, North America",covetrus.com,Veterinary,"estimated $30.9k - $39.1k a year",,"East Bayside-India Street area)",Portland,ME,"4101"
+2022-08-27,"Detail Specialist",U-Haul,uhaul.com,Retail,"estimated $28.9k - $36.5k a year",,"East Bayside-India Street area)",Portland,ME,"4101"
+2022-09-01,"Administrative Coordinator","Amity Companies, LLC",,,"estimated $31.7k - $40.1k a year",,"Downtown area)",Portland,ME,"4101"
+2022-08-31,"Housekeeper|Cross Insurance Arena","Oak View Group",oakviewgroup.com,Entertainment,"estimated $28.7k - $36.3k a year",,"Downtown area)",Portland,ME,"4101"
+2022-08-31,"Associate Chiropractor","Body Back Chiropractic and Physiotherapy",,,"estimated $88.2k - $112k a year",,"Nasons Corner area)",Portland,ME,"4102"
+2022-08-31,"BHP Float In School Day Treatment Behavioral Health Professi...","Casa, Inc",casamaine.org,,"$21 - $22 an hour",,"Riverton area)",Portland,ME,"4103"
+2022-08-31,"Housekeeper|Cross Insurance Arena","Oak View Group",oakviewgroup.com,Entertainment,"estimated $28.7k - $36.3k a year",,"Downtown area)",Portland,ME,"4101"
+2022-09-01,"Car Detailer","Avis Budget Group",avisbudgetgroup.com,"Leisure, Travel & Tourism","from $17.50 an hour",,"Stroudwater area)",Portland,ME,"4102"
+2022-08-30,"Personal Support Specialist","SavePlus Home Care Services",saveplushomecare.com,,"$16 - $18 an hour",,,Portland,ME,""
+2022-09-01,"Assembly Worker - 2nd Shift","Paradigm Windows",paradigmwindows.com,"Building Materials","from $20.50 an hour",,"Riverton area)",Portland,ME,"4103"
+2022-08-30,"Lube and Tire Technician","3G's Tire and Auto Service",,,"$18 - $22 an hour",,"East Deering area)",Portland,ME,"4103"
+2022-08-30,"Sales Associate","The Granite Group",granitegroup.com,,"estimated $33.9k - $42.9k a year",,"North Deering area)",Portland,ME,"4103"
+2022-08-31,"Night Auditor - Part Time","Hyatt Place Portland Old Port",,,"estimated $28.1k - $35.5k a year",,"Downtown area)",Portland,ME,"4101"
+2022-09-01,"Store Manager","Upward Subs LLC",,,"$50,000 - $60,000 a year",,"Rosemont area)",Portland,ME,"4102"
+2022-08-30,"Road Service Tire Technician","Sullivan Tire",sullivantire.com,Automotive,"estimated $30.9k - $39.1k a year",,"Rosemont area)",Portland,ME,"4102"
+2022-08-30,"Full-Time BHP/DSP up to $18/hr. with up to $2500 incentives",Affinity,affinity-group.ca,"Information Technology & Services","up to $18 an hour",,"Riverton area)",Portland,ME,"4103"
+2022-08-27,"On The Spot Offer! Warehouse Associate","Temco Logistics",temcologistics.com,"Logistics & Supply Chain","$17 - $18 an hour",,"East Deering area)",Portland,ME,"4103"
+2022-08-31,"Utility Construction Laborer","New England Utility Constructors Inc.",,,"estimated $36.4k - $46.2k a year",,,Portland,ME,""
+2022-08-31,"Full Time Medical Receptionist","Alliance Physical Therapy",alliancepthealth.com,"Hospital & Health Care","$17 - $19 an hour",,"North Deering area)",Portland,ME,"4103"
+2022-08-30,"Crew Member - Overnight","Burger King | Mastoran Corp - LBK, LLC",kamc.tv,"Broadcast Media",,,"Oakdale area)",Portland,ME,"4101"
+2022-09-01,"Assistant Housekeeping Manager Canopy Portland Waterfront Ho...","Fathom Press LLC",,,"estimated $42.2k - $53.4k a year",,"West Bayside area)",Portland,ME,"4101"
+2022-08-31,"Medical Assisant","Bayside Employee Health Center",behc.net,"Medical Devices","$18 - $22 an hour",,"Libbytown area)",Portland,ME,"4102"
+2022-08-31,"Sales Coordinator","AC Hotel Portland Downtown/Waterfront | Crestline...",,,"$20.00 - $21.50 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-09-01,"Full-time Dishwasher","Roma Cafe",,,"$18 an hour",,"Parkside area)",Portland,ME,"4101"
+2022-08-31,"Signature Collection and Voter Contact Canvasser – Portland,...","Maine People's Alliance",,,"from $17 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-09-01,"Entry Level Assembly- 1st Shift","Paradigm Windows",paradigmwindows.com,"Building Materials","from $18.50 an hour",,"Riverton area)",Portland,ME,"4103"
+2022-08-31,"Lube and Tire Technician","Avis Budget Group",avisbudgetgroup.com,"Leisure, Travel & Tourism","$16 an hour",,"Stroudwater area)",Portland,ME,"4102"
+2022-09-01,"Low Voltage Technician","Guardian Systems of Maine",,,"$25 - $35 an hour",,"East Deering area)",Portland,ME,"4103"
+2022-08-30,"RN Manager - Endoscopy","Northern Light Health",northernlighthealth.org,"Hospital & Health Care","estimated $63.5k - $80.5k a year",,"Libbytown area)",Portland,ME,"4102"
+2022-08-30,"Sandwich Artist","City Deli",citydeliva.com,,"$17 - $19 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-08-31,"General Laborer - Commercial Div","Sullivan Tire",sullivantire.com,Automotive,"estimated $31.9k - $40.5k a year",,"North Deering area)",Portland,ME,"4103"
+2022-09-01,"Baker-Full or Part Time","Rose Foods",,,"from $18 an hour",,"Oakdale area)",Portland,ME,"4103"
+2022-09-01,"Nurse Practitioner/Physician Assistant","SaVida Health",savidahealth.com,"Medical Practice",,,,Portland,ME,""
+2022-08-31,"Juice Bar Team Member (Part Time & Full Time Opportunities A...","The Juicery",juicery.com,Restaurants,"$18 - $20 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-08-31,"Behavioral Health Professional- Portland public schools","Connections for Kids",connectionsforkids.org,"Mental Health Care","$16.50 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-09-01,"Full Time Retail Sales","LeRoux Kitchen",lerouxkitchen.com,Retail,"estimated $29.1k - $36.9k a year",,"Downtown area)",Portland,ME,"4101"
+2022-09-01,"DISHWASHER (FULL-TIME AND PART-TIME)",Unidine,unidine.com,"Food & Beverages",,,"North Deering area)",Portland,ME,"4103"
+2022-08-31,"Facilities Staff",Waynflete,waynflete.org,"Education Management","estimated $32.7k - $41.5k a year",,"West End area)",Portland,ME,"4102"
+2022-09-01,"Wireless Sales Associate","T-Mobile Premium Retailer | GP Mobile",mysparkwireless.com,Wireless,"$12 - $20 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-09-01,"Subway Sandwich Artist","Upward Subs LLC",,,"from $17.50 an hour",,"Rosemont area)",Portland,ME,"4102"
+2022-09-01,"WAITER/WAITRESS (FULL-TIME AND PART-TIME)",Unidine,unidine.com,"Food & Beverages",,,"North Deering area)",Portland,ME,"4103"
+2022-09-01,"Retail Assistant Manager","T-Mobile Premium Retailer | GP Mobile",mysparkwireless.com,Wireless,"$14 - $22 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-09-01,"Experienced IT Auditor - SOC Reporting","Wolf & Company PC",wolfandco.com,Accounting,"estimated $76.4k - $96.8k a year",,"West Bayside area)",Portland,ME,"4101"
+2022-08-30,"Child Care Associate Teachers","Bright Horizons Family Solutions",brighthorizons.com,"Education Management","estimated $25.9k - $32.7k a year",,"Rosemont area)",Portland,ME,"4102"
+2022-08-30,"Subway® Assistant Manager",Subway,subway.com,Restaurants,"$17.00 - $17.50 an hour",,"Valley Street area)",Portland,ME,"4102"
+2022-09-01,"Account Representative - State Farm Agent Team Member","Diane Newman - State Farm Agent",,,"estimated $37.9k - $47.9k a year",,"North Deering area)",Portland,ME,"4103"
+2022-08-31,Custodian,"Preble Street",preblestreet.org,"Public Policy","$19.24 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-08-30,"Shift Leader",Margaritas,margaritasmexicanrestaurant1.com,Restaurants,"estimated $34.6k - $43.8k a year",,"Valley Street area)",Portland,ME,"4102"
+2022-08-30,"Overnight Member Service Representative","Planet Fitness - Portland ME Group",,,"estimated $22.1k - $27.9k a year",,"West Bayside area)",Portland,ME,"4101"
+2022-08-30,"Crew Member - Full Time or Part Time","Burger King | Mastoran Corp - LBK, LLC",kamc.tv,"Broadcast Media",,,"Nasons Corner area)",Portland,ME,"4103"
+2022-09-01,"Child Psychologist","LifeStance Health",lifestance.com,"Hospital & Health Care","$145,000 - $155,000 a year",,"Oakdale area)",Portland,ME,"4101"
+2022-09-01,"Maintenance Technician","Port Property Management",,,"$25 - $27 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-08-30,"Member Services Representative FULL TIME","Planet Fitness - Portland ME Group",,,"estimated $20.6k - $26k a year",,"West Bayside area)",Portland,ME,"4101"
+2022-08-31,"SHIFT LEADER","Dunkin' - Cafua Mgmt Co A Dunkin' Franchisee...",,,"estimated $25.9k - $32.7k a year",,"North Deering area)",Portland,ME,"4103"
+2022-09-01,"RN (Registered Nurse) Home Health - South Portland, ME",Amedisys,amedisys.com,"Hospital & Health Care","crew member (up to $16.50/hr!)",,,Portland,ME,""
+2022-08-31,"Crew Member (up to $16.50/hr!)","Dunkin' - Cafua Mgmt Co A Dunkin' Franchisee...",,,"up to $16.50 an hour",,"North Deering area)",Portland,ME,"4103"
+2022-08-30,"Crew Member - Full Time or Part Time","Burger King | Mastoran Corp - LBK, LLC",kamc.tv,"Broadcast Media",,,"West Bayside area)",Portland,ME,"4101"
+2022-09-01,"Research Assistant","Northeastern University",northeastern.edu,"Higher Education",,,,Portland,ME,""
+2022-09-01,"Independent Field Surveyor","RetailData LLC",retaildatallc.com,"Information Technology & Services",,,,Portland,ME,""
+2022-08-31,"Administrative Support Assistant - Environmental Services","Maine Medical Center",mainehealth.org,"Hospital & Health Care",,,"Rosemont area)",Portland,ME,"4102"
+2022-08-30,"Parts Delivery","O'Reilly Auto Parts",oreillyauto.com,Retail,,,"Nasons Corner area)",Portland,ME,"4102"
+2022-08-31,"Patient Support Technician - Patient Transport","Maine Medical Center",mainehealth.org,"Hospital & Health Care",,,"Rosemont area)",Portland,ME,"4102"
+2022-08-31,"Equipment Cleaning Technician - Patient Transport","Maine Medical Center",mainehealth.org,"Hospital & Health Care",,,"Rosemont area)",Portland,ME,"4102"
+2022-08-31,"Financial Benefits Specialist - Trainee",Unum,unum.com,Insurance,"estimated $45.5k - $57.5k a year",,"Stroudwater area)",Portland,ME,"4102"
+2022-08-30,"AM Host/Hostess","Hampton Inn by Hilton Portland Downtown Waterfront",,,"$17 an hour",,"East Bayside-India Street area)",Portland,ME,"4101"
+2022-08-30,"Front Desk Agent","Hampton Inn by Hilton Portland Downtown Waterfront",,,"$16 an hour",,"East Bayside-India Street area)",Portland,ME,"4101"
+2022-08-31,"Audit Merchandiser","footprint Solutions",fprs.com,"Logistics & Supply Chain","$20 an hour",,,Portland,ME,""
+2022-08-31,"Patient Care Coordinator II, part-time - OrthoAccess","Spectrum Healthcare Partners",spectrumhcp.com,"Hospital & Health Care","$19 - $22 an hour",,"North Deering area)",Portland,ME,"4103"
+2022-09-01,"Utility Clerk Part Time","BJ's Wholesale Club, Inc.",bjs.com,Retail,,,"Riverton area)",Portland,ME,"4103"
+2022-09-01,"PT Center Store Associate",Hannaford,hannaford.com,,"estimated $25.9k - $32.9k a year",,"Oakdale area)",Portland,ME,"4101"
+2022-09-01,"PT Sales Associate Cashier",Hannaford,hannaford.com,,"estimated $25.4k - $32.2k a year",,"Oakdale area)",Portland,ME,"4101"
+2022-09-01,"Associate Team Leader","H&R Block",hrblock.com,Retail,,,,Portland,ME,""
+2022-09-01,"Associate Team Leader","H&R Block",hrblock.com,Retail,,,,Portland,ME,""
+2022-08-31,Driver,"AmRide LLC",amride.com,"Leisure, Travel & Tourism","$20 - $30 an hour",,,Portland,ME,""
+2022-09-01,"Property Inspector-Flexible","General Information Services LLC",geninfoserv.com,,"$600 - $800 a week",,,Portland,ME,""
+2022-08-30,"Insurance Loss Control","NEIS Inc.",neis1.com,,"$50 a day",,"North Deering area)",Portland,ME,"4103"
+2022-09-01,"Fleet Driver/ Transporter","Avis Budget Group",avisbudgetgroup.com,"Leisure, Travel & Tourism","$15.50 an hour",,"Stroudwater area)",Portland,ME,"4102"
+2022-08-31,"Guest Service Representative","Clarion Hotel",nordicchoicehotels.se,,"from $18 an hour",,"Libbytown area)",Portland,ME,"4102"
+2022-08-31,"Pharmacy Technician Trainee","CVS Health",cvs.colinkedinprofile,,"$17 - $19 an hour",,"Libbytown area)",Portland,ME,"4102"
+2022-08-30,"Food Delivery Driver",2Dinein,,,"$23 - $29 an hour",,,Portland,ME,""
+2022-08-31,"Tasting Room Lead","Shipyard Brewing Company",,,"$16 - $25 an hour",,"East Bayside-India Street area)",Portland,ME,"4101"
+2022-08-31,"Early Childhood Educator","Portside Learning Center",,,"$16 - $22 an hour",,"North Deering area)",Portland,ME,"4103"
+2022-08-30,"Night Pizza Delivery Drivers","Leonardo's Pizza",leonardosonline.com,"Food & Beverages","$20 - $30 an hour",,"Oakdale area)",Portland,ME,"4101"
+2022-08-30,"Nursing Unit Secretary","Maine Medical Center - MaineHealth",,,"estimated $30.2k - $38.2k a year",,"Valley Street area)",Portland,ME,"4102"
+2022-08-31,"Juice Bar Supervisor - The Juicery Portland","The Juicery",juicery.com,Restaurants,"$20 - $22 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-08-27,"Flagger/Traffic Control - Night work available!","Northeast Safety, Inc.",,,"$19 - $20 an hour",,,Portland,ME,""
+2022-08-31,"Guest Experience Curator | Front Desk | Concierge","The Docent's Collection",,,"$20 - $22 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-08-30,"Behavioral Health Technician","Pine Tree Recovery Center",,,"$18 - $21 an hour",,"Riverton area)",Portland,ME,"4103"
+2022-08-30,"Weekend Sales Rep - $250 per day","CFS Of Maine",,,"$150 - $350 a day",,,Portland,ME,""
+2022-08-31,Server/Bartender,"Clarion Hotel",nordicchoicehotels.se,,"from $13 an hour",,"Libbytown area)",Portland,ME,"4102"
+2022-08-31,"Restaurant Host $19","The Embassy Suites Portland",,,"$19 an hour",,"Portland International Jetport area)",Portland,ME,"4102"
+2022-08-30,"Front Desk Agent","Courtyard Portland Downtown/Waterfront",,,"$18 - $22 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-09-01,"Full and Part-Time Parking Staff","UPP Global",,,"$15 - $20 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-08-30,"Dog Daycare Attendant Happy tails","Happy Tails, Inc.",,,"from $13 an hour",,"Riverton area)",Portland,ME,"4103"
+2022-08-31,"Retail Sales - Commercial","Maine Hardware",mainehardware.com,Retail,"$17 - $19 an hour",,"Valley Street area)",Portland,ME,"4102"
+2022-09-01,Server,Margaritas,margaritasmexicanrestaurant1.com,Restaurants,"estimated $40.3k - $51.1k a year",,"Valley Street area)",Portland,ME,"4102"
+2022-08-30,"Bartender and Server","Portland, ME 04101 (Downtown area)",,,,,,,,""
+2022-09-01,"Customer Service/Ticket Agent","Concord Coach Lines Inc",concordcoachlines.com,Transportation/Trucking/Railroad,"$16.50 an hour",,"Rosemont area)",Portland,ME,"4102"
+2022-08-27,"Adult/Children's Mental Health Case Manager","Gateway Community Services",gatewayrecovery.org,,"$15.00 - $31.50 an hour",,"Oakdale area)",Portland,ME,"4101"
+2022-09-01,"Commercial Cleaner","Country Pride Cleaning Service, Inc.",,,"from $16 an hour",,,Portland,ME,""
+2022-08-31,"Night Auditor","Hyatt Place Portland Old Port",,,"estimated $30.7k - $38.9k a year",,"Downtown area)",Portland,ME,"4101"
+2022-08-30,"Part-Time BHP-work with kids! Up to $18/hr. with up to $2500...",Affinity,affinity-group.ca,"Information Technology & Services","up to $18 an hour",,"Riverton area)",Portland,ME,"4103"
+2022-08-31,"Housekeeper|Cross Insurance Arena","Oak View Group",oakviewgroup.com,Entertainment,"estimated $28.7k - $36.3k a year",,"Downtown area)",Portland,ME,"4101"
+2022-08-31,"BHP Float In School Day Treatment Behavioral Health Professi...","Casa, Inc",casamaine.org,,"$21 - $22 an hour",,"Riverton area)",Portland,ME,"4103"
+2022-08-31,"Housekeeper|Cross Insurance Arena","Oak View Group",oakviewgroup.com,Entertainment,"estimated $28.7k - $36.3k a year",,"Downtown area)",Portland,ME,"4101"
+2022-08-30,"Lube and Tire Technician","3G's Tire and Auto Service",,,"$18 - $22 an hour",,"East Deering area)",Portland,ME,"4103"
+2022-08-31,"Part Time Host/ Server Back","Jing Yan",,,"$20 - $25 an hour",,"East End area)",Portland,ME,"4101"
+2022-08-31,"Night Auditor - Part Time","Hyatt Place Portland Old Port",,,"estimated $28.1k - $35.5k a year",,"Downtown area)",Portland,ME,"4101"
+2022-08-30,"Full-Time BHP/DSP up to $18/hr. with up to $2500 incentives",Affinity,affinity-group.ca,"Information Technology & Services","up to $18 an hour",,"Riverton area)",Portland,ME,"4103"
+2022-08-30,"Crew Member - Overnight","Burger King | Mastoran Corp - LBK, LLC",kamc.tv,"Broadcast Media",,,"Oakdale area)",Portland,ME,"4101"
+2022-08-31,"Custodian (part-time)","Preble Street",preblestreet.org,"Public Policy","$19.24 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-08-31,"Medical Assisant","Bayside Employee Health Center",behc.net,"Medical Devices","$18 - $22 an hour",,"Libbytown area)",Portland,ME,"4102"
+2022-08-31,"Lube and Tire Technician","Avis Budget Group",avisbudgetgroup.com,"Leisure, Travel & Tourism","$16 an hour",,"Stroudwater area)",Portland,ME,"4102"
+2022-08-30,"Sandwich Artist","City Deli",citydeliva.com,,"$17 - $19 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-09-01,"Member Services Representative PART TIME WEEKEND","Planet Fitness - Portland ME Group",,,"estimated $19.8k - $25k a year",,"West Bayside area)",Portland,ME,"4101"
+2022-09-01,"Baker-Full or Part Time","Rose Foods",,,"from $18 an hour",,"Oakdale area)",Portland,ME,"4103"
+2022-08-31,"NOW HIRING Prep Shift 6a-11a","Chipotle Mexican Grill",chipotlemexicangrill.com,,"$16 - $17 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-09-01,"Nurse Practitioner/Physician Assistant","SaVida Health",savidahealth.com,"Medical Practice",,,,Portland,ME,""
+2022-08-31,"Juice Bar Team Member (Part Time & Full Time Opportunities A...","The Juicery",juicery.com,Restaurants,"$18 - $20 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-09-01,"DISHWASHER (FULL-TIME AND PART-TIME)",Unidine,unidine.com,"Food & Beverages",,,"North Deering area)",Portland,ME,"4103"
+2022-09-01,"Subway Sandwich Artist","Upward Subs LLC",,,"from $17.50 an hour",,"Rosemont area)",Portland,ME,"4102"
+2022-09-01,"WAITER/WAITRESS (FULL-TIME AND PART-TIME)",Unidine,unidine.com,"Food & Beverages",,,"North Deering area)",Portland,ME,"4103"
+2022-08-31,"Behavioral Health Professional (BHP) Child home support- Por...","Connections for Kids",connectionsforkids.org,"Mental Health Care","$16.50 an hour",,,Portland,ME,""
+2022-09-01,"Facilities / Building Maintenance","Fathom Press LLC",,,"estimated $35.5k - $44.9k a year",,"West Bayside area)",Portland,ME,"4101"
+2022-08-30,"Shift Leader",Margaritas,margaritasmexicanrestaurant1.com,Restaurants,"estimated $34.6k - $43.8k a year",,"Valley Street area)",Portland,ME,"4102"
+2022-08-30,"Crew Member - Full Time or Part Time","Burger King | Mastoran Corp - LBK, LLC",kamc.tv,"Broadcast Media",,,"Nasons Corner area)",Portland,ME,"4103"
+2022-08-30,"Member Services Representative PART TIME","Planet Fitness - Portland ME Group",,,"estimated $19.9k - $25.1k a year",,"West Bayside area)",Portland,ME,"4101"
+2022-08-31,"Crew Member (up to $16.50/hr!)","Dunkin' - Cafua Mgmt Co A Dunkin' Franchisee...",,,"up to $16.50 an hour",,"North Deering area)",Portland,ME,"4103"
+2022-08-30,"Crew Member - Full Time or Part Time","Burger King | Mastoran Corp - LBK, LLC",kamc.tv,"Broadcast Media",,,"West Bayside area)",Portland,ME,"4101"
+2022-08-30,"AM Host/Hostess","Hampton Inn by Hilton Portland Downtown Waterfront",,,"$17 an hour",,"East Bayside-India Street area)",Portland,ME,"4101"
+2022-08-30,"Front Desk Agent","Hampton Inn by Hilton Portland Downtown Waterfront",,,"$16 an hour",,"East Bayside-India Street area)",Portland,ME,"4101"
+2022-09-01,"Property Inspector-Flexible","General Information Services LLC",geninfoserv.com,,"$600 - $800 a week",,,Portland,ME,""
+2022-09-01,"Adult Shared Living Home Care Provider Needed! (Portland, ME...",LifeConnections,life-connections.org,"Mental Health Care","$49,000 a year",Remote,,"Remote in Portland",ME,""
+2022-08-30,"Real Estate Sales Agent","The Hatcher Group of Keller Williams Realty",,,"$71,004 - $82,900 a year",,,"Hybrid remote in Portland",ME,"4101"
+2022-08-30,"Paid Nurse Practitioner Preceptors (MD/DO/NP/CNM)","Portland, ME 04103 (North Deering area)",,,,,,,,""
+2022-08-30,"AM Host/Hostess","Hampton Inn by Hilton Portland Downtown Waterfront",,,"$17 an hour",,"East Bayside-India Street area)",Portland,ME,"4101"
+2022-08-30,"Front Desk Agent","Hampton Inn by Hilton Portland Downtown Waterfront",,,"$16 an hour",,"East Bayside-India Street area)",Portland,ME,"4101"
+2022-08-31,"Housekeeper|Cross Insurance Arena","Oak View Group",oakviewgroup.com,Entertainment,"estimated $28.7k - $36.3k a year",,"Downtown area)",Portland,ME,"4101"
+2022-08-31,"Housekeeper|Cross Insurance Arena","Oak View Group",oakviewgroup.com,Entertainment,"estimated $28.7k - $36.3k a year",,"Downtown area)",Portland,ME,"4101"
+2022-08-30,"Lawn Care Worker","Clement Bros Lawn & Landscape",,,"$18 an hour",,"North Deering area)",Portland,ME,"4103"
+2022-09-01,"Subway Sandwich Artist","Upward Subs LLC",,,"from $17.50 an hour",,"Rosemont area)",Portland,ME,"4102"
+2022-08-30,"AM Host/Hostess","Hampton Inn by Hilton Portland Downtown Waterfront",,,"$17 an hour",,"East Bayside-India Street area)",Portland,ME,"4101"
+2022-08-30,"Front Desk Agent","Hampton Inn by Hilton Portland Downtown Waterfront",,,"$16 an hour",,"East Bayside-India Street area)",Portland,ME,"4101"
+2022-08-31,"Early Childhood Educator","Portside Learning Center",,,"$16 - $22 an hour",,"North Deering area)",Portland,ME,"4103"
+2022-08-29,"Property Administrative Assistant","Preservation Management, Inc.",preservationmanagement.com,"Real Estate","estimated $32.7k - $41.5k a year",,,Portland,ME,""
+2022-08-29,"Supply Coordinator - Distribution",MaineHealth,,,,,"West Bayside area)",Portland,ME,"4101"
+2022-08-27,"Trauma Registrar - Surgery Trauma Program","Maine Medical Center",mainehealth.org,"Hospital & Health Care",,,"Rosemont area)",Portland,ME,"4102"
+2022-08-29,"Math Intervention Teacher for K-5 students (full time 1.0 FT...","Portland Public Schools",pps.net,"Primary/Secondary Education",,,"West Bayside area)",Portland,ME,"4101"
+2022-08-29,"Title 1 Educational Technician III, (full time, 1.0 FTE) Eas...","Portland Public Schools",pps.net,"Primary/Secondary Education",,,"West Bayside area)",Portland,ME,"4101"
+2022-08-27,"Clinical Nurse (RN) - General Surgical Unit (R3) - New Gradu...","Maine Medical Center",mainehealth.org,"Hospital & Health Care",,,"Rosemont area)",Portland,ME,"4102"
+2022-08-28,"Customer Service Associate - Temporary",WALGREENS,walgreens.com,Retail,,,"West Bayside area)",Portland,ME,"4101"
+2022-08-27,"Medical Assistant, LPN For Primary Care- Fulltime and Part t...","InterMed, P.A.",intermed.com,"Medical Practice","estimated $33.9k - $42.9k a year",,"West Bayside area)",Portland,ME,"4101"
+2022-08-27,"Grade 4 for looping Grade 3 & 4 Teacher (full time 1.0 FTE)...","Portland Public Schools",pps.net,"Primary/Secondary Education",,,"West Bayside area)",Portland,ME,"4101"
+2022-08-27,"CRG Divisional Governance Specialist","WELLS FARGO BANK",wellsfargo.com,"Financial Services",,,"Downtown area)",Portland,ME,"4101"
+2022-08-27,"1st/2nd Grade Assistant Teacher and K-6 AfterCare Teacher","Breakwater School",,,"estimated $34.3k - $43.5k a year",,"Nasons Corner area)",Portland,ME,"4102"
+2022-08-27,"Physician Assistant or Acute Care Nurse Practitioner - Traum...","Maine Medical Center",mainehealth.org,"Hospital & Health Care",,,"Rosemont area)",Portland,ME,"4102"
+2022-08-27,"Building Custodian II-2ND Shift (full time 1.0 FTE) Portland...","Portland Public Schools",pps.net,"Primary/Secondary Education",,,"West Bayside area)",Portland,ME,"4101"
+2022-08-27,"Receptionist (Temporary) - UniFirst",UniFirst,unifirst.com,Textiles,,,,Portland,ME,"4122"
+2022-08-29,"Pole Set Operator","On Target Utility Services",ontargetservices.com,Utilities,"up to $28.21 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-08-27,"Clinical Nurse II (RN) - Emergency Department (ED)","Maine Medical Center",mainehealth.org,"Hospital & Health Care",,,"Rosemont area)",Portland,ME,"4102"
+2022-08-27,"Clinical Nurse (RN) - Medical Oncology (CFT7)","Maine Medical Center",mainehealth.org,"Hospital & Health Care",,,"Rosemont area)",Portland,ME,"4102"
+2022-08-27,"Production Team Partner - Stockroom Processor - UniFirst",UniFirst,unifirst.com,Textiles,,,,Portland,ME,"4122"
+2022-08-27,"Pole Set Apprentice","On Target Utility Services",ontargetservices.com,Utilities,"$18.94 - $20.81 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-08-27,"Personal Banker (Teller)- Portland Business Center","Skowhegan Savings Bank",,,"$17 - $23 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-08-27,"Fiber Optic Technician Apprentice","On Target Utility Services",ontargetservices.com,Utilities,"$17 - $23 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-08-27,"Registered Nurse (RN) - Women's Health - Maternal Fetal Medi...","Maine Medical Partners",,,,,"Rosemont area)",Portland,ME,"4102"
+2022-08-28,"First Grade Classroom Teacher (full time, 1.0 FTE) - Ocean A...","Portland Public Schools",pps.net,"Primary/Secondary Education",,,"Deering Center area)",Portland,ME,"4103"
+2022-08-27,"Production Team Partner - Mat Roller & Order Builder - UniFi...",UniFirst,unifirst.com,Textiles,,,,Portland,ME,"4122"
+2022-08-27,"Production Team Partner - Truck Unloader & Sorter - UniFirst",UniFirst,unifirst.com,Textiles,,,,Portland,ME,"4122"
+2022-08-29,"Class A Dedicated Home Wkly-6K Sign On-1400-2500/WK",Rudolph,,,"estimated $77.8k - $98.4k a year",,"Rosemont area)",Portland,ME,"4102"
+2022-08-27,"Cardiac Sonographer II","Maine Medical Center",mainehealth.org,"Hospital & Health Care",,,"Rosemont area)",Portland,ME,"4102"
+2022-08-27,"Clinical Nurse (RN) - Inpatient Float Pool - New Graduates W...","Maine Medical Center",mainehealth.org,"Hospital & Health Care",,,"Rosemont area)",Portland,ME,"4102"
+2022-08-27,"Production Team Partner - Garment Sorter & Shipper - UniFirs...",UniFirst,unifirst.com,Textiles,,,,Portland,ME,"4122"
+2022-08-27,"Production Team Partner - Washroom Operator - UniFirst",UniFirst,unifirst.com,Textiles,,,,Portland,ME,"4122"
+2022-08-27,"Production Team Partner - Garment Inspector & Hanger - UniFi...",UniFirst,unifirst.com,Textiles,,,,Portland,ME,"4122"
+2022-08-27,"Maintenance Custodian - UniFirst",UniFirst,unifirst.com,Textiles,,,,Portland,ME,"4122"
+2022-08-27,"Tumor Registrar-ONC Oncology Info Svs SCD","Maine Medical Center",mainehealth.org,"Hospital & Health Care",,,"Rosemont area)",Portland,ME,"4102"
+2022-08-27,"Telecom Line Worker","On Target Utility Services",ontargetservices.com,Utilities,"up to $30 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-08-28,"Route Service Supervisor- UniFirst",UniFirst,unifirst.com,Textiles,,,,Portland,ME,"4122"
+2022-08-27,"Physician Assistant or Acute Care Nurse Practitioner - Surge...","Maine Medical Center",mainehealth.org,"Hospital & Health Care",,,"Rosemont area)",Portland,ME,"4102"
+2022-08-27,"FT Pharmacy Technician Certified",Hannaford,hannaford.com,,"estimated $29.2k - $37k a year",,"Oakdale area)",Portland,ME,"4101"
+2022-08-27,"Academic Coach","Cornerstones of Maine",,,"$45,000 - $55,000 a year",,"West End area)",Portland,ME,"4102"
+2022-08-27,"Bottle Pick-up Driver","Bow Street Beverage",bowstreetbeverage.com,,"$20 an hour",,,Portland,ME,""
+2022-08-27,"Retail Associate - Liquor, Beer, and Wine","Bow Street Beverage",bowstreetbeverage.com,,"$16 an hour",,"Oakdale area)",Portland,ME,"4101"
+2022-08-27,"Warehouse Associate & Redemption Pick Up Driver","Bow Street Beverage",bowstreetbeverage.com,,"from $20 an hour",,"Oakdale area)",Portland,ME,"4101"
+2022-08-27,"Elite Guest Service Associate","Go Rentals",gorentals.com,Hospitality,,,"Portland International Jetport area)",Portland,ME,"4102"
+2022-08-27,"Inspector, field technician","Hancock Claims Consultants, LLC",hancockclaims.com,Insurance,"from $75,000 a year",,,Portland,ME,""
+2022-08-27,"FedEx Delivery Driver","Kinlogistics Inc.",kinlogic.com,"Logistics & Supply Chain","from $175 a day",,,Portland,ME,""
+2022-08-27,"Transit Bus Operator/Driver (Full & Part-time) & New Pay Rat...","Greater Portland Transit District",,,"$24.27 - $30.62 an hour",,,Portland,ME,""
+2022-08-27,"Shelter Support Staff - day, evening and overnight shifts av...","Preble Street",preblestreet.org,"Public Policy","$20 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-08-27,"Lounge Server (Top of the East)","Westin Portland Harborview",,,,,,Portland,ME,"4101"
+2022-08-28,"Daytime Waitperson","Miss Portland Diner",,,"from $15 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-08-27,"Sales Management - Fast Track Program","NYL - Portland",,,"$60,000 - $110,000 a year",,,Portland,ME,""
+2022-08-29,"Permitting and Inspections Support Services Specialist","City of Portland, Maine",portlandmaine.gov,"Government Administration","from $772 a week",,"Downtown area)",Portland,ME,"4101"
+2022-08-27,"Assistant Property Manager","Port Property Management",,,"$22 - $24 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-08-27,"Retail Sales Merchandiser","Advantage Solutions",advantageservicesolutions.com,,"$17 - $19 an hour",,"Ocean Avenue area)",Portland,ME,"4101"
+2022-08-27,"Associate Operations Manager","AAMCO Transmissions and Total Car Care",aamco.com,Automotive,"$55,000 - $65,000 a year",,"Riverton area)",Portland,ME,"4103"
+2022-08-27,"Rosemont Warehouse Crewmember","Rosemont Market & Bakery",,,"$18 - $20 an hour",,"Riverton area)",Portland,ME,"4103"
+2022-08-27,"Assistant Property Manager","Schneider Property Management LLC",,,"from $17 an hour",,"East Deering area)",Portland,ME,"4103"
+2022-08-29,"Café Team, No Nights or Weekends","Cotes Portland Cafe",,,"$16 - $18 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-08-29,"Nurse Injector","Maine Facial Aesthetics",,,"$35.00 - $53.97 an hour",,"East Bayside-India Street area)",Portland,ME,"4101"
+2022-08-27,"Convenience Store Manager in Training-2331","Energy North Inc",energytogo.com,"Oil & Energy","$41,547 - $69,147 a year",,"Rosemont area)",Portland,ME,"4103"
+2022-08-29,"Parking Control Officer","City of Portland, Maine",portlandmaine.gov,"Government Administration","from $20.03 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-08-29,"Online Ski + Surf Shop - Help Needed","Park 2 Peak",,,"from $15 an hour",,"East Bayside-India Street area)",Portland,ME,"4101"
+2022-08-28,"Overnight Safety & Security Officer","Westin Portland Harborview",,,,,,Portland,ME,"4101"
+2022-08-27,"Bartender (Top of the East)","Westin Portland Harborview",,,,,,Portland,ME,"4101"
+2022-08-28,"Warehouse Compliance Auditor","Capstone Logistics LLC",capstonelogistics.com,"Logistics & Supply Chain","from $21 an hour",,,Portland,ME,""
+2022-08-28,"Barback (Top of the East)","Westin Portland Harborview",,,"$13 an hour",,,Portland,ME,"4101"
+2022-08-28,"Safety & Security Supervisor","Westin Portland Harborview",,,,,,Portland,ME,"4101"
+2022-08-27,"Wellness Shelter Caseworker","Preble Street",preblestreet.org,"Public Policy","$20 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-08-27,"DSP (Direct Support Professional)","200 Years Old LLC",,,"$16 - $20 an hour",,,Portland,ME,""
+2022-08-29,"Restaurant Crew Member","Applebee's - AAG",,,"estimated $24.1k - $30.5k a year",,,Portland,ME,""
+2022-08-29,"Kitchen Helper","Applebee's - AAG",,,"$17 - $20 an hour",,,Portland,ME,""
+2022-08-27,"CUSTODIAN SITE MANAGER","CASCOBAY CLEANING SERVICES",,,"$40,000 - $65,000 a year",,,Portland,ME,""
+2022-08-27,"Registered Nurse (RN)","Armor Health",armorcorrectional.com,"Hospital & Health Care","estimated $67.7k - $85.7k a year",,"Libbytown area)",Portland,ME,"4102"
+2022-08-27,"Wastewater Operator - Portland Water District","Portland Water District",pwd.org,Utilities,"up to $24.02 an hour",,"East End area)",Portland,ME,"4101"
+2022-08-27,"Warehouse Associate","Bow Street Beverage",bowstreetbeverage.com,,"$16 an hour",,"Oakdale area)",Portland,ME,"4101"
+2022-08-27,"Childcare/Preschool Teacher","The Academy for Active Learners",theacademyforactivelearners.com,Animation,"$17 - $18 an hour",,"Riverton area)",Portland,ME,"4103"
+2022-08-27,"Delivery and Bottle Pick-up Driver","Bow Street Beverage",bowstreetbeverage.com,,"$20 an hour",,,Portland,ME,""
+2022-08-28,Bellmen,"Holiday Inn by the Bay",innbythebay.com,Hospitality,,,"Downtown area)",Portland,ME,"4101"
+2022-08-28,"Fleet Driver/Transporter","Avis Budget Group",avisbudgetgroup.com,"Leisure, Travel & Tourism","$15.50 an hour",,,Portland,ME,""
+2022-08-27,"Crystal Joys Store Manager - Portland","Portland, ME 04101 (Downtown area)",,,,,,,,""
+2022-08-27,"Housekeeping Supervisor","The Press Hotel / UNION",thepresshotel.com,Hospitality,"$25 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-08-27,"CNAs Needed! Days & Evenings Needed! Long-Term Care! Agency!","PPS Agency",pps.com,"Staffing & Recruiting","estimated $40.7k - $51.5k a year",,,Portland,ME,""
+2022-08-27,"Restaurant Server","Portland, ME 04102 (West End area)",,,,,,,,""
+2022-08-29,"Custodial Worker","City of Portland, Maine",portlandmaine.gov,"Government Administration","from $713 a week",,"Valley Street area)",Portland,ME,"4102"
+2022-08-27,"Equipment Operator","RailWorks Corporation",railworks.com,Construction,"estimated $42.7k - $54.1k a year",,"North Deering area)",Portland,ME,"4103"
+2022-08-27,"Orthodontic Assistant","Orthodontic Associates",oasmiles.com,"Medical Practice","estimated $31.1k - $39.3k a year",,"East Bayside-India Street area)",Portland,ME,"4101"
+2022-08-28,"Host (Top of the East)","Westin Portland Harborview",,,"$13 an hour",,,Portland,ME,"4101"
+2022-08-27,"Front Desk Agent","Westin Portland Harborview",,,"$18 an hour",,,Portland,ME,"4101"
+2022-08-27,"Convenience Store Clerk-2331","Energy North Inc",energytogo.com,"Oil & Energy","$14.25 - $22.15 an hour",,"Rosemont area)",Portland,ME,"4103"
+2022-08-28,"Food Prep Team Member","Chipotle Mexican Grill",chipotlemexicangrill.com,,"$16 - $17 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-08-28,"Associate Corporation Counsel - Land Use and Regulatory Atto...","City of Portland, Maine",portlandmaine.gov,"Government Administration","$103,560 - $131,218 a year",,"Downtown area)",Portland,ME,"4101"
+2022-08-29,"Crew Member (up to $16.50/hr!)","Dunkin' - Cafua Mgmt Co A Dunkin' Franchisee...",,,"up to $16.50 an hour",,"North Deering area)",Portland,ME,"4103"
+2022-08-29,"SHIFT LEADER","Dunkin' - Cafua Mgmt Co A Dunkin' Franchisee...",,,"estimated $25.9k - $32.7k a year",,"North Deering area)",Portland,ME,"4103"
+2022-08-28,"Chipotle Crew Member","Chipotle Mexican Grill",chipotlemexicangrill.com,,"$16 - $17 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-08-28,"Service Express Agent","Westin Portland Harborview",,,"$18 an hour",,,Portland,ME,"4101"
+2022-08-28,"PM Restaurant Server","Westin Portland Harborview",,,,,,Portland,ME,"4101"
+2022-08-28,"House Person","Westin Portland Harborview",,,"$16 an hour",,,Portland,ME,"4101"
+2022-08-28,"Room Service Server","Westin Portland Harborview",,,"$10 an hour",,,Portland,ME,"4101"
+2022-08-27,"Laborer (Construction)","Maine Drilling & Blasting Inc.",,,"estimated $34.5k - $43.7k a year",,"North Deering area)",Portland,ME,"4103"
+2022-08-27,"Dietary Aide / Kitchen Staff","Seaside Rehabilitation",,,"estimated $26.7k - $33.7k a year",,"East Deering area)",Portland,ME,"4103"
+2022-08-27,"Inside Sales Representative","Beacon Building Products",becn.com,"Building Materials",,,"Riverton area)",Portland,ME,"4103"
+2022-08-27,"Track Laborer","RailWorks Corporation",railworks.com,Construction,"estimated $34.9k - $44.1k a year",,"North Deering area)",Portland,ME,"4103"
+2022-08-26,"Construction Laborer","Consigli Construction Co Inc",consigli.com,Construction,"estimated $36.4k - $46.2k a year",,,Portland,ME,""
+2022-08-29,"Laundry Operator","City of Portland, Maine",portlandmaine.gov,"Government Administration","$16.86 - $19.23 an hour",,"Nasons Corner area)",Portland,ME,"4102"
+2022-08-28,Dishwasher,"Westin Portland Harborview",,,"$15 an hour",,,Portland,ME,"4101"
+2022-08-28,Housekeeper,"Westin Portland Harborview",,,"$15 an hour",,,Portland,ME,"4101"
+2022-08-27,"Commercial Parking Attendant","UPP Global",,,"from $15 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-08-27,"Direct Support Professional- CRMA OVERNIGHT/AWAKE","Group Main Stream Inc",,,"estimated $28.9k - $36.7k a year",,"Rosemont area)",Portland,ME,"4102"
+2022-08-27,"Service Lead","Big Lots",bigink.com,,"estimated $22.4k - $28.4k a year",,"Nasons Corner area)",Portland,ME,"4102"
+2022-08-27,Bartender,"The Canopy Portland Waterfront Hotel",,,"from $13 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-08-27,"Fleet Care Technician - 2nd Shift & New Pay Rates!","Greater Portland Transit District",,,"from $23.13 an hour",,"Valley Street area)",Portland,ME,"4102"
+2022-08-27,Laborer,"Timberland Drywall Inc.",,,"from $16 an hour",,,Portland,ME,""
+2022-08-27,"Retail Associate","Bow Street Beverage",bowstreetbeverage.com,,"$16 an hour",,"Oakdale area)",Portland,ME,"4101"
+2022-08-27,"Convenience Store Manager in Training-2320","Energy North Inc",energytogo.com,"Oil & Energy","$41,547 - $69,147 a year",,"Nasons Corner area)",Portland,ME,"4103"
+2022-08-27,"Convenience Store Manager in Training-2325","Energy North Inc",energytogo.com,"Oil & Energy","$41,547 - $69,147 a year",,"Libbytown area)",Portland,ME,"4102"
+2022-08-27,Bartender,"Portland, ME 04102 (West End area)",,,,,,,,""
+2022-08-27,"Convenience Store Clerk-2325","Energy North Inc",energytogo.com,"Oil & Energy","$14.25 - $22.15 an hour",,"Libbytown area)",Portland,ME,"4102"
+2022-08-27,"Dietary Aide / Kitchen Staff","Seaside Rehabilitation",,,"estimated $26.9k - $34.1k a year",,"East Deering area)",Portland,ME,"4103"
+2022-08-27,"Dietary Aide / Kitchen Staff","Seaside Rehabilitation",,,"estimated $26.9k - $34.1k a year",,"East Deering area)",Portland,ME,"4103"
+2022-08-27,"Convenience Store Clerk-2320","Energy North Inc",energytogo.com,"Oil & Energy","$14.25 - $22.15 an hour",,"Nasons Corner area)",Portland,ME,"4103"
+2022-08-28,"AM Restaurant Server","Westin Portland Harborview",,,"$10 an hour",,,Portland,ME,"4101"
+2022-08-28,"CITY CARRIER ASSISTANT","United States Postal Service",usps.com,"Government Administration","$18.92 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-08-27,"Entry Level - Kitchen Crew Member","Muse Paintbar",musepaintbar.com,Entertainment,"estimated $29.7k - $37.7k a year",,"Downtown area)",Portland,ME,"4101"
+2022-08-27,"Paint Night Artist","Muse Paintbar",musepaintbar.com,Entertainment,"estimated $32.8k - $41.6k a year",,"Downtown area)",Portland,ME,"4101"
+2022-08-27,"PT Hannaford To Go Expeditor",Hannaford,hannaford.com,,,,"Oakdale area)",Portland,ME,"4101"
+2022-08-27,"Per Diem Registered Nurse (RN)- Perioperative Nurse! Outpati...","InterMed, P.A.",intermed.com,"Medical Practice","estimated $93.1k - $118k a year",,"West Bayside area)",Portland,ME,"4101"
+2022-08-27,"Fleet Driver / Transporter - PT","Avis Budget Group",avisbudgetgroup.com,"Leisure, Travel & Tourism","$15.50 an hour",,,Portland,ME,""
+2022-08-27,Teller,"Bangor Savings Bank",bangor.com,Banking,"estimated $29.4k - $37.2k a year",,,Portland,ME,""
+2022-08-27,"Laboratory Assistant/Phlebotomist I - Per Diem","Martin's Point Health Care",martinspoint.org,"Hospital & Health Care","estimated $32k - $40.6k a year",,,Portland,ME,""
+2022-08-27,"Guest Services Representative- Ropes Course Attendant","Jordan's Furniture",jfurn.co,Retail,"$14. jordan’s furniture is a leader…",,,Portland,ME,"4106"
+2022-08-29,"Educational Technician III ( part time, 0.785 FTE) East End...","Portland Public Schools",pps.net,"Primary/Secondary Education",,,"West Bayside area)",Portland,ME,"4101"
+2022-08-27,"Dock Worker / Forklift Operator-Part Time","Old Dominion Freight Line",odfl.com,Transportation/Trucking/Railroad,,,"Stroudwater area)",Portland,ME,"4102"
+2022-08-27,"PT Pharmacy Technician Certified",Hannaford,hannaford.com,,"estimated $28.4k - $36k a year",,"Oakdale area)",Portland,ME,"4101"
+2022-08-27,"Fleet Driver / Transporter - PT","Avis Budget Group",avisbudgetgroup.com,"Leisure, Travel & Tourism","$15.50 an hour",,,Portland,ME,""
+2022-08-27,"Retail Associate - Liquor, Beer, and Wine","Bow Street Beverage",bowstreetbeverage.com,,"$16 an hour",,"Oakdale area)",Portland,ME,"4101"
+2022-08-27,"Transit Bus Operator/Driver (Full & Part-time) & New Pay Rat...","Greater Portland Transit District",,,"$24.27 - $30.62 an hour",,,Portland,ME,""
+2022-08-27,"Bottle Pick-up Driver","Bow Street Beverage",bowstreetbeverage.com,,"$20 an hour",,,Portland,ME,""
+2022-08-27,"Seasonal Team Member","Cheese Louise",,,"$20 - $25 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-08-28,"Mi Sen looking for a part time server","Mi Sen Noodle Bar",,,"$20 - $30 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-08-29,Driver,"AmRide LLC",amride.com,"Leisure, Travel & Tourism","$20 - $30 an hour",,,Portland,ME,""
+2022-08-29,"Peer Support Specialist","Greater Portland Peer Services",,,"$20 - $24 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-08-29,"Café Team, No Nights or Weekends","Cotes Portland Cafe",,,"$16 - $18 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-08-27,"Warehouse Associate","Bow Street Beverage",bowstreetbeverage.com,,"$16 an hour",,"Oakdale area)",Portland,ME,"4101"
+2022-08-29,"Recreation Programmer I - AQUATICS","City of Portland, Maine",portlandmaine.gov,"Government Administration","from $17.09 an hour",,"North Deering area)",Portland,ME,"4103"
+2022-08-27,"Assistant Property Manager","Schneider Property Management LLC",,,"from $17 an hour",,"East Deering area)",Portland,ME,"4103"
+2022-08-29,Budtender,"The Joint.me",,,"$16 - $18 an hour",,"Nasons Corner area)",Portland,ME,"4102"
+2022-08-28,"Part-Time Assistant Manager - Famous Footwear","Famous Footwear",famousfootwear.com,Retail,,,,Portland,ME,"4106"
+2022-08-27,Housekeeper,"Cumberland Club",,,"$18 - $21 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-08-29,"Part-time Dishwasher","Jing Yan",,,"$18 - $21 an hour",,"East End area)",Portland,ME,"4101"
+2022-08-27,"Security Guard","Dirigo Management Company",apartmentsinportlandmaine.com,"Real Estate","from $15 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-08-27,"Front Desk Associate","Jibe Cycling Studio",,,"from $15 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-08-27,"Part Time Assistant Teacher/Floater","Jewish Community Alliance",jcajax.org,"Nonprofit Organization Management","$15 - $17 an hour",,"Libbytown area)",Portland,ME,"4102"
+2022-08-27,"Front Desk Agent","Westin Portland Harborview",,,"$18 an hour",,,Portland,ME,"4101"
+2022-08-28,"Chipotle Crew Member","Chipotle Mexican Grill",chipotlemexicangrill.com,,"$16 - $17 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-08-28,"Food Prep Team Member","Chipotle Mexican Grill",chipotlemexicangrill.com,,"$16 - $17 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-08-27,"Campaign Assistant","Portland Stage",portlandstage.org,"Performing Arts","$15 - $17 an hour",,,"Hybrid remote in Portland",ME,"4101"
+2022-08-28,"PM Restaurant Server","Westin Portland Harborview",,,"$8/hr + tips! great perks and benefits for all positions! pto, 401k…",,,Portland,ME,"4101"
+2022-08-28,"Service Express Agent","Westin Portland Harborview",,,"$18 an hour",,,Portland,ME,"4101"
+2022-08-29,"Online Ski + Surf Shop - Help Needed","Park 2 Peak",,,"from $15 an hour",,"East Bayside-India Street area)",Portland,ME,"4101"
+2022-08-27,"Delivery and Bottle Pick-up Driver","Bow Street Beverage",bowstreetbeverage.com,,"$20 an hour",,,Portland,ME,""
+2022-08-27,"DSP (Direct Support Professional)","200 Years Old LLC",,,"$16 - $20 an hour",,,Portland,ME,""
+2022-08-28,Driver,"Boys & Girls Clubs of Southern Maine",bgcmaine.org,"Civic & Social Organization","from $16.50 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-08-28,"Room Service Server","Westin Portland Harborview",,,"$10 an hour",,,Portland,ME,"4101"
+2022-08-28,"Banquets Server - Part-Time, On-Call","Westin Portland Harborview",,,,,,Portland,ME,"4101"
+2022-08-29,"Nurse Injector","Maine Facial Aesthetics",,,"$35.00 - $53.97 an hour",,"East Bayside-India Street area)",Portland,ME,"4101"
+2022-08-27,"Retail Associate","Bow Street Beverage",bowstreetbeverage.com,,"$16 an hour",,"Oakdale area)",Portland,ME,"4101"
+2022-08-27,"Part-time Evening Custodian","Danuvial Service Solutions",danuvialservicesolutions.com,,"$17 an hour",,"Nasons Corner area)",Portland,ME,"4102"
+2022-08-27,"Convenience Store Clerk-2325","Energy North Inc",energytogo.com,"Oil & Energy","$14.25 - $22.15 an hour",,"Libbytown area)",Portland,ME,"4102"
+2022-08-28,"Part-Time Sales Associate - Famous Footwear","Famous Footwear",famousfootwear.com,Retail,"crew member (up to $16.50/hr!)",,,Portland,ME,"4106"
+2022-08-29,"Crew Member (up to $16.50/hr!)","Dunkin' - Cafua Mgmt Co A Dunkin' Franchisee...",,,"up to $16.50 an hour",,"North Deering area)",Portland,ME,"4103"
+2022-08-28,"House Person","Westin Portland Harborview",,,"$16 an hour",,,Portland,ME,"4101"
+2022-08-28,Dishwasher,"Westin Portland Harborview",,,"$15 an hour",,,Portland,ME,"4101"
+2022-08-28,Housekeeper,"Westin Portland Harborview",,,"$15 an hour",,,Portland,ME,"4101"
+2022-08-27,"PRN Medical Assistant(Tuesday and Thursdays)","OI Infusion",oi-infusion.com,"Hospital & Health Care","$20 - $23 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-08-27,"Commercial Parking Attendant","UPP Global",,,"from $15 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-08-27,"Commercial Cleaner","Country Pride Cleaning Service, Inc.",,,"from $16 an hour",,,Portland,ME,""
+2022-08-27,"BHP In School Day Treatment Substitute","Casa, Inc",casamaine.org,,"$20 - $21 an hour",,"Riverton area)",Portland,ME,"4103"
+2022-08-27,"Convenience Store Clerk-2320","Energy North Inc",energytogo.com,"Oil & Energy","$14.25 - $22.15 an hour",,"Nasons Corner area)",Portland,ME,"4103"
+2022-08-28,"AM Restaurant Server","Westin Portland Harborview",,,"$10 an hour",,,Portland,ME,"4101"
+2022-08-27,"Guest Services Representative- Ropes Course Attendant","Jordan's Furniture",jfurn.co,Retail,,,,Portland,ME,"4106"
+2022-08-27,"Inspector, field technician","Hancock Claims Consultants, LLC",hancockclaims.com,Insurance,"from $75,000 a year",,,Portland,ME,""
+2022-08-27,"DSP (Direct Support Professional)","200 Years Old LLC",,,"$16 - $20 an hour",,,Portland,ME,""
+2022-08-27,"Seasonal Team Member","Cheese Louise",,,"$20 - $25 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-09-01,"Assistant Director of Student Life","University of New England",une.edu,"Higher Education","estimated $58.1k - $73.5k a year",,,Portland,ME,""
+2022-09-01,"Coordinator of Student Life","University of New England",une.edu,"Higher Education","estimated $49.5k - $62.7k a year",,,Portland,ME,""
+2022-09-01,"Graduate Admissions Coordinator","University of New England",une.edu,"Higher Education","estimated $44.3k - $56.1k a year",,,Portland,ME,""
+2022-09-01,"Associate Director of Graduate Financial Aid","University of New England",une.edu,"Higher Education","estimated $86.6k - $110k a year",,,Portland,ME,""
+2022-09-01,"Academic Support Manager - International Learner Engagement","Northeastern University",northeastern.edu,"Higher Education","estimated $51.6k - $65.4k a year",,,Portland,ME,""
+2022-09-01,"Academic Support Manager - Learner Services","Northeastern University",northeastern.edu,"Higher Education","estimated $50.8k - $64.4k a year",,,Portland,ME,""
+2022-09-01,"Administrative Assistant, Counseling Services","University of New England",une.edu,"Higher Education","estimated $34.6k - $43.8k a year",,,Portland,ME,""
+2022-08-30,"Prescription Assistance Case Manager-Access to Care","MaineHealth - Corporate",,,,,"West Bayside area)",Portland,ME,"4101"
+2022-09-01,"Director, Graduate Programs in Education","University of New England",une.edu,"Higher Education","estimated $54.5k - $68.9k a year",,,Portland,ME,""
+2022-09-01,"Staff Assistant - Student Life, Portland Campus","University of New England",une.edu,"Higher Education","estimated $33.9k - $42.9k a year",,,Portland,ME,""
+2022-09-01,"Stager (1st Shift)","Paradigm Windows",paradigmwindows.com,"Building Materials","$20.50 an hour",,"Riverton area)",Portland,ME,"4103"
+2022-09-01,"Research and Teaching Librarian","University of New England",une.edu,"Higher Education","estimated $48.8k - $61.8k a year",,,Portland,ME,""
+2022-09-01,"Patient Care Coordinator","University of New England",une.edu,"Higher Education","estimated $38.7k - $48.9k a year",,,Portland,ME,""
+2022-09-01,"Administrative Assistant, Graduate Admissions","University of New England",une.edu,"Higher Education","estimated $32.3k - $40.9k a year",,,Portland,ME,""
+2022-09-01,"Biomedical Equipment Technician II - Clinical Engineering","Maine Medical Center",mainehealth.org,"Hospital & Health Care",,,"Rosemont area)",Portland,ME,"4102"
+2022-09-01,"Systems Integration Specialist","University of New England",une.edu,"Higher Education","estimated $68.2k - $86.4k a year",,"Riverton area)",Portland,ME,""
+2022-09-01,"INFORMATION TECHNOLOGY MANAGER","Portland Public Library",portland.lib.me.us,,"$27.16 - $31.83 an hour",,"Downtown area)",Portland,ME,"4101"
+2022-08-30,"Software Architect - Team Lead (Remote)",Finetune,,,"estimated $126k - $159k a year",Remote,,"Remote in Portland",ME,""
+2022-08-31,"Crisis Triage Coordinator - Portland",Sweetser,sweetser.org,"Mental Health Care",,,,Portland,ME,""
+2022-08-30,"Legal Program Assistant","Immigrant Legal Advocacy Project",,,"$41,500 - $44,000 a year",,,"Hybrid remote in Portland",ME,"4101"
+2022-08-31,"Recruiting Specialist","Nouria Energy",nouriaenergy.com,Retail,"$65,000 - $70,000 a year",,,Portland,ME,""
+2022-08-31,"Business Law Legal Assistant","Bernstein Shur",bernsteinshur.com,"Law Practice","$23.08 - $28.85 an hour",,,"Hybrid remote in Portland",ME,"4101"
+2022-09-01,"Paid Search Manager","Auto Europe",,,"from $65,000 a year",Remote,,"Remote in Portland",ME,"4103"
+2022-08-30,"Warehouse Manager","Partners for World Health",partnersforworldhealth.org,"Hospital & Health Care","$45,000 - $50,000 a year",,"North Deering area)",Portland,ME,"4103"
+2022-09-01,"Technical Support Specialist","JRI USA",,,"$26.25 - $31.25 an hour",Remote,,"Remote in Portland",ME,""
+2022-09-01,"Housekeeping Manager","The Canopy Portland Waterfront Hotel",,,"from $60,000 a year",,"Downtown area)",Portland,ME,"4101"
+2022-09-01,"Quadient Developer",MPX-SFX,mpxonline.com,"Information Technology & Services","estimated $65.3k - $82.7k a year",,"Rosemont area)",Portland,ME,"4102"
+2022-08-30,"Medical Records Compliance Analyst","Encompass Health",encompasshealth.com,"Hospital & Health Care",,,,Portland,ME,"4102"
+2022-08-31,"Catering Sales Manager","Portland Sheraton at Sable Oaks",,,"$65,000 - $75,000 a year",,,Portland,ME,"4106"
+2022-09-01,"Accounting Supervisor","Catholic Charities Maine",ccmaine.org,"Nonprofit Organization Management","$60,000 - $70,000 a year",,"West Bayside area)",Portland,ME,"4101"
+2022-08-30,"Office Administrator","R.J. Grondin & Sons",,,"$37,500 - $46,000 a year",,,Portland,ME,""
+2022-08-27,"Construction Laborers and Form Carpenters","Scott Construction Corporation",,,"$20 - $33 an hour",,"Riverton area)",Portland,ME,"4103"
+2022-09-01,"Cleaning Manager","Mrs. O's Service Company",,,"$18.50 - $25.00 an hour",,,"Hybrid remote in Portland",ME,"4101"
+2022-09-01,"Territory Sales Manager","Advantage Solutions",advantageservicesolutions.com,,"$21.00 - $22.50 an hour",,,Portland,ME,""
+2022-08-30,"Field Service Technician II","Aventiv Technologies",aventiv.com,"Information Technology & Services","$25 - $26 an hour",,"Libbytown area)",Portland,ME,"4102"
+2022-08-31,"Director of Nursing (DON)","The Barron Center (owned and operated by The City...",,,"$88,908 - $109,338 a year",,"Nasons Corner area)",Portland,ME,"4102"
+2022-08-31,"Complex Sales Manager","AC Hotel Portland Downtown/Waterfront | Crestline...",,,"estimated $41.7k - $52.9k a year",,"West Bayside area)",Portland,ME,"4101"
+2022-08-30,"Onsite EAP Counselor - Per Diem - Portland, ME",Optum,optuminc.com,,,,"Rosemont area)",Portland,ME,"4102"
+2022-08-27,"1099 Insurance Loss Control Inspector",Sedgwick,sedgwick.com,Insurance,,,,Portland,ME,""
+2022-09-01,"Cleaning Manager","Mrs. O's Service Company",,,"$18.50 - $25.00 an hour",,,"Hybrid remote in Portland",ME,"4101"
+2022-08-27,"1099 Insurance Loss Control Inspector",Sedgwick,sedgwick.com,Insurance,,,,Portland,ME,""
+2022-08-27,"FishSCORE Project Manager / Research Associate","Gulf of Maine Research Institute",gmri.org,Research,"$52,200 - $67,000 a year",,"Downtown area)",Portland,ME,"4101"
+2022-08-27,"Guest Teacher Coordinator","Breakwater School",,,"estimated $42.4k - $53.8k a year",,"Nasons Corner area)",Portland,ME,"4102"
+2022-08-27,"Contract Analyst",MaineHealth,,,,,"Rosemont area)",Portland,ME,"4102"
+2022-08-27,"Call Receiver Supervisor","AAA Northern New England",nne.aaa.com,Insurance,,,"Oakdale area)",Portland,ME,"4101"
+2022-08-27,"Per Diem Sterile Processing Technician (SPD Tech)- Outpatien...","InterMed, P.A.",intermed.com,"Medical Practice","estimated $44.4k - $56.2k a year",,"West Bayside area)",Portland,ME,"4101"
+2022-08-27,"Supervisor Risk Adjustment and HEDIS Audit","Martin's Point Health Care",martinspoint.org,"Hospital & Health Care",,,,Portland,ME,""
+2022-08-27,"Paint Night Store Manager","Muse Paintbar",musepaintbar.com,Entertainment,,,"Downtown area)",Portland,ME,"4101"
+2022-08-27,"Community Branch Manager (Mortgage Lending)- Portland Branch","Skowhegan Savings Bank",,,"$75,000 - $90,000 a year",,"West Bayside area)",Portland,ME,"4101"
+2022-08-27,"Patient Service Representative II - Portland","Spectrum Healthcare Partners",spectrumhcp.com,"Hospital & Health Care","$17 - $20 an hour",,"Rosemont area)",Portland,ME,"4102"
+2022-08-27,"Production Manager - UniFirst",UniFirst,unifirst.com,Textiles,,,,Portland,ME,"4122"
+2022-08-27,"Adult Primary Care- Nurse Practitioner, Physician Assistant","InterMed, P.A.",intermed.com,"Medical Practice",,,"West Bayside area)",Portland,ME,"4101"
+2022-08-27,"Director of Human Resources","Portland Gastroenterology Center",,,"from $85,000 a year",,"West Bayside area)",Portland,ME,"4101"
+2022-08-27,"General Manager","Portland Harbor Hotel",portlandharborhotel.com,Hospitality,"estimated $66.9k - $84.7k a year",,"West Bayside area)",Portland,ME,"4101"
+2022-08-27,"Business Analyst","Portland Webworks",portlandwebworks.com,"Computer Software","estimated $69.2k - $87.6k a year",,"Downtown area)",Portland,ME,"4101"
+2022-08-27,"Rehabilitation Counselor II (Multiple Vacancies)","State of Maine",,,"estimated $40.7k - $51.5k a year",,"West Bayside area)",Portland,ME,"4101"
+2022-08-28,"Front Desk Supervisor","Westin Portland Harborview",,,,,,Portland,ME,"4101"
+2022-08-28,"Marketing and Events Manager","Definitive Brewing Company",,,"$40,000 - $60,000 a year",,"Riverton area)",Portland,ME,"4103"
+2022-08-27,"Software QA Analyst","Portland Webworks",portlandwebworks.com,"Computer Software","estimated $61.2k - $77.6k a year",,"Downtown area)",Portland,ME,"4101"
+2022-08-27,"Duct Work & Sheet Metal Supervisor/Manager","Superior Energy Solutions",,,"estimated $73.2k - $92.8k a year",,"North Deering area)",Portland,ME,"4103"
+2022-08-27,"Commercial Roofing Service Foreman","Tecta America",westroof.com,,"from $25 an hour",,"Riverton area)",Portland,ME,"4103"
+2022-08-27,"Therapeutic Residential Advisor - Sleep In Overnights","Cornerstones of Maine",,,"$18 - $20 an hour",,"West Bayside area)",Portland,ME,"4101"
+2022-08-27,"Duct Work & Sheet Metal Supervisor/Manager","Superior Energy Solutions",,,"estimated $73.2k - $92.8k a year",,"North Deering area)",Portland,ME,"4103"
+2022-08-27,"GIS Analyst (Entry-level)","Tetra Tech",tetratech.com,"Civil Engineering","estimated $42.6k - $54k a year",,"East Deering area)",Portland,ME,"4103"
+2022-08-27,Veterinarian,"Portland, ME 04101 (West Bayside area)",,,,,,,,""
+1970-01-01,,,,,,,,,,""

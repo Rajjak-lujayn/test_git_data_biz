@@ -1,0 +1,794 @@
+DATE,"Job Title",Company,Website,Industry,Salary,Remote,AREA,City,State,"Zip Code"
+1970-01-01,"Corporate Recruiter",PowerReviews,powerreviews.com,Internet,"estimated $53.5k ? $67.7k a year",,,Chicago,IL,""
+1970-01-01,"Performance Running EKIN (PRE) ? Chicago",Nike,nike.com,"Sporting Goods",,,,Chicago,IL,""
+1970-01-01,"Director of Operations",KIPP,kipp.com,Machinery,"estimated $66.2k ? $83.8k a year",,,Chicago,IL,""
+1970-01-01,"Executive Recruiter",Salesforce,covidi.com,"Computer Software",,,"River North area)",Chicago,IL," 60654"
+1970-01-01,"Operations Coordinator","Northwestern Medicine",nm.org,"Hospital & Health Care",,,,Chicago,IL," 60642"
+1970-01-01,"BSA Investigator","Devon Bank",devonbank.com,Banking,"estimated $63.5k ? $80.5k a year",,"West Ridge area)",Chicago,IL," 60645"
+1970-01-01,"Research Technician 1","The University of Chicago",,,,,"Woodlawn area)",Chicago,IL," 60637"
+1970-01-01,"Account Executive - Community College - Online Division - Gr...","Grand Canyon Education",gce.com,"Education Management","$65,000 a year",Remote,,"Remote in Chicago",IL,""
+1970-01-01,"Application Analyst Public Safety","Northwestern Medicine",nm.org,"Hospital & Health Care",,,"Near North Side area)",Chicago,IL," 60611"
+1970-01-01,"Assistant Editor, ASHE","AHA American Hospital Association",aha.org,"Hospital & Health Care","$56,000 - $69,000 a year",Remote,,"Remote in Chicago",IL," 60606"
+1970-01-01,"Analyst/Developer - Systems","United Airlines Inc.",united.com,Airlines/Aviation,,,"Loop area)",Chicago,IL," 60601"
+1970-01-01,"Full-Time Assistant Store Manager",ALDI,aldi.pl,Retail,"$23 an hour",,,Chicago,IL,""
+1970-01-01,"Compliance Analyst - IT","Exelon Corporation",exelon.com,,,,"The Loop area)",Chicago,IL," 60603"
+1970-01-01,"Remote Operations Coordinator","Northwestern Medicine",nm.org,"Hospital & Health Care",,Remote,,"Remote in Chicago",IL," 60611"
+1970-01-01,"Community Developer",Avnet,avnet.com,"Information Technology & Services","estimated $85k ? $108k a year",,,Chicago,IL,""
+1970-01-01,"College & Career Advisor, KIPP Forward","KIPP Chicago",kippchicago.org,"Education Management","estimated $40.9k ? $51.9k a year",,,Chicago,IL,""
+1970-01-01,"Workforce Management Associate","Erie Family Health Center",eriefamilyhealth.org,"Hospital & Health Care","estimated $52k ? $65.8k a year",,"Logan Square area)",Chicago,IL," 60647"
+1970-01-01,"Communication Specialist","La Rabida Children's Hospital",larabida.org,"Hospital & Health Care","estimated $48.5k ? $61.3k a year",,"Woodlawn area)",Chicago,IL,""
+1970-01-01,"Public Affairs Principal",Kivvit,kivvit.com,"Public Relations & Communications","estimated $83.8k ? $106k a year",,,Chicago,IL,""
+1970-01-01,"Workforce Management Associate","Erie Family Health Center",eriefamilyhealth.org,"Hospital & Health Care","estimated $51.2k ? $64.8k a year",,"Logan Square area)",Chicago,IL," 60647"
+1970-01-01,"[SY 22-23] School Custodian","KIPP Chicago",kippchicago.org,"Education Management","estimated $29.8k ? $37.8k a year",,,Chicago,IL,""
+1970-01-01,"Case Coordinator","JAMS, Inc.",jamsadr.com,"Alternative Dispute Resolution","estimated $41.9k ? $53.1k a year",,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Supply Chain Spec II Logistics","Northwestern Medicine",nm.org,"Hospital & Health Care",,,"Near North Side area)",Chicago,IL," 60611"
+1970-01-01,"Provider Relations Specialist, Full-time, Days","Northwestern Memorial Healthcare",,,,,"Streeterville area)",Chicago,IL," 60611"
+1970-01-01,"Legal Contract Analyst","CNO Financial Group, Inc.",,,,,,"Hybrid remote in Chicago",IL," 60646"
+1970-01-01,"Client Services Specialist","Duff & Phelps Investment Management Company",,,"$32,954 - $69,243 a year",,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Application Analyst Public Safety","Northwestern Memorial Healthcare",,,,,"Streeterville area)",Chicago,IL," 60611"
+1970-01-01,"Project Advisor",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Director of Development","Academy For Urban School Leadership (AUSL)",,,,,"Dunning area)",Chicago,IL," 60634"
+1970-01-01,"Patient Access Ops Coordinator , Full-time, Days","Northwestern Memorial Healthcare",,,,,"Streeterville area)",Chicago,IL," 60611"
+1970-01-01,"IFM Program Manager - Facilities","Cushman & Wakefield",cushwake-ni.com,"Commercial Real Estate",,,,Chicago,IL,""
+1970-01-01,"NewsNation, Editor","Nexstar Broadcasting",binghamtonhomepage.com,,"estimated $66.3k ? $83.9k a year",,,Chicago,IL,""
+1970-01-01,"Research Professional","The University of Chicago",,,,,"Woodlawn area)",Chicago,IL," 60637"
+1970-01-01,"Remote Lead","Northwestern Medicine",nm.org,"Hospital & Health Care",,Remote,,"Remote in Chicago",IL,""
+1970-01-01,"Provider Relations Specialist","Northwestern Medicine",nm.org,"Hospital & Health Care",,,"Near North Side area)",Chicago,IL," 60611"
+1970-01-01,"Short Term Option (STO) Certified Sterile Processing Tech -...",Ascension,ascension.org,"Hospital & Health Care","$60 an hour",,"East Village area)",Chicago,IL," 60622"
+1970-01-01,"HR Director","Chicago Metropolitan Agency for Planning (The...",,,"from $119,703 a year",,"Near West Side area)",Chicago,IL," 60607"
+1970-01-01,"Patient Access Ops Coordinator","Northwestern Medicine",nm.org,"Hospital & Health Care",,,"Near North Side area)",Chicago,IL," 60611"
+1970-01-01,"Environmental Services Supervisor","La Rabida Children's Hospital",larabida.org,"Hospital & Health Care","$40,000 - $55,000 a year",,"Woodlawn area)",Chicago,IL,""
+1970-01-01,"Culinary Director",Hogsalt,hogsalt.com,Restaurants,"estimated $65k ? $82.4k a year",,"River West area)",Chicago,IL," 60642"
+1970-01-01,"Enrollment Specialist","Chicago State University",csu.edu,"Higher Education","estimated $37.7k ? $47.7k a year",,"Rosemoor area)",Chicago,IL," 60628"
+1970-01-01,"Vendor Relationship Manager","True Value",truevaluecompany.com,Retail,,,,Chicago,IL,""
+1970-01-01,"Manager, Special Interest Groups","Academy of Nutrition and Dietetics",eatrightpro.org,"Nonprofit Organization Management","estimated $69.2k ? $87.6k a year",,"West Loop Gate area)",Chicago,IL," 60606"
+1970-01-01,"Manager - Airport Operations Customer Service","United Airlines Inc.",united.com,Airlines/Aviation,,,"Loop area)",Chicago,IL," 60601"
+1970-01-01,"Assistant Director of Loss Prevention","Marriott International, Inc",,,,,"Streeterville area)",Chicago,IL," 60611"
+1970-01-01,"Program Manager","Northwestern Medicine",nm.org,"Hospital & Health Care",,,"Near North Side area)",Chicago,IL," 60611"
+1970-01-01,"Commercial Card, Product Sales Specialist","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Accounts Receivable Specialist","Faegre Drinker",faegredrinker.com,"Law Practice","estimated $45.2k ? $57.2k a year",,,"Hybrid remote in Chicago",IL,""
+1970-01-01,"Data Integrity Coordinator I, Full-time, Days","Northwestern Memorial Healthcare",,,,,"Streeterville area)",Chicago,IL," 60611"
+1970-01-01,"Community Manager, Developer Community","New Relic",newrelic.com,"Computer Software","estimated $68.7k ? $86.9k a year",Remote,,"Remote in Chicago",IL," 60290"
+1970-01-01,"Sales Coordinator","TPG Companies",tpg.com,"Financial Services","estimated $33.3k ? $42.1k a year",,"Near North Side area)",Chicago,IL," 60611"
+1970-01-01,"Spiritual Care Director","Lawndale Christian Health Center",lawndale.org,"Health, Wellness & Fitness","estimated $56.8k ? $72k a year",,"Archer Heights area)",Chicago,IL," 60623"
+1970-01-01,"Patient Access Specialist","Northwestern Medicine",nm.org,"Hospital & Health Care",,,"Near North Side area)",Chicago,IL," 60611"
+1970-01-01,"Manager - Inflight Crew Scheduling","United Airlines Inc.",united.com,Airlines/Aviation,,,"Loop area)",Chicago,IL," 60601"
+1970-01-01,"Director of Engineering","Marriott International, Inc",,,,,"Near North area)",Chicago,IL," 60611"
+1970-01-01,"Advisor Group Coordinator",Thrivent,thrivent.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Application Analyst","Northwestern Medicine",nm.org,"Hospital & Health Care",,,"Near North Side area)",Chicago,IL," 60611"
+1970-01-01,"Research Analyst","The University of Chicago",,,,,"Woodlawn area)",Chicago,IL," 60637"
+1970-01-01,"Scholar Recruitment Coordinator","One Million Degrees",onemilliondegrees.org,"Higher Education","$40,000 a year",,"The Loop area)",Chicago,IL," 60601"
+1970-01-01,"Remote Billing Coordinator","Northwestern Medicine",nm.org,"Hospital & Health Care",,Remote,,"Remote in Chicago",IL," 60611"
+1970-01-01,"Beverage Manager","Eataly North America",eataly.com,"Food & Beverages",,,"Near North area)",Chicago,IL," 60611"
+1970-01-01,"IS Team Lead","Northwestern Medicine",nm.org,"Hospital & Health Care",,,"Near North Side area)",Chicago,IL," 60611"
+1970-01-01,"Talent Acquisition Specialist","IFG Companies",ifgcompanies.com,Insurance,"$80,000 - $100,000 a year",,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Managed Care Specialist","Northwestern Medicine",nm.org,"Hospital & Health Care",,,"Near North Side area)",Chicago,IL," 60611"
+1970-01-01,"General Manager","The Kennison",thekennison.com,,"estimated $49.2k ? $62.2k a year",,"Old Town area)",Chicago,IL," 60614"
+1970-01-01,"Outside Sales Representatives","Kropp Equipment",,,"estimated $64.1k ? $81.1k a year",,,Chicago,IL,""
+1970-01-01,"Training Developer","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Lead International Coordinator","Northwestern Medicine",nm.org,"Hospital & Health Care",,,"Near North Side area)",Chicago,IL," 60611"
+1970-01-01,"Marketing Engagement Coordinator",Inxeption,inxeption.com,"Computer Software","estimated $54.6k ? $69.2k a year",,,Chicago,IL,""
+1970-01-01,"International Sales Associate","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Sales Operations Manager","Echo Global Logistics",echo.com,"Logistics & Supply Chain",,,"Goose Island area)",Chicago,IL," 60654"
+1970-01-01,"IS Team Lead","Northwestern Memorial Healthcare",,,,,"Streeterville area)",Chicago,IL," 60611"
+1970-01-01,"Records Specialist","Epiq Systems, Inc.",epiqglobal.com,"Legal Services","estimated $33.1k ? $41.9k a year",,"Streeterville area)",Chicago,IL," 60611"
+1970-01-01,Accountant,"Magellan Development",,,"estimated $55.2k ? $70k a year",,"New Eastside area)",Chicago,IL," 60601"
+1970-01-01,"Consulting Group Analyst","Morgan Stanley",morganstanleybranch.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Student Success Advisor","National Louis University",nl.edu,"Higher Education",,,"The Loop area)",Chicago,IL," 60603"
+1970-01-01,"Manager, Business Intelligence (CHI OR REMOTE NATIONWIDE)","E15 Group",e15group.com,Research,,Remote,,"Remote in Chicago",IL," 60611"
+1970-01-01,"Marketing Communications & Brand Experience Manager","Archer Daniels Midland Company",admworld.com,Crops,,,,"Hybrid remote in Chicago",IL,""
+1970-01-01,"Compensation Programs, Manager",Salesforce,covidi.com,"Computer Software","$120,000 a year",Remote,,"Remote in Chicago",IL," 60654"
+1970-01-01,"Systems Analyst II, Systems Analyst Advisor",Anthem,anthem.com,Insurance,,,"Loop area)",Chicago,IL," 60601"
+1970-01-01,"Health Education Manager","The University of Chicago",,,,,,"Hybrid remote in Chicago",IL," 60637"
+1970-01-01,"Analyst - Retirement Plans (Hybrid)","United Airlines Inc.",united.com,Airlines/Aviation,,,"Loop area)",Chicago,IL," 60601"
+1970-01-01,"Director of Operations","KIPP Foundation",kipp.org,"Education Management","estimated $66.2k ? $83.8k a year",,"The Loop area)",Chicago,IL," 60602"
+1970-01-01,"Mental Health - Clinical Program Manager",Ascension,ascension.org,"Hospital & Health Care",,,"Lake View area)",Chicago,IL," 60657"
+1970-01-01,"Operations Manager",OVME,ovme.com,Cosmetics,"estimated $64.4k ? $81.6k a year",,,Chicago,IL,""
+1970-01-01,"Catastrophe Modeling Technology Specialist - RyanRe","Ryan Specialty Group, LLC",ryansg.com,Insurance,"estimated $60.1k ? $76.1k a year",,"The Loop area)",Chicago,IL," 60601"
+1970-01-01,"Data Integrity Coordinator I","Northwestern Medicine",nm.org,"Hospital & Health Care",,,"Near North Side area)",Chicago,IL," 60611"
+1970-01-01,"Project Manager II","Northwestern Medicine",nm.org,"Hospital & Health Care",,,"Near North Side area)",Chicago,IL," 60611"
+1970-01-01,"Chemist - $30.28 / hour ($63K/yr)",Vantage,vantageprinters.com,Printing,"$63,000 a year",,"Back of the Yards area)",Chicago,IL," 60609"
+1970-01-01,"Regional Sales Manager IL/IN","Phillips Distilling Co.",,,"estimated $75.1k ? $95.1k a year",,,Chicago,IL,""
+1970-01-01,"Program Manager","Amazon.com Services LLC",amazon.com,Internet,,,,Chicago,IL,""
+1970-01-01,"Facilities Manager - Hospital/Healthcare FM Experience",CBRE,cbre.us,"Real Estate",,,"Near North area)",Chicago,IL,""
+1970-01-01,"Program Manager","Cumming Group",cumming-group.com,Construction,"estimated $72.4k ? $91.6k a year",,"Loop area)",Chicago,IL," 60602"
+1970-01-01,"CORPORATE COUNSEL","Old National Bank",oldnational.com,Banking,"estimated $135k ? $171k a year",,"O'Hare area)",Chicago,IL," 60631"
+1970-01-01,"Data Analyst, Transfer Pricing",Google,google.com,Internet,,,"West Town area)",Chicago,IL,""
+1970-01-01,"Travel Management Consultant",Accenture,cazoodle.com,"Computer Software",,,,Chicago,IL,""
+1970-01-01,"HRIS Analyst",Ascensus,ascensus.com,"Financial Services","estimated $61k ? $77.2k a year",,"Loop area)",Chicago,IL," 60601"
+1970-01-01,"Specialist - Executive Solutions (Remote)","United Airlines Inc.",united.com,Airlines/Aviation,,Remote,,"Remote in Chicago",IL," 60601"
+1970-01-01,"Coordinator-Tutor Support Serv","City Colleges of Chicago",ccc.edu,"Education Management","estimated $40.9k ? $51.9k a year",,"The Loop area)",Chicago,IL,""
+1970-01-01,"Maintenance Technician - PM","The Admiral at the Lake",kendal.org,"Hospital & Health Care","$23 an hour",,"Margate Park area)",Chicago,IL," 60640"
+1970-01-01,"Division Marketing Manager","Phillips Distilling Co.",,,"estimated $67.5k ? $85.5k a year",,,Chicago,IL,""
+1970-01-01,"Intake Specialist MANAGER- ER- Full time - Days - St Josephs",Ascension,ascension.org,"Hospital & Health Care",,,"Lake View East area)",Chicago,IL," 60657"
+1970-01-01,"PLAYGROUND SUPERVISOR","Chicago Park District",chicagoparkdistrict.com,"Government Administration","$65,547 a year",,"East Side area)",Chicago,IL," 60617"
+1970-01-01,"Accounts Payable Analyst","PLS Financial Services, Inc.",pls247.com,"Financial Services","estimated $46.2k ? $58.6k a year",,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Deputy Distributed Organizing Director","Progressive Turnout Project",turnoutpac.org,"Political Organization","$72,800 - $93,600 a year",Remote,,"Remote in Chicago",IL," 60661"
+1970-01-01,"Director of Behavioral Health Programs","AIDS Foundation Chicago",aidschicago.org,"Nonprofit Organization Management","$75,000 - $81,000 a year",,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Field Construction Manager",Ledcor,ledcor.com,Construction,,,,Chicago,IL,""
+1970-01-01,"Patient Access Specialist ,Full-time, Days","Northwestern Memorial Healthcare",,,,,"Streeterville area)",Chicago,IL," 60611"
+1970-01-01,"Manager, Tech Docs - Remote","New Relic",newrelic.com,"Computer Software","estimated $95.8k ? $121k a year",Remote,,"Remote in Chicago",IL," 60290"
+1970-01-01,"Product Manager - Mobile",Clari,clari.com,"Computer Software","estimated $98k ? $124k a year",Remote,,"Remote in Chicago",IL,""
+1970-01-01,"Director of Nursing (DON) - Skilled Nursing Facility","Southview Manor",,,"estimated $90.8k ? $115k a year",,"The Gap area)",Chicago,IL," 60616"
+1970-01-01,"Customer Marketing Manager, CSTORE",MARS,accessmars.withgoogle.com,,,,"Loop area)",Chicago,IL," 60601"
+1970-01-01,"Lead International Coordinator - International Health Progra...","Northwestern Memorial Healthcare",,,,,"Streeterville area)",Chicago,IL," 60611"
+1970-01-01,"Application Support","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Director Business Information, Data Governance",Anthem,anthem.com,Insurance,,,"Loop area)",Chicago,IL," 60601"
+1970-01-01,"Director of Major Gifts","Academy For Urban School Leadership (AUSL)",,,,,"Dunning area)",Chicago,IL," 60634"
+1970-01-01,"Manager, Sales Cloud Experiences - Writer",Salesforce,covidi.com,"Computer Software",,,"River North area)",Chicago,IL," 60654"
+1970-01-01,"Lab Operations Coordinator - Cytology, Full-time, Days","Northwestern Memorial Healthcare",,,,,"Streeterville area)",Chicago,IL," 60611"
+1970-01-01,"Landlord Engagement Manager","AIDS Foundation Chicago",aidschicago.org,"Nonprofit Organization Management","estimated $46.9k ? $59.3k a year",,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"CVA Data Specialist",Caterpillar,cat-truckengines.com,,,,"West Town area)",Chicago,IL," 60622"
+1970-01-01,"Cybersecurity Consultant - Incident Response and Forensics",AT&T,att.com,Telecommunications,,,,Chicago,IL,""
+1970-01-01,"Success Architect - Migration Specialist",Salesforce,covidi.com,"Computer Software",,,"River North area)",Chicago,IL," 60654"
+1970-01-01,"Managed Care Specialist, Full-time, Days","Northwestern Memorial Healthcare",,,,,"Streeterville area)",Chicago,IL," 60611"
+1970-01-01,"Chicago- Floor Manager","Happy Camper",happycamper.pizza,Restaurants,"estimated $36k ? $45.6k a year",,"Old Town area)",Chicago,IL," 60610"
+1970-01-01,"Manager Learning Solutions","Blue Cross Blue Shield of IL, MT, NM, OK & TX",bcbsil.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"CDC - Affordable Housing Project Manager","U.S. Bank",whitefortcapital.com,,"$112,710 - $132,600 a year",,,Chicago,IL,""
+1970-01-01,"System Director of Patient Safety- Full Time",Ascension,ascension.org,"Hospital & Health Care",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,Paralegal,"American Property Casualty Insurance Association",,,"estimated $68.6k ? $86.8k a year",,"Norwood Park area)",Chicago,IL," 60631"
+1970-01-01,"Regional Director, Summer Programming, Chicago","Galileo Learning",galileo-camps.com,"Education Management","estimated $53.8k ? $68.2k a year",Remote,,"Temporarily Remote in Chicago",IL," 60602"
+1970-01-01,"IIP & Product Development Business Partner, Financial Lines","Allianz Global Corporate & Specialty",,,"estimated $64.1k ? $81.1k a year",,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Product Manager - Consumer Driven Health Plans (CDHP)","Blue Cross Blue Shield of IL, MT, NM, OK & TX",bcbsil.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Commercial Tenant Improvement Project Manager","Onni Group",onni.com,"Real Estate","estimated $66.9k ? $84.7k a year",,"The Loop area)",Chicago,IL," 60601"
+1970-01-01,"Product Owner, Data & Systems - VIRTUAL!",Alight,alights.com,"Electrical/Electronic Manufacturing","$76,000 a year",Remote,,"Remote in Chicago",IL," 60601"
+1970-01-01,"Remote Billing Coordinator, Physician Billing, Full-Time, Da...","Northwestern Memorial Healthcare",,,,Remote,,"Remote in Chicago",IL," 60611"
+1970-01-01,"Research Scientist","The University of Chicago",,,,,"Woodlawn area)",Chicago,IL," 60637"
+1970-01-01,"AWS Catalyst PDS, Catalyst","Amazon Web Services, Inc.",,,,,,Chicago,IL,""
+1970-01-01,"Brewing Supervisor - Chicago","Lagunitas Brewing Company",lagunitas.com,"Food & Beverages","estimated $44.3k ? $56.1k a year",,,Chicago,IL," 60608"
+1970-01-01,"Dir-Access Center","City Colleges of Chicago",ccc.edu,"Education Management","estimated $68.6k ? $86.8k a year",,"The Loop area)",Chicago,IL,""
+1970-01-01,"Director of Demand Generation & Growth",Kazoo,kazoohr.com,"Computer Software","estimated $95.9k ? $121k a year",,"Loop area)",Chicago,IL," 60654"
+1970-01-01,"Product Manager, Point of Sale",Square,squareup.com,Internet,,,"Logan Square area)",Chicago,IL," 60647"
+1970-01-01,"Account Supervisor, Chicago","Havas Group",havasgroup.com,"Marketing & Advertising",,,,Chicago,IL,""
+1970-01-01,"Middle Office CLO Loan/Asset Administrator 1","U.S. Bank",whitefortcapital.com,,,,,Chicago,IL,""
+1970-01-01,"Supply Chain Spec II Logistics, Full-time, Days","Northwestern Memorial Healthcare",,,,,"Streeterville area)",Chicago,IL," 60611"
+1970-01-01,"Dir. Personal Auto, Electronic, Specialty Lines","American Property Casualty Insurance Association",,,"estimated $81.9k ? $104k a year",,"Norwood Park area)",Chicago,IL," 60631"
+1970-01-01,"ProSolutions Sales Representative","Herc Rentals",hercrentals.com,Construction,,,,Chicago,IL,""
+1970-01-01,"Immigrant Case Manager","Heartland Alliance",heartlandalliance.org,"Nonprofit Organization Management","estimated $40.7k ? $51.5k a year",,"The Loop area)",Chicago,IL," 60604"
+1970-01-01,"Corporate Client Operations Support Associate","U.S. Bank",whitefortcapital.com,,,,,Chicago,IL,""
+1970-01-01,"Developer - Information Technology","United Airlines Inc.",united.com,Airlines/Aviation,,,"Loop area)",Chicago,IL," 60601"
+1970-01-01,"Nursing Supervisor-Administrative Nurse Coordinator - Full-t...","La Rabida Children's Hospital",larabida.org,"Hospital & Health Care","estimated $54.2k ? $68.6k a year",,"Woodlawn area)",Chicago,IL,""
+1970-01-01,"Administrative Support Specialist","BMO Harris Bank",bmoharris.com,Banking,,,,Chicago,IL,""
+1970-01-01,"Associate Manager, Supply Planning - New Product Development","SC Johnson",scjohnson.com,"Consumer Goods",,,,Chicago,IL,""
+1970-01-01,"Market Development Manager, Protein Electrophoresis","Thermo Fisher Scientific",rwenpower.com,,,Remote,,"Remote in Chicago",IL,""
+1970-01-01,"Manager of Grants and Contracts","AIDS Foundation Chicago",aidschicago.org,"Nonprofit Organization Management","$58,000 - $60,000 a year",,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Industrial Hygiene - Project Manager","Partner Engineering and Science, Inc",partneresi.com,"Environmental Services","estimated $81.1k ? $103k a year",,,Chicago,IL," 60642"
+1970-01-01,"Private Bank - Program Analyst - Chicago, IL","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Program Manager, IFM","Cushman & Wakefield",cushwake-ni.com,"Commercial Real Estate",,,"Loop area)",Chicago,IL," 60606"
+1970-01-01,"Tech and Corporate Sourcing Specialist","Rewards Network",rewardsnetwork.com,"Financial Services","estimated $64.3k ? $81.5k a year",,"West Loop Gate area)",Chicago,IL," 60606"
+1970-01-01,"Sales Enablement Marketing Manager","FLEXE, Inc.",flexe.com,"Logistics & Supply Chain","estimated $102k ? $129k a year",Remote,,"Remote in Chicago",IL,""
+1970-01-01,"Account Supervisor, Earned Media",Edelman,edelman.com,"Marketing & Advertising","estimated $74.4k ? $94.2k a year",,,Chicago,IL,""
+1970-01-01,"Commercial Bank-Global Services- Associate Recruiter","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Manager -Legal Management Consulting -PM",Crowe,crowe.com,Accounting,,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Payments - Client Service & Implementations: Chief Data Offi...","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Strategy Consultant - Commercial Insights",Deloitte,deloitte.com,"Management Consulting",,Remote,,"Remote in Chicago",IL," 60606"
+1970-01-01,"Social Worker","The Admiral At the Lake",kendal.org,"Hospital & Health Care","estimated $50.3k ? $63.7k a year",,"Margate Park area)",Chicago,IL," 60640"
+1970-01-01,"College & Career Advisor, KIPP Forward","KIPP Foundation",kipp.org,"Education Management","estimated $40.9k ? $51.9k a year",,"The Loop area)",Chicago,IL," 60602"
+1970-01-01,Sommelier,"Eataly North America",eataly.com,"Food & Beverages",,,"Near North area)",Chicago,IL," 60611"
+1970-01-01,"Agile Delivery Manager - VIRTUAL","Aon Corporation",aonhorizon.com,,"$90,000 - $125,000 a year",,"The Loop area)",Chicago,IL," 60601"
+1970-01-01,"INFORMATION SYSTEM SECURITY OFFICER (ISSO)","Gateway Foundation Inc",gatewayfoundation.org,"Hospital & Health Care","estimated $93.9k ? $119k a year",,"The Loop area)",Chicago,IL," 60604"
+1970-01-01,"Care Coach Coordinator 1(Illinois Medicaid) - South Side of...",Humana,humana.com,"Health, Wellness & Fitness",,Remote,,"Remote in Chicago",IL," 60654"
+1970-01-01,"Recruiting Associate Manager",Accenture,cazoodle.com,"Computer Software",,,,Chicago,IL,""
+1970-01-01,"RN-Cardiovascular- Invasive Cardiology- Full-Time- Days (+ca...",Ascension,ascension.org,"Hospital & Health Care",,,"Lake View East area)",Chicago,IL," 60657"
+1970-01-01,"Manager, Digital Strategy - Cloud Marketing",Salesforce,covidi.com,"Computer Software",,,"River North area)",Chicago,IL," 60654"
+1970-01-01,"Sales Associate",Berkley,berkley-fishing.com,Internet,"estimated $42.4k ? $53.8k a year",,"West Loop Gate area)",Chicago,IL," 60661"
+1970-01-01,"Manager, Supply Chain - Distribution & Logistics","Alvarez & Marsal",alvarezandmarsal.com,"Management Consulting","estimated $101k ? $128k a year",,,Chicago,IL,""
+1970-01-01,"Consultant, IT Quality Assurance",CIBC,cibc.com,Banking,,,"The Loop area)",Chicago,IL,""
+1970-01-01,"Digital Marketing Specialist",Siemens,siemens.com,"Industrial Automation",,,,Chicago,IL,""
+1970-01-01,"Manager, Client Market & Growth",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"RN-Cardiovascular- Invasive Cardiology - Full-Time- Days (+c...",Ascension,ascension.org,"Hospital & Health Care",,,"East Village area)",Chicago,IL," 60622"
+1970-01-01,"US Assoc CommercialBanking CQ","BMO Harris Bank",bmoharris.com,Banking,,,,Chicago,IL,""
+1970-01-01,"Behavioral Health Counselor, Full-Time, Days","Northwestern Memorial Healthcare",,,,,"Streeterville area)",Chicago,IL," 60611"
+1970-01-01,"Patient Access Ops Coordinator","Northwestern Medicine",nm.org,"Hospital & Health Care",,,"Near North Side area)",Chicago,IL," 60611"
+1970-01-01,"US Region Information Security Application Security Advisor",CIBC,cibc.com,Banking,,,"The Loop area)",Chicago,IL,""
+1970-01-01,"Business Analyst - Strategic Sourcing","True Value",truevaluecompany.com,Retail,,,,Chicago,IL,""
+1970-01-01,"Enrollment Business System Analyst","Columbia College Chicago",colum.edu,"Higher Education","estimated $47k ? $59.4k a year",,"South Loop area)",Chicago,IL," 60605"
+1970-01-01,"Architect II","Chicago Transit Authority",transitchicago.com,Transportation/Trucking/Railroad,"$29.05 - $41.50 an hour",,,Chicago,IL,""
+1970-01-01,"Professional Services Consultant - XSIAM *Remote*","Palo Alto Networks",paloaltonetworks.com,"Computer & Network Security","estimated $84.8k ? $107k a year",Remote,,"Remote in Chicago",IL,""
+1970-01-01,"SFA, AWS Sales and Marketing, Deals Desk Finance","Amazon.com Services LLC",amazon.com,Internet,,,,Chicago,IL,""
+1970-01-01,"Lead Event Planner",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Consultant II","The Vertex Companies, Inc",,,"estimated $58.6k ? $74.2k a year",,,Chicago,IL,""
+1970-01-01,"Remote Inpatient Coder II","Northwestern Medicine",nm.org,"Hospital & Health Care",,Remote,,"Remote in Chicago",IL," 60611"
+1970-01-01,"Maintenance Manager","Carlisle Construction Materials (CCM)",,,"$95,000 - $100,000 a year",,"Loop area)",Chicago,IL," 60601"
+1970-01-01,"Finance Manager","Motorola Solutions",motorolasolutions.com,Telecommunications,,,,Chicago,IL,""
+1970-01-01,"Channel Operations Analyst","Motorola Solutions",motorolasolutions.com,Telecommunications,,,,Chicago,IL,""
+1970-01-01,Underwriter,Berkley,berkley-fishing.com,Internet,"estimated $51.9k ? $65.7k a year",,"West Loop Gate area)",Chicago,IL," 60661"
+1970-01-01,"Deloitte Entity Search & Compliance (DESC) Manager",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"North America Solutions - Program/Project Manager",Salesforce,covidi.com,"Computer Software","$71,890 a year",,"River North area)",Chicago,IL," 60654"
+1970-01-01,"Quality Assessment Coordinator","National Louis University",nl.edu,"Higher Education",,,"The Loop area)",Chicago,IL," 60603"
+1970-01-01,"RN Manager-Nursing- Emergency Services- Full-Time- Days",Ascension,ascension.org,"Hospital & Health Care",,,"East Village area)",Chicago,IL," 60622"
+1970-01-01,"Curriculum Specialist","City Colleges of Chicago",ccc.edu,"Education Management","estimated $41.7k ? $52.7k a year",,,Chicago,IL,""
+1970-01-01,"Sushi Chef",Momotaro,momotarochicago.com,Restaurants,"estimated $38.9k ? $49.3k a year",,"West Town area)",Chicago,IL," 60607"
+1970-01-01,"Industrial Hygiene - Project Manager","Partner Engineering and Science, Inc.",,,"estimated $81.1k ? $103k a year",,,Chicago,IL," 60642"
+1970-01-01,"Risk Data Management, Consultant",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Higher Ed Consulting Associate- IRB","Huron Consulting Group Inc.",huronconsultinggroup.com,"Management Consulting","estimated $68.7k ? $86.9k a year",,"West Loop Gate area)",Chicago,IL," 60607"
+1970-01-01,"Social Services Case Manager- Full Time",Ascension,ascension.org,"Hospital & Health Care",,,"Lake View area)",Chicago,IL," 60657"
+1970-01-01,"Data Security Standard Product Specialist, Payment Card Indu...","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"IT Field Services Support Specialist","Alvarez & Marsal",alvarezandmarsal.com,"Management Consulting","estimated $48.1k ? $60.9k a year",,,Chicago,IL,""
+1970-01-01,"Respiratory Services- MANAGER- Full Time- Days- Resurrection",Ascension,ascension.org,"Hospital & Health Care",,,"Norwood Park West area)",Chicago,IL," 60631"
+1970-01-01,"VP, Assistant General Counsel - Wealth Management Investment...","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Biomedical Clinical Engineering - Rush Hospital",TriMedx,trimedx.com,"Hospital & Health Care","estimated $64.4k ? $81.6k a year",,"Illinois Medical District area)",Chicago,IL," 60612"
+1970-01-01,"Payments Client Service & Implementations: Chief Data Office...","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"JPMorgan Payments - Client Service Account Manager - Associa...","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Remote Inpatient Coder II, Full-time, Days","Northwestern Memorial Healthcare",,,,Remote,,"Remote in Chicago",IL," 60611"
+1970-01-01,"Data Science - Project Manager",Crowe,crowe.com,Accounting,,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Associate Strategy Director, Social",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Smart Factory Experience Design and Delivery Consultant Nati...",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Project Manager, Intermediate","DePaul University",depaul.edu,"Higher Education","estimated $73.2k ? $92.8k a year",,"Sheffield Neighbors area)",Chicago,IL," 60614"
+1970-01-01,"HVP Team Lead - First Shift","Synergy Flavors",,,"estimated $29.2k ? $37k a year",,"Bridgeport area)",Chicago,IL," 60609"
+1970-01-01,"Remote Billing Coordinator","Northwestern Medicine",nm.org,"Hospital & Health Care",,Remote,,"Remote in Chicago",IL," 60611"
+1970-01-01,"CB Client Onboarding Treasury Product Implementation Assoc","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Consultant II","The Vertex Companies, Inc",,,"estimated $58.6k ? $74.2k a year",,,Chicago,IL,""
+1970-01-01,"Technical Support Specialist III (Remote/ Field)","Thermo Fisher Scientific",rwenpower.com,,,Remote,,"Remote in Chicago",IL,""
+1970-01-01,"Road Supervisor","First Transit",firsttransit.com,Transportation/Trucking/Railroad,,,"Canaryville area)",Chicago,IL," 60609"
+1970-01-01,"Temporary Accounts Payable Coordinator","Vedder Price P.C.",vedderprice.com,"Law Practice","estimated $48.6k ? $61.6k a year",,"Loop area)",Chicago,IL," 60601"
+1970-01-01,"Director of Implementation, Research Products",Morningstar,morningstar.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Model Risk Management, Analyst",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Financial Analyst - Planning, Design and Construction","Dignity Health System Office",,,,,,Chicago,IL,""
+1970-01-01,"Finance Business Partner - Talent",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Program Manager, Information Systems - Lab IS Service Line,...","Northwestern Memorial Healthcare",,,,,"Streeterville area)",Chicago,IL," 60611"
+1970-01-01,"Lead Underwriter, E&S Property","AXIS Insurance",axiscapital.com,Insurance,"estimated $90.2k ? $114k a year",,,"Hybrid remote in Chicago",IL,""
+1970-01-01,"Product Strategy - Vice President, Non-bank Payment Intermed...","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Compensation Manager","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"HIE Analyst QA",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"JPM Payments-Merchant Services-Associate, Product Owner-Plat...","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"[SY 22-23] School Custodian","KIPP Foundation",kipp.org,"Education Management","estimated $29.8k ? $37.8k a year",,"The Loop area)",Chicago,IL," 60602"
+1970-01-01,"WLS Product Owner- Business Transformation","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Project Manager II, System Integration & Project Management...","Northwestern Memorial Healthcare",,,,,"Streeterville area)",Chicago,IL," 60611"
+1970-01-01,"Technical Project Manager - Information Technology","United Airlines Inc.",united.com,Airlines/Aviation,,,"Loop area)",Chicago,IL," 60601"
+1970-01-01,"Architectural Project Manager","Moody Nolan",moodynolan.com,"Architecture & Planning","estimated $76.2k ? $96.4k a year",,"The Loop area)",Chicago,IL," 60604"
+1970-01-01,"Special Procedures Nurse","The University of Chicago Medicine",uchicagomedicine.org,"Hospital & Health Care",,,"Hyde Park area)",Chicago,IL," 60637"
+1970-01-01,"Program Manager, Pediatric Strategic Operations","The University of Chicago Medicine",uchicagomedicine.org,"Hospital & Health Care",,,"Hyde Park area)",Chicago,IL," 60637"
+1970-01-01,"UX/CX Designer",Accenture,cazoodle.com,"Computer Software",,,,Chicago,IL,""
+1970-01-01,"VP & Assistant General Counsel-U.S. Funds","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Underwriting Specialist - Inland Marine","Allianz Global Corporate & Specialty",,,"estimated $108k ? $137k a year",,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Customer Service Representative - 8W Bone Marrow Transplant","University of Illinois at Chicago",illinoisprc.org,Research,,,"University Village - Little Italy area)",Chicago,IL," 60607"
+1970-01-01,"Architect III","Chicago Transit Authority",transitchicago.com,Transportation/Trucking/Railroad,"$34.06 - $48.65 an hour",,,Chicago,IL,""
+1970-01-01,"Demand Generation Content Marketing Manager",NielsenIQ,,,,,,Chicago,IL,""
+1970-01-01,"Remote Operations Coordinator, PB Coding, Full-Time, Days","Northwestern Memorial Healthcare",,,,Remote,,"Remote in Chicago",IL," 60611"
+1970-01-01,"Manager Financial Balancing & Controls","Blue Cross Blue Shield of IL, MT, NM, OK & TX",bcbsil.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Global Commercial Banking Market Executive – Middle Market...","Bank of America",appianrx.com,"Hospital & Health Care",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"CB Client Onboarding - Technical Treasury Product Implementa...","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Digital Client Service Associate - Wealth Management - U.S....","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Intel Client Solution Specialist",CDW,cdw.com,"Information Technology & Services",,,"West Loop Gate area)",Chicago,IL," 60606"
+1970-01-01,"Construction Project Manager","Chicago State University",csu.edu,"Higher Education","estimated $69.6k ? $88.2k a year",,"Rosemoor area)",Chicago,IL," 60628"
+1970-01-01,"Wealth Management - Digital Middle Office - Account Transfer...","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,"Hybrid remote in Chicago",IL,""
+1970-01-01,"Global Data & Analytics Product Manager",MARS,accessmars.withgoogle.com,,,,"Loop area)",Chicago,IL," 60601"
+1970-01-01,"Marketplace Intelligence Analytics & Data Quality Manager",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Field Security Supervisor","Guardian Security Services, Inc",guardiansecurityinc.com,"Security & Investigations","up to $20 an hour",,,Chicago,IL,""
+1970-01-01,"VP, Assistant General Counsel - Equipment Finance Attorney","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Deloitte Talent Temporary Lead Talent Business Analyst - Tax",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Lead Technology Business Systems Consultant","WELLS FARGO BANK",wellsfargo.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Commercial Card Technical Implementation - VP","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Patient Access Ops Coordinator, Full-time, Days","Northwestern Memorial Healthcare",,,,,"Streeterville area)",Chicago,IL," 60611"
+1970-01-01,"Program Manager Information Services Management Office","Northwestern Medicine",nm.org,"Hospital & Health Care",,,"Near North Side area)",Chicago,IL," 60611"
+1970-01-01,"Remote Lead, PB Charge Capture, Full-Time, Days","Northwestern Memorial Healthcare",,,,Remote,,"Remote in Chicago",IL,""
+1970-01-01,"Edge Project Lead I","Amazon Data Services, Inc.",,,,,,Chicago,IL,""
+1970-01-01,"Business Process Oversight Associate, Commercial Card","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"CIB-Corporate Bank Industrials Associate-Relationship Manage...","WELLS FARGO BANK",wellsfargo.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Supv of Phlebotomy- Full-time, Evenings","Rush University Medical Center",rush.edu,"Hospital & Health Care",,,"Illinois Medical District area)",Chicago,IL," 60612"
+1970-01-01,"Transaction Manager, Vice President - Community Development...","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Club Lounge Concierge Ambassador","The Langham",langhamhotels.com,"Leisure, Travel & Tourism","estimated $34k ? $43k a year",,,Chicago,IL,""
+1970-01-01,"JPM Payments - Product Manager, Account Validation Services,...","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Enterprise Account Executive - Tableau",Salesforce,covidi.com,"Computer Software","$130,600 a year",,"River North area)",Chicago,IL," 60654"
+1970-01-01,"Product Manager ? Data and Audiences",Epsilon,epsilonline.com,"Information Technology & Services",,,"The Loop area)",Chicago,IL," 60601"
+1970-01-01,"Lead International Coordinator - International Health Progra...","Northwestern Memorial Healthcare",,,,,"Streeterville area)",Chicago,IL," 60611"
+1970-01-01,"Transformation Team Lead (Remote - USA)",Mandiant,mandiant.com,"Information Technology & Services","$100,000 a year",Remote,,"Remote in Chicago",IL,""
+1970-01-01,"Financial Analyst, AWS AI and Machine Learning FP&A, AWS AI...","Amazon.com Services LLC",amazon.com,Internet,,,,Chicago,IL,""
+1970-01-01,"Deloitte Consulting - ESG Product Manager",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Android Developer- 4194160",Accenture,cazoodle.com,"Computer Software","$122 - $132 an hour",Remote,,"Remote in Chicago",IL,""
+1970-01-01,"Program Manager Information Services Management Office","Northwestern Memorial Healthcare",,,,,"Streeterville area)",Chicago,IL," 60611"
+1970-01-01,"iOS Developer",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Chase Wealth Management - Central Supervisory Manager VP - C...","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"CIB F&BM Wholesale Payments - Business Management - VP","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Data Scientist - Ads Optimization",Comcentric,comcentric.com,"Information Technology & Services","$139,000 - $225,000 a year",,,Chicago,IL,""
+1970-01-01,"Application Analyst - Outpatient and Epic Ancillary, Full-Ti...","Northwestern Memorial Healthcare",,,,,"Streeterville area)",Chicago,IL," 60611"
+1970-01-01,"Field Construction Manager",Ledcor,ledcor.com,Construction,,,,Chicago,IL,""
+1970-01-01,"Project Manager - Integrated Technology Solutions",CDW,cdw.com,"Information Technology & Services",,,"West Loop Gate area)",Chicago,IL," 60606"
+1970-01-01,"Sirius Analyst, Security Operations",CDW,cdw.com,"Information Technology & Services",,,"West Loop Gate area)",Chicago,IL," 60606"
+1970-01-01,"Digital Signage Supervisor",CDW,cdw.com,"Information Technology & Services",,,"West Loop Gate area)",Chicago,IL," 60606"
+1970-01-01,"Associate Principal, Infrastructure Engineering","Options Clearing Corporation",theocc.com,"Financial Services","estimated $58.7k ? $74.3k a year",,,"Hybrid remote in Chicago",IL,""
+1970-01-01,"Infrastructure Project Manager","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Jr. QA Automation Tester",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"VP, Assistant General Counsel - Commercial Banking","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"VP-Treasury Management Officer -Commercial Real Estate -Comm...","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Digital Solutions Consultant- DMP/CDP (Remote)",Epsilon,epsilonline.com,"Information Technology & Services",,Remote,,"Remote in Chicago",IL," 60601"
+1970-01-01,"Product Marketing Manager - AdTech (Remote)",Epsilon,epsilonline.com,"Information Technology & Services",,Remote,,"Remote in Chicago",IL," 60606"
+1970-01-01,"Financial Analyst, EC2 Finance","Amazon.com Services LLC",amazon.com,Internet,,,,Chicago,IL,""
+1970-01-01,"Clinical Process Improvement Specialist - Registered Nurse (...","Blue Cross Blue Shield of IL, MT, NM, OK & TX",bcbsil.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Chef de Cuisine","Eataly North America",eataly.com,"Food & Beverages",,,"Near North area)",Chicago,IL," 60611"
+1970-01-01,"Power BI Developer (remote)","Hitachi Solutions Ltd",,,,Remote,,"Remote in Chicago",IL," 60606"
+1970-01-01,"Baking & Pastry Director",Hogsalt,hogsalt.com,Restaurants,"estimated $42.1k ? $53.3k a year",,"River West area)",Chicago,IL," 60642"
+1970-01-01,"Digital Marketing Analyst",Inxeption,inxeption.com,"Computer Software","estimated $68.6k ? $86.8k a year",,,Chicago,IL,""
+1970-01-01,"Commercial Bank - Treasury Management Officer","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Digital Customer - Angular Developer Location Open",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"CIB- Originations Associate- TOI - ENERGY SAP","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Manager, Digital Strategy - Cloud Marketing",Salesforce,covidi.com,"Computer Software",,,"River North area)",Chicago,IL," 60654"
+1970-01-01,"Wealth Management, Tax Information Reporting, Analyst","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Digital - Data Management - Business Systems Analyst, Associ...","Huron Consulting Group Inc.",huronconsultinggroup.com,"Management Consulting","estimated $52.4k ? $66.4k a year",,"West Loop Gate area)",Chicago,IL," 60607"
+1970-01-01,"Commercial Real Estate Director II","Fifth Third Bank",53.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Marketing Manager, Market Access Trade",Abbvie,ssp.co.jp,Chemicals,,,,Chicago,IL,""
+1970-01-01,"Cell Therapy Technician","The University of Chicago",,,,,"Woodlawn area)",Chicago,IL," 60637"
+1970-01-01,"Remote Billing Coordinator, Physician Billing, Full-Time, Da...","Northwestern Memorial Healthcare",,,,Remote,,"Remote in Chicago",IL," 60611"
+1970-01-01,"Technical Project Manager II","Vail Systems",,,"estimated $82k ? $104k a year",,,"Hybrid remote in Chicago",IL," 60606"
+1970-01-01,"Conversational AI Lead",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Model Risk Management - Consultant",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Enterprise Security Architect","Palo Alto Networks",paloaltonetworks.com,"Computer & Network Security","estimated $124k ? $157k a year",,,Chicago,IL,""
+1970-01-01,"Software Development",Comcentric,comcentric.com,"Information Technology & Services","estimated $101k ? $128k a year",Remote,,"Remote in Chicago",IL,""
+1970-01-01,"Technology Architect - 4218823",Accenture,cazoodle.com,"Computer Software","$100 - $110 an hour",,,Chicago,IL,""
+1970-01-01,"HVP Team Lead - Third Shift","Synergy Flavors",,,"estimated $29.2k ? $37k a year",,"Bridgeport area)",Chicago,IL," 60609"
+1970-01-01,"Term Faculty (Non-Tenure Track) - School of Computing - Comp...","DePaul University",depaul.edu,"Higher Education","estimated $51.9k ? $65.7k a year",,"The Loop area)",Chicago,IL," 60604"
+1970-01-01,"Manager/ Specialist Master",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"M&A Strategy, Diligence & Value Manager",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Lead Fleet Technician","First Transit",firsttransit.com,Transportation/Trucking/Railroad,"up to $28 an hour",,"Canaryville area)",Chicago,IL," 60609"
+1970-01-01,"Siting and Energy Yield Manager",Invenergy,invenergy.com,"Renewables & Environment","estimated $82.9k ? $105k a year",,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"VP Data Scientist - Sales Sciences","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Financial Services Internal Audit Manager",Crowe,crowe.com,Accounting,,Remote,,"Remote in Chicago",IL," 60606"
+1970-01-01,"Confidentiality and Privacy Manager (Technology Assessment)",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Hi-Tech Subscription Billing/CPQ Specialist Master",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Salesforce Cyber Security Consultant",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Manager, Finance & Capital Markets",Invenergy,invenergy.com,"Renewables & Environment","estimated $97k ? $123k a year",,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Cyber Oracle Cloud Security - Consultant",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Demand Generation Data Analytics & Insights Lead",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"French Speaking Dynamics 365 F&O Manufacturing Contractor",Crowe,crowe.com,Accounting,,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Offshore Geotechnical and Geophysical Engineering Manager",Invenergy,invenergy.com,"Renewables & Environment","estimated $95k ? $120k a year",,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Agile Project Management Consultant / Government & Public Se...",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Ports and Harbors Procurement Manager, Offshore Development",Invenergy,invenergy.com,"Renewables & Environment","estimated $96.6k ? $122k a year",,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Azure Infrastructure Cloud Security Manager",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"QA Automation Tester",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Manager - Quality & Risk Management (Contract Obligation Tra...",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"National Channel Sales Manager - KnowledgeSync","ECi Software Solutions",ecisolutions.com,"Computer Software","estimated $95.6k ? $121k a year",Remote,,"Remote in Chicago",IL,""
+1970-01-01,"Offshore Foundation Manager",Invenergy,invenergy.com,"Renewables & Environment","estimated $87.6k ? $111k a year",,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Software Intelligent Quality Engineering Testing - Consultan...",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Account Executive (REMOTE)","Konica Minolta",konicaminolta.in,"Information Technology & Services",,Remote,,"Remote in Chicago",IL," 60661"
+1970-01-01,"Finance Lead, Manufacturing FP&A",Abbvie,ssp.co.jp,Chemicals,,,,Chicago,IL,""
+1970-01-01,"Indirect Tax Consultant II - Multistate",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"AWS Cloud Native Specialist",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Brewing Supervisor - Chicago","Lagunitas Brewing Company",lagunitas.com,"Food & Beverages","estimated $44.3k ? $56.1k a year",,,Chicago,IL," 60608"
+1970-01-01,"Adobe Channel Sales Manager",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Salesforce Functional Lead",Accenture,cazoodle.com,"Computer Software",,,,Chicago,IL,""
+1970-01-01,"Corporate Banking Portfolio Manager II (Consumer & Retail)","Fifth Third Bank",53.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Software Engineering - Application Support Manager","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Project Manager - Integrated Technology Solutions",CDW,cdw.com,"Information Technology & Services",,,"West Loop Gate area)",Chicago,IL," 60606"
+1970-01-01,"Enterprise Account Executive, Financial Services - Tableau",Salesforce,covidi.com,"Computer Software",,,"River North area)",Chicago,IL," 60654"
+1970-01-01,"Digital - Data Management - Business Systems Analyst, Manage...","Huron Consulting Group Inc.",huronconsultinggroup.com,"Management Consulting","estimated $72.1k ? $91.3k a year",,"West Loop Gate area)",Chicago,IL," 60607"
+1970-01-01,"Technology Architect - 4218823",Accenture,cazoodle.com,"Computer Software","$100 - $110 an hour",,,Chicago,IL,""
+1970-01-01,"Chicago/Dallas/New York City Business Performance Improvemen...",Protiviti,btconnect.com,Wholesale,,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Digital Customer - Angular Developer Location Open",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Adobe Experience Manager (AEM) Architect","Publicis Sapient",publicissapient.com,"Information Technology & Services",,,"The Loop area)",Chicago,IL," 60601"
+1970-01-01,"Digital Signage Supervisor",CDW,cdw.com,"Information Technology & Services",,,"West Loop Gate area)",Chicago,IL," 60606"
+1970-01-01,"AML Governance Analyst","BMO Harris Bank",bmoharris.com,Banking,,,"The Loop area)",Chicago,IL,""
+1970-01-01,"Oracle DBA","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Manager Freight Payment - Global","C.H. Robinson",,,,,"Near West Side area)",Chicago,IL," 60607"
+1970-01-01,"Model Risk Management - Consultant",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Accounts Payable Coordinator","Vedder Price P.C.",vedderprice.com,"Law Practice","estimated $50.7k ? $64.3k a year",,"Loop area)",Chicago,IL," 60601"
+1970-01-01,"Project Manager - Integrated Technology Solutions",CDW,cdw.com,"Information Technology & Services",,,"West Loop Gate area)",Chicago,IL," 60606"
+1970-01-01,"Security Flex Officer - Chicago - Full Time","Guardian Security Services, Inc",guardiansecurityinc.com,"Security & Investigations","up to $18 an hour",,,Chicago,IL,""
+1970-01-01,"Consulting QE Digital & Enterprise Testing - Consultant",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"HVP Team Lead - Third Shift","Synergy Flavors",,,"estimated $29.2k ? $37k a year",,"Bridgeport area)",Chicago,IL," 60609"
+1970-01-01,"Associate Director, Business Analysis - Salesforce (Remote)","Wolters Kluwer",wolterskluwer.com,"Information Services",,Remote,,"Remote in Chicago",IL,""
+1970-01-01,"Area Sales Manager","CareerBuilder Careers",careerbuildercareers.com,,,,"The Loop area)",Chicago,IL," 60601"
+1970-01-01,"Respiratory Therapy Supervisor- Full Time- Nights - Resurrec...",Ascension,ascension.org,"Hospital & Health Care",,,"Norwood Park West area)",Chicago,IL," 60631"
+1970-01-01,"Communications Specialist","Surgical Care Affiliates",,,,Remote,,"Remote in Chicago",IL," 60661"
+1970-01-01,"Edge Project Lead I","Amazon Data Services, Inc.",,,,,,Chicago,IL,""
+1970-01-01,"Enterprise Account Executive, Financial Services - Tableau",Salesforce,covidi.com,"Computer Software",,,"River North area)",Chicago,IL," 60654"
+1970-01-01,"Enterprise Account Executive, Financial Services - Tableau",Salesforce,covidi.com,"Computer Software",,,"River North area)",Chicago,IL," 60654"
+1970-01-01,"Enterprise Account Executive, Financial Services - Tableau",Salesforce,covidi.com,"Computer Software",,,"River North area)",Chicago,IL," 60654"
+1970-01-01,"Advisory Consultant Financial Services Risk Management",Deloitte,deloitte.com,"Management Consulting",,,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Wealth Management, Tax Information Reporting, Analyst","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Chicago,IL,""
+1970-01-01,"Executive Assistant",Measured,measured.com,"Computer Software","estimated $53.8k ? $68.2k a year",Remote,,"Remote in Chicago",IL," 60607"
+1970-01-01,"Human Resources",WORKFORCEWORKS,,,"from $920 a week",,"East Garfield Park area)",Chicago,IL," 60612"
+1970-01-01,"Armed Security Officer/Off Duty Police Officer","Guardian Security Services, Inc",guardiansecurityinc.com,"Security & Investigations","up to $25 an hour",,,Chicago,IL,""
+1970-01-01,"Security Flex Officer - Chicago - Full Time","Guardian Security Services, Inc",guardiansecurityinc.com,"Security & Investigations","up to $18 an hour",,,Chicago,IL,""
+1970-01-01,"District Manager in Training","Foot Locker",footlocker.com,Retail,"$33,550 - $121,931 a year",,,Chicago,IL,""
+1970-01-01,"Facilities Manager","Harris & Harris, Ltd.",,,"$60,000 - $80,000 a year",,"The Loop area)",Chicago,IL," 60604"
+1970-01-01,"Manager, Workplace Investigations Team","McDonald's Corporation",rmhcphoenix.com,,"estimated $32.4k ? $41k a year",,"West Town area)",Chicago,IL," 60607"
+1970-01-01,"Office Manager",AAM,aamgroup.com,"Information Technology & Services","$50,000 - $65,000 a year",,"The Loop area)",Chicago,IL," 60603"
+1970-01-01,"Bilingual (English/Polish) MHPSS Officer - Ukraine Crisis",Americares,americares.org,"Nonprofit Organization Management","$5,800 - $6,600 a month",,"New Eastside area)",Chicago,IL," 60601"
+1970-01-01,"Administrative Assistant","Lincoln Property Company",lpcretail.com,,"estimated $37.6k ? $47.6k a year",,"East Ukrainian Village area)",Chicago,IL," 60622"
+1970-01-01,"General Manager","Dimo's Pizza",dimospizza.com,Restaurants,"$70,000 - $80,000 a year",,"Ravenswood area)",Chicago,IL," 60625"
+1970-01-01,"Administrative Assistant","Robert R. McCormick Foundation",,,"estimated $39.8k ? $50.4k a year",,,"Hybrid remote in Chicago",IL,""
+1970-01-01,"Sales Manager","voco Hotel Chicago & Holiday Inn Chicago Downtown",,,"estimated $65.2k ? $82.6k a year",,"Loop area)",Chicago,IL," 60654"
+1970-01-01,"HealthyMATCH Community Health Worker","Help At Home",helpathome.com,"Hospital & Health Care",,,,"Hybrid remote in Chicago",IL," 60602"
+1970-01-01,"Sales Development Rep",Measured,measured.com,"Computer Software","estimated $50.9k ? $64.5k a year",Remote,,"Remote in Chicago",IL," 60607"
+1970-01-01,"Research Staff","Consulate General of the republic of Korea in...",,,"from $58,500 a year",,"Streeterville area)",Chicago,IL," 60611"
+1970-01-01,"Facilitator, Hamburger University","McDonald's Corporation",rmhcphoenix.com,,"estimated $41k ? $52k a year",Remote,,"Temporarily Remote in Chicago",IL," 60607"
+1970-01-01,"Construction Manager","Power Home Remodeling",powerhrg.com,"Consumer Services","$60,000 a year",,"Near West Side area)",Chicago,IL," 60612"
+1970-01-01,"Administrative Assistant","McCormick Foundation & Cantigny Park",,,"estimated $39.8k ? $50.4k a year",,,"Hybrid remote in Chicago",IL," 60601"
+1970-01-01,"Store Planning Specialist","Wild Fork Foods",wildforkfoods.com,Retail,"$46,259 - $91,029 a year",,"Greektown area)",Chicago,IL," 60661"
+1970-01-01,"Designer (II)","Mary Cook Associates, Inc.",,,"$50,000 - $55,000 a year",,"South East Ravenswood area)",Chicago,IL," 60613"
+1970-01-01,"Chief of Staff","Humboldt Park Health",,,"from $70,000 a year",,"Humboldt Park area)",Chicago,IL," 60622"
+1970-01-01,"Construction Manager","Power Home Remodeling",powerhrg.com,"Consumer Services","$60,000 a year",,"Uptown area)",Chicago,IL," 60613"
+1970-01-01,"Copy Writer","Surgical Care Affiliates",,,,,"Near West Side area)",Chicago,IL," 60661"
+1970-01-01,"Graphic Designer","Surgical Care Affiliates",,,,,"Near West Side area)",Chicago,IL," 60661"
+1970-01-01,"Shopper Strategist **Remote**","Saatchi & Saatchi X",saatchix.net,"Marketing & Advertising","estimated $79.4k ? $101k a year",,"The Loop area)",Chicago,IL," 60601"
+1970-01-01,"Technical Product Manager","McDonald's Corporation",rmhcphoenix.com,,"estimated $98.2k ? $124k a year",,"West Town area)",Chicago,IL," 60607"
+1970-01-01,"User Researcher",LogicGate,logicgate.com,"Computer Software","estimated $80.1k ? $101k a year",Remote,,"Remote in Chicago",IL,""
+1970-01-01,"Deputy Director, Jobs","Best Buddies Int. Inc",bestbuddies.org,"Nonprofit Organization Management","$55,000 a year",,"Loop area)",Chicago,IL," 60654"
+1970-01-01,"On Premise - Key Account Manager","Lakeshore Beverage, LLC",,,"from $75,000 a year",,,Chicago,IL,""
+1970-01-01,"Construction Manager","Power Home Remodeling",powerhrg.com,"Consumer Services","$60,000 a year",,"Near West Side area)",Chicago,IL," 60612"
+1970-01-01,"Business Developer - North America","FERSA BEARINGS",,,"estimated $63.6k ? $80.6k a year",,,Chicago,IL,""
+1970-01-01,"Data Coordinator","Rincon Family Services",rinconfamilyservices.org,"Individual & Family Services","estimated $52.8k ? $66.8k a year",,"Irving Park area)",Chicago,IL," 60618"
+1970-01-01,"Brand Manager","Lakeshore Beverage, LLC",,,"from $51,681 a year",,,Chicago,IL,""
+1970-01-01,"Leasing and Marketing Professional - Summer Season","Lincoln Property Company",lpcretail.com,,"estimated $33.3k ? $42.1k a year",,"Near West Side area)",Chicago,IL," 60607"
+1970-01-01,"Administrative Assistant","McCormick Foundation & Cantigny Park",,,"estimated $39.8k ? $50.4k a year",,,"Hybrid remote in Chicago",IL," 60601"
+1970-01-01,"Transportation Pricing & Yield Manager","TeamOne Logistics",teamonelogistics.com,Transportation/Trucking/Railroad,"$75,000 - $100,000 a year",,,Chicago,IL,""
+1970-01-01,"Operations Manager","Motivate LLC",,,,,,Chicago,IL,""
+1970-01-01,"Paid Search Lead",Envisionit,envisionitagency.com,"Marketing & Advertising","$75,000 - $90,000 a year",Remote,,"Remote in Chicago",IL," 60601"
+1970-01-01,"ABACLE - Associate Director Production","American Bar Association",americanbar.org,"Legal Services","$72,300 - $81,120 a year",,,"Hybrid remote in Chicago",IL," 60654"
+1970-01-01,"Content Marketing Manager","Surgical Care Affiliates",,,,,"Near West Side area)",Chicago,IL," 60661"
+1970-01-01,"Construction Manager","Power Home Remodeling",powerhrg.com,"Consumer Services","$60,000 a year",,"Uptown area)",Chicago,IL," 60613"
+1970-01-01,"Community Manager - B2B SaaS",Payscale,payscale.com,"Computer Software","estimated $58.7k ? $74.3k a year",,,Chicago,IL,""
+1970-01-01,"IT Support Technician",TekwissenGroup,tekwissen.com,"Information Technology & Services","up to $30 an hour",,,Chicago,IL,""
+1970-01-01,"Supervisor, Digital Business Insights","McDonald's Corporation",rmhcphoenix.com,,"estimated $35.7k ? $45.1k a year",Remote,,"Temporarily Remote in Chicago",IL," 60607"
+1970-01-01,"Global Organization Effectiveness Design Manager","McDonald's Corporation",rmhcphoenix.com,,"estimated $88.3k ? $112k a year",,"West Town area)",Chicago,IL," 60607"
+1970-01-01,"Account Executive (Chicago)","Birdseye Solutions",birdseyesecurity.com,"Security & Investigations","estimated $81.4k ? $103k a year",Remote,,"Remote in Chicago",IL,""
+1970-01-01,"Manager, Competitive Intelligence",Zenith,,,"estimated $74.2k ? $94k a year",,"The Loop area)",Chicago,IL," 60601"
+1970-01-01,"Assistant Club Manager","East Bank Club",eastbankclub.com,"Health, Wellness & Fitness","estimated $34k ? $43k a year",,"River North area)",Chicago,IL," 60654"
+1970-01-01,"Business Development Manager - Intellectual Property","Crowell & Moring",crowell.com,"Law Practice","estimated $102k ? $129k a year",,"Streeterville area)",Chicago,IL," 60611"
+1970-01-01,"Talent and Culture Partner","Campus Cooks",campuscooks.com,"Food & Beverages","estimated $72.3k ? $91.5k a year",,"Avondale area)",Chicago,IL," 60618"
+1970-01-01,"Product Manager",Kazoo,kazoohr.com,"Computer Software","estimated $96.4k ? $122k a year",,"Loop area)",Chicago,IL," 60654"
+1970-01-01,"Account Manager - Healthcare IT",WalkerHealthcare,walkerhealthcare.com,"Hospital & Health Care","estimated $52.4k ? $66.4k a year",,"Near North Side area)",Chicago,IL," 60611"
+1970-01-01,"Sales Manager","voco Hotel Chicago & Holiday Inn Chicago Downtown",,,"estimated $65.2k ? $82.6k a year",,"Loop area)",Chicago,IL," 60654"
+1970-01-01,"Finance & Administration (F&A) Director","Odle Management",,,"estimated $100k ? $127k a year",,"South Lawndale area)",Chicago,IL," 60623"
+1970-01-01,"Construction/Maintenance Worker","Prestige Group Construction",,,"$19 - $25 an hour",,,Chicago,IL,""
+1970-01-01,"Clean Energy Public Affairs Manager - Remote","Aileron Communications",aileroninc.com,"Advertising & Marketing","$70,000 - $90,000 a year",,,Chicago,IL,""
+1970-01-01,"Account Executive","Health Plans Inc",hpitpa.com,Insurance,,,"Near North Side area)",Chicago,IL," 60611"
+1970-01-01,"Designer (II)","Mary Cook Associates, Inc.",,,"$50,000 - $55,000 a year",,"South East Ravenswood area)",Chicago,IL," 60613"
+1970-01-01,"Wine Director","Ballyhoo Hospitality - Coda Di Volpe",,,"$65,000 - $80,000 a year",,"Lake View area)",Chicago,IL," 60657"
+1970-01-01,"Construction Manager","Power Home Remodeling",powerhrg.com,"Consumer Services","$60,000 a year",,"Near West Side area)",Chicago,IL," 60612"
+1970-01-01,"Insurance Claims Processor (Remote)","ELITE DENTAL PARTNERS L",elitedentalpartners.com,"Hospital & Health Care",,Remote,,"Remote in Chicago",IL," 60604"
+1970-01-01,"Software Quality Assurance Manager",NinjaTrader,ninjatrader.com,"Financial Services","estimated $83.8k ? $106k a year",,"Loop area)",Chicago,IL," 60601"
+1970-01-01,"Seasonal Painter for Maintenance Crew - $20/hour","Chicago Apartment Place, Inc.",chicagoapartmentplace.com,"Real Estate","$20 an hour",,,Chicago,IL,""
+1970-01-01,"Quality Coordinator","Lapham-Hickey Steel",,,"$65,000 - $85,000 a year",,"Clearing area)",Chicago,IL," 60638"
+1970-01-01,"Education Coordinator ($500 upon hire and another $500 upon...","Erie Neighborhood House",eriehouse.org,"Nonprofit Organization Management","$55,000 - $65,000 a year",,"West Town area)",Chicago,IL," 60622"
+1970-01-01,"Social Media Strategist - DSplus","Saatchi & Saatchi (We Are Saatchi)",wearesaatchi.com,"Marketing & Advertising","estimated $59.6k ? $75.4k a year",Remote,,"Remote in Chicago",IL,""
+1970-01-01,"Behavior Operations Manager","PAWS Chicago",pawschicago.org,"Nonprofit Organization Management","estimated $63.8k ? $80.8k a year",,,Chicago,IL,""
+1970-01-01,"Transportation Safety Director","New World Van Lines",nwvl.com,Transportation/Trucking/Railroad,"$95,000 - $100,000 a year",,,Chicago,IL,""
+1970-01-01,"Business Operations Manager - DMS (Remote)","Dominion VUE / DMS",vuedms.com,Automotive,"estimated $60.4k ? $76.4k a year",Remote,,"Remote in Chicago",IL," 60007"
+1970-01-01,"Public Relations Manager","Aileron Communications",aileroninc.com,"Advertising & Marketing","$70,000 - $90,000 a year",,"The Loop area)",Chicago,IL," 60603"
+1970-01-01,Drafter,"EN Engineering",enengineering.com,"Oil & Energy","$18 - $23 an hour",,,Chicago,IL,""
+1970-01-01,"People Operations Coordinator",Crafty,,,"estimated $43.4k ? $55k a year",,"West Town area)",Chicago,IL," 60607"
+1970-01-01,"Quality Coordinator","Lapham-Hickey Steel",,,"$65,000 - $85,000 a year",,"Clearing area)",Chicago,IL," 60638"
+1970-01-01,"Housekeeping Manager",Sentral,sentral.com.au,"Education Management","estimated $34.2k ? $43.4k a year",,"Near South Side area)",Chicago,IL," 60605"
+1970-01-01,"Hotel Sales - Area Manager (Remote - US)","Gillis Sales",gillissales.com,Hospitality,"estimated $88k ? $111k a year",Remote,,"Remote in Chicago",IL," 60601"
+1970-01-01,"Public Relations Manager","Aileron Communications",aileroninc.com,"Advertising & Marketing","$70,000 - $90,000 a year",,"The Loop area)",Chicago,IL," 60603"
+1970-01-01,"Deputy Director, Programs","Best Buddies Int. Inc",bestbuddies.org,"Nonprofit Organization Management","$50,000 a year",,"Loop area)",Chicago,IL," 60654"
+1970-01-01,"Maintenance Supervisor","Odle Management",,,"estimated $47k ? $59.4k a year",,"South Lawndale area)",Chicago,IL," 60623"
+1970-01-01,"FT NANNY in LAKEVIEW","Nanny Harmony",nannyharmonychicago.com,,"from $26 an hour",,"Lake View East area)",Chicago,IL," 60657"
+1970-01-01,"Leasing and Marketing Professional - Summer Season","Lincoln Property Company",lpcretail.com,,"estimated $33.3k ? $42.1k a year",,"Near West Side area)",Chicago,IL," 60607"
+1970-01-01,"Regional Sales Manager - IL & IN","Phillips Distilling Company",phillipsdistilling.com,"Food & Beverages","estimated $78.6k ? $99.6k a year",,,Chicago,IL,""
+1970-01-01,"Studio Manager","F45 Training CP006942",,,"$40,000 - $65,000 a year",,"Loop area)",Chicago,IL," 60654"
+1970-01-01,"On Premise - Key Account Manager","Lakeshore Beverage, LLC",,,"from $75,000 a year",,,Chicago,IL,""
+1970-01-01,"Food Service Supervisor","Odle Management",,,"estimated $36.1k ? $45.7k a year",,"South Lawndale area)",Chicago,IL," 60623"
+1970-01-01,"One-to-One Instructional Aide","Sonia Shankman Orthogenic School",oschool.org,"Primary/Secondary Education",,,"Woodlawn area)",Chicago,IL," 60637"
+1970-01-01,"Head of Growth (responsible for all sales/growth)","GuardianVets Inc",guardianvets.com,Veterinary,"$50,000 - $100,000 a year",,"North Center area)",Chicago,IL," 60613"
+1970-01-01,"Hepatitis Treatment and Care Program Manager","Howard Brown Health Center",howardbrown.org,"Hospital & Health Care","estimated $50k ? $63.2k a year",,"Buena Park area)",Chicago,IL," 60613"
+1970-01-01,"Seasonal Painter for Maintenance Crew - $20/hour","Chicago Apartment Place, Inc.",chicagoapartmentplace.com,"Real Estate","$20 an hour",,,Chicago,IL,""
+1970-01-01,"Digital Marketing Manager (Full Time, Remote or Hybrid)","Gate 39 Media",gate39media.com,"Financial Services","$85,000 - $95,000 a year",,,"Hybrid remote in Chicago",IL," 60602"
+1970-01-01,"Regional Manager-Action Council-City of Chicago","IL Network of Child Care Resource and Referral...",,,"estimated $60.8k ? $77k a year",,"Near West Side area)",Chicago,IL," 60661"
+1970-01-01,"UX Designer",Measured,measured.com,"Computer Software","estimated $97k ? $123k a year",Remote,,"Remote in Chicago",IL," 60607"
+1970-01-01,"Skincare Store Supervisor - Bucktown Dermatology Practice","VitalSkin Dermatology",vitalskinderm.com,"Health, Wellness & Fitness","estimated $56.6k ? $71.6k a year",,"Bucktown area)",Chicago,IL," 60642"
+1970-01-01,"Digital Copywriter","Spectrum Brands",spectrumbrands.com,"Consumer Goods",,Remote,,"Remote in Chicago",IL,""
+1970-01-01,"Assistant Manager, Service Delivery Operations","Motivate LLC",,,,,,Chicago,IL,""
+1970-01-01,"Operations Facilities Manager","Imagine Englewood if",,,"$60,000 a year",,"West Englewood area)",Chicago,IL," 60636"
+1970-01-01,"Digital and Graphic Designer",PetPartners,,,"estimated $46.8k ? $59.2k a year",,"River North area)",Chicago,IL," 60654"
+1970-01-01,"Business Operations Manager - DMS (Remote)","Dominion VUE / DMS",vuedms.com,Automotive,"estimated $60.4k ? $76.4k a year",Remote,,"Remote in Chicago",IL," 60007"
+1970-01-01,Drafter,"EN Engineering",enengineering.com,"Oil & Energy","$18 - $23 an hour",,,Chicago,IL,""
+1970-01-01,"Technical Consultant (Remote)",Vendavo,vendavo.com,"Computer Software","estimated $101k ? $128k a year",Remote,,"Remote in Chicago",IL,""
+1970-01-01,"Safety Manager","Lakeshore Beverage, LLC",,,"$75,000 - $80,000 a year",,,Chicago,IL,""
+1970-01-01,"Construction Manager","Power Home Remodeling",powerhrg.com,"Consumer Services","$60,000 a year",,"Near West Side area)",Chicago,IL," 60612"
+1970-01-01,"Director, Global Market Access- Remote","Amplity Health",amplity.com,Pharmaceuticals,"estimated $80.3k ? $102k a year",Remote,,"Remote in Chicago",IL,""
+1970-01-01,"Account Executive","Health Plans Inc",hpitpa.com,Insurance,,,"Near North Side area)",Chicago,IL," 60611"
+1970-01-01,"Marketing Specialist","Pinpoint Precision LLC",,,"$40,000 - $60,000 a year",,,Chicago,IL,""
+1970-01-01,"Regional Operations Manager","SMS Assist, LLC",smsassist.com,"Facilities Services","estimated $69.2k ? $87.6k a year",,"The Loop area)",Chicago,IL," 60601"
+1970-01-01,"Social Media Strategist - DSplus","Saatchi & Saatchi (We Are Saatchi)",wearesaatchi.com,"Marketing & Advertising","estimated $59.6k ? $75.4k a year",Remote,,"Remote in Chicago",IL,""
+1970-01-01,"Food and Beverage Outlet Manager","LondonHouse Chicago",,,"estimated $47.6k ? $60.2k a year",,"The Loop area)",Chicago,IL," 60601"
+1970-01-01,"Culinary Recruiter","The Alinea Group",thealineagroup.com,"Food & Beverages","estimated $53k ? $67k a year",,,"Hybrid remote in Chicago",IL," 60642"
+1970-01-01,"Rapid Rehousing Case Manager","Sarah's Circle",sarahs-circle.org,"Nonprofit Organization Management","$19.50 - $23.80 an hour",,"Uptown area)",Chicago,IL," 60640"
+1970-01-01,"Retail Execution Manager - Detroit Area","Accelerate360, LLC",,,,,,Chicago,IL,""
+1970-01-01,"Software Quality Assurance Manager",NinjaTrader,ninjatrader.com,"Financial Services","estimated $83.8k ? $106k a year",,"Loop area)",Chicago,IL," 60601"
+1970-01-01,"Behavior Operations Manager","PAWS Chicago",pawschicago.org,"Nonprofit Organization Management","estimated $63.8k ? $80.8k a year",,,Chicago,IL,""
+1970-01-01,"Sales Development Representative (Remote)",GrowthAssistant,,,"$40,000 - $50,000 a year",Remote,,"Remote in Chicago",IL,""
+1970-01-01,"RISE Counselor/Case Manager","Lutheran Social Services of IL",lssi.org,"Nonprofit Organization Management","estimated $35.8k ? $45.4k a year",,,Chicago,IL,""
+1970-01-01,"Chicago Showroom Manager","Phillip Jeffries",phillipjeffries.com,Design,"estimated $57.2k ? $72.4k a year",,"Loop area)",Chicago,IL," 60654"
+1970-01-01,"Store Manager","EZPAWN | EZCORP Inc",ezcorp.com,"Financial Services",,,"Portage Park area)",Chicago,IL," 60641"
+1970-01-01,"Post-Doctoral Fellow - Neuromodulation and Motor Control Lab","Shirley Ryan Ability Lab",sralab.org,"Hospital & Health Care","estimated $50.2k ? $63.6k a year",,"Streeterville area)",Chicago,IL," 60611"
+1970-01-01,"Account Manager",JourneyCare,journeycare.org,"Hospital & Health Care","estimated $55.3k ? $70.1k a year",,"Near West Side area)",Chicago,IL," 60612"
+1970-01-01,"Material Planner","James Hardie Building Products",jameshardie.com,"Building Materials",,,"New Eastside area)",Chicago,IL," 60601"
+1970-01-01,"General Manager","PLANET FIT INDY 10 LLC",,,"estimated $44.1k ? $55.9k a year",,,Chicago,IL," 60647"
+1970-01-01,"Helpdesk Technician","Green Office Partner",greenofficepartner.com,"Information Technology & Services","$40,000 - $45,000 a year",,"Norwood Park area)",Chicago,IL," 60631"
+1970-01-01,"Human Resources Director","Symphony Morgan Park",symphonymorganpark.com,,"estimated $65.7k ? $83.3k a year",,,Chicago,IL," 60628"
+1970-01-01,"Nutanix Administrator","Lettuce Entertain You Restaurants (Chicago)",leye.com,Restaurants,"estimated $47k ? $59.4k a year",,"Edgewater Beach area)",Chicago,IL," 60640"
+1970-01-01,"Behavior Operations Manager","PAWS Chicago",pawschicago.org,"Nonprofit Organization Management","estimated $63.8k ? $80.8k a year",,,Chicago,IL,""
+1970-01-01,Drafter,"EN Engineering",enengineering.com,"Oil & Energy","$18 - $23 an hour",,,Chicago,IL,""
+1970-01-01,"Technical Consultant (Remote)",Vendavo,vendavo.com,"Computer Software","estimated $101k ? $128k a year",Remote,,"Remote in Chicago",IL,""
+1970-01-01,"Social Media Strategist - DSplus","Saatchi & Saatchi (We Are Saatchi)",wearesaatchi.com,"Marketing & Advertising","estimated $59.6k ? $75.4k a year",Remote,,"Remote in Chicago",IL,""
+1970-01-01,"Education Coordinator ($500 upon hire and another $500 upon...","Erie Neighborhood House",eriehouse.org,"Nonprofit Organization Management","$55,000 - $65,000 a year",,"West Town area)",Chicago,IL," 60622"
+1970-01-01,"Material Planner","James Hardie Building Products",jameshardie.com,"Building Materials",,,"New Eastside area)",Chicago,IL," 60601"
+1970-01-01,"RISE Counselor/Case Manager","Lutheran Social Services of IL",lssi.org,"Nonprofit Organization Management","estimated $35.8k ? $45.4k a year",,,Chicago,IL,""
+1970-01-01,"Area Manager","Blue Chip Facility Services",,,"$50,000 a year",,,Chicago,IL,""
+1970-01-01,"Regional Operations Manager","SMS Assist, LLC",smsassist.com,"Facilities Services","estimated $69.2k ? $87.6k a year",,"The Loop area)",Chicago,IL," 60601"
+1970-01-01,"Account Director","Aisle Rocket",aislerocket.com,"Marketing & Advertising","estimated $94.3k ? $119k a year",,"Near West Side area)",Chicago,IL," 60661"
+1970-01-01,"Route Manager","Domestic Uniform Rental",domesticuniform.com,Textiles,"estimated $45.7k ? $57.9k a year",,,Chicago,IL,""
+1970-01-01,"Post-Doctoral Fellow - Neuromodulation and Motor Control Lab","Shirley Ryan Ability Lab",sralab.org,"Hospital & Health Care","estimated $50.2k ? $63.6k a year",,"Streeterville area)",Chicago,IL," 60611"
+1970-01-01,"Account Manager","BrightView Landscape Services",brightview.com,"Facilities Services",,,,Chicago,IL,""
+1970-01-01,"Global Organization Effectiveness Design Manager","McDonald's Corporation",rmhcphoenix.com,,"estimated $88.3k ? $112k a year",,"West Town area)",Chicago,IL," 60607"
+1970-01-01,"Supervisor, Strategy","Spark Foundry",sparkfoundryww.com,"Marketing & Advertising",,,"The Loop area)",Chicago,IL,""
+1970-01-01,"IT Project Manager/Business Analyst","Association of Diabetes Care & Education...",diabeteseducator.org,"Nonprofit Organization Management","from $65,000 a year",,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Operations Facilities Manager","Imagine Englewood if",,,"$60,000 a year",,"West Englewood area)",Chicago,IL," 60636"
+1970-01-01,"Assistant Property Manager (Full-Time, Non-Exempt)","Ivy Residences",,,"estimated $43.7k ? $55.3k a year",,"Hyde Park area)",Chicago,IL," 60615"
+1970-01-01,"Care Manager (Rogers Park)","Trilogy Behavioral Healthcare",trilogyinc.org,"Mental Health Care","$22.59 an hour",,"Rogers Park area)",Chicago,IL," 60626"
+1970-01-01,"Desktop Support Technician","Ovation Workplace Services",,,"$47,000 - $50,000 a year",,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Digital and Graphic Designer",PetPartners,,,"estimated $46.8k ? $59.2k a year",,"River North area)",Chicago,IL," 60654"
+1970-01-01,"Trust & Estates Paralegal/Legal Assistant","Handler Thayer, LLP",handlerthayer.com,"Legal Services","$65,000 - $90,000 a year",,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Family Outreach Specialist","Centers For New Horizons",cnh.org,"Nonprofit Organization Management","$40,000 a year",,"Bronzeville area)",Chicago,IL," 60653"
+1970-01-01,"Bilingual Crisis Counselor (Rogers Park)","Trilogy Behavioral Healthcare",trilogyinc.org,"Mental Health Care","$24.52 - $25.48 an hour",,"Rogers Park area)",Chicago,IL," 60626"
+1970-01-01,"ABACLE - Associate Director Production","American Bar Association",americanbar.org,"Legal Services","$72,300 - $81,120 a year",,,"Hybrid remote in Chicago",IL," 60654"
+1970-01-01,"Desktop Support Technician","Ovation Workplace Services",,,"$47,000 - $50,000 a year",,"Near West Side area)",Chicago,IL," 60661"
+1970-01-01,"Facilities and Maintenance Supervisor (Bilingual)","Focal Point Lights",focalpointlights.com,"Electrical/Electronic Manufacturing","estimated $53.3k ? $67.5k a year",,"Brighton Park area)",Chicago,IL," 60632"
+1970-01-01,"Account Manager - Healthcare IT",WalkerHealthcare,walkerhealthcare.com,"Hospital & Health Care","estimated $52.4k ? $66.4k a year",,"Near North Side area)",Chicago,IL," 60611"
+1970-01-01,"Transportation Pricing & Yield Manager","TeamOne Logistics",teamonelogistics.com,Transportation/Trucking/Railroad,"$75,000 - $100,000 a year",,,Chicago,IL,""
+1970-01-01,"Billing Quality Control Auditor","Health Plans Inc",hpitpa.com,Insurance,,,"Near North Side area)",Chicago,IL," 60611"
+1970-01-01,"Sales F&I Trainer (SWDS)","Acrisure LLC",acrisure.com,"Financial Services","estimated $65.6k ? $83k a year",,"Streeterville area)",Chicago,IL," 60611"
+1970-01-01,"Consent Decree Quality Administrator (Rogers Park)","Trilogy Behavioral Healthcare",trilogyinc.org,"Mental Health Care","$60,000 - $61,500 a year",,"Rogers Park area)",Chicago,IL," 60626"
+1970-01-01,"Continuing Education Program Coordinator","American Health Information Mgt. Assoc.",ahima.org,"Hospital & Health Care","estimated $45k ? $57k a year",,"Loop area)",Chicago,IL," 60601"
+1970-01-01,"Pricing Manager","Ice Miller LLP",icemiller.com,"Legal Services","estimated $83.7k ? $106k a year",,"Loop area)",Chicago,IL," 60606"
+1970-01-01,"Commercial Concrete Construction Estimator","Concrete Strategies",concretestrategies.com,Construction,"estimated $73.9k ? $93.5k a year",,,Chicago,IL,""
+1970-01-01,"Non-Invasive Cardiovascular Sonography Instructor","Midwestern Career College",mccollege.edu,"Higher Education","estimated $42.6k ? $54k a year",,"The Loop area)",Chicago,IL," 60601"
+1970-01-01,"Product Manager",Appcast,,,,,"West Loop Gate area)",Chicago,IL," 60606"
+1970-01-01,"Client Support & Service Case Coordinator - Veteran Services","Volunteers of America of Illinois",voaillinois.org,"Nonprofit Organization Management","from $44,000 a year",,"Englewood area)",Chicago,IL," 60621"
+1970-01-01,"Construction Lift Director - Crane Safety and Logistics","Brown & Momen, Inc.",,,"$85,000 - $105,000 a year",,"Hyde Park area)",Chicago,IL," 60615"
+1970-01-01,"Medical Device Sales Representative-Chicago and southeastern...","Aura Healthcare",aurahc.com,"Hospital & Health Care","$45,000 - $60,000 a year",,,Chicago,IL,""
+1970-01-01,"Clinical Social Worker Extra $5,000 yearly","Visiting Physicians Association",visitingphysicians.com,"Hospital & Health Care","estimated $53.4k ? $67.6k a year",,,Chicago,IL,""
+1970-01-01,"Floor Manager, Market Hall","SBE Restaurant Group",,,"estimated $48k ? $60.8k a year",,"The Loop area)",Chicago,IL," 60604"
+1970-01-01,"UI/UX Designer","Dominion VUE / DMS",vuedms.com,Automotive,"estimated $78.3k ? $99.1k a year",,,Chicago,IL," 60007"
+1970-01-01,"Power BI Developer (remote)","Hitachi Solutions",hitachi-solutions.com,"Information Technology & Services",,Remote,,"Remote in Chicago",IL," 60606"
+1970-01-01,"Talent and Culture Partner","Campus Cooks",campuscooks.com,"Food & Beverages","estimated $72.3k ? $91.5k a year",,"Avondale area)",Chicago,IL," 60618"
+1970-01-01,"Manager, Office Operations","CA Ventures",ca-ventures.com,"Real Estate","estimated $61.8k ? $78.2k a year",,,Chicago,IL,""
+1970-01-01,"Software Quality Assurance Manager",NinjaTrader,ninjatrader.com,"Financial Services","estimated $83.8k ? $106k a year",,"Loop area)",Chicago,IL," 60601"
+1970-01-01,"Facilities Preventative Maintenance II","Howard Brown Health Center",howardbrown.org,"Hospital & Health Care","$19 an hour",,"Uptown area)",Chicago,IL," 60640"
+1970-01-01,"Human Resources Director","Symphony Morgan Park",symphonymorganpark.com,,"estimated $65.7k ? $83.3k a year",,,Chicago,IL," 60628"
+1970-01-01,"Director of Business Development- SUD","New Vista Health and Wellness",newvistahealth.com,"Hospital & Health Care",,,,Chicago,IL,""
+1970-01-01,"Human Resources Director","Symphony Morgan Park",symphonymorganpark.com,,"estimated $65.7k ? $83.3k a year",,,Chicago,IL," 60628"
+1970-01-01,"ENGAGEMENT MANAGER","Tricap Residential Group",,,"estimated $42.4k ? $53.8k a year",,,Chicago,IL," 60637"
+1970-01-01,"Director of Health & Wellness","Autumn Green at Wright Campus",,,"estimated $59.6k ? $75.4k a year",,"Dunning area)",Chicago,IL," 60634"
+1970-01-01,"Substance Abuse Specialist","Association House of Chicago",associationhouse.org,"Individual & Family Services","estimated $35.1k ? $44.5k a year",,"Austin area)",Chicago,IL," 60651"
+1970-01-01,"Admissions Counselor","Odle Management",,,"estimated $41.2k ? $52.2k a year",,"South Lawndale area)",Chicago,IL," 60623"
+1970-01-01,"Ryan White Part D Medical Case Manager","Howard Brown Health Center",howardbrown.org,"Hospital & Health Care","$19.51 an hour",,"Buena Park area)",Chicago,IL," 60613"
+1970-01-01,"Medical Case Manager","AmTrust Financial Services, Inc.",amtrustfinancial.com,Insurance,"estimated $59k ? $74.6k a year",,"The Loop area)",Chicago,IL," 60601"
+1970-01-01,"Manager, Office Operations","CA Ventures",ca-ventures.com,"Real Estate","estimated $61.8k ? $78.2k a year",,,Chicago,IL,""
+1970-01-01,"Culinary Operations Manager","SBE Restaurant Group",,,"estimated $55.8k ? $70.6k a year",,"The Loop area)",Chicago,IL," 60604"
+1970-01-01,"Corporate Counsel, Commercial","Berlin Packaging LLC",berlinpackaging.com,"Packaging & Containers","estimated $126k ? $160k a year",,"West Loop Gate area)",Chicago,IL," 60661"
+1970-01-01,"Accounts Payable Specialist","Alden Management Services",,,"$19 - $24 an hour",,"Sauganash area)",Chicago,IL," 60646"
+1970-01-01,"Capacity Sales Manager (Chicago)","Magnify Logistics",,,"estimated $64k ? $81k a year",,"Loop area)",Chicago,IL," 60606"
+1970-01-01,"Director of Health and Wellness - LPN or RN","Autumn Green at Wright Campus",,,"estimated $61.6k ? $78k a year",,"Dunning area)",Chicago,IL," 60634"
+1970-01-01,"Management Information Systems Specialist","Odle Management",,,"estimated $54.7k ? $69.3k a year",,"South Lawndale area)",Chicago,IL," 60623"
+1970-01-01,"Media Manager",Performics,performics.com,"Marketing & Advertising","estimated $66.2k ? $83.8k a year",,"The Loop area)",Chicago,IL,""
+1970-01-01,"Middle School Social Studies Teacher","Saint Clement School",stclementschool.org,"Education Management","$35,000 - $65,000 a year",,"Park West area)",Chicago,IL," 60614"
+1970-01-01,"TANF Case Manager","TCA HEALTH INC",tcahealth.org,"Hospital & Health Care","$38,500 a year",,"Altgeld Gardens area)",Chicago,IL," 60628"
+1970-01-01,"Key Account Manager / Responsable Grands Comptes",NAOS,,,,Remote,,"Remote in Chicago",IL,""
+1970-01-01,"Customer Service Representative (Remote)",GrowthAssistant,,,"$40,000 - $50,000 a year",Remote,,"Remote in Chicago",IL,""
+1970-01-01,"Production Manager","HH Global",hhglobal.com,"Marketing & Advertising","estimated $72.8k ? $92.2k a year",,"Loop area)",Chicago,IL," 60601"
+1970-01-01,"Coach Bus Driver needed - Part Time or Full","Charter Bus Company",,,"from $25 an hour",,,Chicago,IL,""
+1970-01-01,"Technical Account Manager - Chicago",Genetec,,,,,"Near North area)",Chicago,IL," 60611"
+1970-01-01,"Lubricant Sales Representative","Al Warren Oil Company Inc.",alwarrenoil.com,"Oil & Energy","$60,000 - $70,000 a year",,,Chicago,IL,""
+1970-01-01,"Practice Manager","Hamdard Center for Health and Human Services",hamdardhealth.org,"Hospital & Health Care","estimated $67.1k ? $84.9k a year",,"Rogers Park area)",Chicago,IL," 60660"
+1970-01-01,"Retail Execution Manager - Chicago Area","Accelerate360, LLC",,,,,,Chicago,IL,""
+1970-01-01,"Project Designer - Interiors","Mary Cook Associates, Inc.",,,"$65,000 - $75,001 a year",,"South East Ravenswood area)",Chicago,IL," 60613"
+1970-01-01,"Associate Creative Director - Experience Design",Merkle,merkleinc.com,"Marketing & Advertising","$106,000 - $159,000 a year",,"Loop area)",Chicago,IL," 60603"
+1970-01-01,"Low Voltage Technician and Client Relationship Associate","Whiz Cribs, LLC",whizcribs.com,"Information Technology & Services","$35,000 - $60,000 a year",,,Chicago,IL,""
+1970-01-01,"Kitchen Designer_Project Management","de Giulio Kitchen Design",degiuliodesign.com,Design,"estimated $61.9k ? $78.3k a year",,"River North area)",Chicago,IL," 60654"
+1970-01-01,"Trusts & Estates Associate","Handler Thayer, LLP",handlerthayer.com,"Legal Services","$110,000 - $120,000 a year",,"The Loop area)",Chicago,IL," 60606"
+1970-01-01,"Telecom Field Integration Technician (Nokia / Ericsson)","CED Systems",cedsys.com,Telecommunications,"$13 - $30 an hour",,,Chicago,IL,""
+1970-01-01,"Maintenance Groundskeeper","Imagine Englewood if",,,"$16 - $18 an hour",,"West Englewood area)",Chicago,IL," 60636"
+1970-01-01,"Financial Analyst","Pangea Real Estate",pangeare.com,,"estimated $64.2k ? $81.4k a year",,"West Loop Gate area)",Chicago,IL," 60661"
+1970-01-01,"Nurse Supervisor (RN or LPN)","Belhaven Nursing & Rehabilitation Center",belhavennursing.com,"Hospital & Health Care","estimated $55.9k ? $70.7k a year",,"Morgan Park area)",Chicago,IL," 60643"
+1970-01-01,"Database Administrator","Allied Benefit Systems, LLC",,,"estimated $96.5k ? $122k a year",,,"Hybrid remote in Chicago",IL," 60606"
+1970-01-01,"Registry Administrative Coordinator- Flex Staff","Shirley Ryan Ability Lab",sralab.org,"Hospital & Health Care","estimated $40.1k ? $50.7k a year",,"Streeterville area)",Chicago,IL," 60611"
+1970-01-01,"Registry Administrative Coordinator- Flex Staff","Shirley Ryan Ability Lab",sralab.org,"Hospital & Health Care","estimated $40.1k ? $50.7k a year",,"Streeterville area)",Chicago,IL," 60611"
+1970-01-01,"Manager, Programmatic",Starcom,starcom.com.au,"Information Technology & Services",,,"The Loop area)",Chicago,IL,""
+1970-01-01,"Assistant Director of Nursing ADON","Elevate Care Chicago North",elevatecare.com,"Hospital & Health Care","estimated $72.7k ? $92.1k a year",,"West Rogers Park area)",Chicago,IL," 60645"
+1970-01-01,"Manager, Paid Social and Programmatic",Starcom,starcom.com.au,"Information Technology & Services",,,"The Loop area)",Chicago,IL,""
+1970-01-01,"Heavy Truck & Trailer Maintenance Technician","WE Services LLC",,,"estimated $44.7k ? $56.5k a year",,,Chicago,IL,""
+1970-01-01,"Staff Attorney","Alden Management Services",,,"estimated $99.6k ? $126k a year",,"Sauganash area)",Chicago,IL," 60646"
+1970-01-01,"Director of Nursing","Park View",,,"estimated $89.8k ? $114k a year",,"Edgewater area)",Chicago,IL," 60660"
+1970-01-01,"Field Service Technician (22-63)","IPG Photonics",ipgphotonics.com,"Electrical/Electronic Manufacturing","estimated $51.1k ? $64.7k a year",,,Chicago,IL,""
+1970-01-01,"Auto Body / Collision Repair Technician (FT)","CDE Collision Centers",cdecollisioncenters.com,Automotive,"estimated $49.7k ? $62.9k a year",,"Gage Park area)",Chicago,IL," 60636"
+1970-01-01,"Director of Nursing - Amita Health Endoscopy Center Lincoln...",MedHQ,medhq.net,"Hospital & Health Care","estimated $99.7k ? $126k a year",,"Lake View East area)",Chicago,IL," 60657"
+1970-01-01,"Lead Commercial Refrigeration Service Technician","Great Lakes South Town",greatlakesservice.com,,"estimated $69.2k ? $87.6k a year",,,Chicago,IL,""
+1970-01-01,"Manager, Office Operations","CA Ventures",ca-ventures.com,"Real Estate","estimated $61.8k ? $78.2k a year",,,Chicago,IL,""
+1970-01-01,"Regional MDS Consultant (Registered Nurse RN)","Infinity Healthcare Management",infinityhcm.com,"Hospital & Health Care","estimated $61.4k ? $77.8k a year",,,Chicago,IL,""
+1970-01-01,"Manager, Office Operations","CA Ventures",ca-ventures.com,"Real Estate","estimated $61.8k ? $78.2k a year",,,Chicago,IL,""
+1970-01-01,"Shuttle Van Driver","HPH Transport",hphtransport.com,"Hospital & Health Care","estimated $26.9k ? $34.1k a year",,"Marycrest area)",Chicago,IL," 60652"
+1970-01-01,"QA Lead",Rightpoint,rightpoint.com,"Information Technology & Services","estimated $82.3k ? $104k a year",,,"Hybrid remote in Chicago",IL," 60606"
+1970-01-01,"Commercial Kitchen Equipment Service Technician","Great Lakes South Town",greatlakesservice.com,,"estimated $47.1k ? $59.7k a year",,,Chicago,IL,""
+1970-01-01,"Technology Support Coordinator","Progressive Turnout Project",turnoutpac.org,"Political Organization","$52,000 - $72,800 a year",Remote,,"Remote in Chicago",IL," 60661"
+1970-01-01,"Training Specialist","Chicago Public Schools",cps.edu,"Education Management","$56,000 - $72,000 a year",,"Kennedy Park area)",Chicago,IL,""
+1970-01-01,"Training Specialist","Chicago Public Schools - CPS",,,"$56,000 - $72,000 a year",,,Chicago,IL,""
+1970-01-01,"University Supervisor","DePaul University",depaul.edu,"Higher Education","estimated $51.2k ? $64.8k a year",,"The Loop area)",Chicago,IL," 60604"
+1970-01-01,"New Program Project Manager, Part-Time","DePaul University",depaul.edu,"Higher Education","estimated $46.1k ? $58.3k a year",,"The Loop area)",Chicago,IL," 60604"
+1970-01-01,"Staff Nurse I - 5NE Rehab/Surgical (Posted 4/1/2022)","University of Illinois at Chicago",illinoisprc.org,Research,,,"University Village - Little Italy area)",Chicago,IL," 60607"
+1970-01-01,"Coordinator, Academic Support Services PT (Grant Funded)","City Colleges of Chicago",ccc.edu,"Education Management","estimated $38.7k ? $49.1k a year",,,Chicago,IL,""
+1970-01-01,"Part Time Faculty, English","DePaul University",depaul.edu,"Higher Education","estimated $52.2k ? $66k a year",,"The Loop area)",Chicago,IL," 60604"
+1970-01-01,"RN-Registered Nurse, Endoscopy GI, Part time Days",Ascension,ascension.org,"Hospital & Health Care",,,"Norwood Park West area)",Chicago,IL," 60631"
+1970-01-01,"Customer Service Representative - 8W Bone Marrow Transplant","University of Illinois at Chicago",illinoisprc.org,Research,,,"University Village - Little Italy area)",Chicago,IL," 60607"
+1970-01-01,"Adjunct Lecturer-Institute for Professional Development","DePaul University",depaul.edu,"Higher Education","estimated $68.3k ? $86.5k a year",,"The Loop area)",Chicago,IL," 60604"
+1970-01-01,"Part Time Faculty, The Art School","DePaul University",depaul.edu,"Higher Education","estimated $55.9k ? $70.7k a year",,"The Loop area)",Chicago,IL," 60604"
+1970-01-01,"Commercial Lending Portfolio Manager II- Commercial Real Est...",Stifel,,,"estimated $85k ? $108k a year",,,Chicago,IL,""
+1970-01-01,"Part Time Faculty, Refugee and Forced Migration Studies","DePaul University",depaul.edu,"Higher Education","estimated $56k ? $70.8k a year",,"The Loop area)",Chicago,IL," 60604"
+1970-01-01,"Adjunct Lecturer-Institute for Professional Development SAP...","DePaul University",depaul.edu,"Higher Education","estimated $81.6k ? $103k a year",,"The Loop area)",Chicago,IL," 60604"
+1970-01-01,"ACCREDITATION FIELD REPRESENTATIVE",ACGME,acgme.org,"Hospital & Health Care",,,"Near North Side area)",Chicago,IL," 60611"
+1970-01-01,"Food Server","Connie's Pizza Inc.",,,"estimated $27.4k ? $34.6k a year",,"Chinatown area)",Chicago,IL," 60616"
+1970-01-01,"Office Manager","Ongena Group",,,"$32,000 - $42,000 a year",,,Chicago,IL,""
+1970-01-01,"House Cleaner","Bie Spotless Rcs",,,"$400 - $700 a week",,,Chicago,IL,""
+1970-01-01,"Weekend Nursing Supervisor","Warren Barr South Loop",,,"estimated $55k ? $69.6k a year",,"South Loop area)",Chicago,IL," 60616"
+1970-01-01,"Chicago Adult Climbing Instructor","First Ascent Climbing & Fitness",firstascentclimbing.com,"Computer Software","estimated $35.2k ? $44.6k a year",,"Avondale area)",Chicago,IL," 60618"
+1970-01-01,"Coach Bus Driver needed - Part Time or Full","Charter Bus Company",,,"from $25 an hour",,,Chicago,IL,""
+1970-01-01,"Shuttle Van Driver","HPH Transport",hphtransport.com,"Hospital & Health Care","estimated $26.9k ? $34.1k a year",,"Marycrest area)",Chicago,IL," 60652"
+1970-01-01,"Interim Director of Nursing (DON) - Skilled Nursing Facility","Southview Manor",,,"estimated $86.7k ? $110k a year",,"The Gap area)",Chicago,IL," 60616"
+1970-01-01,"Freelance Video Editor","p3 mediaworks",p3mediaworks.com,"Media Production","estimated $60.5k ? $76.7k a year",Remote,,"Temporarily Remote in Chicago",IL," 60622"
+1970-01-01,"IT Support Technician",TekwissenGroup,tekwissen.com,"Information Technology & Services","up to $30 an hour",,,Chicago,IL,""
+1970-01-01,"Sales Development Representative (Remote)",GrowthAssistant,,,"$40,000 - $50,000 a year",Remote,,"Remote in Chicago",IL,""
+1970-01-01,"Construction/Maintenance Worker","Prestige Group Construction",,,"$19 - $25 an hour",,,Chicago,IL,""
+1970-01-01,"Manager, Strategy and Consulting",Razorfish,razorfish.com,"Marketing & Advertising","estimated $72.7k ? $92.1k a year",,"The Loop area)",Chicago,IL," 60601"
+1970-01-01,"BHJOB15656_17190 - AutoCAD Analyst (W2 only) (F-1825)","Myticas Consulting",myticas.com,"Staffing & Recruiting",,Remote,,"Temporarily Remote in Chicago",IL,""
+1970-01-01,"BHJOB15656_17043 - Linux Admin with DevOps (Local to Chicago...","Myticas Consulting",myticas.com,"Staffing & Recruiting",,,,Chicago,IL,""
+1970-01-01,"BHJOB15656_17014 - Level 2 IT Support Specialist","Myticas Consulting",myticas.com,"Staffing & Recruiting",,,,Chicago,IL,""
+1970-01-01,"BHJOB15656_17432 - Validation Tester (onsite in Chicago)","Myticas Consulting",myticas.com,"Staffing & Recruiting",,,,Chicago,IL,""
+1970-01-01,"Sales Representative","Physicians Revenue Group",prgmd.com,"Hospital & Health Care","$50,000 - $60,000 a year",,,Chicago,IL,""
+1970-01-01,"Ryan White Part D Medical Case Manager","Howard Brown Health Center",howardbrown.org,"Hospital & Health Care","$19.51 an hour",,"Buena Park area)",Chicago,IL," 60613"
+1970-01-01,"Customer Service Representative (Remote)",GrowthAssistant,,,"$40,000 - $50,000 a year",Remote,,"Remote in Chicago",IL,""
+1970-01-01,"BHJOB15656_17092 - Net Developer ? Front End?(A-15096)","Myticas Consulting",myticas.com,"Staffing & Recruiting",,,,Chicago,IL,""
+1970-01-01,"Telecom Field Integration Technician (Nokia / Ericsson)","CED Systems",cedsys.com,Telecommunications,"$13 - $30 an hour",,,Chicago,IL,""
+1970-01-01,"Training Specialist","Chicago Public Schools",cps.edu,"Education Management","$56,000 - $72,000 a year",,"Kennedy Park area)",Chicago,IL,""
+1970-01-01,"Training Specialist","Chicago Public Schools - CPS",,,"$56,000 - $72,000 a year",,,Chicago,IL,""
+1970-01-01,"Coordinator, Academic Support Services PT (Grant Funded)","City Colleges of Chicago",ccc.edu,"Education Management","estimated $38.7k ? $49.1k a year",,,Chicago,IL,""
+1970-01-01,"Educational Case Manager","City Colleges of Chicago",ccc.edu,"Education Management","estimated $35.1k ? $44.5k a year",,,Chicago,IL,""
+1970-01-01,"Bilingual (English/Polish) MHPSS Officer - Ukraine Crisis",Americares,americares.org,"Nonprofit Organization Management","$5,800 - $6,600 a month",,"New Eastside area)",Chicago,IL," 60601"
+1970-01-01,"Seasonal Painter for Maintenance Crew - $20/hour","Chicago Apartment Place, Inc.",chicagoapartmentplace.com,"Real Estate","$20 an hour",,,Chicago,IL,""
+1970-01-01,"Leasing and Marketing Professional - Summer Season","Lincoln Property Company",lpcretail.com,,"estimated $33.3k ? $42.1k a year",,"Near West Side area)",Chicago,IL," 60607"
+1970-01-01,"Lead Internal Auditor (Virtual)",BOEING,boeing.com,"Aviation & Aerospace","from $98,000 a year",,,Chicago,IL,""
+1970-01-01,"Outside Property Unit Manager","The Travelers Companies, Inc.",,,,,,"Hybrid remote in Naperville",IL," 60563"
+1970-01-01,"Branch Manager 5","U.S. Bank",whitefortcapital.com,,,,,Naperville,IL,""
+1970-01-01,"Solutions Customer Support Representative","Third Party Pet",thirdpartypet.com,"Consumer Services",,Remote,,"Remote in Naperville",IL," 60563"
+1970-01-01,"NCC - Director of Customer Experience","Diverse Facility Solutions Inc",diversefacilitysolutions.com,"Facilities Services","estimated $44.6k ? $56.4k a year",,,Naperville,IL," 60540"
+1970-01-01,"NCC - Director of Customer Experience","Diverse Facility Solutions Inc",diversefacilitysolutions.com,"Facilities Services","estimated $43.7k ? $55.3k a year",,,Naperville,IL," 60540"
+1970-01-01,"General Manager","Meatheads Burgers",,,"$47,000 - $52,000 a year",,,Naperville,IL," 60540"
+1970-01-01,"Elementary Teacher","Calvary Christian School",calvarychristianschool.net,"Religious Organizations, Organizations, Radio Stations, Â ... Broadcasting, Media & Internet Â More ","$35,000 - $40,000 a year",,,Naperville,IL," 60564"
+1970-01-01,"Corporate Controller","Jackson & Partners, LLC",,,"$100,000 - $120,000 a year",,,Naperville,IL," 60540"
+1970-01-01,"Live Video Director / Broadcast - Naperville, Church, Full-t...","GOOD SHEPHERD LUTHERAN CHURCH",goserve.net,,"estimated $54.1k ? $68.5k a year",,,Naperville,IL," 60565"
+1970-01-01,"Building Manager","Alden Estates of Naperville",,,"estimated $44.7k ? $56.7k a year",,,Naperville,IL," 60565"
+1970-01-01,"Psychiatric Physician Assistant","Naperville Clinical Associates",,,"$81,922 - $171,820 a year",,,Naperville,IL," 60563"
+1970-01-01,"Account Manager","BrightView Landscape Services",brightview.com,"Facilities Services",,,,Naperville,IL," 60563"
+1970-01-01,"Project Manager/Estimator","Cecchin Site Utilities",,,"estimated $69.4k ? $87.8k a year",,,Naperville,IL,""
+1970-01-01,"Commercial Kitchen Equipment Service Technician","Great Lakes South Town",greatlakesservice.com,,"estimated $47.1k ? $59.7k a year",,,Naperville,IL,""
+1970-01-01,"Lead Commercial Refrigeration Service Technician","Great Lakes South Town",greatlakesservice.com,,"estimated $69.2k ? $87.6k a year",,,Naperville,IL,""
+1970-01-01,"Middle School Math and Science Teacher","Calvary Christian School",calvarychristianschool.net,"Religious Organizations, Organizations, Radio Stations, Â ... Broadcasting, Media & Internet Â More ","from $38,000 a year",,,Naperville,IL," 60564"
+1970-01-01,"General Manager","Meatheads Burgers",,,"$47,000 - $52,000 a year",,,Naperville,IL," 60540"
+1970-01-01,"Psychiatric Physician Assistant","Naperville Clinical Associates",,,"$81,922 - $171,820 a year",,,Naperville,IL," 60563"
+1970-01-01,"Adult Ministry Director - Naperville, Church, Part-time","GOOD SHEPHERD LUTHERAN CHURCH",goserve.net,,"estimated $32k ? $40.6k a year",,,Naperville,IL," 60565"
+1970-01-01,"NCC - Director of Customer Experience","Diverse Facility Solutions Inc",diversefacilitysolutions.com,"Facilities Services","estimated $44.6k ? $56.4k a year",,,Naperville,IL," 60540"
+1970-01-01,"Elementary Teacher","Calvary Christian School",calvarychristianschool.net,"Religious Organizations, Organizations, Radio Stations, Â ... Broadcasting, Media & Internet Â More ","$35,000 - $40,000 a year",,,Naperville,IL," 60564"
+1970-01-01,"Middle School Math and Science Teacher","Calvary Christian School",calvarychristianschool.net,"Religious Organizations, Organizations, Radio Stations, Â ... Broadcasting, Media & Internet Â More ","from $38,000 a year",,,Naperville,IL," 60564"
+1970-01-01,"Program Director, Construction Trades","Lincoln Land Community College",llcc.edu,"Higher Education","$61,761 - $100,613 a year",,,Springfield,IL," 62794"
+1970-01-01,"Admissions Specialist - Memorial Hospital (Warm Hand Off )","Family Guidance Centers, Inc.",fgcinc.org,"Individual & Family Services","estimated $37.9k ? $48.1k a year",,"Pioneer Park area)",Springfield,IL," 62703"
+1970-01-01,"Consultant - Prof Svcs",MAXIMUS,maximus.com,"Government Administration",,,"Downtown area)",Springfield,IL," 62701"
+1970-01-01,"Office Manager - Montvale Estates","Holiday Retirement",holidaytouch.com,"Investment Management","from $15.20 an hour",,,Springfield,IL," 62704"
+1970-01-01,"Software Development",Comcentric,comcentric.com,"Information Technology & Services","estimated $95.8k ? $121k a year",Remote,,"Remote in Springfield",IL,""
+1970-01-01,"Supervisor, Crisis & Call Center","Memorial Health System",,,,,,Springfield,IL,""
+1970-01-01,"Customer Support Specialist II","Memorial Health System",,,,,,Springfield,IL,""
+1970-01-01,"SUBSTANCE USE COUNSELOR III OP","Gateway Foundation Inc",gatewayfoundation.org,"Hospital & Health Care","estimated $50k ? $63.4k a year",,,Springfield,IL," 62703"
+1970-01-01,"HR Analyst","Administrative Office of the Illinois Courts",illinoiscourts.gov,Judiciary,"from $59,506 a year",,,Springfield,IL,""
+1970-01-01,"Digital Marketing Specialist","Springfield Electric Supply Company",sprelec.com,Wholesale,"estimated $52.4k ? $66.4k a year",,"Pillsbury area)",Springfield,IL," 62702"
+1970-01-01,"Fiscal Consultant- Springfield, IL","Diversified Services Network",,,"$25 - $32 an hour",,,Springfield,IL," 62712"
+1970-01-01,"Aviation Maintenance Technician","Bunn-O-Matic Corporation",bunn.com,"Food & Beverages","estimated $50.6k ? $64k a year",,,Springfield,IL," 62711"
+1970-01-01,"System Director-FacilitiesMgmt","Hospital Sisters Health System",hshs.org,"Hospital & Health Care",,,,Springfield,IL," 62794"
+1970-01-01,"Instructor-St Johns College","HSHS St. John's Hospital",st-johns.org,"Hospital & Health Care",,,,Springfield,IL," 62794"
+1970-01-01,"Chief Research Analyst","Administrative Office of the Illinois Courts",illinoiscourts.gov,Judiciary,"from $74,990 a year",,,Springfield,IL,""
+1970-01-01,"Environmental Services Director","Cedarhurst of Springfield IL",,,"estimated $33.7k ? $42.7k a year",,,Springfield,IL," 62711"
+1970-01-01,"Local Manager - Bunny Photos","Cherry Hill Programs",cherryhillprograms.com,Photography,"up to $18 an hour",,,Springfield,IL," 62704"
+1970-01-01,"Payroll Processor","Federated Fiducial",fiducial.fr,"Financial Services","estimated $44.5k ? $56.3k a year",,,Springfield,IL,""
+1970-01-01,"Lincoln Place - Community Manager-in-Training","YES Communities",,,"estimated $37.3k ? $47.3k a year",,,Springfield,IL,""
+1970-01-01,"General Manager","Papa John's - BAJCO",bajco.net,"Management Consulting","estimated $40.3k ? $51.1k a year",,,Springfield,IL," 62702"
+1970-01-01,"Supervisor, Crisis & Call Center","Memorial Health System",,,,,"Enos Park area)",Springfield,IL," 62702"
+1970-01-01,"Fremont Grove - Community Manager","YES Communities",,,"estimated $39.9k ? $50.5k a year",,,Springfield,IL,""
+1970-01-01,"Patient Care Manager","Kindred Hospice",kindredhospice.com,"Hospital & Health Care",,,,Springfield,IL," 62704"
+1970-01-01,"Customer Support Specialist II","Memorial Health System",,,,,"Oak Ridge area)",Springfield,IL," 62702"
+1970-01-01,"Customer Support Specialist","Memorial Health System",,,,,,Springfield,IL,""
+1970-01-01,"Customer Support Specialist","Memorial Health System",,,,,"Oak Ridge area)",Springfield,IL," 62702"
+1970-01-01,"1721 - Application Developer","Infoorigin inc",infoorigin.com,"Information Technology & Services","$16 - $42 an hour",,,Springfield,IL,""
+1970-01-01,"Local Manager - Bunny Photos","Cherry Hill Programs",cherryhillprograms.com,Photography,"up to $18 an hour",,,Springfield,IL," 62704"
+1970-01-01,"Operations Supervisor Night",Lowe's,lowes.com,Retail,,,,Rockford,IL,""
+1970-01-01,"Transition Specialist","OSF HealthCare",osfhealthcare.org,"Hospital & Health Care",,,,Rockford,IL," 61108"
+1970-01-01,Recruiter,Mercyhealth,mercyhealthsystem.org,"Hospital & Health Care","estimated $43.6k ? $55.2k a year",,,Rockford,IL," 61103"
+1970-01-01,"Telecommunications Supervisor","SwedishAmerican / A Division of UW Health",swedishamerican.org,"Hospital & Health Care","estimated $28.6k ? $36.2k a year",,,Rockford,IL,""
+1970-01-01,"Market Development Manager, Protein Electrophoresis","Thermo Fisher Scientific",rwenpower.com,,,Remote,,"Remote in Rockford",IL," 61101"
+1970-01-01,"Supplier Quality & Development Specialist (Remote)","Collins Aerospace",collinsaerospace.com,"Aviation & Aerospace",,Remote,,"Remote in Rockford",IL,""
+1970-01-01,"Supplier Quality & Development Specialist (Remote)","Collins Aerospace",collinsaerospace.com,"Aviation & Aerospace",,Remote,,"Remote in Rockford",IL," 61125"
+1970-01-01,"Buyer II Manufacturing Engineering","Thermo Fisher Scientific",rwenpower.com,,,,,Rockford,IL," 61101"
+1970-01-01,"Registered Nurse RN Emergency Room","OSF HealthCare",osfhealthcare.org,"Hospital & Health Care",,,,Rockford,IL," 61108"
+1970-01-01,"Primary Charge Nurse Surgical Acute","OSF HealthCare",osfhealthcare.org,"Hospital & Health Care","$5,000 for rns with 2 years of nursing experience, requires a 2 year work commitment.",,,Rockford,IL," 61108"
+1970-01-01,"CONSTRUCTION SUPERINTENDENT","Bear Property Management",bearpropertymanagement.com,"Information Technology & Services","estimated $81k ? $103k a year",,,Rockford,IL," 61104"
+1970-01-01,"Building Manager","Alden Park Strathmoor",,,"estimated $44.7k ? $56.7k a year",,,Rockford,IL," 61107"
+1970-01-01,"Fundraising Manager","Rockford Public Library",,,"$45,000 a year",,,Rockford,IL," 61101"
+1970-01-01,"Assistant Dean - Rural Health Professions","University of Illinois at Chicago (Rockford...",uic.edu,"Higher Education",,,,Rockford,IL," 61107"
+1970-01-01,"Child Welfare Case Manager 1593109","Camelot Care Centers, LLC. of Illinois",camelotcarecenters.com,"Civic & Social Organization",,,,Rockford,IL," 61108"
+1970-01-01,"Machine Tool Builder","Skylls Solutions",skillsforautism.com,"Mental Health Care","estimated $54.8k ? $69.4k a year",,,Rockford,IL," 61104"
+1970-01-01,"New Product Introduction and Change Management Materials Pla...","Bergstrom Inc.",,,"estimated $92.3k ? $117k a year",,,Rockford,IL," 61109"
+1970-01-01,"Plasma Center Nurse - RN or LPN","BioLife Plasma Services",biolifeplasma.com,Pharmaceuticals,,,,Rockford,IL," 61108"
+1970-01-01,"Intact Case Manager 1593155","Camelot Care Centers, LLC. of Illinois",camelotcarecenters.com,"Civic & Social Organization",,,,Rockford,IL," 61108"
+1970-01-01,"Architectural Designer or Draftsperson","Chads Design Build",,,"estimated $38.1k ? $48.3k a year",,,Rockford,IL,""
+1970-01-01,"Human Resources Assistant","RLI Corp",rli.com,"Mechanical Or Industrial Engineering","estimated $45.1k ? $57.1k a year",,,"Hybrid remote in Peoria",IL,""
+1970-01-01,"Full Time Animal Control Officer","Peoria County",peoriacounty.org,"Government Administration","estimated $33.4k ? $42.2k a year",,,Peoria,IL,""
+1970-01-01,"Veterans Case Manager","The Salvation Army",salvationarmyfortwalton.org,Retail,,,"North Valley area)",Peoria,IL," 61603"
+1970-01-01,"Executive Director of the Office of Inclusive Excellence","Bradley University",bradley.edu,"Higher Education","estimated $66.6k ? $84.4k a year",,"West Bluff area)",Peoria,IL," 61625"
+1970-01-01,"Social Services Director","The Salvation Army",salvationarmyfortwalton.org,Retail,,,"North Valley area)",Peoria,IL," 61603"
+1970-01-01,"Category Buyer III",Caterpillar,cat-truckengines.com,,,,,Peoria,IL,""
+1970-01-01,"Supervisor Physician Office RN","OSF HealthCare",osfhealthcare.org,"Hospital & Health Care",,,"West Bluff area)",Peoria,IL," 61606"
+1970-01-01,"General Manager",Culver's,,,"$55,000 - $75,000 a year",,,Peoria,IL," 61615"
+1970-01-01,"Assistant Manager",Culver's,,,"$17 - $24 an hour",,,Peoria,IL," 61615"
+1970-01-01,"General Manager",Culver's,,,"$55,000 - $75,000 a year",,,Peoria,IL," 61614"
+1970-01-01,"Outside Sales Representative","Feldco Windows, Siding and Doors",,,"$75,000 - $100,000 a year",,,Peoria,IL,""
+1970-01-01,"Assistant Manager",Culver's,,,"$17 - $24 an hour",,,Peoria,IL," 61614"
+1970-01-01,"District 7 Supervisor","Administrative Office of the Illinois Courts",illinoiscourts.gov,Judiciary,"from $63,862 a year",,,Peoria,IL,""
+1970-01-01,"Sales & Marketing Coordinator","Bella Elevator LLC",symmetryelevators.com,Construction,"estimated $41.3k ? $52.3k a year",,,Peoria,IL," 61615"
+1970-01-01,"Second Shift Youth Care Specialists","Children's Home Association of IL",,,"$18 - $21 an hour",,,Peoria,IL," 61604"
+1970-01-01,"Human Resource Director","Advanced Medical Transport",,,"estimated $85.5k ? $108k a year",,"West Bluff area)",Peoria,IL," 61604"
+1970-01-01,"Security Officer: Methodist Hospital, 2nd shift.","UnityPoint Health",unitypoint.org,"Hospital & Health Care",,,"Downtown Peoria area)",Peoria,IL," 61636"
+1970-01-01,"Account Manager","Colonial Life",,,,,,Peoria,IL,""
+1970-01-01,"Construction Project Manager - Central IL","Kirby Risk",kirbyrisk.com,"Electrical/Electronic Manufacturing","estimated $74.4k ? $94.2k a year",,,Peoria,IL," 61605"
+1970-01-01,"QI-Billing Analyst","Children's Home Association of IL",,,"estimated $29.6k ? $37.4k a year",,"East Bluff area)",Peoria,IL," 61602"
+1970-01-01,"Mechanical Services Technician: Methodist Hospital, 3rd Shif...","UnityPoint Health",unitypoint.org,"Hospital & Health Care",,,"Downtown Peoria area)",Peoria,IL," 61636"
+1970-01-01,"Digital Media Buyer",Simantel,simantel.com,"Marketing & Advertising","estimated $51.5k ? $65.3k a year",,"Downtown Peoria area)",Peoria,IL," 61602"
+1970-01-01,"Nurse Practitioner or Physician Assistant - Aesthetics Focus","Senara Health and Healing Center & Spa",,,"$35 - $45 an hour",,,Peoria,IL," 61614"
+1970-01-01,"General Manager",Culver's,,,"$55,000 - $75,000 a year",,,Peoria,IL," 61615"
+1970-01-01,"Assistant Manager",Culver's,,,"$17 - $24 an hour",,,Peoria,IL," 61615"
+1970-01-01,"General Manager",Culver's,,,"$55,000 - $75,000 a year",,,Peoria,IL," 61614"
+1970-01-01,"Assistant Manager",Culver's,,,"$17 - $24 an hour",,,Peoria,IL," 61614"
+1970-01-01,"Account Manager","Colonial Life",,,,,,Peoria,IL,""
+1970-01-01,"Peoria Adult Climbing Instructor","First Ascent Climbing & Fitness",firstascentclimbing.com,"Computer Software","estimated $32.2k ? $40.8k a year",,,Peoria,IL," 61602"
+1970-01-01,"Home Health Nurse (Clinical Research) - Peoria, IL","Medical Research Network",themrn.io,Research,"estimated $93k ? $118k a year",,,Peoria,IL,""
+1970-01-01,"Account Manager","Colonial Life",,,,,,Peoria,IL,""
+1970-01-01,"Home Health Nurse (Clinical Research) - Peoria, IL","Medical Research Network",themrn.io,Research,"estimated $93k ? $118k a year",,,Peoria,IL,""
+1970-01-01,"Virtual Instructor - Elementary Full Time - Grades 6-12 Full...","Imagine Learning",imaginelearning.com,E-Learning,"estimated $43.7k ? $55.3k a year",Remote,,"Remote in Aurora",IL,""
+1970-01-01,"Operations Supervisor - Nights",McKesson,mckesson.com,"Hospital & Health Care",,,,Aurora,IL," 60505"
+1970-01-01,"Brand Marketing Manager","Carver Aero LLC",carveraero.com,Airlines/Aviation,"estimated $70.8k ? $89.6k a year",,,Aurora,IL,""
+1970-01-01,"Commercial Kitchen Equipment Service Technician","Great Lakes South Town",greatlakesservice.com,,"estimated $47.1k ? $59.7k a year",,,Aurora,IL,""
+1970-01-01,"Lead Commercial Refrigeration Service Technician","Great Lakes South Town",greatlakesservice.com,,"estimated $69.2k ? $87.6k a year",,,Aurora,IL,""
+1970-01-01,"Virtual Instructor - Elementary Full Time - Grades 6-12 Full...","Imagine Learning",imaginelearning.com,E-Learning,"estimated $43.7k ? $55.3k a year",Remote,,"Remote in Aurora",IL,""
+1970-01-01,"RN- Surgery Recovery - Part Time Days",Ascension,ascension.org,"Hospital & Health Care",,,,Aurora,IL," 60506"
+1970-01-01,"Human Resources Consultant (DE&I)","Assurance, a Marsh & McLennan Agency",,,"estimated $64.8k ? $82k a year",,,Schaumburg,IL," 60173"
+1970-01-01,"Marketing Coordinator",Simpalm,simpalm.com,"Software Development & Design , Software , Custom Software & Technical Consulting","$32,903 - $55,645 a year",,,Schaumburg,IL,""
+1970-01-01,"Capability Manager, Clinical Product Operations - Telecommut...","UnitedHealth Group",unitedhealthgroup.com,"Hospital & Health Care",,Remote,,"Remote in Schaumburg",IL," 60168"
+1970-01-01,"Director, IT Business Solutions & Functional SAP","Synergy55 LLC",,,"estimated $143k ? $181k a year",,,Schaumburg,IL," 60173"
+1970-01-01,"Retail Forklift Driver - Receiving (FT-Overnight)",IKEA,ikea-usa.com,Retail,,,,Schaumburg,IL," 60173"
+1970-01-01,"Vice President, Corporate Finance (Hybrid)","Sasser Family Holdings",sasser.com,"Financial Services","estimated $124k ? $157k a year",,,Schaumburg,IL," 60173"
+1970-01-01,"Contract Administrator","AND Agency Inc",andishere.com,"Marketing & Advertising","estimated $78.4k ? $99.2k a year",Remote,,"Remote in Schaumburg",IL," 60173"
+1970-01-01,"Construction Manager","Power Home Remodeling",powerhrg.com,"Consumer Services","$60,000 a year",,,Schaumburg,IL," 60193"
+1970-01-01,"Business Development Specialist","Goodwill Talentbridge",goodwilltalentbridge.com,"Staffing & Recruiting","from $75,000 a year",,,Schaumburg,IL," 60173"
+1970-01-01,"Strategic Dealer Field Account Executive",Experian,experion.com,,,,,Schaumburg,IL," 60173"
+1970-01-01,"Account Executive","Etech Hi Corp.",,,"$65,000 - $90,000 a year",,,Schaumburg,IL,""
+1970-01-01,"Sales Professional","Tri Merit",,,"$40,000 - $45,000 a year",,,Schaumburg,IL," 60173"
+1970-01-01,"Airframe and Powerplant (AP) Technician","Carver Aero LLC",carveraero.com,Airlines/Aviation,"estimated $57.9k ? $73.3k a year",,,Schaumburg,IL,""
+1970-01-01,"Vice President, Corporate Finance","Sasser Family Holdings",sasser.com,"Financial Services","estimated $122k ? $154k a year",,,Schaumburg,IL," 60173"
+1970-01-01,"Service Technician Chicago, IL Area","Edge Technologies",edgeti.com,"Computer Software","estimated $50k ? $63.4k a year",,,Schaumburg,IL," 60195"
+1970-01-01,Manager,"Perry's Steakhouse and Grille",perryssteakhouse.com,Restaurants,"estimated $41.4k ? $52.4k a year",,,Schaumburg,IL," 60173"
+1970-01-01,"Lead Commercial Refrigeration Service Technician","Great Lakes South Town",greatlakesservice.com,,"estimated $69.2k ? $87.6k a year",,,Schaumburg,IL,""
+1970-01-01,"Sports Summer Camp Counselor","Taylor Family YMCA",,,"$15 an hour",,,Schaumburg,IL,""
+1970-01-01,"Registered Nurse (RN)","At Home Quality Care",athomeqc.com,"Hospital & Health Care","estimated $73.8k ? $93.4k a year",,,Schaumburg,IL,""
+1970-01-01,"Oracle PL/Sql developer # Contract to Hire","Prime Solutions, Inc.",,,"estimated $105k ? $133k a year",,,Schaumburg,IL," 60173"
+1970-01-01,"Sales Executive, Software","Underwriters Laboratories Inc.",conatuscapital.com,"Investment Management",,Remote,,"Remote in Northbrook",IL," 60062"
+1970-01-01,"Human Resources Manager","Deerfield Crossing of Northbrook",,,"estimated $46.1k ? $58.3k a year",,,Northbrook,IL," 60062"
+1970-01-01,"IT Support Specialist","CSG Inc.",,,,,,Northbrook,IL," 60062"
+1970-01-01,"METROLOGY TECHNICIAN - US",Luminex,luminexcorp.com,Biotechnology,"estimated $45.5k ? $57.7k a year",,,Northbrook,IL," 60062"
+1970-01-01,"Nursing Supervisor RN AM","Elevate Care Northbrook",,,"estimated $66.6k ? $84.4k a year",,,Northbrook,IL," 60062"
+1970-01-01,"Human Resources Manager","Deerfield Crossing of Northbrook",,,"estimated $46.1k ? $58.3k a year",,,Northbrook,IL," 60062"
+1970-01-01,"Solns Engr Consulting, Master","Keysight Technologies",keysight.com,"Electrical/Electronic Manufacturing",,,,"Arlington Heights",IL," 60005"
+1970-01-01,"UI/UX Designer","Digital Design Corporation",digidescorp.com,"Computer Hardware","from $55,000 a year",,,"Arlington Heights",IL," 60004"
+1970-01-01,"Resident Life Director","Lutheran Home",lutheranhome.org,"Facilities Services","estimated $47.9k ? $60.7k a year",,,"Arlington Heights",IL," 60004"
+1970-01-01,"Wine and Spirits - Sales Support Specialist","Lakeshore Beverage, LLC",,,"$50,000 - $60,000 a year",,,"Arlington Heights",IL," 60005"
+1970-01-01,"Inventory Supervisor","Lakeshore Beverage",handfamilycompanies.com,"Logistics & Supply Chain","from $45,000 a year",,,"Arlington Heights",IL," 60005"
+1970-01-01,"Email Marketing Manager",Restaurant.com,theidealmeal.com,Retail,"$85,000 - $95,000 a year",,,"Arlington Heights",IL," 60004"
+1970-01-01,"Lead Commercial Refrigeration Service Technician","Great Lakes South Town",greatlakesservice.com,,"estimated $69.2k ? $87.6k a year",,,"Arlington Heights",IL,""
+1970-01-01,"Commercial Kitchen Equipment Service Technician","Great Lakes South Town",greatlakesservice.com,,"estimated $47.1k ? $59.7k a year",,,"Arlington Heights",IL,""

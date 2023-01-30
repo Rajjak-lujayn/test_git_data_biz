@@ -1,0 +1,493 @@
+<?php
+
+namespace App\Http\Controllers;
+
+use Illuminate\Http\Request;
+use App\Models\Job_Data;
+use App\Models\User_Meta;
+use App\Models\Register_User;
+use App\Models\Record_Download_Count;
+use App\Models\Tracking;
+use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Auth;
+
+class AllData extends Controller
+{
+    // Sending options load page load and option search
+    public function sendOptions(Request $request){
+
+        $options = $request->all();
+        $para = $options['filterName'];
+        isset($options['option']) && $val = $options['option'];
+
+        if($para=="industry" || $para=="state" || $para=="salary"){
+            $data[$para] = Job_Data::distinct()->get([$para]);
+            return $data;
+        }
+        // elseif($para=="city"){
+        //     $data[$para] = Job_Data::where($para, 'NOT LIKE', '%Remote%')->distinct()->get([$para]);
+        //     return $data;
+        // }
+        else{
+            $data[$para] = Job_Data::where($para, 'LIKE', '%'.$val.'%')->distinct()->get([$para]);
+            return $data;
+        }
+    }
+
+    // Send data on page load and on filter search
+    public function getData(Request $request){
+        $params = $request->all();
+        if($params):
+            $whereArr = $job_title = $company = $industy_arr =$city_arr = $state_arr = $salary = [];
+            
+            foreach($params as $para=>$value){
+                if( is_array($value) && $para !== "remote" && $para !== "level"):
+                    foreach($value as $key=>$val){
+                        $para=="job_title" && array_push($job_title, $val['job_title']);
+                        $para=="company" && array_push($company, $val['company']);
+                        $para=="industry" && array_push($industy_arr, $val['industry']);
+                        $para=="state" && array_push($state_arr, $val['state']);
+                      //  $para=="city" && array_push($city_arr, $val['city']);
+                        $para=="salary" && array_push($salary, $value['salary']);
+                    }
+                elseif($para == "remote" && $value == "no"):
+                    array_push($whereArr, [$para,null]);
+                elseif($para == "remote" && $value != "" ):
+                    array_push($whereArr, [$para,$value]);
+                elseif($para == "level"):
+                    array_push($whereArr, [$para,$value]);
+                endif;
+            }
+            
+            // $details = [
+            //     'title' => 'Mail from DataBizprospex.com',
+            //     'body' => 'This is for testing email using smtp'
+            // ];
+            // \Mail::send('emails.SentEmail',  $details, function ($message) {
+
+            //     $message->to('nitesh.pandit.lujayninfoways@gmail.com')->subject('Subject of the message!');
+            // });
+            // \Mail::to('nitesh.pandit.lujayninfoways@gmail.com')->send(new \App\Mail\SentEmail($details));
+
+            if($job_title || $company || $industy_arr || $state_arr || $salary):
+                return Job_Data::where($whereArr)->where(
+                    function($query) use ($industy_arr, $state_arr, $job_title, $company, $salary){
+                        $job_title && $query->whereIn('job_title',$job_title);
+                        $company && $query->whereIn('company',$company);
+                        $industy_arr && $query->whereIn('industry',$industy_arr);
+                        $state_arr && $query->whereIn('state',$state_arr);
+                       // $city_arr && $query->whereIn('city',$city_arr);
+                        $salary && $query->whereIn('salary',$salary);
+                    }
+                )->orderByRaw("ISNULL(date),ISNULL(job_title),ISNULL(company),ISNULL(website),ISNULL(industry),ISNULL(salary),ISNULL(level),ISNULL(remote),ISNULL(area),ISNULL(city),ISNULL(state),ISNULL(zipcode),id DESC")->paginate($params['perPage']);
+            elseif($whereArr):
+                return Job_Data::where($whereArr)->orderByRaw("ISNULL(date),ISNULL(job_title),ISNULL(company),ISNULL(website),ISNULL(industry),ISNULL(salary),ISNULL(level),ISNULL(remote),ISNULL(area),ISNULL(city),ISNULL(state),ISNULL(zipcode),id DESC")->paginate($params['perPage']);
+            endif;
+        endif;
+        
+        return Job_Data::orderByRaw("ISNULL(date),ISNULL(job_title),ISNULL(company),ISNULL(website),ISNULL(industry),ISNULL(salary),ISNULL(level),ISNULL(remote),ISNULL(area),ISNULL(city),ISNULL(state),ISNULL(zipcode),id DESC")->paginate($params['perPage']);
+    }
+
+    // Send export data in json for download
+    public function exportData(Request $request){
+        $oneDayLimit = 500;
+        $oneMonthLimit = 5000;
+        $userEmail = $request->session()->get('userEmail');
+        $isUserActive = Register_User::where([["email","=",$userEmail],["varified","=","1"]])->first();
+        // $isUserActive = true;
+        //Nitesh 
+        $params = $request->all();
+        $state_array=[];
+        $i=0;
+        if(!empty($params['filterByState'])){
+            foreach($params['filterByState'] as $value){
+                
+                $state_array[$i]=$value['state'];
+                $i++;
+            }
+            $state=implode(",",$state_array);
+            $query['state'] = $state;
+        }
+        $f=0;
+        $query=[];
+        $ind_array=[];
+        if(!empty($params['filterByIndustry'])){
+            foreach($params['filterByIndustry'] as $value){
+                
+                $ind_array[$i]=$value['industry'];
+                $f++;
+            }
+            $industry=implode(",",$ind_array);
+            $query['industry'] = $industry;
+        }
+        $c=0;
+        $comp_array=[];
+        if(!empty($params['searchByCompany'])){
+            foreach($params['searchByCompany'] as $value){
+                
+                $comp_array[$i]=$value['company'];
+                $c++;
+            }
+            $company=implode(",",$comp_array);
+            $query['company'] = $company;
+        }
+        $j=0;
+        $job_array=[];
+        if(!empty($params['searchByJobTitle'])){
+            foreach($params['searchByJobTitle'] as $value){
+                
+                $job_array[$i]=$value['job_title'];
+                $j++;
+            }
+            $job=implode(",",$job_array);
+            $query['job_title'] = $job;
+        }
+        
+        if($params['filterByLevel'] !=''){
+            $query['level'] = $params['filterByLevel'];
+        }
+
+        if($params['filterBySalary'] !=''){
+            $query['salary'] = $params['filterBySalary'];
+        }
+
+        if($params['filterByRemote'] !=''){
+            $query['remote'] = $params['filterByRemote'];
+        }
+
+
+        // dd($isUserActive);
+        if($isUserActive){
+            
+            $user_row = Record_Download_Count::where("user_email","=",$userEmail)->first();
+
+            if(!isset($user_row)){                
+                
+                $request->session()->forget(['emailVarified', 'userEmail']);
+
+                return response()->json(["status"=>"failed", "htmlErrorMsg"=> "Your account has been removed"], 401);
+            }
+
+            $todayRecordCount = $user_row['today_count'];
+            $monthlyRecordCount = $user_row['month_count'];
+            $allTimeCount = $user_row['all_time_count'];
+            $params = $request->all();
+            $ids = $params['id'];
+            // $ids = $request->input('params');
+            if($monthlyRecordCount+count($ids) > $oneMonthLimit):
+                return response()->json(["status"=>"failed", "htmlErrorMsg"=> $oneMonthLimit-$monthlyRecordCount." Export Limit Left for this month"], 401);
+            endif;
+            if($todayRecordCount+count($ids) > $oneDayLimit):
+                return response()->json(["status"=>"failed", "htmlErrorMsg"=> $oneDayLimit-$todayRecordCount." Export Limit Left for Today"], 401);
+            endif;
+    
+            
+            if($todayRecordCount<$oneDayLimit and $monthlyRecordCount<$oneMonthLimit):
+                // Saving Download Count
+                if($monthlyRecordCount == 0):
+                    Record_Download_Count::where([
+                        ["user_email","=",$userEmail]
+                        ])->update(["month_count" => count($ids)]);
+                else:
+                    Record_Download_Count::where([
+                        ["user_email","=",$userEmail]
+                        ])->update(["month_count" => $monthlyRecordCount + count($ids)]);
+
+                endif;
+        
+                if($todayRecordCount == 0):
+                    Record_Download_Count::where([
+                        ["user_email","=",$userEmail]
+                        ])->update(["today_count" => count($ids)]);
+                else:
+
+                    Record_Download_Count::where([
+                        ["user_email","=",$userEmail]
+                        ])->update(["today_count" => $todayRecordCount + count($ids)]);
+                endif;
+        
+                Record_Download_Count::where([
+                    ["user_email","=",$userEmail]
+                    ])->update(["all_time_count" => $allTimeCount + count($ids)]);
+
+                // Checking Ids for Export data
+                if($ids):
+                    $tracking = new Tracking;
+                    $tracking->email = $userEmail;
+                    $tracking->record = count($ids);
+                    $tracking->query = json_encode($query);
+                    $tracking->save();
+                    $export_data = Job_Data::findMany($ids);
+                    return $export_data;
+                endif;
+            endif;
+        }
+        return response()->json(["status"=>"failed", "htmlErrorMsg"=>"Your email is not varified or inactive by admin"], 401);
+    }
+
+    // For imorting data from csv file by admin
+    public function importData(Request $request){
+        // set_time_limit(30000000000000);
+
+        $request = $request->all();
+        $remove = array_shift($request['jsonRecords']);
+        $insertArr = Array();
+        $objs = $request['jsonRecords'];
+        foreach ($objs as $obj)  {
+            $tempArray = Array();
+            foreach ($obj as $key => $value){
+                // switch ($key){
+                //     case 0:
+                //         // $tempArray["job_title"]=$value;
+                //     break;
+                //     case 1:
+                //         $tempArray["job_title"]= ucwords(strtolower($value));
+                //     break;
+                //     case 2:
+                //         $tempArray["company"]= ucwords(strtolower($value));
+                //     break;
+                //     case 3:
+                //         $tempArray["website"]= $value;
+                //     break;
+                //     case 4:
+                //         $tempArray["industry"]= ucwords(strtolower($value));
+                //     break;
+                //     case 5:
+                //         $tempArray["salary"] = str_replace('?', '-', $value);
+                //         // $tempArray["salary"]=$value;
+                //     break;
+                //     case 6:
+                //         $tempArray["remote"]= $value;
+                //     break;
+                //     case 7:
+                //         $tempArray["area"]= ucwords(strtolower($value));
+                //     break;
+                //     case 8:
+                //         $tempArray["city"]= ucwords(strtolower($value));
+                //     break;
+                //     case 9:
+                //         $tempArray["state"]= strtoupper($value);
+                //     break;
+                //     case 10:
+                //         $tempArray["zipcode"]=$value;
+                //     break;
+                //     case 11:
+                //         $tempArray["level"]=$value;
+                //     break;
+                // }
+                switch ($key){
+                    case 0:
+                     $tempArray["date"]=($value !='')?$value:NULL;
+                    break;
+                    case 1:
+                        $tempArray["job_title"]= ($value !='')?ucwords(strtolower($value)):NULL;
+                    break;
+                    case 2:
+                        $tempArray["company"]= ($value !='')?ucwords(strtolower($value)):NULL;
+                    break;
+                    case 3:
+                        $tempArray["website"]= ($value !='')?$value:NULL;
+                    break;
+                    case 4:
+                        $tempArray["industry"]= ($value !='')?ucwords(strtolower($value)):NULL;
+                    break;
+                    case 5:
+                        $tempArray["salary"] = ($value !='')?str_replace('?', '-', $value):NULL;
+                    break;
+                    case 6:
+                        $tempArray["remote"]= ($value !='')?$value:NULL;
+                    break;
+                    case 7:
+                        $tempArray["area"]= ($value !='')?ucwords(strtolower($value)):NULL;
+                    break;
+                    case 8:
+                        $tempArray["city"]= ($value !='')?ucwords(strtolower($value)):NULL;
+                    break;
+                    case 9:
+                        $tempArray["state"]= ($value !='')?strtoupper($value):NULL;
+                    break;
+                    case 10:
+                        $tempArray["zipcode"]=($value !='')?$value:NULL;
+                    break;
+                    case 11:
+                        $tempArray["level"]=($value !='')?$value:NULL;
+                    break;
+                }
+            }
+            array_push($insertArr,$tempArray);
+        }
+        array_pop($insertArr);
+        DB::table('job_data')->insert($insertArr);
+    }
+
+    public function recordExport(Request $request){
+       
+        $params = $request->all();
+        $oneDayLimit = 500;
+        $oneMonthLimit = 5000;
+        $userEmail = $request->session()->get('userEmail');
+        $isUserActive = Register_User::where([["email","=",$userEmail],["varified","=","1"]])->first();
+        // $isUserActive = true;
+
+        $params = $request->all();
+     
+        $state_array=[];
+        $i=0;
+        $query=[];
+        if(!empty($params['state'])){
+            foreach($params['state'] as $value){
+                
+                $state_array[$i]=$value['state'];
+                $i++;
+            }
+            $state=implode(",",$state_array);
+            $query['state'] = $state;
+        }
+        $f=0;
+        $ind_array=[];
+        if(!empty($params['industry'])){
+            foreach($params['industry'] as $value){
+                
+                $ind_array[$i]=$value['industry'];
+                $f++;
+            }
+            $industry=implode(",",$ind_array);
+            $query['industry'] = $industry;
+        }
+        $c=0;
+        $comp_array=[];
+        if(!empty($params['company'])){
+            foreach($params['company'] as $value){
+                
+                $comp_array[$i]=$value['company'];
+                $c++;
+            }
+            $company=implode(",",$comp_array);
+            $query['company'] = $company;
+        }
+        $j=0;
+        $job_array=[];
+        if(!empty($params['job_title'])){
+            foreach($params['job_title'] as $value){
+                
+                $job_array[$i]=$value['job_title'];
+                $j++;
+            }
+            $job=implode(",",$job_array);
+            $query['job_title'] = $job;
+        }
+        
+        if($params['level'] !=''){
+            $query['level'] = $params['level'];
+        }
+
+        if($params['salary'] !=''){
+            $query['salary'] = $params['salary'];
+        }
+
+        if($params['remote'] !=''){
+            $query['remote'] = $params['remote'];
+        }
+        if($isUserActive){
+            
+            $user_row = Record_Download_Count::where("user_email","=",$userEmail)->first();
+
+            if(!isset($user_row)){                
+                
+                $request->session()->forget(['emailVarified', 'userEmail']);
+
+                return response()->json(["status"=>"failed", "htmlErrorMsg"=> "Your account has been removed"], 401);
+            }
+
+            $todayRecordCount = $user_row['today_count'];
+            $monthlyRecordCount = $user_row['month_count'];
+            $allTimeCount = $user_row['all_time_count'];
+          
+            if($monthlyRecordCount+$params['record'] > $oneMonthLimit):
+                return response()->json(["status"=>"failed", "htmlErrorMsg"=> $oneMonthLimit-$monthlyRecordCount." Export Limit Left for this month"], 401);
+            endif;
+            if($todayRecordCount+$params['record'] > $oneDayLimit):
+                return response()->json(["status"=>"failed", "htmlErrorMsg"=> $oneDayLimit-$todayRecordCount." Export Limit Left for Today"], 401);
+            endif;
+    
+            
+            if($todayRecordCount<$oneDayLimit and $monthlyRecordCount<$oneMonthLimit):
+                // Saving Download Count
+                if($monthlyRecordCount == 0):
+                    Record_Download_Count::where([
+                        ["user_email","=",$userEmail]
+                        ])->update(["month_count" => $params['record']]);
+                else:
+                    Record_Download_Count::where([
+                        ["user_email","=",$userEmail]
+                        ])->update(["month_count" => $monthlyRecordCount + $params['record']]);
+
+                endif;
+        
+                if($todayRecordCount == 0):
+                    Record_Download_Count::where([
+                        ["user_email","=",$userEmail]
+                        ])->update(["today_count" => $params['record']]);
+                else:
+
+                    Record_Download_Count::where([
+                        ["user_email","=",$userEmail]
+                        ])->update(["today_count" => $todayRecordCount + $params['record']]);
+                endif;
+        
+                Record_Download_Count::where([
+                    ["user_email","=",$userEmail]
+                    ])->update(["all_time_count" => $allTimeCount + $params['record']]);
+
+                    $tracking = new Tracking;
+                    $tracking->email = $userEmail;
+                    $tracking->record = $params['record'];
+                    $tracking->query = json_encode($query);
+                    $tracking->save();
+                // Checking Ids for Export data
+                if($params):
+                    $whereArr = $job_title = $company = $industy_arr = $state_arr = $city_arr = $salary = [];
+                    
+                    foreach($params as $para=>$value){
+                        if( is_array($value) && $para !== "remote" && $para !== "level"):
+                            foreach($value as $key=>$val){
+                                $para=="job_title" && array_push($job_title, $val['job_title']);
+                                $para=="company" && array_push($company, $val['company']);
+                                $para=="industry" && array_push($industy_arr, $val['industry']);
+                                $para=="state" && array_push($state_arr, $val['state']);
+                                $para=="salary" && array_push($salary, $value['salary']);
+                            }
+                        elseif($para == "remote" && $value == "no"):
+                            array_push($whereArr, [$para,null]);
+                        elseif($para == "remote" && $value != "" ):
+                            array_push($whereArr, [$para,$value]);
+                        elseif($para == "level"):
+                            array_push($whereArr, [$para,$value]);
+                        endif;
+                    }
+        
+                    if($job_title || $company || $industy_arr || $state_arr || $salary):
+                        
+                        return Job_Data::where($whereArr)->where(
+                            function($query) use ($industy_arr, $state_arr, $job_title, $company, $salary){
+                                $job_title && $query->whereIn('job_title',$job_title);
+                                $company && $query->whereIn('company',$company);
+                                $industy_arr && $query->whereIn('industry',$industy_arr);
+                                $state_arr && $query->whereIn('state',$state_arr);
+                                // $city_arr && $query->whereIn('city',$city_arr);
+                                $salary && $query->whereIn('salary',$salary);
+                            }
+                        )->orderByRaw("ISNULL(date),ISNULL(job_title),ISNULL(company),ISNULL(website),ISNULL(industry),ISNULL(salary),ISNULL(level),ISNULL(remote),ISNULL(area),ISNULL(city),ISNULL(state),ISNULL(zipcode),id DESC")->limit($params['record'])->get();
+                      
+                       
+                    elseif($whereArr):
+                        return Job_Data::where($whereArr)->orderByRaw("ISNULL(date),ISNULL(job_title),ISNULL(company),ISNULL(website),ISNULL(industry),ISNULL(salary),ISNULL(level),ISNULL(remote),ISNULL(area),ISNULL(city),ISNULL(state),ISNULL(zipcode),id DESC")->limit($params['record'])->get();
+                    endif;
+                endif;
+            endif;
+        }
+  
+        return response()->json(["status"=>"failed", "htmlErrorMsg"=>"Your email is not varified or inactive by admin"], 401);
+       
+    }
+}

@@ -1,0 +1,740 @@
+DATE,"Job Title",Company,Website,Industry,Salary,Remote,AREA,City,State,"Zip Code"
+1970-01-01,"Data & Reporting Analyst",Spectrum,spectrumvic.org.au,"Nonprofit Organization Management",,,,Stamford,CT,""
+1970-01-01,"Conflicts Analyst",Deloitte,deloitte.com,"Management Consulting",,,"Downtown area)",Stamford,CT," 06902"
+1970-01-01,"K2 Research Associate","Franklin Templeton Investments",franklintempletonnordic.com,,,,,Stamford,CT,""
+1970-01-01,"ATTENDANT, CATERING (FULL-TIME)",CulinArt,culinartinc.com,"Food & Beverages",,,"South End area)",Stamford,CT," 06902"
+1970-01-01,"Social Worker - (LCSW) (CT)","Excellence Community Schools",excellencecommunityschools.org,"Education Management","from $70,000 a year",,"West Side area)",Stamford,CT," 06902"
+1970-01-01,"Internal Auditor","Aspen Insurance Holdings",aspen.co,Insurance,"estimated $82k ? $104k a year",,,Stamford,CT,""
+1970-01-01,"Educational Associate - Elementary (CT)","Excellence Community Schools",excellencecommunityschools.org,"Education Management","from $40,000 a year",,"West Side area)",Stamford,CT," 06902"
+1970-01-01,"Valet Parking Attendant FT 7:45am-5pm","Valet Park of America",valetparkofamerica.com,Hospitality,"estimated $25.6k ? $32.4k a year",,,Stamford,CT,""
+1970-01-01,"Virtual Pharmaceutical Lead Generator","Syneos Health Commercial Solutions",syneoshealth.com,Pharmaceuticals,,,,Stamford,CT,""
+1970-01-01,"Early Childhood Education Teacher","ECEC at Temple Sinai",,,"$20 - $27 an hour",,"Downtown area)",Stamford,CT," 06902"
+1970-01-01,"Medical Assistant- OB/GYN","Summit Health Management, LLC",summithealth.com,"Medical Practice","estimated $30.8k ? $39k a year",,,Stamford,CT,""
+1970-01-01,"Team Member - Stamford Town Center",Sbarro,,,,,"Downtown area)",Stamford,CT," 06901"
+1970-01-01,"Certified Middle School Teacher ? ELA, Math, Science and His...","Excellence Community Schools",excellencecommunityschools.org,"Education Management","from $51,000 a year",,"West Side area)",Stamford,CT," 06902"
+1970-01-01,"Secondary English/ELA Teacher",GetSelected.com,getselected.com,"Staffing & Recruiting","estimated $47.7k ? $60.5k a year",,"Downtown area)",Stamford,CT," 06901"
+1970-01-01,"Middle School Teacher",GetSelected.com,getselected.com,"Staffing & Recruiting","estimated $44.2k ? $56k a year",,"Downtown area)",Stamford,CT," 06901"
+1970-01-01,"Elementary School Teacher",GetSelected.com,getselected.com,"Staffing & Recruiting","estimated $47k ? $59.6k a year",,"Downtown area)",Stamford,CT," 06901"
+1970-01-01,"Secondary Math/Science Teacher",GetSelected.com,getselected.com,"Staffing & Recruiting","estimated $47.2k ? $59.8k a year",,"Downtown area)",Stamford,CT," 06901"
+1970-01-01,"High School Teacher",GetSelected.com,getselected.com,"Staffing & Recruiting","estimated $45.6k ? $57.8k a year",,"Downtown area)",Stamford,CT," 06901"
+1970-01-01,"Office Manager","Simpson Spence Young",,,"estimated $41.5k ? $52.5k a year",,"Ridgeway area)",Stamford,CT," 06902"
+1970-01-01,"Commercial Inspector Independent Contractor","EXL Services",exlservice.com,"Information Technology & Services","estimated $50.2k ? $63.6k a year",Remote,,"Remote in Stamford",CT,""
+1970-01-01,"Dental Receptionist","Stamford Dentist",dentalcarestamford.com,"Medical Practice","$15 - $20 an hour",,"Downtown area)",Stamford,CT," 06905"
+1970-01-01,"Data Entry Specialist",RGBSI,rgbsi.com,"Management Consulting","$28 - $30 an hour",,"Downtown area)",Stamford,CT," 06907"
+1970-01-01,"Sales Associate/Management Trainee","Town Fair Tire",townfairtire.com,Automotive,"estimated $44.7k ? $56.7k a year",,"Turn of River area)",Stamford,CT," 06905"
+1970-01-01,"Showroom Logistics Rep (Warehouse)","Stark Carpet",starkcarpet.com,Design,"$20 an hour",,"Waterside area)",Stamford,CT," 06902"
+1970-01-01,"Administrative Assistant for Medical office","Medi-Weightloss Clinics of Stamford CT",,,"estimated $28.9k ? $36.5k a year",,"Downtown area)",Stamford,CT," 06901"
+1970-01-01,"Office Administrative Assistant","The Window People",,,"estimated $32.8k ? $41.6k a year",,"Shippan area)",Stamford,CT," 06902"
+1970-01-01,"Lead OR Assistant","Stamford Hospital",stamfordhealth.org,"Hospital & Health Care",,,,Stamford,CT,""
+1970-01-01,"Dogtopia Daycare",Dogtopia,dogdaycare.com,"Consumer Services , Hospitality","estimated $31.5k ? $39.9k a year",,"Downtown area)",Stamford,CT," 06901"
+1970-01-01,"Cargo Van Delivery Driver",PartRunner,partrunner.com,"Logistics & Supply Chain","$500 - $1,000 a week",,"Downtown area)",Stamford,CT," 06901"
+1970-01-01,"Physical Therapy Aide","Elevate Physical Therapy",,,"$15 an hour",,"Downtown area)",Stamford,CT," 06905"
+1970-01-01,"Billing Assistant","FoodPrep Solutions",mealprepsolutions.com,,"estimated $43.9k ? $55.5k a year",,"Springdale area)",Stamford,CT," 06907"
+1970-01-01,"Salad Maker","Cafe/Restaurant, Stamford",,,"$15 - $18 an hour",,"Springdale area)",Stamford,CT," 06907"
+1970-01-01,"Security Officer Residential Complex","Allied Universal",aus.com,"Security & Investigations",,,"Downtown area)",Stamford,CT," 06902"
+1970-01-01,Barista/Cashier,"SHIRO Dessert",,,"$14 an hour",,"Downtown area)",Stamford,CT," 06901"
+1970-01-01,"Dental Assistant","Stamford Dentist",dentalcarestamford.com,"Medical Practice","$17 - $22 an hour",,"Downtown area)",Stamford,CT," 06905"
+1970-01-01,"1099 Physician Sales Representative","Outset Health, LLC",,,"estimated $88.5k ? $112k a year",,,Stamford,CT,""
+1970-01-01,"General Lab Assistant","Stamford Hospital",stamfordhealth.org,"Hospital & Health Care",,,,Stamford,CT,""
+1970-01-01,"Unit Coordinator - Float Pool - Per Diem","Stamford Hospital",stamfordhealth.org,"Hospital & Health Care",,,,Stamford,CT,""
+1970-01-01,"Delivery Driver Restaurant M-F",Flavorism,flavorism.com,Restaurants,"from $18 an hour",,"Waterside area)",Stamford,CT," 06902"
+1970-01-01,"Kitchen Team Member","Colony Grill - Stamford",,,"$14 - $24 an hour",,"Downtown area)",Stamford,CT," 06902"
+1970-01-01,"Assistant Manager","West Marine",westmarine.com,Retail,"estimated $31k ? $39.2k a year",,"Shippan area)",Stamford,CT," 06902"
+1970-01-01,"Part-Time Center Associate","The UPS Store #2657",,,"$13 - $16 an hour",,"Turn Of River area)",Stamford,CT," 06905"
+1970-01-01,"Sales Associate","West Marine",westmarine.com,Retail,"estimated $28.3k ? $35.9k a year",,"Shippan area)",Stamford,CT," 06902"
+1970-01-01,"Brand Manager",RGBSI,rgbsi.com,"Management Consulting","$45 - $50 an hour",,"Downtown area)",Stamford,CT," 06901"
+1970-01-01,"Unit Coordinator - Ambulatory Operating Room","Stamford Hospital",stamfordhealth.org,"Hospital & Health Care",,,,Stamford,CT,""
+1970-01-01,"PT/FT Hygienist","Dearfield Family Dentistry",dearfielddentistry.com,"Medical Practice","from $47 an hour",,"West Side area)",Stamford,CT," 06902"
+1970-01-01,"Full Time Assistant Manager",Perfumania,perfumania.com,Retail,"estimated $29.4k ? $37.2k a year",,"Downtown area)",Stamford,CT," 06901"
+1970-01-01,"Operating Room Assistant - Full Time","Stamford Hospital",stamfordhealth.org,"Hospital & Health Care",,,,Stamford,CT,""
+1970-01-01,"Optometric Technician/Receptionist","Vision Consultants",,,"$15 - $18 an hour",,"Downtown area)",Stamford,CT," 06901"
+1970-01-01,"Staff Registered Nurse - Will Train New Grads! Full Time","SERA Healthcare Solutions",sera-health.com,,"$41 - $42 an hour",,,Stamford,CT,""
+1970-01-01,"Knife sharpener","FoodPrep Solutions",mealprepsolutions.com,,"estimated $25.4k ? $32.2k a year",,"Springdale area)",Stamford,CT,""
+1970-01-01,"Child and Adolescent Psych APRN","Family Centers",familycenters.org,"Civic & Social Organization","estimated $197k ? $249k a year",,"Downtown area)",Stamford,CT," 06901"
+1970-01-01,"Live-in Caregiver","City Care Home Care",ctcarehomehealth.com,,"$13 an hour",,,Stamford,CT,""
+1970-01-01,"Registered Nurse (RN)","Floral Long Term Care",,,"$50 an hour",,,Stamford,CT,""
+1970-01-01,Host,"Colony Grill - Stamford",,,"$13 - $27 an hour",,"Downtown area)",Stamford,CT," 06902"
+1970-01-01,"Medical Assistant - Cardiology (Stamford & Wilton)","Stamford Hospital",stamfordhealth.org,"Hospital & Health Care",,,,Stamford,CT,""
+1970-01-01,"Shift Leader",Popeyes,znhfoodsinc.com,,,,"West Side area)",Stamford,CT," 06902"
+1970-01-01,"Lead OR Assistant","Stamford Hospital",stamfordhealth.org,"Hospital & Health Care",,,,Stamford,CT,""
+1970-01-01,"Dunkin Donuts CrewMember + Up to $15+ Tip$$$$$","Dunkin' Donuts",dunkinbrands.com,"Food & Beverages","$13 - $15 an hour",,,Stamford,CT,""
+1970-01-01,"Housekeeper / Limpieza / Maid / House cleaner","Two Maids & A Mop - White Plains",,,,,"Downtown area)",Stamford,CT," 06902"
+1970-01-01,Barback,"Colony Grill - Stamford",,,"$13 - $27 an hour",,"Downtown area)",Stamford,CT," 06902"
+1970-01-01,Bartender,"Colony Grill - Stamford",,,"$13 - $40 an hour",,"Downtown area)",Stamford,CT," 06902"
+1970-01-01,Server,"Colony Grill - Stamford",,,"$13 - $40 an hour",,"Downtown area)",Stamford,CT," 06902"
+1970-01-01,"Personal Care Assistant","City Care Home Care",ctcarehomehealth.com,,"$13 an hour",,,Stamford,CT,""
+1970-01-01,Busser,"Colony Grill - Stamford",,,"$13 - $30 an hour",,"Downtown area)",Stamford,CT," 06902"
+1970-01-01,"Medical Assistant - Cardiology (Stamford & Wilton)","Stamford Hospital",stamfordhealth.org,"Hospital & Health Care",,,,Stamford,CT,""
+1970-01-01,"Darien School Bus Driver","First Student",workatfirst.com,Transportation/Trucking/Railroad,"$25.04 an hour",,"Glenbrook area)",Stamford,CT," 06906"
+1970-01-01,"School Bus Driver","First Student",workatfirst.com,Transportation/Trucking/Railroad,"$21.66 an hour",,"Waterside area)",Stamford,CT," 06902"
+1970-01-01,Dishwasher,"CHOPT - High Ridge Road",highridgeshoppingcenter.com,,"estimated $26.9k ? $34.1k a year",,"Turn Of River area)",Stamford,CT," 06905"
+1970-01-01,"Tech, Radiology","City Medical of Upper East Side PLLC",,,"estimated $50k ? $63.2k a year",,,Stamford,CT,""
+1970-01-01,Cashier,"CHOPT - High Ridge Road",highridgeshoppingcenter.com,,"estimated $24.2k ? $30.6k a year",,"Turn Of River area)",Stamford,CT," 06905"
+1970-01-01,Monitor,"First Student",workatfirst.com,Transportation/Trucking/Railroad,,,"Waterside area)",Stamford,CT," 06902"
+1970-01-01,"Physical Therapy Assistant","City Medical of Upper East Side PLLC",,,"estimated $45.2k ? $57.2k a year",,,Stamford,CT,""
+1970-01-01,Monitor,"First Student",workatfirst.com,Transportation/Trucking/Railroad,,,"Glenbrook area)",Stamford,CT," 06906"
+1970-01-01,"Salad Maker","CHOPT - High Ridge Road",highridgeshoppingcenter.com,,"estimated $27.1k ? $34.3k a year",,"Turn Of River area)",Stamford,CT," 06905"
+1970-01-01,"Retail Sales Associate, Stamford Town Center - Part Time",Macy?s,,,,,"Downtown area)",Stamford,CT," 06901"
+1970-01-01,"Team Member - Stamford Town Center",Sbarro,,,,,"Downtown area)",Stamford,CT," 06901"
+1970-01-01,"Retail Cosmetics Sales - Prestige Beauty, Stamford Town Cent...",Macy?s,,,,,"Downtown area)",Stamford,CT," 06901"
+1970-01-01,"Office Administrative Assistant","The Window People",,,"estimated $32.8k ? $41.6k a year",,"Shippan area)",Stamford,CT," 06902"
+1970-01-01,"Brand Ambassador",PUSH,pushthefilm.com,,"$75 a day",,,Stamford,CT,""
+1970-01-01,"Administrative Assistant for Medical office","Medi-Weightloss Clinics of Stamford CT",,,"estimated $28.9k ? $36.5k a year",,"Downtown area)",Stamford,CT," 06901"
+1970-01-01,"Dental Receptionist","Stamford Dentist",dentalcarestamford.com,"Medical Practice","$15 - $20 an hour",,"Downtown area)",Stamford,CT," 06905"
+1970-01-01,"Cargo Van Delivery Driver",PartRunner,partrunner.com,"Logistics & Supply Chain","$500 - $1,000 a week",,"Downtown area)",Stamford,CT," 06901"
+1970-01-01,"Physical Therapy Aide","Elevate Physical Therapy",,,"$15 an hour",,"Downtown area)",Stamford,CT," 06905"
+1970-01-01,"Dogtopia Daycare",Dogtopia,dogdaycare.com,"Consumer Services , Hospitality","estimated $31.5k ? $39.9k a year",,"Downtown area)",Stamford,CT," 06901"
+1970-01-01,"Kitchen Team Member","Colony Grill - Stamford",,,"$14 - $24 an hour",,"Downtown area)",Stamford,CT," 06902"
+1970-01-01,"Part-Time Center Associate","The UPS Store #2657",,,"$13 - $16 an hour",,"Turn Of River area)",Stamford,CT," 06905"
+1970-01-01,"Salad Maker","Cafe/Restaurant, Stamford",,,"$15 - $18 an hour",,"Springdale area)",Stamford,CT," 06907"
+1970-01-01,"Kids Yoga Teacher",YogiDance,,,"$40 an hour",,"Downtown area)",Stamford,CT," 06901"
+1970-01-01,"1099 Physician Sales Representative","Outset Health, LLC",,,"estimated $88.5k ? $112k a year",,,Stamford,CT,""
+1970-01-01,Barista/Cashier,"SHIRO Dessert",,,"$14 an hour",,"Downtown area)",Stamford,CT," 06901"
+1970-01-01,"Dental Assistant","Stamford Dentist",dentalcarestamford.com,"Medical Practice","$17 - $22 an hour",,"Downtown area)",Stamford,CT," 06905"
+1970-01-01,"PT/FT Hygienist","Dearfield Family Dentistry",dearfielddentistry.com,"Medical Practice","from $47 an hour",,"West Side area)",Stamford,CT," 06902"
+1970-01-01,"Team Member",Popeyes,znhfoodsinc.com,,,,"West Side area)",Stamford,CT," 06902"
+1970-01-01,"Saturday Hygienist","The Stein Dental Group",thesteindentalgroup.com,"Medical Practice","$35 - $54 an hour",,"Springdale area)",Stamford,CT," 06907"
+1970-01-01,"Shift Leader - Stamford",Pokemoto,pokemoto.com,Restaurants,"$14 - $18 an hour",,"Downtown area)",Stamford,CT," 06901"
+1970-01-01,"City of Stamford: Swim Instructor","City of Stamford",stamfordct.gov,"Government Administration","from $17 an hour",,"Westover area)",Stamford,CT," 06902"
+1970-01-01,"Crew Member - Stamford",Pokemoto,pokemoto.com,Restaurants,"$13 - $14 an hour",,"Downtown area)",Stamford,CT," 06901"
+1970-01-01,"RN Nurse Supervisor, Weekend","Ark healthcare & Rehabilitation at St. Camillus...",arkstcamillus.com,,"estimated $66.5k ? $84.3k a year",,"Cove - East Side area)",Stamford,CT," 06902"
+1970-01-01,"Needed CNAs, HHAs and Companions 4 - 6 Hour Shifts","Right at Home Darien, CT",,,"$15 - $17 an hour",,"Downtown area)",Stamford,CT," 06902"
+1970-01-01,"Registered Nurse (RN)","Floral Long Term Care",,,"$50 an hour",,,Stamford,CT,""
+1970-01-01,Server,"Colony Grill - Stamford",,,"$13 - $40 an hour",,"Downtown area)",Stamford,CT," 06902"
+1970-01-01,Host,"Colony Grill - Stamford",,,"$13 - $27 an hour",,"Downtown area)",Stamford,CT," 06902"
+1970-01-01,Busser,"Colony Grill - Stamford",,,"$13 - $30 an hour",,"Downtown area)",Stamford,CT," 06902"
+1970-01-01,Barback,"Colony Grill - Stamford",,,"$13 - $27 an hour",,"Downtown area)",Stamford,CT," 06902"
+1970-01-01,Caregiver,"ComForCare Home Health Care - Stamford",,,"$16 - $18 an hour",,"Downtown area)",Stamford,CT," 06901"
+1970-01-01,Bartender,"Colony Grill - Stamford",,,"$13 - $40 an hour",,"Downtown area)",Stamford,CT," 06902"
+1970-01-01,"In Home Childcare Aide","ComForCare Home Health Care - Stamford",,,"$16 - $17 an hour",,"Downtown area)",Stamford,CT," 06901"
+1970-01-01,"Brand Ambassador",PUSH,pushthefilm.com,,"$75 a day",,,Stamford,CT,""
+1970-01-01,"Kids Yoga Teacher",YogiDance,,,"$40 an hour",,"Downtown area)",Stamford,CT," 06901"
+1970-01-01,"Brand Ambassador",PUSH,pushthefilm.com,,"$75 a day",,,Stamford,CT,""
+1970-01-01,"Staffing Support Specialist","Yale University",yale.edu,"Higher Education",,,"East Rock area)","New Haven",CT," 06511"
+1970-01-01,"Data Quality Specialist (Full-time; New Haven, CT)","Columbus House",,,"$55,000 - $65,000 a year",,,"New Haven",CT,""
+1970-01-01,"Full Time Trainer","First Student",workatfirst.com,Transportation/Trucking/Railroad,,,"Quinnipiac area)","New Haven",CT," 06513"
+1970-01-01,"Sales Co-worker Home Decoration (20-34 hours / week)",IKEA,ikea-usa.com,Retail,,,"Long Wharf area)","New Haven",CT," 06511"
+1970-01-01,"Account Executive - Hartford, CT","Hearst Media Services",hearstmediact.com,"Marketing & Advertising","estimated $60k ? $76k a year",,,"New Haven",CT," 06513"
+1970-01-01,"STORE MANAGER","Family Dollar",familydollar.com,Retail,,,,"New Haven",CT,""
+1970-01-01,"Restaurant Team Member - Crew (1981 - Yale)",Chipotle,,,"tuition assistance (100% coverage for select degrees or up to $5,250/year).",,"Downtown area)","New Haven",CT," 06510"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,"Amity area)","New Haven",CT," 06515"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,"Dixwell area)","New Haven",CT," 06511"
+1970-01-01,"Medical Physics Resident","Yale New Haven Health System",ynhhs.org,"Hospital & Health Care",,,"Hill area)","New Haven",CT," 06510"
+1970-01-01,"Semi-Skilled Lot Attendant","First Student",workatfirst.com,Transportation/Trucking/Railroad,,,"Quinnipiac area)","New Haven",CT," 06513"
+1970-01-01,"Middle School Teacher",GetSelected.com,getselected.com,"Staffing & Recruiting","estimated $44.2k ? $56k a year",,"Hill area)","New Haven",CT," 06519"
+1970-01-01,"Team Member Union Train Station",Sbarro,,,,,"Long Wharf area)","New Haven",CT," 06519"
+1970-01-01,"Secondary Math/Science Teacher",GetSelected.com,getselected.com,"Staffing & Recruiting","estimated $47.2k ? $59.8k a year",,"Amity area)","New Haven",CT," 06515"
+1970-01-01,"ASSISTANT STORE MANAGER","Family Dollar",familydollar.com,Retail,,,,"New Haven",CT,""
+1970-01-01,"Registered Nurse RN - Home Infusion - Full Time","CVS Health",cvs.colinkedinprofile,,,,,"New Haven",CT,""
+1970-01-01,"Middle School Teacher",GetSelected.com,getselected.com,"Staffing & Recruiting","estimated $44.2k ? $56k a year",,"Amity area)","New Haven",CT," 06515"
+1970-01-01,"High School Teacher",GetSelected.com,getselected.com,"Staffing & Recruiting","estimated $45.6k ? $57.8k a year",,"Hill area)","New Haven",CT," 06519"
+1970-01-01,"Secondary English/ELA Teacher",GetSelected.com,getselected.com,"Staffing & Recruiting","estimated $47.7k ? $60.5k a year",,"Hill area)","New Haven",CT," 06519"
+1970-01-01,"Secondary Math/Science Teacher",GetSelected.com,getselected.com,"Staffing & Recruiting","estimated $47.2k ? $59.8k a year",,"Hill area)","New Haven",CT," 06519"
+1970-01-01,"Elementary School Teacher",GetSelected.com,getselected.com,"Staffing & Recruiting","estimated $47k ? $59.6k a year",,"Hill area)","New Haven",CT," 06519"
+1970-01-01,"High School Teacher",GetSelected.com,getselected.com,"Staffing & Recruiting","estimated $45.6k ? $57.8k a year",,"Amity area)","New Haven",CT," 06515"
+1970-01-01,"Elementary School Teacher",GetSelected.com,getselected.com,"Staffing & Recruiting","estimated $47k ? $59.6k a year",,"Amity area)","New Haven",CT," 06515"
+1970-01-01,"Secondary English/ELA Teacher",GetSelected.com,getselected.com,"Staffing & Recruiting","estimated $47.7k ? $60.5k a year",,"Amity area)","New Haven",CT," 06515"
+1970-01-01,"AT&T Manager Trainee","P & S! and Co.",,,"$5,376 - $5,600 a month",,"Quinnipiac area)","New Haven",CT," 06513"
+1970-01-01,"Operations Support Assistant","Dilworth IP, LLC",,,"$22 - $25 an hour",,,"New Haven",CT,""
+1970-01-01,"Pediatric Care Coordinator","Fair Haven Community Health Care",fhchc.org,"Hospital & Health Care","estimated $33.6k ? $42.6k a year",,,"New Haven",CT," 06513"
+1970-01-01,Teacher,"Creative Me LLC",,,"from $20 an hour",,"West Rock area)","New Haven",CT," 06515"
+1970-01-01,"Marketing Associate","The Star Supply Company",star-supply.com,"Plumbing & HVAC Equipment","$45,000 - $65,000 a year",,"Quinnipiac area)","New Haven",CT," 06513"
+1970-01-01,Bartender/Server,"Christopher Martins",,,"$40,000 - $60,000 a year",,"East Rock area)","New Haven",CT," 06511"
+1970-01-01,"Data Quality Specialist (Full-time; New Haven, CT)","Columbus House, Inc.",columbushouse.org,"Nonprofit Organization Management","$55,000 - $65,000 a year",,"Hill area)","New Haven",CT," 06519"
+1970-01-01,"Home Care Community Liaison","Standards Caregivers",,,"$33,560 - $60,000 a year",,"Newhallville area)","New Haven",CT," 06511"
+1970-01-01,"Pediatric Medical Assistant","Fair Haven Community Health Care",fhchc.org,"Hospital & Health Care","estimated $32k ? $40.6k a year",,,"New Haven",CT," 06513"
+1970-01-01,"Consulting Utility Forester","Davey Resource Group",davey.com,"Environmental Services","$17 - $26 an hour",,,"New Haven",CT,""
+1970-01-01,"Kitchen help/barista","Raw Bowls & Juice",,,"estimated $25k ? $31.6k a year",,"East Rock area)","New Haven",CT," 06511"
+1970-01-01,"Field Marketing Representative","Sales Focus Inc.",salesfocusinc.com,Outsourcing/Offshoring,"estimated $37.5k ? $47.5k a year",,,"New Haven",CT," 06512"
+1970-01-01,"Cargo Van Delivery Driver",PartRunner,partrunner.com,"Logistics & Supply Chain","$500 - $1,000 a week",,,"New Haven",CT," 06512"
+1970-01-01,"Health /Physical Education Teacher","New Haven Public Schools",nhps.net,"Education Management","estimated $51.9k ? $65.7k a year",,,"New Haven",CT,""
+1970-01-01,"Site Superintendent","A. Prete Construction Company",,,"estimated $91.8k ? $116k a year",,,"New Haven",CT,""
+1970-01-01,"Supply Service Technician",AMR,anamariarodriguez.com,"Writing & Editing",,,"Quinnipiac area)","New Haven",CT," 06513"
+1970-01-01,"Residential Aide (Behavioral Health Program)","The Connection, Inc.",,,"$15 - $16 an hour",,"Dwight area)","New Haven",CT," 06511"
+1970-01-01,"Leasing Professional - Liberty Building","South Oxford Management",somliving.com,"Real Estate","estimated $29.3k ? $37.1k a year",,"Downtown area)","New Haven",CT," 06510"
+1970-01-01,Housekeeping,"Patterson Cleaning",,,"$12 - $13 an hour",,"West River area)","New Haven",CT," 06519"
+1970-01-01,"Customer Service/Sales Representative","Sales Focus Inc.",salesfocusinc.com,Outsourcing/Offshoring,"estimated $42.4k ? $53.8k a year",,,"New Haven",CT,""
+1970-01-01,"Registered Nurse","Summit Careers Inc",summitcareersinc.com,"Staffing & Recruiting","$90,000 a year",,,"New Haven",CT,""
+1970-01-01,"Night Auditor FT/$17 Hr.","Courtyard New Haven",,,"estimated $28.1k ? $35.5k a year",,,"New Haven",CT," 06511"
+1970-01-01,Chiropractor,"New Haven Chiropractic & Sports Rehabilitation",,,"$50,000 - $85,000 a year",,"Downtown area)","New Haven",CT," 06510"
+1970-01-01,"Limo Driver","Absolute Transportation LLC",absolute-transportation.com,Transportation,"$13 an hour",,,"New Haven",CT,""
+1970-01-01,"Infusion Nurse (RN) Home Health - Per Diem Opportunity","Trova Healthcare",trovahealthcare.com,"Staffing & Recruiting","$40 - $50 an hour",,,"New Haven",CT,""
+1970-01-01,Bartender,"Mecha Noodle Bar",mechanoodlebar.com,Restaurants,"estimated $32.6k ? $41.2k a year",,"Downtown area)","New Haven",CT," 06510"
+1970-01-01,"SVP / VP Wealth Advisor","Farther Finance",farther.com,"Financial Services","estimated $59.7k ? $75.5k a year",,"Downtown area)","New Haven",CT," 06510"
+1970-01-01,"Toddler and Preschool Teacher","Montessori School on Edgewood",montessori-nh.org,"Education Management","$14 - $18 an hour",,"Dwight area)","New Haven",CT," 06511"
+1970-01-01,"EMT Basic - New Haven",AMR,anamariarodriguez.com,"Writing & Editing",,,"Quinnipiac area)","New Haven",CT," 06513"
+1970-01-01,"Account Executive - New Haven, CT","SpotOn: Sales (External Partners)",spoton.com,"Computer Software","estimated $61.2k ? $77.6k a year",,,"New Haven",CT,""
+1970-01-01,"Behavioral Health Technician","Retreat Behavioral Health",retreataddictioncenters.com,"Hospital & Health Care","$14.00 - $15.25 an hour",,"West River area)","New Haven",CT," 06519"
+1970-01-01,"Nursing Supervisors-Nursing Home","Advanced Center for Nursing and Rehabilitation",,,"estimated $76.6k ? $97k a year",,,"New Haven",CT,""
+1970-01-01,"SPANISH SPEAKING Personal Care Assistant","City Care Home Care",ctcarehomehealth.com,,"$13 an hour",,,"New Haven",CT,""
+1970-01-01,"Substance Use Disorder Counselor","MCCA, Inc.",mccaonline.com,"Mental Health Care","estimated $42.5k ? $53.9k a year",,"Beaver Hills area)","New Haven",CT," 06511"
+1970-01-01,"Registered Nurse (RN)","Retreat Behavioral Health",retreataddictioncenters.com,"Hospital & Health Care","$35 - $38 an hour",,"West River area)","New Haven",CT," 06519"
+1970-01-01,"Medical Assistant","Fair Haven Community Health Care",fhchc.org,"Hospital & Health Care","estimated $32.2k ? $40.8k a year",,,"New Haven",CT," 06513"
+1970-01-01,Cashier,"Taco Bell",concreteimpressionsgds.com,,"$13.25 - $14.00 an hour",,"Fair Haven Heights area)","New Haven",CT," 06513"
+1970-01-01,"Customer Service/Sales Representative","Sales Focus Inc.",salesfocusinc.com,Outsourcing/Offshoring,"estimated $42.4k ? $53.8k a year",,,"New Haven",CT," 06512"
+1970-01-01,"Clinical Psychologist - with a Passion for Treating College...","OneCBT & RICBT",,,"$85,000 - $105,000 a year",,"Downtown area)","New Haven",CT," 06510"
+1970-01-01,"Customer Service","Taco Bell",concreteimpressionsgds.com,,"$13.25 - $14.00 an hour",,"Fair Haven Heights area)","New Haven",CT," 06513"
+1970-01-01,"Crew Member","Taco Bell",concreteimpressionsgds.com,,"$13.25 - $14.00 an hour",,"Fair Haven Heights area)","New Haven",CT," 06513"
+1970-01-01,"Medical Assistant-Floater","Fair Haven Community Health Care",fhchc.org,"Hospital & Health Care","estimated $32.1k ? $40.7k a year",,,"New Haven",CT," 06513"
+1970-01-01,"School Bus Driver","First Student",workatfirst.com,Transportation/Trucking/Railroad,"$20.11 an hour",,"Quinnipiac area)","New Haven",CT," 06513"
+1970-01-01,"IKEA Food Cashier - PT",IKEA,ikea-usa.com,Retail,,,"Long Wharf area)","New Haven",CT," 06511"
+1970-01-01,"Art Framer Nights & Weekends - Meriden",Michaels,michaels.com.au,Photography,,,,"New Haven",CT,""
+1970-01-01,"Food Service Team Member (12-19 hours / week)",IKEA,ikea-usa.com,Retail,,,"Long Wharf area)","New Haven",CT," 06511"
+1970-01-01,"Restaurant Team Member - Crew (1981 - Yale)",Chipotle,,,"tuition assistance (100% coverage for select degrees or up to $5,250/year).",,"Downtown area)","New Haven",CT," 06510"
+1970-01-01,"In-store Warehouse Worker - Full Serve (12-19 hours/week)",IKEA,ikea-usa.com,Retail,,,"Long Wharf area)","New Haven",CT," 06511"
+1970-01-01,"Retail Sales Associate - Self Serve (12-19 hours / week)",IKEA,ikea-usa.com,Retail,,,"Long Wharf area)","New Haven",CT," 06511"
+1970-01-01,"Patient Transport Associate - Part Time Evenings - 5pm to 11...","Yale New Haven Health System",ynhhs.org,"Hospital & Health Care",,,"Hill area)","New Haven",CT," 06510"
+1970-01-01,"Mobile Market Assistant","Common Ground",common-ground.eu,"Management Consulting","$17 an hour",,"West Rock area)","New Haven",CT," 06515"
+1970-01-01,"Sales Associate - Dining (12-19 hours / week)",IKEA,ikea-usa.com,Retail,,,"Long Wharf area)","New Haven",CT," 06511"
+1970-01-01,"Sales Associate - Kitchens and Bath (20-34 hours / week)",IKEA,ikea-usa.com,Retail,,,"Long Wharf area)","New Haven",CT," 06511"
+1970-01-01,"5am/7am Team Member - Meriden",Michaels,michaels.com.au,Photography,,,,"New Haven",CT,""
+1970-01-01,"STV Driver","First Student",workatfirst.com,Transportation/Trucking/Railroad,,,"Quinnipiac area)","New Haven",CT," 06513"
+1970-01-01,"Team Member Union Train Station",Sbarro,,,,,"Long Wharf area)","New Haven",CT," 06519"
+1970-01-01,"Night Cashier - Meriden",Michaels,michaels.com.au,Photography,,,,"New Haven",CT,""
+1970-01-01,"Morning Inventory Team Member - Meriden",Michaels,michaels.com.au,Photography,,,,"New Haven",CT,""
+1970-01-01,"Morning Stocker - Meriden",Michaels,michaels.com.au,Photography,,,,"New Haven",CT,""
+1970-01-01,"WEEKEND Cashier - Meriden",Michaels,michaels.com.au,Photography,,,,"New Haven",CT,""
+1970-01-01,"3AM Truck Unload Team Member - Meriden",Michaels,michaels.com.au,Photography,,,,"New Haven",CT,""
+1970-01-01,"Retail Forklift Driver (20-34 hours/week) with Full Benefits...",IKEA,ikea-usa.com,Retail,"$18.40 - $28.75 an hour",,"Long Wharf area)","New Haven",CT," 06511"
+1970-01-01,Cashier,Popeyes,znhfoodsinc.com,,,,"Dixwell area)","New Haven",CT," 06511"
+1970-01-01,"Kitchen help/barista","Raw Bowls & Juice",,,"estimated $25k ? $31.6k a year",,"East Rock area)","New Haven",CT," 06511"
+1970-01-01,"Boba Barista","The Whale Tea",,,"$15 - $17 an hour",,"Downtown area)","New Haven",CT," 06510"
+1970-01-01,"Cargo Van Delivery Driver",PartRunner,partrunner.com,"Logistics & Supply Chain","$500 - $1,000 a week",,,"New Haven",CT," 06512"
+1970-01-01,"Retail Sales Associate (Part Time 12-19 Hours/Week)",IKEA,ikea-usa.com,Retail,"from $16 an hour",,"Long Wharf area)","New Haven",CT," 06511"
+1970-01-01,"Team Member",Popeyes,znhfoodsinc.com,,,,"Dixwell area)","New Haven",CT," 06511"
+1970-01-01,"Limo Driver","Absolute Transportation LLC",absolute-transportation.com,Transportation,"$13 an hour",,,"New Haven",CT,""
+1970-01-01,"Life Enrichment Assistant - Part-Time","Artis Senior Living of Branford",,,"estimated $28.7k ? $36.3k a year",,,"New Haven",CT,""
+1970-01-01,"Before & After School Educator","Right At School",rightatschool.com,"Education Management",,,,"New Haven",CT," 06517"
+1970-01-01,"Infusion Nurse (RN) Home Health - Per Diem Opportunity","Trova Healthcare",trovahealthcare.com,"Staffing & Recruiting","$40 - $50 an hour",,,"New Haven",CT,""
+1970-01-01,"Toddler and Preschool Teacher","Montessori School on Edgewood",montessori-nh.org,"Education Management","$14 - $18 an hour",,"Dwight area)","New Haven",CT," 06511"
+1970-01-01,"Experienced Part-Time Remote Tax CPA","PJS & Co. CPAs",,,"estimated $74.4k ? $94.2k a year",Remote,,"Remote in New Haven",CT,""
+1970-01-01,"Behavioral Health Technician","Retreat Behavioral Health",retreataddictioncenters.com,"Hospital & Health Care","$14.00 - $15.25 an hour",,"West River area)","New Haven",CT," 06519"
+1970-01-01,"Dishwasher/Utility Worker","Soul de Cuba Cafe",cubanakoa.org,"Nonprofit Organization Management","from $14 an hour",,"Downtown area)","New Haven",CT," 06511"
+1970-01-01,"Retail Sales Associate (Part Time 20-34 Hours/Week)",IKEA,ikea-usa.com,Retail,"from $16 an hour",,"Long Wharf area)","New Haven",CT," 06511"
+1970-01-01,"Registered Nurse (RN)","Retreat Behavioral Health",retreataddictioncenters.com,"Hospital & Health Care","$35 - $38 an hour",,"West River area)","New Haven",CT," 06519"
+1970-01-01,Cashier,"Taco Bell",concreteimpressionsgds.com,,"$13.25 - $14.00 an hour",,"Fair Haven Heights area)","New Haven",CT," 06513"
+1970-01-01,"Customer Service","Taco Bell",concreteimpressionsgds.com,,"$13.25 - $14.00 an hour",,"Fair Haven Heights area)","New Haven",CT," 06513"
+1970-01-01,"Crew Member","Taco Bell",concreteimpressionsgds.com,,"$13.25 - $14.00 an hour",,"Fair Haven Heights area)","New Haven",CT," 06513"
+1970-01-01,"Medical Assistant","Aya Healthcare",ayahealthcare.com,"Staffing & Recruiting",,,"Downtown area)","New Haven",CT," 06510"
+1970-01-01,"OR Tech / Surgical Tech Surgical Services","Aya Healthcare",ayahealthcare.com,"Staffing & Recruiting",,,"Downtown area)","New Haven",CT," 06510"
+1970-01-01,"Behavioral Health Travel Registered Nurse","Aya Healthcare",ayahealthcare.com,"Staffing & Recruiting",,,"Downtown area)","New Haven",CT," 06510"
+1970-01-01,"Mobile Market Assistant","Common Ground",common-ground.eu,"Management Consulting","$17 an hour",,"West Rock area)","New Haven",CT," 06515"
+1970-01-01,"Sales Training Program","Altec Industries, Inc.",altec.com,Machinery,"estimated $70.3k ? $89.1k a year",,,Bridgeport,CT,""
+1970-01-01,"Unit Secretary - Labor and Delivery","St. Vincent's Medical Center",,,,,,Bridgeport,CT," 06606"
+1970-01-01,"ITS Business Partner Analyst / IS Solutions Center","Hartford HealthCare Corp.",hartfordhealthcare.org,"Hospital & Health Care",,,"Brooklawn/ St. Vincent's area)",Bridgeport,CT," 06606"
+1970-01-01,"ASSISTANT STORE MANAGER","Family Dollar",familydollar.com,Retail,,,"West Side/ West End area)",Bridgeport,CT," 06605"
+1970-01-01,"Restaurant Team Member - Crew (2559 - Bridgeport Steelpointe...",Chipotle,,,"tuition assistance (100% coverage for select degrees or up to $5,250/year).",,,Bridgeport,CT," 06608"
+1970-01-01,"237 - Coordinator Fiduciary and Housing",Marrakech,marrakech.com,"Computer Software","$20 an hour",,,Bridgeport,CT," 06608"
+1970-01-01,"Case Manager Asst / Case Coordination","St. Vincent's Medical Center",,,,,,Bridgeport,CT," 06606"
+1970-01-01,"Patient Service Coordinator - Primary Care","Hartford HealthCare Medical Group Specialists",hartfordhealthcaremedicalgroup.org,"Medical Practice",,,,Bridgeport,CT," 06606"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,"West Side/ West End area)",Bridgeport,CT," 06605"
+1970-01-01,"Warehouse Associate","Beacon Roofing Supply",,,,,,Bridgeport,CT,""
+1970-01-01,"Unit Secretary - Labor and Delivery","St. Vincent's Medical Center",,,,,,Bridgeport,CT," 06606"
+1970-01-01,"Fiber Optic Splicer",KGPCo,kgpco.com,Telecommunications,,,,Bridgeport,CT," 06605"
+1970-01-01,"Lactation Consultant - Obstetrics","St. Vincent's Medical Center",,,,,,Bridgeport,CT," 06606"
+1970-01-01,"Registered Nurse (RN) / Respiratory Intermdte Care","St. Vincent's Medical Center",,,,,,Bridgeport,CT," 06606"
+1970-01-01,"Head Nurse (35 Hour)","State of Connecticut - Department of Mental Health...",,,"$65,198 - $88,282 a year",,,Bridgeport,CT,""
+1970-01-01,"Registered Nurse (RN)- GI Endoscopy","St. Vincent's Medical Center",,,,,,Bridgeport,CT," 06606"
+1970-01-01,"Nursing Assistant - Respiratory Intermediate Care","St. Vincent's Medical Center",,,,,,Bridgeport,CT," 06606"
+1970-01-01,"Middle School Teacher",GetSelected.com,getselected.com,"Staffing & Recruiting","estimated $44.2k ? $56k a year",,,Bridgeport,CT," 06604"
+1970-01-01,"Lactation Consultant - Obstetrics","St. Vincent's Medical Center",,,,,,Bridgeport,CT," 06606"
+1970-01-01,"Registered Nurse (RN) / Respiratory Intermdte Care","St. Vincent's Medical Center",,,,,,Bridgeport,CT," 06606"
+1970-01-01,"Registered Nurse (RN) / Respiratory Intermdte Care","St. Vincent's Medical Center",,,,,,Bridgeport,CT," 06606"
+1970-01-01,"Elementary School Teacher",GetSelected.com,getselected.com,"Staffing & Recruiting","estimated $47k ? $59.6k a year",,,Bridgeport,CT," 06604"
+1970-01-01,"High School Teacher",GetSelected.com,getselected.com,"Staffing & Recruiting","estimated $45.6k ? $57.8k a year",,,Bridgeport,CT," 06604"
+1970-01-01,"Secondary English/ELA Teacher",GetSelected.com,getselected.com,"Staffing & Recruiting","estimated $47.7k ? $60.5k a year",,,Bridgeport,CT," 06604"
+1970-01-01,"Secondary Math/Science Teacher",GetSelected.com,getselected.com,"Staffing & Recruiting","estimated $47.2k ? $59.8k a year",,,Bridgeport,CT," 06604"
+1970-01-01,"Registered Nurse (RN) - GI Endoscopy","St. Vincent's Medical Center",,,,,,Bridgeport,CT," 06606"
+1970-01-01,"Registered Nurse (RN) - Postpartum","St. Vincent's Medical Center",,,,,,Bridgeport,CT," 06606"
+1970-01-01,"Registered Nurse (RN) - Postpartum","St. Vincent's Medical Center",,,,,,Bridgeport,CT," 06606"
+1970-01-01,"Registered Nurse (RN) - Labor and Delivery","St. Vincent's Medical Center",,,,,,Bridgeport,CT," 06606"
+1970-01-01,"Registered Nurse (RN) - Postpartum","St. Vincent's Medical Center",,,,,,Bridgeport,CT," 06606"
+1970-01-01,"Registered Nurse (RN) - Postpartum","St. Vincent's Medical Center",,,,,,Bridgeport,CT," 06606"
+1970-01-01,"Registered Nurse (RN) - Labor and Delivery","St. Vincent's Medical Center",,,,,,Bridgeport,CT," 06606"
+1970-01-01,"Registered Nurse (RN) - Labor and Delivery","St. Vincent's Medical Center",,,,,,Bridgeport,CT," 06606"
+1970-01-01,"Registered Nurse (RN) - Labor and Delivery","St. Vincent's Medical Center",,,,,,Bridgeport,CT," 06606"
+1970-01-01,"Commercial Inspector Independent Contractor","EXL Services",exlservice.com,"Information Technology & Services","estimated $50.2k ? $63.6k a year",Remote,,"Remote in Bridgeport",CT,""
+1970-01-01,"Talent Acquisition Specialist","ACV Enviro",acvenviro.com,"Environmental Services","estimated $53k ? $67.2k a year",,"Black Rock area)",Bridgeport,CT," 06605"
+1970-01-01,"Full/Part-Time Merchandiser","ICS Plant Specialists",,,"estimated $25.9k ? $32.7k a year",,"Resevoir area)",Bridgeport,CT," 06606"
+1970-01-01,"Camp Counselor (Seasonal)","City of Bridgeport",,,"$14 an hour",,,Bridgeport,CT,""
+1970-01-01,"Checkpoint Attendant","City of Bridgeport",,,"$14 an hour",,,Bridgeport,CT,""
+1970-01-01,"Camp Site Coordinators","City of Bridgeport",,,"$15 an hour",,,Bridgeport,CT,""
+1970-01-01,"Server and Bartender","Ralph ?n? Rich?s Restaurant",,,"$500 - $2,000 a week",,"Downtown area)",Bridgeport,CT," 06604"
+1970-01-01,"Lawn cutting crew leader","Connecticut Landscapes LLC",,,"$18 - $22 an hour",,,Bridgeport,CT,""
+1970-01-01,"Lifeguard Supervisor","City of Bridgeport",,,"$21 an hour",,,Bridgeport,CT,""
+1970-01-01,"Shift Leader",Popeyes,znhfoodsinc.com,,,,"Enterprise area)",Bridgeport,CT," 06606"
+1970-01-01,"Lifeguard Captain","City of Bridgeport",,,"$19 an hour",,,Bridgeport,CT,""
+1970-01-01,"Registered Nurse - Bridgeport, CT","Utopia Home Care, Inc.",,,"$38 - $41 an hour",,"North End area)",Bridgeport,CT,""
+1970-01-01,"Dedicated Regional Driver","Coastal Freight and Transportation",coastalfreightandtransportation.com,,"up to $1,700 a week",,,Bridgeport,CT," 06608"
+1970-01-01,"RN Registered Nurse Home Care","Stratford VNA",stratfordvna.org,"Hospital & Health Care","estimated $72.1k ? $91.3k a year",,,Bridgeport,CT,""
+1970-01-01,"sales Team Member",Michaels,michaels.com.au,Photography,,,"North End area)",Bridgeport,CT," 06606"
+1970-01-01,Bartender,"Bass Pro Shops",basspro.com,Retail,,,,Bridgeport,CT," 06608"
+1970-01-01,"Cashier in Wilton Location",Michaels,michaels.com.au,Photography,,,"North End area)",Bridgeport,CT," 06606"
+1970-01-01,"Early Morning Stock Person Wilton Location",Michaels,michaels.com.au,Photography,,,"North End area)",Bridgeport,CT," 06606"
+1970-01-01,"Restaurant Team Member - Crew (2559 - Bridgeport Steelpointe...",Chipotle,,,"tuition assistance (100% coverage for select degrees or up to $5,250/year).",,,Bridgeport,CT," 06608"
+1970-01-01,"Framer Wilton Location",Michaels,michaels.com.au,Photography,,,"North End area)",Bridgeport,CT," 06606"
+1970-01-01,"Garden Center Merchandiser","Service First Merchandising",,,"$15 - $16 an hour",,"Resevoir area)",Bridgeport,CT," 06606"
+1970-01-01,"Delivery Driver","San remos pizzeria",,,"estimated $24.8k ? $31.4k a year",,,Bridgeport,CT,""
+1970-01-01,"Camp Counselor (Seasonal)","City of Bridgeport",,,"$14 an hour",,,Bridgeport,CT,""
+1970-01-01,"Server and Bartender","Ralph ?n? Rich?s Restaurant",,,"$500 - $2,000 a week",,"Downtown area)",Bridgeport,CT," 06604"
+1970-01-01,"Account Manager - State Farm Agent Team Member","Chris Boyle - State Farm Agent",agentchrisboyle.com,,"estimated $34.9k ? $44.1k a year",,,Bridgeport,CT," 06610"
+1970-01-01,"Camp Site Coordinators","City of Bridgeport",,,"$15 an hour",,,Bridgeport,CT,""
+1970-01-01,"Insurance Account Position - State Farm Agent Team Member","Chris Boyle - State Farm Agent",agentchrisboyle.com,,"estimated $34k ? $43k a year",,,Bridgeport,CT," 06610"
+1970-01-01,"RN Registered Nurse Home Care","Stratford VNA",stratfordvna.org,"Hospital & Health Care","estimated $72.1k ? $91.3k a year",,,Bridgeport,CT,""
+1970-01-01,"Weekend Live in Caregiver","ComForCare Home Health Care - Stamford",,,"$250 a day",,,Bridgeport,CT," 06601"
+1970-01-01,"Service Bartender","Ralph ?n? Rich?s Restaurant",,,"from $14 an hour",,"Downtown area)",Bridgeport,CT," 06606"
+1970-01-01,"CNAs, HHAs and Companions - 4 Hour to 6 Hour Shifts","Right at Home Darien, CT",,,"$15 - $17 an hour",,,Bridgeport,CT," 06610"
+1970-01-01,"EMT Academy- Bridgeport",AMR,anamariarodriguez.com,"Writing & Editing",,,"East End area)",Bridgeport,CT," 06607"
+1970-01-01,"Sports Betting Ambassador - Connecticut (Part Time)",Betstamp,betstamp.app,Sports,"estimated $40.6k ? $51.4k a year",,,Bridgeport,CT,""
+1970-01-01,"OR Tech / Surgical Tech Surgical Services","Aya Healthcare",ayahealthcare.com,"Staffing & Recruiting",,,,Bridgeport,CT," 06610"
+1970-01-01,"Sales Professional",Symmetry,,,"estimated $60k ? $76k a year",,,Bridgeport,CT," 06605"
+1970-01-01,"Camp Counselor (Seasonal)","City of Bridgeport",,,"$14 an hour",,,Bridgeport,CT,""
+1970-01-01,"Checkpoint Attendant","City of Bridgeport",,,"$14 an hour",,,Bridgeport,CT,""
+1970-01-01,"Lifeguard Supervisor","City of Bridgeport",,,"$21 an hour",,,Bridgeport,CT,""
+1970-01-01,"Camp Site Coordinators","City of Bridgeport",,,"$15 an hour",,,Bridgeport,CT,""
+1970-01-01,"Lifeguard Captain","City of Bridgeport",,,"$19 an hour",,,Bridgeport,CT,""
+1970-01-01,"Bridgeport, CT Tax Preparers wanted","Jackson Hewitt",jacksonhewitt.com,"Financial Services","estimated $27.9k ? $35.3k a year",,"Brooklawn/ St. Vincent's area)",Bridgeport,CT," 06606"
+1970-01-01,"Associate Research Analyst","State of Connecticut - Department of Public Health",,,"$81,814 - $105,221 a year",,,Hartford,CT,""
+1970-01-01,"Entry Level Surveillance Investigator","DigiStream New England, Inc",,,"$17 an hour",,,Hartford,CT,""
+1970-01-01,"Administrative Associate - Patient Relations","Hartford Hospital",hartfordhospital.org,"Hospital & Health Care",,,"South Green area)",Hartford,CT," 06102"
+1970-01-01,"Bond & Specialty Insurance Underwriting Trainee/Private Non-...","The Travelers Companies, Inc.",,,,,,"Hybrid remote in Hartford",CT,""
+1970-01-01,"Intake Representative - Work from home - eviCore",Cigna,cigna.com,"Health, Wellness & Fitness",,Remote,,"Remote in Hartford",CT," 06152"
+1970-01-01,"Diagnostic Imaging Support Associate","Hartford Hospital",hartfordhospital.org,"Hospital & Health Care",,,"South Green area)",Hartford,CT," 06102"
+1970-01-01,"Proposal Support Lead Analyst - Work from home - Evernorth",Cigna,cigna.com,"Health, Wellness & Fitness","$63,300 - $105,500 a year",Remote,,"Remote in Hartford",CT," 06152"
+1970-01-01,"Patient Access Associate 1 - Financial Counseling - Full Tim...","Connecticut Children's Medical Center",ccmckids.org,"Hospital & Health Care",,,,Hartford,CT," 06106"
+1970-01-01,"Conflicts Analyst",Deloitte,deloitte.com,"Management Consulting",,,"Downtown area)",Hartford,CT," 06103"
+1970-01-01,"Service Specialist","Gordon Food Service",gfs.com,"Food & Beverages","$55,000 - $70,000 a year",,,Hartford,CT,""
+1970-01-01,"Patient Administrative Associate - OR Assistive Personnel (P...","Hartford Hospital",hartfordhospital.org,"Hospital & Health Care",,,"South Green area)",Hartford,CT," 06102"
+1970-01-01,"Rehab Aide","Hartford HealthCare Rehabilitation Network",hartfordhealthcarerehabnetwork.org,"Hospital & Health Care",,,"South Green area)",Hartford,CT," 06102"
+1970-01-01,"Paraprofessional or Teaching Assistant Full Time 2021-22 Sch...","CBS Therapy",cbstherapy.com,"Staffing & Recruiting","estimated $36.4k ? $46.2k a year",,,Hartford,CT,""
+1970-01-01,"Field Case Manager 2","Genex Services",genexservices.com,Insurance,"estimated $46.9k ? $59.3k a year",,"North Meadows area)",Hartford,CT," 06101"
+1970-01-01,"Rehab Aide","Hartford HealthCare Rehabilitation Network",hartfordhealthcarerehabnetwork.org,"Hospital & Health Care",,,"South Green area)",Hartford,CT," 06102"
+1970-01-01,"Financial Counselor / PAS HOCC","Hartford HealthCare Corp.",hartfordhealthcare.org,"Hospital & Health Care",,,"Downtown area)",Hartford,CT," 06102"
+1970-01-01,"Merchandise Manager",Michaels,michaels.com.au,Photography,,,"South Green area)",Hartford,CT," 06114"
+1970-01-01,"Field Educator","Syneos Health Commercial Solutions",syneoshealth.com,Pharmaceuticals,,,,Hartford,CT,""
+1970-01-01,"Program/Project Practitioner - 4209696",Accenture,cazoodle.com,"Computer Software","$13 - $23 an hour",,"Downtown area)",Hartford,CT," 06103"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,"South End area)",Hartford,CT," 06114"
+1970-01-01,"Driver Trainee",FreshPoint,freshpoint.com,"Food & Beverages",,,,Hartford,CT," 06112"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,"Blue Hills area)",Hartford,CT," 06112"
+1970-01-01,"Patient Administrative Assistant - Surgical","Hartford Hospital",hartfordhospital.org,"Hospital & Health Care",,,"South Green area)",Hartford,CT," 06102"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,"Clay-Arsenal area)",Hartford,CT," 06120"
+1970-01-01,"Administrative Associate - Patient Relations","Hartford Hospital",hartfordhospital.org,"Hospital & Health Care",,,"South Green area)",Hartford,CT," 06102"
+1970-01-01,"Administrative Associate - Patient Relations","Hartford Hospital",hartfordhospital.org,"Hospital & Health Care",,,"South Green area)",Hartford,CT," 06102"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,,Hartford,CT," 06106"
+1970-01-01,"Lease & Rental Mobile Technician","Allegiance Trucks",allegiancetrucks.com,Transportation/Trucking/Railroad,,,"South Meadows area)",Hartford,CT," 06114"
+1970-01-01,"TRACTOR TRAILER OPERATOR","United States Postal Service",usps.com,"Government Administration","$24.70 an hour",,"North Meadows area)",Hartford,CT," 06120"
+1970-01-01,"Phlebotomist / Laboratory","Hartford Hospital",hartfordhospital.org,"Hospital & Health Care",,,"South Green area)",Hartford,CT," 06102"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,"Asylum Hill area)",Hartford,CT," 06105"
+1970-01-01,"Repack Associate",FreshPoint,freshpoint.com,"Food & Beverages",,,,Hartford,CT," 06112"
+1970-01-01,"ASSISTANT STORE MANAGER","Family Dollar",familydollar.com,Retail,,,,Hartford,CT,""
+1970-01-01,"Residential Aide","Mercy Housing and Shelter Corp of CT",,,"$18 an hour",,,Hartford,CT,""
+1970-01-01,"Patient Service Coordinator - Multispecialty","Hartford HealthCare Medical Group Specialists",hartfordhealthcaremedicalgroup.org,"Medical Practice",,,"Downtown area)",Hartford,CT," 06102"
+1970-01-01,"Patient Care Assistant - Bone and Joint","Hartford Hospital",hartfordhospital.org,"Hospital & Health Care",,,"South Green area)",Hartford,CT," 06102"
+1970-01-01,"Teacher Assistant - Preschool (Full Time)","YWCA Hartford Region, Inc.",ywcahartford.org,"Civic & Social Organization","$13.00 - $18.85 an hour",,,Hartford,CT,""
+1970-01-01,"Patient Administrative Assistant","Hartford Hospital",hartfordhospital.org,"Hospital & Health Care",,,"South Green area)",Hartford,CT," 06102"
+1970-01-01,GREETER,"Family Dollar",familydollar.com,Retail,,,,Hartford,CT,""
+1970-01-01,"Teacher Assistant - Infant/Toddler (full time)","YWCA Hartford Region, Inc.",ywcahartford.org,"Civic & Social Organization","$13.00 - $18.85 an hour",,,Hartford,CT,""
+1970-01-01,"Program/Project Practitioner - 4209697",Accenture,cazoodle.com,"Computer Software","$27 - $37 an hour",,"Downtown area)",Hartford,CT," 06103"
+1970-01-01,"Registered Nurse (RN) - Colorectal","Hartford HealthCare Medical Group Specialists",hartfordhealthcaremedicalgroup.org,"Medical Practice",,,"Downtown area)",Hartford,CT," 06102"
+1970-01-01,"Registered Nurse (RN) - Medicine","Hartford Hospital",hartfordhospital.org,"Hospital & Health Care",,,"South Green area)",Hartford,CT," 06102"
+1970-01-01,"Tax Consultant II - Financial Service Industries - Hedge Fun...",Deloitte,deloitte.com,"Management Consulting",,,"Downtown area)",Hartford,CT," 06103"
+1970-01-01,"Registered Nurse (RN) - Adult Inpatient Behavioral Health","Institute of Living",instituteofliving.org,"Education Management",,,"Downtown area)",Hartford,CT," 06102"
+1970-01-01,"Paraprofessional or Teaching Assistant Full Time 2021-22 Sch...","CBS Therapy",cbstherapy.com,"Staffing & Recruiting","estimated $36.4k ? $46.2k a year",,,Hartford,CT,""
+1970-01-01,"Registered Nurse (RN) - Labor And Delivery","Hartford Hospital",hartfordhospital.org,"Hospital & Health Care",,,"South Green area)",Hartford,CT," 06102"
+1970-01-01,"Registered Nurse (RN) - Labor And Delivery","Hartford Hospital",hartfordhospital.org,"Hospital & Health Care",,,"South Green area)",Hartford,CT," 06102"
+1970-01-01,"Full-Time Podiatrist",HealthDrive,healthdrive.com,"Hospital & Health Care","estimated $118k ? $149k a year",,,Hartford,CT,""
+1970-01-01,"Maintenance Technician GWS Local",CBRE,cbre.us,"Real Estate",,,,Hartford,CT,""
+1970-01-01,"Warehouse Order Selector",FreshPoint,freshpoint.com,"Food & Beverages",,,,Hartford,CT," 06112"
+1970-01-01,"Patient Administrative Assistant - Surgical","Hartford Hospital",hartfordhospital.org,"Hospital & Health Care",,,"South Green area)",Hartford,CT," 06102"
+1970-01-01,"Psychiatric Technician - Inpatient Geriatric Unit","Institute of Living",instituteofliving.org,"Education Management",,,"Downtown area)",Hartford,CT," 06102"
+1970-01-01,"Psychiatric Technician - Inpatient Child/Adolescent Unit","Institute of Living",instituteofliving.org,"Education Management",,,"Downtown area)",Hartford,CT," 06102"
+1970-01-01,"Patient Care Assistant - Surgical","Hartford Hospital",hartfordhospital.org,"Hospital & Health Care",,,"South Green area)",Hartford,CT," 06102"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,,Hartford,CT," 06106"
+1970-01-01,"ASSISTANT STORE MANAGER","Family Dollar",familydollar.com,Retail,,,,Hartford,CT,""
+1970-01-01,"Patient Care Assistant","Hartford Hospital",hartfordhospital.org,"Hospital & Health Care",,,"South Green area)",Hartford,CT," 06102"
+1970-01-01,"Middle School Teacher",GetSelected.com,getselected.com,"Staffing & Recruiting","estimated $44.2k ? $56k a year",,,Hartford,CT," 06106"
+1970-01-01,"Elementary School Teacher",GetSelected.com,getselected.com,"Staffing & Recruiting","estimated $47k ? $59.6k a year",,,Hartford,CT," 06106"
+1970-01-01,"High School Teacher",GetSelected.com,getselected.com,"Staffing & Recruiting","estimated $45.6k ? $57.8k a year",,,Hartford,CT," 06106"
+1970-01-01,"Secondary Math/Science Teacher",GetSelected.com,getselected.com,"Staffing & Recruiting","estimated $47.2k ? $59.8k a year",,,Hartford,CT," 06106"
+1970-01-01,"Secondary English/ELA Teacher",GetSelected.com,getselected.com,"Staffing & Recruiting","estimated $47.7k ? $60.5k a year",,,Hartford,CT," 06106"
+1970-01-01,"Registered Nurse (RN) - Adult Inpatient Behavioral Health","Institute of Living",instituteofliving.org,"Education Management",,,"Downtown area)",Hartford,CT," 06102"
+1970-01-01,"Psychiatric Technician - Inpatient Child/Adolescent Unit","Institute of Living",instituteofliving.org,"Education Management",,,"Downtown area)",Hartford,CT," 06102"
+1970-01-01,"Psychiatric Technician - Inpatient Child/Adolescent Unit (Pe...","Institute of Living",instituteofliving.org,"Education Management",,,"Downtown area)",Hartford,CT," 06102"
+1970-01-01,"Psychiatric Technician - Inpatient Child/Adolescent Unit","Institute of Living",instituteofliving.org,"Education Management",,,"Downtown area)",Hartford,CT," 06102"
+1970-01-01,"Patient Care Assistant - Medicine (Per Diem)","Hartford Hospital",hartfordhospital.org,"Hospital & Health Care",,,"South Green area)",Hartford,CT," 06102"
+1970-01-01,"Patient Care Assistant - Surgical","Hartford Hospital",hartfordhospital.org,"Hospital & Health Care",,,"South Green area)",Hartford,CT," 06102"
+1970-01-01,"Patient Care Assistant - Surgical","Hartford Hospital",hartfordhospital.org,"Hospital & Health Care",,,"South Green area)",Hartford,CT," 06102"
+1970-01-01,"Patient Care Associate / Emergency Room General","Hartford Hospital",hartfordhospital.org,"Hospital & Health Care",,,"South Green area)",Hartford,CT," 06102"
+1970-01-01,"Patient Care Assistant - Oncology (Per diem)","Hartford Hospital",hartfordhospital.org,"Hospital & Health Care",,,"South Green area)",Hartford,CT," 06102"
+1970-01-01,"Outside Sales - Residential and Commercial Propane","The Aero ALL-GAS Company",allgas.com,"Consumer Services","estimated $60.5k ? $76.7k a year",,"Clay Arsenal area)",Hartford,CT," 06120"
+1970-01-01,"Event Staff Supervisor","Grit 'N Wit",,,"$250 - $500 a day",,,Hartford,CT,""
+1970-01-01,"Commercial Inspector - Independent Contractor","EXL Services",exlservice.com,"Information Technology & Services","estimated $50.2k ? $63.6k a year",Remote,,"Remote in Hartford",CT," 06103"
+1970-01-01,"Business Development Manager - Connecticut & Rhode Island","Unique Vacations",sandals.com,Hospitality,"$52,000 - $57,000 a year",Remote,,"Remote in Hartford",CT," 06101"
+1970-01-01,"Sales Rep","Butta Cones",,,"$500 - $1,000 a week",,,Hartford,CT,""
+1970-01-01,"Information Security Architect","Front End",,,"$100 - $110 an hour",Remote,,"Remote in Hartford",CT," 06109"
+1970-01-01,"Summer Camp Counselor","American Collegiate Adventures",acasummer.com,"Education Management","estimated $25.3k ? $32.1k a year",,,Hartford,CT,""
+1970-01-01,"Cargo Van Delivery Driver",PartRunner,partrunner.com,"Logistics & Supply Chain","$500 - $1,000 a week",,"North Meadows area)",Hartford,CT," 06101"
+1970-01-01,"Front Office Manager","SoVita Chiropractic Center",,,"$17 - $20 an hour",,"Downtown area)",Hartford,CT," 06103"
+1970-01-01,"Customer Service Representative","Summit Retail Solutions",,,"$40,000 - $50,000 a year",,,Hartford,CT,""
+1970-01-01,"Regional Manager","Stern Consultants",sternrehab.com,"Medical Practice","estimated $67.2k ? $85.2k a year",,,Hartford,CT,""
+1970-01-01,"Administrative Assistant",Cyitechsearch,,,"estimated $31.5k ? $39.9k a year",,,Hartford,CT,""
+1970-01-01,"Service Lead","Big Lots",bigink.com,,,,,Hartford,CT," 06118"
+1970-01-01,"Field Service Technician",Rite-Hite,ritehite.de,,"$20 - $35 an hour",,,Hartford,CT,""
+1970-01-01,"Greater Hartford Area - Field Service Technician",Tanknology,tanknology.com,"Environmental Services","estimated $48.6k ? $61.6k a year",,"Downtown area)",Hartford,CT," 06103"
+1970-01-01,"Used Auto Part Salesman","Central Group Companies",centralgroup.com,Retail,"estimated $36.4k ? $46.2k a year",,,Hartford,CT," 06114"
+1970-01-01,Journalist,"Tribune Publishing",tribpub.com,Publishing,"estimated $37.4k ? $47.4k a year",Remote,,"Remote in Hartford",CT," 06106"
+1970-01-01,"Security Officer","Hartford Job Corps Center",,,"$17.29 an hour",,,Hartford,CT,""
+1970-01-01,"Entry Level Associate -- Criminal Law/Post-Conviction Attorn...","Law Office of Jason Goddard",,,"$65,000 - $70,000 a year",,"Downtown area)",Hartford,CT," 06106"
+1970-01-01,"Supervisor - Operations 1","Pilot Freight Services",pilotdelivers.com,"Logistics & Supply Chain","estimated $26.5k ? $33.5k a year",,,Hartford,CT,""
+1970-01-01,"Finance & Capital Markets Paralegal","Shipman & Goodwin LLP",shipmangoodwin.com,"Law Practice","estimated $58.2k ? $73.6k a year",,,Hartford,CT,""
+1970-01-01,"Sales Enablement Specialist",Cloudbeds,cloudbeds.com,"Information Technology & Services",,Remote,,"Remote in Hartford",CT," 06101"
+1970-01-01,"Enterprise Integration Software Architect","nLeague services Inc.",,,"$110 - $120 an hour",,,Hartford,CT,""
+1970-01-01,"Infusion Nurse (RN) Home Health - Per Diem Opportunity","Trova Healthcare",trovahealthcare.com,"Staffing & Recruiting","$40 - $50 an hour",,,Hartford,CT,""
+1970-01-01,"Shift Leader",Popeyes,znhfoodsinc.com,,"$14 an hour",,"Behind the Rocks area)",Hartford,CT," 06106"
+1970-01-01,Housekeeper,"001Care, Inc",,,"$13 an hour",,,Hartford,CT,""
+1970-01-01,"Account Executive - Hartford, CT","SpotOn: Sales (External Partners)",spoton.com,"Computer Software","estimated $61.4k ? $77.8k a year",,,Hartford,CT,""
+1970-01-01,"Visual Journalist","Tribune Publishing",tribpub.com,Publishing,"estimated $37.2k ? $47k a year",Remote,,"Remote in Hartford",CT," 06106"
+1970-01-01,"Charge Nurse (RN/LPN)","Chelsea Place Care Center",,,"estimated $54.7k ? $69.3k a year",,"West End area)",Hartford,CT," 06105"
+1970-01-01,"West Hartford Caregiver","Home Helpers Home Care of Farmington Valley",,,"estimated $26.1k ? $33.1k a year",,"Asylum Hill area)",Hartford,CT," 06105"
+1970-01-01,"SPANISH SPEAKING Personal Care Assistant","City Care Home Care",ctcarehomehealth.com,,"$13 an hour",,,Hartford,CT,""
+1970-01-01,"Registered Nurse (RN) - Operating Room","Clover Health",cloverhealth.com,"Hospital & Health Care","up to $4,359 a week",,,Hartford,CT,""
+1970-01-01,"Pest Control Specialist","Rentokil North America",rentokil.com,"Consumer Services",,,"North Meadows area)",Hartford,CT," 06101"
+1970-01-01,"Registered Nurse (RN) - Hartford, CT","Utopia Home Care, Inc.",,,"$38 - $40 an hour",,"West End area)",Hartford,CT," 06105"
+1970-01-01,"Shift Leader",Popeyes,znhfoodsinc.com,,"$14 an hour",,"Upper Albany area)",Hartford,CT," 06112"
+1970-01-01,"Medical/Surgical Registered Nurse (FT)",CloverStaffing.com,,,"$3,742 - $3,931 a week",,,Hartford,CT,""
+1970-01-01,"Live-in Caregiver","City Care Home Care",ctcarehomehealth.com,,"$13 an hour",,,Hartford,CT,""
+1970-01-01,"Personal Care Assistant","City Care Home Care",ctcarehomehealth.com,,"$13 an hour",,,Hartford,CT,""
+1970-01-01,"Residential Aide","Mercy Housing and Shelter Corp of CT",,,"$18 an hour",,,Hartford,CT,""
+1970-01-01,"Per Diem Staff Nurse (Hartford)","Community Health Center, Inc.",,,,,,Hartford,CT,""
+1970-01-01,"Per Diem Staff Nurse (Hartford)","Community Health Center",chc1.com,"Hospital & Health Care",,,,Hartford,CT,""
+1970-01-01,"School Crossing Guard","City of Hartford - Human Resources Department",,,,,"Downtown area)",Hartford,CT," 06103"
+1970-01-01,"Event Staff Supervisor","Grit 'N Wit",,,"$250 - $500 a day",,,Hartford,CT,""
+1970-01-01,"Professional Organizer","Neat Method Hartford",,,"from $18 an hour",,,Hartford,CT,""
+1970-01-01,"Sales Rep","Butta Cones",,,"$500 - $1,000 a week",,,Hartford,CT,""
+1970-01-01,"Cargo Van Delivery Driver",PartRunner,partrunner.com,"Logistics & Supply Chain","$500 - $1,000 a week",,"North Meadows area)",Hartford,CT," 06101"
+1970-01-01,"Behavior Technician","A Brand New Day",bndhmo.com,"Hospital & Health Care","$19 - $21 an hour",,,Hartford,CT," 06107"
+1970-01-01,"Cargo Van Furniture & Fitness Installation/Delivery- Hartfor...","American Direct Logistics",americandirectlogistics.com,"Health, Wellness & Fitness","$45 - $50 an hour",,,Hartford,CT,""
+1970-01-01,"Security Officer","United Security, Inc.",,,"estimated $29.2k ? $37k a year",,,Hartford,CT,""
+1970-01-01,"Day time Servers",Dennys,,,"$13 - $25 an hour",,"Behind the Rocks area)",Hartford,CT," 06106"
+1970-01-01,"Sales Consultant - Part Time",CarMax,carmax.com,Retail,"$20 an hour",,"North Meadows area)",Hartford,CT," 06120"
+1970-01-01,"Dining Room Server","THE HEIGHTS AT AVERY HEIGHTS",,,"$13.80 - $15.00 an hour",,"South West area)",Hartford,CT," 06106"
+1970-01-01,Bartender/Server,"Chez Est",,,"$10 - $40 an hour",,"South End area)",Hartford,CT," 06114"
+1970-01-01,"Per Diem Respite Worker","Adelbrook, Inc.",adelbrook.org,"Individual & Family Services","$16.50 - $17.25 an hour",,,Hartford,CT," 06106"
+1970-01-01,Cashier,Popeyes,znhfoodsinc.com,,"$13 an hour",,"Behind the Rocks area)",Hartford,CT," 06106"
+1970-01-01,"Kids Yoga Teacher",YogiDance,,,"$40 an hour",,,Hartford,CT,""
+1970-01-01,"Infusion Nurse (RN) Home Health - Per Diem Opportunity","Trova Healthcare",trovahealthcare.com,"Staffing & Recruiting","$40 - $50 an hour",,,Hartford,CT,""
+1970-01-01,Housekeeper,"001Care, Inc",,,"$13 an hour",,,Hartford,CT,""
+1970-01-01,"Registered Nurse (RN) - Hartford, CT","Utopia Home Care, Inc.",,,"$38 - $40 an hour",,"West End area)",Hartford,CT," 06105"
+1970-01-01,"Part-Time Attorney (Hartford, CT)","McGivney, Kluger, Clark & Intoccia",mcgivneyandkluger.com,"Law Practice","estimated $39.7k ? $50.3k a year",,,"Hybrid remote in Hartford",CT," 06103"
+1970-01-01,"Junior Merchandiser (Stock Squad Associate)","Winston Retail",winstonretail.com,Retail,,,,Hartford,CT,""
+1970-01-01,"OR Tech / Surgical Tech Surgical Services","Aya Healthcare",ayahealthcare.com,"Staffing & Recruiting",,,"Downtown area)",Hartford,CT," 06102"
+1970-01-01,"OR Tech / Surgical Tech Surgical Services","Aya Healthcare",ayahealthcare.com,"Staffing & Recruiting",,,"Downtown area)",Hartford,CT," 06102"
+1970-01-01,"Sales Rep","Butta Cones",,,"$500 - $1,000 a week",,,Hartford,CT,""
+1970-01-01,"Information Security Architect","Front End",,,"$100 - $110 an hour",Remote,,"Remote in Hartford",CT," 06109"
+1970-01-01,"Summer Camp Counselor","American Collegiate Adventures",acasummer.com,"Education Management","estimated $25.3k ? $32.1k a year",,,Hartford,CT,""
+1970-01-01,"Enterprise Integration Software Architect","nLeague services Inc.",,,"$110 - $120 an hour",,,Hartford,CT,""
+1970-01-01,"Registered Nurse (RN) - Operating Room","Clover Health",cloverhealth.com,"Hospital & Health Care","up to $4,359 a week",,,Hartford,CT,""
+1970-01-01,"Sales Professional",Symmetry,,,"estimated $60k ? $76k a year",,,Hartford,CT," 06106"
+1970-01-01,"Registered Nurse","Gifted Healthcare",giftedhealthcare.com,"Staffing & Recruiting","estimated $134k ? $169k a year",,,Hartford,CT,""
+1970-01-01,"Summer Camp Counselor","American Collegiate Adventures",acasummer.com,"Education Management","estimated $25.3k ? $32.1k a year",,,Hartford,CT,""
+1970-01-01,"Kids Yoga Teacher",YogiDance,,,"$40 an hour",,,Hartford,CT,""
+1970-01-01,"Office Supply Delivery Driver","W.B. Mason Company, Inc",wbmason.com,"Business Supplies & Equipment","estimated $33.1k ? $41.9k a year",,,Norwalk,CT," 06854"
+1970-01-01,"Assistant Store Manager",Sephora,sephora.ch,,,,,Norwalk,CT," 06854"
+1970-01-01,"Case Worker (Non-Medicating)","Nuvance Health",,,,,"Spring Hill area)",Norwalk,CT," 06850"
+1970-01-01,"Referral Coordinator - Multispecialty","Hartford HealthCare Medical Group Specialists",hartfordhealthcaremedicalgroup.org,"Medical Practice",,,,Norwalk,CT," 06851"
+1970-01-01,"Resident PGY 2","Nuvance Health",,,,,"Spring Hill area)",Norwalk,CT," 06850"
+1970-01-01,"Nursing Technician","Nuvance Health",,,,,"Spring Hill area)",Norwalk,CT," 06850"
+1970-01-01,"Patient Services Representative","Aspen Dental",aspendent.com,"Health, Wellness & Fitness","$16 - $18 an hour",,,Norwalk,CT," 06851"
+1970-01-01,"Client Specialist - Womens Ready to Wear, Norwalk - Full Tim...",Bloomingdale?s,,,,,,Norwalk,CT," 06854"
+1970-01-01,"Resident PGY 4","Nuvance Health",,,,,"Spring Hill area)",Norwalk,CT," 06850"
+1970-01-01,"Resident PGY 4","Nuvance Health",,,,,"Spring Hill area)",Norwalk,CT," 06850"
+1970-01-01,"Resident PGY 5","Nuvance Health",,,,,"Spring Hill area)",Norwalk,CT," 06850"
+1970-01-01,"Resident PGY 1","Nuvance Health",,,,,"Spring Hill area)",Norwalk,CT," 06850"
+1970-01-01,"Day Program Staff - Human Services","Keystone House, Inc.",,,"from $17 an hour",,"South Main area)",Norwalk,CT," 06854"
+1970-01-01,"Sales Associate/Management Trainee","Town Fair Tire",townfairtire.com,Automotive,"estimated $44.7k ? $56.7k a year",,,Norwalk,CT," 06851"
+1970-01-01,"Customer Service Representative","Culpeo HR",,,"$45,000 - $50,000 a year",,,Norwalk,CT," 06854"
+1970-01-01,"Patient Coordinator (Full-Time)","KG Tiger",kgtiger.com,"Staffing & Recruiting","$18 - $22 an hour",,,Norwalk,CT,""
+1970-01-01,"Dogtopia Daycare",Dogtopia,dogdaycare.com,"Consumer Services , Hospitality","estimated $31.5k ? $39.9k a year",,,Norwalk,CT," 06851"
+1970-01-01,"Facilities Manager",Pinstripes,pinstripes.com,Entertainment,"estimated $38.7k ? $48.9k a year",,,Norwalk,CT," 06854"
+1970-01-01,Cashier,"West Marine",westmarine.com,Retail,"estimated $25.2k ? $31.8k a year",,,Norwalk,CT," 06854"
+1970-01-01,"Centralized Sales Manager (Remote)","HEI Hotels and Resorts",heihotels.com,Hospitality,"estimated $51.6k ? $65.4k a year",Remote,,"Remote in Norwalk",CT," 06851"
+1970-01-01,"Assistant Manager","West Marine",westmarine.com,Retail,"estimated $31k ? $39.2k a year",,,Norwalk,CT," 06854"
+1970-01-01,"Registered Behavior Technician (RBT)","Echoing Minds ABA",,,"$22 - $37 an hour",,,Norwalk,CT,""
+1970-01-01,"Sales Associate","West Marine",westmarine.com,Retail,"estimated $28.3k ? $35.9k a year",,,Norwalk,CT," 06854"
+1970-01-01,"Medical office assistant","Eye Specialist of Connecticut",,,"$15 - $20 an hour",,,Norwalk,CT," 06854"
+1970-01-01,"Showroom Sales in High-End, Award-Winning Decorative Bath Re...",Bender,benderinc.com,"Electrical/Electronic Manufacturing","$50,000 - $150,000 a year",,,Norwalk,CT," 06851"
+1970-01-01,"Front Desk Patient Coordinator","CT Dental Mgmt",affinitydm.com,"Management Consulting","estimated $31.2k ? $39.4k a year",,,Norwalk,CT," 06854"
+1970-01-01,"Assistant Manager","Leeds West Groups - Midas",,,"estimated $31.2k ? $39.4k a year",,,Norwalk,CT,""
+1970-01-01,"Kitchen Team Member","Colony Grill - Norwalk",,,"$14 - $24 an hour",,,Norwalk,CT," 06850"
+1970-01-01,"Ophthalmic Assistant","Specialty Medical Center",familymedcenter.com,"Medical Practice","$16 - $20 an hour",,,Norwalk,CT,""
+1970-01-01,Busser,"Colony Grill - Norwalk",,,"$13 - $30 an hour",,,Norwalk,CT," 06850"
+1970-01-01,"Staff Registered Nurse - Will Train New Grads! Full Time","SERA Healthcare Solutions",sera-health.com,,"$41 - $42 an hour",,,Norwalk,CT,""
+1970-01-01,"Dunkin Donuts Barista + Tip$$$$","Dunkin' Donuts",dunkinbrands.com,"Food & Beverages","$13 - $15 an hour",,,Norwalk,CT,""
+1970-01-01,"Restaurant Host","La Plage",,,"from $15 an hour",,,Norwalk,CT," 06880"
+1970-01-01,"Housekeeper / Limpieza / Maid / House cleaner","Two Maids & A Mop - White Plains",,,,,,Norwalk,CT," 06854"
+1970-01-01,Barback,"Colony Grill - Norwalk",,,"$13 - $27 an hour",,,Norwalk,CT," 06850"
+1970-01-01,Server,"Colony Grill - Norwalk",,,"$13 - $40 an hour",,,Norwalk,CT," 06850"
+1970-01-01,"Catering Operations Manager","SSA Group, LLC",thessagroup.com,"Events Services","estimated $48.5k ? $61.5k a year",,,Norwalk,CT," 06854"
+1970-01-01,Bartender,"Colony Grill - Norwalk",,,"$13 - $40 an hour",,,Norwalk,CT," 06850"
+1970-01-01,Host,"Colony Grill - Norwalk",,,"$13 - $27 an hour",,,Norwalk,CT," 06850"
+1970-01-01,"Retail Sales Print Associate","Staples Stores",staplesconnect.com,"Business Supplies & Equipment",,,,Norwalk,CT," 06851"
+1970-01-01,"Retail Sales Associate","Staples Stores",staplesconnect.com,"Business Supplies & Equipment",,,,Norwalk,CT," 06851"
+1970-01-01,"Maternal/Child Health Technician I","Nuvance Health",,,,,"Spring Hill area)",Norwalk,CT," 06850"
+1970-01-01,"Outdoor Movie Event Technician","Premiere Outdoor Movies of Connecticut",,,"$19 - $25 an hour",,,Norwalk,CT,""
+1970-01-01,"Dogtopia Daycare",Dogtopia,dogdaycare.com,"Consumer Services , Hospitality","estimated $31.5k ? $39.9k a year",,,Norwalk,CT," 06851"
+1970-01-01,"Kitchen Team Member","Colony Grill - Norwalk",,,"$14 - $24 an hour",,,Norwalk,CT," 06850"
+1970-01-01,"Receptionist in High-End, Award-Winning Decorative Bath Reta...",Bender,benderinc.com,"Electrical/Electronic Manufacturing","$16 - $20 an hour",,,Norwalk,CT," 06851"
+1970-01-01,Busser,"Colony Grill - Norwalk",,,"$13 - $30 an hour",,,Norwalk,CT," 06850"
+1970-01-01,"Facilities Manager",Pinstripes,pinstripes.com,Entertainment,"estimated $38.7k ? $48.9k a year",,,Norwalk,CT," 06854"
+1970-01-01,"Shift Leader - Norwalk",Pokemoto,pokemoto.com,Restaurants,"$14 - $20 an hour",,,Norwalk,CT," 06854"
+1970-01-01,"Registered Behavior Technician (RBT)","Echoing Minds ABA",,,"$22 - $37 an hour",,,Norwalk,CT,""
+1970-01-01,"ClLEANER - PART-TIME","Cleaning Service CT",orangecleaningservices.net,"Facilities Services","$13 - $14 an hour",,,Norwalk,CT,""
+1970-01-01,"Sales Associate",J.Jill,j.jill,,"$13 - $14 an hour",,,Norwalk,CT," 06854"
+1970-01-01,"Crew Member - Norwalk",Pokemoto,pokemoto.com,Restaurants,"$13 - $14 an hour",,,Norwalk,CT," 06854"
+1970-01-01,"Restaurant Host","La Plage",,,"from $15 an hour",,,Norwalk,CT," 06880"
+1970-01-01,"CNAs, HHAs and Companions - 4 Hour to 6 Hour Shifts","Right at Home Darien, CT",,,"$15 - $17 an hour",,,Norwalk,CT," 06854"
+1970-01-01,"Brand Ambassador",PUSH,pushthefilm.com,,"$75 a day",,,Norwalk,CT,""
+1970-01-01,"Home Health Aide 7am to 10am Mon through Fri every week","ComForCare Home Health Care - Stamford",,,"$16 - $18 an hour",,,Norwalk,CT," 06850"
+1970-01-01,Server,"Colony Grill - Norwalk",,,"$13 - $40 an hour",,,Norwalk,CT," 06850"
+1970-01-01,Barback,"Colony Grill - Norwalk",,,"$13 - $27 an hour",,,Norwalk,CT," 06850"
+1970-01-01,Host,"Colony Grill - Norwalk",,,"$13 - $27 an hour",,,Norwalk,CT," 06850"
+1970-01-01,"Male Caregiver for elder care","ComForCare Home Health Care - Stamford",,,"$18 an hour",,,Norwalk,CT," 06850"
+1970-01-01,"In Home Childcare Aide","ComForCare Home Health Care - Stamford",,,"$16 - $17 an hour",,,Norwalk,CT," 06850"
+1970-01-01,Bartender,"Colony Grill - Norwalk",,,"$13 - $40 an hour",,,Norwalk,CT," 06850"
+1970-01-01,"Seasonal Sales Associate - Westport Avenue Shopping Center -...","Carter's | OshKosh B'gosh Retail",oshkosh.com,,,,,Norwalk,CT," 06851"
+1970-01-01,"NS Seasonal Sports Instructors (Part-Time)","City of Norwalk",norwalk.ca.us,,"$20 - $35 an hour",,,Norwalk,CT," 06851"
+1970-01-01,"Brand Ambassador",PUSH,pushthefilm.com,,"$75 a day",,,Norwalk,CT,""
+1970-01-01,"Brand Ambassador",PUSH,pushthefilm.com,,"$75 a day",,,Norwalk,CT,""
+1970-01-01,"Sales and Service Coordinator","Sephora USA",sephora.com,Retail,,,,Danbury,CT," 06810"
+1970-01-01,"Sales and Service Coordinator",Sephora,sephora.ch,,,,,Danbury,CT," 06810"
+1970-01-01,"Manager Global Health Academy","Nuvance Health",,,,,,Danbury,CT," 06810"
+1970-01-01,"Valet Parking Attendant FT or PT","Valet Park of America",valetparkofamerica.com,Hospitality,"estimated $24k ? $30.4k a year",,,Danbury,CT,""
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,,Danbury,CT," 06810"
+1970-01-01,"ASSISTANT STORE MANAGER","Family Dollar",familydollar.com,Retail,,,,Danbury,CT," 06810"
+1970-01-01,"Special Associate Compliance Officer - Human Subjects Resear","Nuvance Health",,,,,,"Hybrid remote in Danbury",CT," 06810"
+1970-01-01,"Restaurant Team Member - Crew (2730 - Danbury, Mill Plain Ro...",Chipotle,,,"tuition assistance (100% coverage for select degrees or up to $5,250/year).",,,Danbury,CT," 06811"
+1970-01-01,"FT-Sales Associate - Building Materials-Closing",Lowe's,lowes.com,Retail,,,,Danbury,CT," 06810"
+1970-01-01,"Cardiology Opening in Danbury, Connecticut (Fairfield County...","Nuvance Health",,,,,,Danbury,CT," 06810"
+1970-01-01,"E/PC Technician","Nuvance Health",,,,,,Danbury,CT," 06810"
+1970-01-01,"Surgery Resident PGY 1","Nuvance Health",,,,,,Danbury,CT," 06810"
+1970-01-01,"Restaurant Team Member - Crew (1933 - Danbury Fair Mall)",Chipotle,,,"tuition assistance (100% coverage for select degrees or up to $5,250/year).",,,Danbury,CT," 06810"
+1970-01-01,"Restaurant Team Member - Crew (3582 - Danbury Newtown Road)",Chipotle,,,"tuition assistance (100% coverage for select degrees or up to $5,250/year).",,,Danbury,CT," 06810"
+1970-01-01,"Assistant Store Manager -Garage Clothing-Danbury Fair Mall-D...","Garage Clothing Danbury CT",,,"estimated $28.9k ? $36.5k a year",,,Danbury,CT," 06810"
+1970-01-01,"ASSISTANT STORE MANAGER","Family Dollar",familydollar.com,Retail,,,,Danbury,CT," 06810"
+1970-01-01,"Registered Nurse (RN) - Emergency Department, Nights","Nuvance Health",,,,,,Danbury,CT," 06810"
+1970-01-01,"Medical Assistant - NHMP Danbury Nephrology - Danbury, CT","Nuvance Health",,,,,,Danbury,CT," 06810"
+1970-01-01,"ED Support Assistant","Nuvance Health",,,,,,Danbury,CT," 06810"
+1970-01-01,"Pathology Resident PGY 1","Nuvance Health",,,,,,Danbury,CT," 06810"
+1970-01-01,"OB-GYN Resident PGY 1","Nuvance Health",,,,,,Danbury,CT," 06810"
+1970-01-01,"Medicine Resident PGY 1","Nuvance Health",,,,,,Danbury,CT," 06810"
+1970-01-01,"Registered Nurse (RN) - Emergency Department, Evenings","Nuvance Health",,,,,,Danbury,CT," 06810"
+1970-01-01,"Medical Assistant - NHMP Danbury Nephrology - Danbury, CT","Nuvance Health",,,,,,Danbury,CT," 06810"
+1970-01-01,"Photographer - Bunny Photos","Cherry Hill Programs",cherryhillprograms.com,Photography,,,,Danbury,CT," 06810"
+1970-01-01,"Local Manager - Bunny Photos","Cherry Hill Programs",cherryhillprograms.com,Photography,,,,Danbury,CT," 06810"
+1970-01-01,"Peer Support Counselor","MCCA, Inc.",mccaonline.com,"Mental Health Care","estimated $33.8k ? $42.8k a year",,,Danbury,CT,""
+1970-01-01,"Security Screener (FT)","United Security Forces LLC",usforces.co,,"$15 - $18 an hour",,,Danbury,CT,""
+1970-01-01,"Substance Abuse Technician","MCCA, Inc.",mccaonline.com,"Mental Health Care","estimated $29.3k ? $37.1k a year",,,Danbury,CT," 06810"
+1970-01-01,"Full Time Floor Leader - Danbury Fair","Lush Handmade Cosmetics",lushusa.com,Cosmetics,"estimated $31.3k ? $39.7k a year",,,Danbury,CT," 06810"
+1970-01-01,"Bunny Character","Cherry Hill Programs",cherryhillprograms.com,Photography,"$16 - $17 an hour",,,Danbury,CT," 06810"
+1970-01-01,"Local Santa - Natural Beard","Cherry Hill Programs",cherryhillprograms.com,Photography,,,,Danbury,CT," 06810"
+1970-01-01,O.T.,"Civility Home Care",civilityhomecare.com,"Hospital & Health Care","estimated $71.7k ? $90.9k a year",,,Danbury,CT," 06811"
+1970-01-01,"Warehouse Operations Manager","NorthEast Structures Inc.",,,"$17 - $20 an hour",,,Danbury,CT," 06810"
+1970-01-01,"Assistant Manager","Eddie Bauer",eddiebauer.com,Retail,"$18.00 - $18.25 an hour",,,Danbury,CT," 06810"
+1970-01-01,"Assistant Local Manager","Cherry Hill Programs",cherryhillprograms.com,Photography,,,,Danbury,CT," 06810"
+1970-01-01,"Dental Assistant","All About Kids Pediatrics Dentistry and...",,,"$16 - $24 an hour",,,Danbury,CT," 06810"
+1970-01-01,"Food Prep","OC organic kitchen",,,"from $16 an hour",,,Danbury,CT," 06810"
+1970-01-01,"Playground Installation","NorthEast Structures Inc.",,,"$15 - $18 an hour",,,Danbury,CT,""
+1970-01-01,"Oncology Infusion RN",Nuvance,healthquest.org,"Hospital & Health Care",,,,Danbury,CT," 06810"
+1970-01-01,"Behavioral Health Counselor","MCCA, Inc.",mccaonline.com,"Mental Health Care","estimated $43.4k ? $55k a year",,,Danbury,CT," 06810"
+1970-01-01,"Lawn Care Technician","Grass Roots Inc.",,,"$18 - $22 an hour",,,Danbury,CT,""
+1970-01-01,"Bilingual ESL Instructor for Adults Learning English","Uceda Institute",uceda.org,"Education Management","$16 - $22 an hour",,,Danbury,CT," 06810"
+1970-01-01,"Nurse Practitoner","Supportive Care",thesupportivecare.com,"Mental Health Care","estimated $101k ? $128k a year",,,Danbury,CT,""
+1970-01-01,Landscaper,"Western Connecticut Hardscapes LLC",,,"$17 - $23 an hour",,,Danbury,CT,""
+1970-01-01,"Personal Care Assistant","City Care Home Care",ctcarehomehealth.com,,"$13 an hour",,,Danbury,CT,""
+1970-01-01,"Porter - ReNew Danbury","Trinity Property Consultants",trinity-pm.com,"Real Estate","estimated $29.3k ? $37.1k a year",,,Danbury,CT," 06811"
+1970-01-01,"Substance Use Disorder Counselor","MCCA, Inc.",mccaonline.com,"Mental Health Care","estimated $42.5k ? $53.9k a year",,,Danbury,CT," 06810"
+1970-01-01,"Registered Nurse (RN)","Floral Long Term Care",,,"$50 an hour",,,Danbury,CT,""
+1970-01-01,"Assistant GM - Restaurant","Boston Market | Boston Market Corporation",bostonmarket.com,Restaurants,,,,Danbury,CT," 06810"
+1970-01-01,R.N.,"Civility Home Care",civilityhomecare.com,"Hospital & Health Care","estimated $74.7k ? $94.7k a year",,,Danbury,CT," 06811"
+1970-01-01,"Account Executive - Danbury, CT","SpotOn: Sales (External Partners)",spoton.com,"Computer Software","estimated $61.4k ? $77.8k a year",,,Danbury,CT,""
+1970-01-01,"Sales Associate - Bunny Photos","Cherry Hill Programs",cherryhillprograms.com,Photography,"$14 - $15 an hour",,,Danbury,CT," 06810"
+1970-01-01,"Garage Clothing Stock/Support Associate PT","Garage Clothing",garageclothing.com,Retail,"estimated $24.3k ? $30.7k a year",,,Danbury,CT," 06810"
+1970-01-01,"Retail Associate Part Time NOW HIRING",Sierra,sierra.com,Retail,,,,Danbury,CT," 06810"
+1970-01-01,"store driver","Advance Auto Parts",advanceautoparts.com,Retail,,,,Danbury,CT," 06810"
+1970-01-01,"Sales Associate - Garage Clothing","Garage Clothing Store-Danbury CT",,,"estimated $22.9k ? $29.1k a year",,,Danbury,CT," 06810"
+1970-01-01,"Pharmacy Cashier",WALGREENS,walgreens.com,Retail,,,,Danbury,CT," 06810"
+1970-01-01,"ED Support Assistant","Nuvance Health",,,,,,Danbury,CT," 06810"
+1970-01-01,"Retail Sales Associate, Danbury Fair - Part Time",Macy?s,,,,,,Danbury,CT," 06810"
+1970-01-01,Cleaner,"ABM Industries",marriott.com,"Computer Software","$14 an hour",,,Danbury,CT," 06810"
+1970-01-01,"Restaurant Team Member - Crew (2730 - Danbury, Mill Plain Ro...",Chipotle,,,"tuition assistance (100% coverage for select degrees or up to $5,250/year).",,,Danbury,CT," 06811"
+1970-01-01,"Environmental Technician 1","Nuvance Health",,,,,,Danbury,CT," 06810"
+1970-01-01,"Patient Care Technician 1","Nuvance Health",,,,,,Danbury,CT," 06810"
+1970-01-01,"Patient Care Technician 2","Nuvance Health",,,,,,Danbury,CT," 06810"
+1970-01-01,"Restaurant Team Member - Crew (1933 - Danbury Fair Mall)",Chipotle,,,"tuition assistance (100% coverage for select degrees or up to $5,250/year).",,,Danbury,CT," 06810"
+1970-01-01,"ED Support Assistant","Nuvance Health",,,,,,Danbury,CT," 06810"
+1970-01-01,"Restaurant Team Member - Crew (3582 - Danbury Newtown Road)",Chipotle,,,"tuition assistance (100% coverage for select degrees or up to $5,250/year).",,,Danbury,CT," 06810"
+1970-01-01,"E/PC Technician","Nuvance Health",,,,,,Danbury,CT," 06810"
+1970-01-01,"E/PC Technician","Nuvance Health",,,,,,Danbury,CT," 06810"
+1970-01-01,"E/PC Technician","Nuvance Health",,,,,,Danbury,CT," 06810"
+1970-01-01,"Patient Care Technician 2","Nuvance Health",,,,,,Danbury,CT," 06810"
+1970-01-01,"Patient Care Technician 2","Nuvance Health",,,,,,Danbury,CT," 06810"
+1970-01-01,"Photographer - Bunny Photos","Cherry Hill Programs",cherryhillprograms.com,Photography,,,,Danbury,CT," 06810"
+1970-01-01,"Photographer of Newborns in Hospital","Bella Baby Photography NY, NJ, CT",,,"$25 - $30 an hour",,,Danbury,CT," 06810"
+1970-01-01,"Retail Sales Associate","Yogibo, LLC.",,,"$18 - $20 an hour",,,Danbury,CT," 06810"
+1970-01-01,"Restaurant Delivery Driver - Part Time","Boston Market | Boston Market Corporation",bostonmarket.com,Restaurants,,,,Danbury,CT," 06810"
+1970-01-01,"Assistant Local Manager","Cherry Hill Programs",cherryhillprograms.com,Photography,,,,Danbury,CT," 06810"
+1970-01-01,"Treatment Support Worker","Family & Children's Aid",fcaweb.org,"Mental Health Care","$16 an hour",,,Danbury,CT," 06810"
+1970-01-01,"Local Santa - Natural Beard","Cherry Hill Programs",cherryhillprograms.com,Photography,,,,Danbury,CT," 06810"
+1970-01-01,"Part-Time Rapid Rehousing Case Manager","The Center for Empowerment and Education",,,"$20 an hour",,,Danbury,CT,""
+1970-01-01,"Part Time Sales Associate","Build-A-Bear Workshop",texasballoonandnovelty.com,Retail,"$13.25 - $15.00 an hour",,,Danbury,CT," 06810"
+1970-01-01,"Bilingual ESL Instructor for Adults Learning English","Uceda Institute",uceda.org,"Education Management","$16 - $22 an hour",,,Danbury,CT," 06810"
+1970-01-01,"Registered Nurse (RN)","Floral Long Term Care",,,"$50 an hour",,,Danbury,CT,""
+1970-01-01,"APRN Per Diem","MCCA, Inc.",mccaonline.com,"Mental Health Care","estimated $120k ? $153k a year",,,Danbury,CT," 06810"
+1970-01-01,"Sales Associate - Bunny Photos","Cherry Hill Programs",cherryhillprograms.com,Photography,"$14 - $15 an hour",,,Danbury,CT," 06810"
+1970-01-01,"Photographer - Bunny Photos","Cherry Hill Programs",cherryhillprograms.com,Photography,,,,Danbury,CT," 06810"
+1970-01-01,"Local Manager - Bunny Photos","Cherry Hill Programs",cherryhillprograms.com,Photography,,,,Danbury,CT," 06810"
+1970-01-01,"Bunny Character","Cherry Hill Programs",cherryhillprograms.com,Photography,"$16 - $17 an hour",,,Danbury,CT," 06810"
+1970-01-01,"Assistant Local Manager","Cherry Hill Programs",cherryhillprograms.com,Photography,,,,Danbury,CT," 06810"
+1970-01-01,"Sales Associate - Bunny Photos","Cherry Hill Programs",cherryhillprograms.com,Photography,"$14 - $15 an hour",,,Danbury,CT," 06810"
+1970-01-01,"Procurement Administrative Staff Assistant","Town of Greenwich, CT",,,"$27.55 - $38.04 an hour",,,Greenwich,CT,""
+1970-01-01,"Wealth Management Banking Specialist - Connecticut","Bank of America",appianrx.com,"Hospital & Health Care",,,,Greenwich,CT," 06830"
+1970-01-01,"Veterinarian at Greenwich Animal Hospital in Greenwich, CT","Mission Veterinary Partners",missionvetpartners.com,Veterinary,"estimated $62.1k ? $78.7k a year",,,Greenwich,CT," 06830"
+1970-01-01,"Veterinary Assistant","Mission Veterinary Partners",missionvetpartners.com,Veterinary,"$17 - $22 an hour",,,Greenwich,CT," 06830"
+1970-01-01,"Prepared Foods Counter Associate","Citarella Gourmet Market",citarella.com,"Food & Beverages","estimated $26.7k ? $33.9k a year",,,Greenwich,CT," 06830"
+1970-01-01,"Relationship Banker - West Putnam and Valley - Greenwich, CT","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Greenwich,CT,""
+1970-01-01,"Pastry Counter Associate","Citarella Gourmet Market",citarella.com,"Food & Beverages","estimated $26.3k ? $33.3k a year",,,Greenwich,CT," 06830"
+1970-01-01,"Child Care Assistant Teacher","Bright Horizons Family Solutions",brighthorizons.com,"Education Management",,,,Greenwich,CT," 06830"
+1970-01-01,"Relationship Banker - Greenwich, CT","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Greenwich,CT,""
+1970-01-01,"Office Manager","H?cker Greenwich",,,"estimated $36.4k ? $46.2k a year",,,Greenwich,CT," 06830"
+1970-01-01,"Physical Therapy Aide","Performance Optimal Health",performanceoptimalhealth.com,"Health, Wellness & Fitness","estimated $29.3k ? $37.1k a year",,,Greenwich,CT,""
+1970-01-01,"Credit Union Customer Service/Loan Officer","Yale New Haven Health",,,,,,Greenwich,CT," 06830"
+1970-01-01,"Delivery Driver - Floral","McArdle's Florist & Garden Center",,,"from $15 an hour",,,Greenwich,CT," 06830"
+1970-01-01,"Security Guard Executive Corporate","Allied Universal",aus.com,"Security & Investigations",,,,Greenwich,CT," 06830"
+1970-01-01,"Car Sales Consultant Lexus of Greenwich","DARCARS Automotive Group",darcars.com,Automotive,"from $150,000 a year",,,Greenwich,CT," 06830"
+1970-01-01,Designer,"H?cker Kitchens",,,"estimated $52.5k ? $66.5k a year",,,Greenwich,CT," 06830"
+1970-01-01,"Athletic Trainer","Performance Optimal Health",performanceoptimalhealth.com,"Health, Wellness & Fitness","estimated $53.5k ? $67.7k a year",,,Greenwich,CT," 06830"
+1970-01-01,"Personal Care Assistant","City Care Home Care",ctcarehomehealth.com,,"$13 an hour",,,Greenwich,CT,""
+1970-01-01,"Nursing Supervisors","Greenwich Woods",greenwichwoods.com,"Hospital & Health Care","estimated $78.5k ? $99.3k a year",,,Greenwich,CT," 06831"
+1970-01-01,"Service BDC Representative","DARCARS Automotive Group",darcars.com,Automotive,"estimated $38.2k ? $48.4k a year",,,Greenwich,CT," 06830"
+1970-01-01,"Car Washer Lexus of Greenwich","DARCARS Automotive Group",darcars.com,Automotive,"estimated $25.9k ? $32.7k a year",,,Greenwich,CT," 06830"
+1970-01-01,"RN/LPN Charge Nurse (All Shifts) Per Diem","Greenwich Woods Rehab",,,"estimated $55.5k ? $70.3k a year",,,Greenwich,CT," 06831"
+1970-01-01,"Valet Lot Attendant INFINITIof Greenwich","DARCARS Automotive Group",darcars.com,Automotive,"estimated $23.7k ? $29.9k a year",,,Greenwich,CT," 06830"
+1970-01-01,"Cashier Lexus of Greenwich","DARCARS Automotive Group",darcars.com,Automotive,"estimated $25.8k ? $32.6k a year",,,Greenwich,CT," 06830"
+1970-01-01,"Valet Lot Attendant Lexus of Greenwich","DARCARS Automotive Group",darcars.com,Automotive,"estimated $23.7k ? $29.9k a year",,,Greenwich,CT," 06830"
+1970-01-01,"Social Media Manager","H?cker Greenwich",,,"estimated $37.1k ? $46.9k a year",,,Greenwich,CT," 06830"
+1970-01-01,"Office Manager","H?cker Greenwich",,,"estimated $36.4k ? $46.2k a year",,,Greenwich,CT," 06830"
+1970-01-01,"Physical Therapy Aide","Performance Optimal Health",performanceoptimalhealth.com,"Health, Wellness & Fitness","estimated $29.3k ? $37.1k a year",,,Greenwich,CT,""
+1970-01-01,"Delivery Driver - Floral","McArdle's Florist & Garden Center",,,"from $15 an hour",,,Greenwich,CT," 06830"
+1970-01-01,"PT Hygienist SATURDAYS!!!","Dearfield Family Dentistry",dearfielddentistry.com,"Medical Practice","from $47 an hour",,,Greenwich,CT," 06831"
+1970-01-01,Hostess/Host,"The Milbrook Club",milbrookclub.com,"Environmental Services","$15 - $18 an hour",,,Greenwich,CT," 06830"
+1970-01-01,"In Home Childcare Aide","ComForCare Home Health Care - Stamford",,,"$16 - $17 an hour",,,Greenwich,CT,""
+1970-01-01,"Social Media Manager","H?cker Greenwich",,,"estimated $37.1k ? $46.9k a year",,,Greenwich,CT," 06830"
+1970-01-01,"Conductors - Music Camp","Town of Greenwich, CT",,,"$32.31 - $32.96 an hour",,,Greenwich,CT,""
+1970-01-01,"Music Instructor","Town of Greenwich, CT",,,"$26.40 - $26.93 an hour",,,Greenwich,CT,""
+1970-01-01,"Counselor - Music & Art Camp","Town of Greenwich, CT",,,"$14.00 - $14.30 an hour",,,Greenwich,CT,""
+1970-01-01,"Full-Time Store Associate",ALDI,aldi.pl,Retail,"$16.50 an hour",,,Waterbury,CT,""
+1970-01-01,"ASSISTANT STORE MANAGER","Family Dollar",familydollar.com,Retail,,,,Waterbury,CT,""
+1970-01-01,"Assistant Teacher","Muriel moore Child development Center",,,"$14.35 an hour",,,Waterbury,CT," 06704"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,"Lakewood area)",Waterbury,CT," 06704"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,"Central Business District area)",Waterbury,CT," 06706"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,,Waterbury,CT," 06705"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,"Hillside area)",Waterbury,CT," 06710"
+1970-01-01,"Head Teacher","Muriel moore Child development Center",,,"$17.94 an hour",,,Waterbury,CT," 06704"
+1970-01-01,"Registered Nurse - Family Birthing Center","Waterbury Hospital",waterburyhospital.org,"Hospital & Health Care",,,"Bunker Hill area)",Waterbury,CT," 06708"
+1970-01-01,"Registered Nurse - Emergency Department","Waterbury Hospital",waterburyhospital.org,"Hospital & Health Care",,,"Bunker Hill area)",Waterbury,CT," 06708"
+1970-01-01,"Registered Nurse - Critical Care","Waterbury Hospital",waterburyhospital.org,"Hospital & Health Care",,,"Bunker Hill area)",Waterbury,CT," 06708"
+1970-01-01,"Patient Service Representative","Aspen Dental",aspendent.com,"Health, Wellness & Fitness","$16 - $18 an hour",,"Bucks Hill area)",Waterbury,CT," 06704"
+1970-01-01,"Patient Care Associate - Critical Care","Waterbury Hospital",waterburyhospital.org,"Hospital & Health Care",,,"Bunker Hill area)",Waterbury,CT," 06708"
+1970-01-01,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,,Waterbury,CT," 06705"
+1970-01-01,"Registered Nurse - Family Birthing Center","Waterbury Hospital",waterburyhospital.org,"Hospital & Health Care",,,"Bunker Hill area)",Waterbury,CT," 06708"
+1970-01-01,"Registered Nurse - Critical Care","Waterbury Hospital",waterburyhospital.org,"Hospital & Health Care",,,"Bunker Hill area)",Waterbury,CT," 06708"
+1970-01-01,"Registered Nurse - Critical Care","Waterbury Hospital",waterburyhospital.org,"Hospital & Health Care",,,"Bunker Hill area)",Waterbury,CT," 06708"
+1970-01-01,"Registered Nurse - Critical Care","Waterbury Hospital",waterburyhospital.org,"Hospital & Health Care",,,"Bunker Hill area)",Waterbury,CT," 06708"
+1970-01-01,"Registered Nurse - Critical Care","Waterbury Hospital",waterburyhospital.org,"Hospital & Health Care",,,"Bunker Hill area)",Waterbury,CT," 06708"
+1970-01-01,"Laboratory Technician: Environmental Chemistry","Analytical Consulting Technology, Inc",,,"$16 - $23 an hour",,"Brooklyn area)",Waterbury,CT," 06708"
+1970-01-01,"Tree Trimmer","CITY OF WATERBURY",waterburyct.org,"Primary/Secondary Education","$20.06 - $23.88 an hour",,"Central Business District area)",Waterbury,CT," 06702"
+1970-01-01,"Shop Runner","Feeney Brothers Excavation, LLC",,,"estimated $34.3k ? $43.5k a year",,,Waterbury,CT,""
+1970-01-01,"Live-in Caregiver","NCE Homecare",ncehomecare.com,"Hospital & Health Care","$189 a day",,"Boulevard area)",Waterbury,CT," 06704"
+1970-01-01,"Customer Service/Sales Representative","Sales Focus Inc.",salesfocusinc.com,Outsourcing/Offshoring,"estimated $42.4k ? $53.8k a year",,,Waterbury,CT," 06708"
+1970-01-01,Handyman/Maintenance,"KL INNOVATIVETECHNOLOGIES LLC",,,"$18 - $22 an hour",,,Waterbury,CT," 06705"
+1970-01-01,"Property Manager","Capital Realty Group",,,"estimated $38.3k ? $48.5k a year",,"Fairmount area)",Waterbury,CT," 06704"
+1970-01-01,"Local Santa - Natural Beard","Cherry Hill Programs",cherryhillprograms.com,Photography,,,"East End area)",Waterbury,CT," 06706"
+1970-01-01,"Air Duct Technician","Vently Air",,,"$1,000 - $3,000 a week",,,Waterbury,CT," 06701"
+1970-01-01,"Recovery Assistant",CTL,ctl.net,"Computer Hardware","from $16 an hour",,,Waterbury,CT,""
+1970-01-01,Barista,Starbucks,starbucks.com,Retail,"from $14.50 an hour",,"Scott Road area)",Waterbury,CT," 06705"
+1970-01-01,"Client Support Coordinator - Full Time 2nd Shift","Family Options, Inc.",familyoptionsjc.org,"Mental Health Care","$16.50 an hour",,,Waterbury,CT," 06705"
+1970-01-01,"Customer Service","Taco Bell",concreteimpressionsgds.com,,"$13.25 - $14.00 an hour",,"West End area)",Waterbury,CT," 06702"
+1970-01-01,"Substance Use Disorder Counselor","MCCA, Inc.",mccaonline.com,"Mental Health Care","estimated $42.5k ? $53.9k a year",,"Hillside area)",Waterbury,CT," 06710"
+1970-01-01,"Home Health Aide (HHA)","NCE Homecare",ncehomecare.com,"Hospital & Health Care","$14.50 an hour",,"Boulevard area)",Waterbury,CT," 06704"
+1970-01-01,"Shift Leader","Taco Bell",concreteimpressionsgds.com,,"$15 - $16 an hour",,"East Mountain area)",Waterbury,CT," 06706"
+1970-01-01,Cashier,"Taco Bell",concreteimpressionsgds.com,,"$13.25 - $14.00 an hour",,"Wolcott Road area)",Waterbury,CT," 06705"
+1970-01-01,"Crew Member","Taco Bell",concreteimpressionsgds.com,,"$13.25 - $14.00 an hour",,"Wolcott Road area)",Waterbury,CT," 06705"
+1970-01-01,"Customer Service","Taco Bell",concreteimpressionsgds.com,,"$13.25 - $14.00 an hour",,"Wolcott Road area)",Waterbury,CT," 06705"
+1970-01-01,"Registered Nurse","Summit Careers Inc",summitcareersinc.com,"Staffing & Recruiting","$90,000 a year",,,Waterbury,CT,""
+1970-01-01,"Rehab Unit Manager","Waterbury Center for Nursing and Rehabilitation",waterburygardensnr.com,"Hospital & Health Care","estimated $66.4k ? $84k a year",,"Bunker Hill area)",Waterbury,CT," 06708"
+1970-01-01,"Personal Care Assistant","City Care Home Care",ctcarehomehealth.com,,"$13 an hour",,,Waterbury,CT,""
+1970-01-01,"Pizza Delivery Driver","Domino's Pizza | Thunder Pies",,,"estimated $27.3k ? $34.5k a year",,"Bouley Manor area)",Waterbury,CT," 06705"
+1970-01-01,PCA,"NCE Homecare",ncehomecare.com,"Hospital & Health Care","$14.50 an hour",,"Boulevard area)",Waterbury,CT," 06704"
+1970-01-01,"Cashier- Part Time","BJ's Wholesale Club, Inc.",bjs.com,Retail,,,,Waterbury,CT," 06705"
+1970-01-01,"Education Aide (part time)","Muriel moore Child development Center",,,"$13.33 an hour",,,Waterbury,CT," 06704"
+1970-01-01,"Part-Time Assistant Manager - Level 2","Hot Topic Inc.",hottopic.com,Retail,"from $14.30 an hour",,,Waterbury,CT,""
+1970-01-01,"School Bus Driver","First Student",workatfirst.com,Transportation/Trucking/Railroad,"$5,000 sign-on bonus for fully licensed drivers*.",,"Browns Meadows area)",Waterbury,CT," 06708"
+1970-01-01,"Curbside Shopper- Part Time","BJ's Wholesale Club, Inc.",bjs.com,Retail,,,,Waterbury,CT," 06705"
+1970-01-01,"Valet Parking Attendant - PT Evenings 4:30-8:30","Valet Park of America",valetparkofamerica.com,Hospitality,"estimated $28.9k ? $36.5k a year",,,Waterbury,CT,""
+1970-01-01,"Pharmacy Technician Specialist","Waterbury Hospital",waterburyhospital.org,"Hospital & Health Care",,,"Bunker Hill area)",Waterbury,CT," 06708"
+1970-01-01,"Registered Nurse - Med/Surg","Waterbury Hospital",waterburyhospital.org,"Hospital & Health Care",,,"Bunker Hill area)",Waterbury,CT," 06708"
+1970-01-01,"Community Attendant (Seasonal)","South Oxford Management",somliving.com,"Real Estate","estimated $21.5k ? $27.3k a year",,,Waterbury,CT," 06705"
+1970-01-01,Barista,Starbucks,starbucks.com,Retail,"from $14.50 an hour",,"Scott Road area)",Waterbury,CT," 06705"
+1970-01-01,"Recovery Assistant",CTL,ctl.net,"Computer Hardware","from $16 an hour",,,Waterbury,CT,""
+1970-01-01,"Behavior Technician","A Brand New Day",bndhmo.com,"Hospital & Health Care","$19 - $21 an hour",,"Central Business District area)",Waterbury,CT," 06702"
+1970-01-01,"Local Santa - Natural Beard","Cherry Hill Programs",cherryhillprograms.com,Photography,,,"East End area)",Waterbury,CT," 06706"
+1970-01-01,"Client Support Coordinator - Full Time 2nd Shift","Family Options, Inc.",familyoptionsjc.org,"Mental Health Care","$16.50 an hour",,,Waterbury,CT," 06705"
+1970-01-01,"Customer Service","Taco Bell",concreteimpressionsgds.com,,"$13.25 - $14.00 an hour",,"West End area)",Waterbury,CT," 06702"
+1970-01-01,"Home Health Aide (HHA)","NCE Homecare",ncehomecare.com,"Hospital & Health Care","$14.50 an hour",,"Boulevard area)",Waterbury,CT," 06704"
+1970-01-01,"Shift Leader","Taco Bell",concreteimpressionsgds.com,,"$15 - $16 an hour",,"East Mountain area)",Waterbury,CT," 06706"
+1970-01-01,Cashier,"Taco Bell",concreteimpressionsgds.com,,"$13.25 - $14.00 an hour",,"Wolcott Road area)",Waterbury,CT," 06705"
+1970-01-01,"Crew Member","Taco Bell",concreteimpressionsgds.com,,"$13.25 - $14.00 an hour",,"Wolcott Road area)",Waterbury,CT," 06705"
+1970-01-01,"Customer Service","Taco Bell",concreteimpressionsgds.com,,"$13.25 - $14.00 an hour",,"Wolcott Road area)",Waterbury,CT," 06705"
+1970-01-01,"Pizza Delivery Driver","Domino's Pizza | Thunder Pies",,,"estimated $27.3k ? $34.5k a year",,"Bouley Manor area)",Waterbury,CT," 06705"
+1970-01-01,PCA,"NCE Homecare",ncehomecare.com,"Hospital & Health Care","$14.50 an hour",,"Boulevard area)",Waterbury,CT," 06704"
+1970-01-01,"Community Attendant (Seasonal)","South Oxford Management",somliving.com,"Real Estate","estimated $21.5k ? $27.3k a year",,,Waterbury,CT," 06705"
+1970-01-01,"Air Duct Technician","Vently Air",,,"$1,000 - $3,000 a week",,,Waterbury,CT," 06701"
+1970-01-01,"Restaurant Team Member - Crew (1583 - Fairfield CT)",Chipotle,,,"tuition assistance (100% coverage for select degrees or up to $5,250/year).",,,Fairfield,CT," 06824"
+1970-01-01,"Patient Service Coordinator - Primary Care","Hartford HealthCare Medical Group Specialists",hartfordhealthcaremedicalgroup.org,"Medical Practice",,,,Fairfield,CT," 06824"
+1970-01-01,"Sales Representative","USA Hauling and Recycling, Inc",,,"estimated $60.6k ? $76.8k a year",,,Fairfield,CT," 06824"
+1970-01-01,"Dogtopia Daycare",Dogtopia,dogdaycare.com,"Consumer Services , Hospitality","estimated $31.5k ? $39.9k a year",,,Fairfield,CT," 06824"
+1970-01-01,"Kitchen Team Member","Colony Grill - Fairfield",,,"$14 - $24 an hour",,,Fairfield,CT," 06824"
+1970-01-01,"Crew Member",Dunkin',,,"$13 - $15 an hour",,,Fairfield,CT,""
+1970-01-01,Server,"Colony Grill - Fairfield",,,"$13 - $40 an hour",,,Fairfield,CT," 06824"
+1970-01-01,"Sales Representative","USA Hauling and Recycling, Inc",,,"estimated $60.6k ? $76.8k a year",,,Fairfield,CT," 06824"
+1970-01-01,"Food Service Leader","Cumberland Farms, Inc.",,,,,,Fairfield,CT," 06825"
+1970-01-01,"Landscape & Masonry Labor","Earth & Stone Scapes, LLC.",,,"from $20 an hour",,,Fairfield,CT,""
+1970-01-01,"Assistant GM - Restaurant","Boston Market | Boston Market Corporation",bostonmarket.com,Restaurants,,,,Fairfield,CT," 06825"
+1970-01-01,Barback,"Colony Grill - Fairfield",,,"$13 - $27 an hour",,,Fairfield,CT," 06824"
+1970-01-01,Runner/Busser,"Colony Grill - Fairfield",,,"$13 - $30 an hour",,,Fairfield,CT," 06824"
+1970-01-01,"Registered Nurse","Summit Careers Inc",summitcareersinc.com,"Staffing & Recruiting","$90,000 a year",,,Fairfield,CT,""
+1970-01-01,"Shift Leader",Dunkin',,,"$14.50 - $16.00 an hour",,,Fairfield,CT,""
+1970-01-01,Bartender,"Colony Grill - Fairfield",,,"$13 - $40 an hour",,,Fairfield,CT," 06824"
+1970-01-01,Host,"Colony Grill - Fairfield",,,"$13 - $27 an hour",,,Fairfield,CT," 06824"
+1970-01-01,"School Bus Driver","First Student",workatfirst.com,Transportation/Trucking/Railroad,"from $30 an hour",,,Fairfield,CT," 06824"
+1970-01-01,"Restaurant Team Member - Crew (1583 - Fairfield CT)",Chipotle,,,"tuition assistance (100% coverage for select degrees or up to $5,250/year).",,,Fairfield,CT," 06824"
+1970-01-01,"Bus Monitor","First Student",workatfirst.com,Transportation/Trucking/Railroad,,,,Fairfield,CT," 06824"
+1970-01-01,"RN part time","Fresenius Medical Care",fmc-au.com,"Medical Devices",,,,Fairfield,CT," 06825"
+1970-01-01,"Office Administrator","Oakwood Landscaping & Construction",,,"$16 - $19 an hour",,,Fairfield,CT," 06824"
+1970-01-01,"Dogtopia Daycare",Dogtopia,dogdaycare.com,"Consumer Services , Hospitality","estimated $31.5k ? $39.9k a year",,,Fairfield,CT," 06824"
+1970-01-01,"Kitchen Team Member","Colony Grill - Fairfield",,,"$14 - $24 an hour",,,Fairfield,CT," 06824"
+1970-01-01,"Restaurant Delivery Driver - Part Time","Boston Market | Boston Market Corporation",bostonmarket.com,Restaurants,,,,Fairfield,CT," 06825"
+1970-01-01,"Crew Member",Dunkin',,,"$13 - $15 an hour",,,Fairfield,CT,""
+1970-01-01,"Brand Ambassador",PUSH,pushthefilm.com,,"$75 a day",,,Fairfield,CT,""
+1970-01-01,"Congregational Life Coordinator","First Church Congregational, Fairfield",,,"$20 an hour",,,Fairfield,CT," 06824"
+1970-01-01,Server,"Colony Grill - Fairfield",,,"$13 - $40 an hour",,,Fairfield,CT," 06824"
+1970-01-01,"Cargo Van Furniture & Fitness Installation/Delivery- Fairfie...","American Direct Logistics",americandirectlogistics.com,"Health, Wellness & Fitness","$45 - $50 an hour",,,Fairfield,CT,""
+1970-01-01,"Breakfast Attendant","Best Western Plus",bestwesternpluskitchener.ca,,"from $13 an hour",,,Fairfield,CT," 06824"
+1970-01-01,Barback,"Colony Grill - Fairfield",,,"$13 - $27 an hour",,,Fairfield,CT," 06824"
+1970-01-01,"Food Service Leader","Cumberland Farms, Inc.",,,,,,Fairfield,CT," 06825"
+1970-01-01,Bartender,"Colony Grill - Fairfield",,,"$13 - $40 an hour",,,Fairfield,CT," 06824"
+1970-01-01,"Shift Leader",Dunkin',,,"$14.50 - $16.00 an hour",,,Fairfield,CT,""
+1970-01-01,Host,"Colony Grill - Fairfield",,,"$13 - $27 an hour",,,Fairfield,CT," 06824"
+1970-01-01,Runner/Busser,"Colony Grill - Fairfield",,,"$13 - $30 an hour",,,Fairfield,CT," 06824"
+1970-01-01,"Brand Ambassador",PUSH,pushthefilm.com,,"$75 a day",,,Fairfield,CT,""
+1970-01-01,"Brand Ambassador",PUSH,pushthefilm.com,,"$75 a day",,,Fairfield,CT,""

@@ -1,0 +1,8 @@
+[19-Jul-2021 16:16:38 UTC] PHP Notice:  Undefined variable: mysqli in /home/murtuzi/public_html/data.bizprospex.com/public/CSV_IMPORT/import.php on line 10
+[19-Jul-2021 16:16:38 UTC] PHP Warning:  mysqli_options() expects parameter 1 to be mysqli, null given in /home/murtuzi/public_html/data.bizprospex.com/public/CSV_IMPORT/import.php on line 10
+[21-Jul-2021 03:30:44 UTC] PHP Notice:  Undefined index: fileToUpload in /home/murtuzi/public_html/data.bizprospex.com/public/CSV_IMPORT/upload.php on line 15
+[21-Jul-2021 03:30:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/murtuzi/public_html/data.bizprospex.com/public/CSV_IMPORT/upload.php on line 15
+[21-Jul-2021 03:31:04 UTC] PHP Notice:  Undefined index: fileToUpload in /home/murtuzi/public_html/data.bizprospex.com/public/CSV_IMPORT/upload.php on line 15
+[21-Jul-2021 03:31:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/murtuzi/public_html/data.bizprospex.com/public/CSV_IMPORT/upload.php on line 15
+[21-Jul-2021 03:36:18 UTC] PHP Notice:  Undefined index: fileToUpload in /home/murtuzi/public_html/data.bizprospex.com/public/CSV_IMPORT/upload.php on line 15
+[21-Jul-2021 03:36:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/murtuzi/public_html/data.bizprospex.com/public/CSV_IMPORT/upload.php on line 15

@@ -1,0 +1,587 @@
+DATE,"Job Title",Company,Website,Industry,Salary,Remote,AREA,City,State,"Zip Code"
+2022-04-01,"Student Data Coordinator","South Louisiana Community College",solacc.edu,"Higher Education","$36,821 - $41,463 a year",,,Lafayette,LA,"70506"
+2022-03-31,"Customer Service Specialist - 136177",Halliburton,halliburton.com,"Oil & Energy",,,,Lafayette,LA,"70507"
+2022-03-29,Instrumentman,Fenstermaker,fenstermaker.com,"Oil & Energy","$29.9K ? $37.9K a year",,,Lafayette,LA,""
+2022-03-31,"Provider Experience Mgr",Anthem,anthem.com,Insurance,,Remote,,"Remote in Lafayette",LA,""
+2022-03-29,"Shelf - Operator B",Danos,danos.com,"Oil & Energy","$34.2K ? $43.2K a year",,,Lafayette,LA,"70503"
+2022-03-31,"Marketing Operations Coordinator","Tides Medical",tidesmedical.com,Biotechnology,"$44.7K ? $56.5K a year",,,Lafayette,LA,"70508"
+2022-03-30,"Developer, Software","PHI, Inc.",phihelico.com,Airlines/Aviation,"$70.8K ? $89.6K a year",,,Lafayette,LA,"70508"
+2022-03-30,"Employee Benefits Account Manager","HUB International",manuellujan.,Insurance,,,,Lafayette,LA,"70593"
+2022-03-31,"Deepwater Production Operator A",Danos,danos.com,"Oil & Energy","$50.7K ? $64.3K a year",,,Lafayette,LA,"70503"
+2022-03-31,"Manager Clinical Nutrition","Franciscan Missionaries of Our Lady Health System",fmolhs.org,"Hospital & Health Care",,,,Lafayette,LA,"70508"
+2022-03-30,"Facilities Support","CGI Group, Inc.",cgi.com,"Information Technology & Services",,,,Lafayette,LA,""
+2022-03-30,"IT Project Manager","PHI, Inc.",phihelico.com,Airlines/Aviation,"$89K ? $113K a year",,,Lafayette,LA,"70508"
+2022-03-30,"UX / UI Designer","CGI Group, Inc.",cgi.com,"Information Technology & Services",,,,Lafayette,LA,""
+2022-03-30,"Co Manager",RaceTrac,racetrac.com,Retail,,,,Lafayette,LA,"70506"
+2022-03-30,"Co Manager",RaceTrac,racetrac.com,Retail,,,,Lafayette,LA,"70501"
+2022-03-30,"Operations Manager","Jani-King of Lafayette",,,"$32,500 - $60,000 a year",,,Lafayette,LA,""
+2022-03-31,"General Manager","Dairy Queen",dairyqueen.com,"Food & Beverages","$45,000 - $50,000 a year",,,Lafayette,LA,"70503"
+2022-03-30,"Store Team Leader (General Manager) Store #625","Party City",partycity.com,Retail,"$65,000 - $70,000 a year",,,Lafayette,LA,"70503"
+2022-03-29,"Accounting Clerk","Pine Island Chemical Solutions LLC",,,"$13 - $14 an hour",,,Lafayette,LA,"70508"
+2022-03-30,"Rental Coordinator","Louisiana Cat",louisianacat.com,Machinery,"$33.6K ? $42.6K a year",,,Lafayette,LA,""
+2022-04-01,"Junior Account Manager (Remote)",DeveloperMedia,,,"$52.2K ? $66K a year",Remote,,"Remote in Lafayette",LA,""
+2022-04-01,"General Manager","Champion Homes",championhomes.com,Construction,"From $250,000 a year",,,Lafayette,LA,"70507"
+2022-03-31,"Office Manager","Cajun Hearing Centers, LLC",,,"$17 - $20 an hour",,,Lafayette,LA,"70508"
+2022-03-30,"Co Manager",RaceTrac,racetrac.com,Retail,,,,Lafayette,LA,"70506"
+2022-03-29,"Business Support Analyst (in office)",Waitr,waitrapp.com,Hospitality,"$37.2K ? $47K a year",,,Lafayette,LA,""
+2022-03-31,"Employee Benefits Account Manager","HUB International",manuellujan.,Insurance,"From $45,000 a year",,,Lafayette,LA,"70503"
+2022-04-01,"DON Branch Manager (Director of Nursing)","Grace Home Health",gracehomehealth.com,"Hospital & Health Care","$77.9K ? $98.7K a year",,,Lafayette,LA,"70508"
+2022-03-31,"Account Executive",Gannett,mplsoffset.com,Printing,,,,Lafayette,LA,"70506"
+2022-04-01,"Home Health RN Clinical Manager","Grace Home Health",gracehomehealth.com,"Hospital & Health Care","$63.8K ? $80.8K a year",,,Lafayette,LA,"70508"
+2022-04-01,"Human Resources Manager","FDF Energy Services",,,"$50,000 - $75,000 a year",,,Lafayette,LA,""
+2022-03-29,"RN Director of Patient Care","Heart of Hospice",,,,,,Lafayette,LA,"70503"
+2022-03-30,"Co Manager",RaceTrac,racetrac.com,Retail,,,,Lafayette,LA,"70501"
+2022-03-29,"Commercial Estimator","The Lemoine Company",1lemoine.com,Construction,"$76.9K ? $97.3K a year",,,Lafayette,LA,"70506"
+2022-03-31,"Property Manager","Pegasus Residential, LLC",,,"$54.5K ? $68.9K a year",,,Lafayette,LA,""
+2022-03-29,"Licensure and Regulatory Affairs Paralegal","LHC Group Inc Home Office",,,,,,Lafayette,LA,"70508"
+2022-03-29,"Financial Services Professional (management fast track- MBA...","New York Life",experiencehfs.com,,,,,Lafayette,LA,""
+2022-03-30,"Human Resources Generalist","Acadian Ambulance",acadianambulance.com,"Hospital & Health Care","$40.2K ? $51K a year",,,Lafayette,LA,"70509"
+2022-03-31,"Account Executive",Gannett,mplsoffset.com,Printing,,,,Lafayette,LA,"70506"
+2022-03-31,"Account Executive",Gannett,mplsoffset.com,Printing,,,,Lafayette,LA,"70506"
+2022-03-29,"Home Health RN Clinical Manager (ADON)","Grace Home Health",gracehomehealth.com,"Hospital & Health Care","$64.4K ? $81.6K a year",,,Lafayette,LA,"70508"
+2022-03-30,"Co Manager",RaceTrac,racetrac.com,Retail,,,,Lafayette,LA,"70506"
+2022-03-30,"Co Manager",RaceTrac,racetrac.com,Retail,,,,Lafayette,LA,"70501"
+2022-03-30,"Co Manager",RaceTrac,racetrac.com,Retail,,,,Lafayette,LA,"70506"
+2022-03-30,"Co Manager",RaceTrac,racetrac.com,Retail,,,,Lafayette,LA,"70501"
+2022-04-01,"Communications Coordinator","Louisiana State University",lsu.edu,"Higher Education",,,"LSU area","Baton Rouge",LA,"70808"
+2022-03-30,Coordinator,"Louisiana State University",lsu.edu,"Higher Education",,,"LSU area","Baton Rouge",LA,"70808"
+2022-04-01,"Director of Development (Mid-Level)","Louisiana State University",lsu.edu,"Higher Education",,,"LSU area","Baton Rouge",LA,"70808"
+2022-03-31,"Employee Relations Specialist - Temporary",Amedisys,amedisys.com,"Hospital & Health Care",,,"Jones Creek area","Baton Rouge",LA,"70816"
+2022-03-30,"Video Editor/ Motion Graphic Artist","Lamar Advertising Company",lamar.com,"Marketing & Advertising","$19.23 - $22.12 an hour",,,"Baton Rouge",LA,"70808"
+2022-03-29,"Administrative Assistant","Orbital Engineering, Inc.",orbitalengr.com,Construction,"$30.4K ? $38.4K a year",,,"Baton Rouge",LA,"70816"
+2022-03-29,"Facility Manager of Outdoor Operations","Louisiana State University",lsu.edu,"Higher Education",,,"LSU area","Baton Rouge",LA,"70808"
+2022-03-30,"Assistant/Bar Manager","Walk On's Sport's Bistreaux",,,"$37.2K ? $47K a year",,"Bocage area","Baton Rouge",LA,"70809"
+2022-03-31,"Lab School Instructor","Louisiana State University",lsu.edu,"Higher Education",,,"LSU area","Baton Rouge",LA,"70808"
+2022-03-30,"Key Account Executive (Outside Sales) - Baton Rouge, LA",Labcorp,labcorp.com,"Hospital & Health Care",,,,"Baton Rouge",LA,"70809"
+2022-03-29,"Accounting Coordinator","Louisiana State University",lsu.edu,"Higher Education",,,"LSU area","Baton Rouge",LA,"70808"
+2022-03-31,"Manager in Training","Siegel Suites",siegelsuites.com,Hospitality,"$44.5K ? $56.3K a year",,"Jones Creek area","Baton Rouge",LA,"70816"
+2022-03-29,"Manager Trainee","Benny's Car Wash",bennyscarwash.com,Retail,"$33K ? $41.8K a year",,"Westminster area","Baton Rouge",LA,"70809"
+2022-03-30,"Key Account Executive (Outside Sales) - Baton Rouge, LA",Labcorp,labcorp.com,"Hospital & Health Care",,,,"Baton Rouge",LA,"70809"
+2022-03-31,"Project Manager, LA CaTS","Louisiana State University",lsu.edu,"Higher Education",,,"LSU area","Baton Rouge",LA,"70808"
+2022-03-30,"Insight Analyst","Community Coffee Company, L.L.C.",communitycoffee.com,"Food & Beverages","$53.4K ? $67.6K a year",,,"Baton Rouge",LA,""
+2022-03-31,"Technical Services / Information Systems Technician","ASM Global",asmglobal.com,Entertainment,,,,"Baton Rouge",LA,"70802"
+2022-03-31,"Career Coordinator - AMIkids Baton Rouge","AMIKids Baton Rouge, Inc.",,,"$30.4K ? $38.6K a year",,,"Baton Rouge",LA,"70805"
+2022-03-31,"Contract Compliance Officer (Louisiana Medicaid) - Baton Rou...",Humana,humana.com,"Health, Wellness & Fitness",,Remote,,"Remote in Baton Rouge",LA,"70816"
+2022-03-31,"Visual Designer",IBM,bionovo.com.cn,"Computer Software",,,,"Baton Rouge",LA,"70801"
+2022-03-30,"Lead Warehouse Attendant","Community Coffee Company, L.L.C.",communitycoffee.com,"Food & Beverages","$29.6K ? $37.4K a year",,,"Baton Rouge",LA,""
+2022-03-29,"Associate Account Manager - Baton Rouge, LA area",ChemTreat,chemtreat.com,Chemicals,,,,"Baton Rouge",LA,"70806"
+2022-03-31,"Consultant - Employee Benefits & Wellness","State of Louisiana",louisiana.gov,"Government Administration",,,"Goodwood area","Baton Rouge",LA,"70806"
+2022-04-01,"Outside Sales Representative - Base, Commissions and Benefit...","Hibu Inc",,,"$60.4K ? $76.4K a year",Remote,,"Hybrid remote in Baton Rouge",LA,"70806"
+2022-04-01,"Environmental Scientist","Providence Engineering and Environmental Group LLC",,,"$70.3K ? $89.1K a year",Remote,,"Hybrid remote in Baton Rouge",LA,"70802"
+2022-03-31,"HR Generalist","Lamar Advertising Company",lamar.com,"Marketing & Advertising","$47,500 - $50,000 a year",Remote,,"Remote in Baton Rouge",LA,"70808"
+2022-03-30,"National Advertising Campaign Specialist","Lamar Advertising Company",lamar.com,"Marketing & Advertising","$19 - $24 an hour",,,"Baton Rouge",LA,"70808"
+2022-03-31,"HR Business Administrator","Nexstar Broadcasting",binghamtonhomepage.com,,"$41.8K ? $53K a year",,,"Baton Rouge",LA,""
+2022-03-30,"HR Data Analyst","Lamar Advertising Company",lamar.com,"Marketing & Advertising","$59.4K ? $75.2K a year",,,"Baton Rouge",LA,"70808"
+2022-03-31,"Junior UI/UX Designer",IBM,bionovo.com.cn,"Computer Software",,,,"Baton Rouge",LA,"70801"
+2022-03-31,"Project Coordinator, Real Estate",Amedisys,amedisys.com,"Hospital & Health Care",,,"Jones Creek area","Baton Rouge",LA,"70816"
+2022-04-01,"Home Lending Advisor- Baton Rouge, LA","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,"Baton Rouge",LA,""
+2022-04-01,"Design Research and Insights Analyst",LWCC,lwcc.com,Insurance,"$64.9K ? $82.1K a year",,,"Baton Rouge",LA,""
+2022-03-30,"Automotive Store Manager","Tire Choice Auto Service Centers",thetirechoice.com,Automotive,"$66.8K ? $84.6K a year",,,"Baton Rouge",LA,""
+2022-03-30,"Cloud Microservices Developer - Baton Rouge, LA and Monroe,...",IBM,bionovo.com.cn,"Computer Software",,,,"Baton Rouge",LA,"70801"
+2022-03-31,"Immunology Specialist","Syneos Health Commercial Solutions",syneoshealth.com,Pharmaceuticals,,,,"Baton Rouge",LA,""
+2022-03-29,"FRANU Inst Research and Effect Specialist","Franciscan Missionaries of Our Lady Health System",fmolhs.org,"Hospital & Health Care",,,"Bocage area","Baton Rouge",LA,"70808"
+2022-03-30,"Electronic Visit Verification - Special Projects Manager","University of New Orleans",uno.edu,"Higher Education","$54.6K ? $69.2K a year",,"Downtown area","Baton Rouge",LA,"70802"
+2022-03-30,"Community Sales Manager - Whealdon Estates","Holiday Retirement",holidaytouch.com,"Investment Management",,,"Westminster area","Baton Rouge",LA,"70809"
+2022-03-30,"Lab Supervisor - STAT Lab - Hematology & Oncology",Labcorp,labcorp.com,"Hospital & Health Care",,,,"Baton Rouge",LA,"70809"
+2022-03-29,"PROCUREMENT SPECIALIST - Baton Rouge, LA","Air Products",airproducts.com,Chemicals,,,,"Baton Rouge",LA,""
+2022-03-31,"Clinical Documentation Improvement Analyst - Health Informat...","Womans Hospital",,,"$49.9K ? $63.1K a year",,"Jefferson area","Baton Rouge",LA,"70817"
+2022-03-31,"Clinical Documentation Improvement Analyst - Health Informat...","Woman's Hospital",womans.org,"Hospital & Health Care","$49.9K ? $63.1K a year",,"Jefferson area","Baton Rouge",LA,"70817"
+2022-04-01,"Service Technician II - Baton Rouge, LA","Heritage Service Group",heritageservicegroup.com,"Food & Beverages","$42.6K ? $54K a year",,,"Baton Rouge",LA,"70801"
+2022-03-30,"Client Solutions Specialist 2","Hancock Whitney",hancockwhitney.com,Banking,"$33.9K ? $42.9K a year",,,"Baton Rouge",LA,""
+2022-03-31,"Payroll Specialist","State of Louisiana",louisiana.gov,"Government Administration",,,"Goodwood area","Baton Rouge",LA,"70806"
+2022-03-31,"Commercial Lines Account Manager","HUB International",manuellujan.,Insurance,,,,"Baton Rouge",LA,"70806"
+2022-03-29,"Maintenance Technician II","The Spine Hospital of Louisiana",spinehola.com,"Hospital & Health Care","$35.9K ? $45.5K a year",,"Highland-Perkins area","Baton Rouge",LA,"70810"
+2022-03-31,"Corporate Paralegal","SETPOINT INTEGRATED",setpointis.com,"Oil & Energy","$59.1K ? $74.9K a year",,"Kleinpeter area","Baton Rouge",LA,"70809"
+2022-04-01,"Territory Sales Representative ? Thermal",nVent,nvent.com,"Electrical/Electronic Manufacturing",,,,"Baton Rouge",LA,""
+2022-03-29,"Private Bank - PB Professional Associate - Baton Rouge, LA","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,"Baton Rouge",LA,""
+2022-03-29,"Lab Supervisor - STAT Lab - Hematology & Oncology",Labcorp,labcorp.com,"Hospital & Health Care",,,,"Baton Rouge",LA,"70809"
+2022-03-30,"Traveling Construction Superintendent","Siegel Suites",siegelsuites.com,Hospitality,"$67.3K ? $85.3K a year",,"Jones Creek area","Baton Rouge",LA,"70816"
+2022-03-31,"Territory Sales Manager - Specialty","Urovant Sciences, Inc.",urovant.com,Biotechnology,"$63.9K ? $80.9K a year",Remote,,"Remote in Baton Rouge",LA,""
+2022-03-30,"Director of Digital Marketing and Web Development","Lamar Advertising Company",lamar.com,"Marketing & Advertising","$53.3K ? $67.5K a year",,,"Baton Rouge",LA,"70808"
+2022-03-30,"Compensation Specialist","Lamar Advertising Company",lamar.com,"Marketing & Advertising","$52.5K ? $66.5K a year",Remote,,"Hybrid remote in Baton Rouge",LA,"70808"
+2022-04-01,"Technical Business Analyst",IBM,bionovo.com.cn,"Computer Software",,Remote,,"Temporarily Remote in Baton Rouge",LA,"70801"
+2022-03-31,"Educational Partnerships and State Policy Specialist",Pearson,pearson.com,"Education Management",,Remote,,"Remote in Baton Rouge",LA,"70806"
+2022-03-30,"Safety Coordinator","MasTec Utility Services",mastec-utilityservices.com,Construction,,,,"Baton Rouge",LA,""
+2022-03-30,"Traveling Construction Project Manager","Siegel Suites",siegelsuites.com,Hospitality,"$81.5K ? $103K a year",,"Jones Creek area","Baton Rouge",LA,"70816"
+2022-03-29,"PROCUREMENT SPECIALIST - Plant Support Services","Air Products",airproducts.com,Chemicals,,,,"Baton Rouge",LA,""
+2022-04-01,"Payroll Specialist - Temp to Perm",Amedisys,amedisys.com,"Hospital & Health Care",,,"Jones Creek area","Baton Rouge",LA,"70816"
+2022-03-30,"NOC Manager",iboss,iboss.com,"Computer & Network Security","$68.5K ? $86.7K a year",,,"Baton Rouge",LA,""
+2022-03-30,"Web Developer - Remote",iboss,iboss.com,"Computer & Network Security","$75.5K ? $95.5K a year",Remote,,"Remote in Baton Rouge",LA,""
+2022-03-30,"NOC Technician- 1st Shift",iboss,iboss.com,"Computer & Network Security","$41.2K ? $52.2K a year",,,"Baton Rouge",LA,""
+2022-03-31,"Account Manager","Lamar Advertising Company",lamar.com,"Marketing & Advertising","$35,000 - $45,000 a year",,,"Baton Rouge",LA,"70809"
+2022-03-29,"Supervisor - Facilities Management - Baton Rouge","Ochsner Health System",ochsner.org,"Hospital & Health Care",,,,"Baton Rouge",LA,""
+2022-03-30,"NOC Lead (3rd Shift)",iboss,iboss.com,"Computer & Network Security","$61.2K ? $77.6K a year",,,"Baton Rouge",LA,""
+2022-03-30,"NOC Lead (1st Shift)",iboss,iboss.com,"Computer & Network Security","$61.2K ? $77.6K a year",,,"Baton Rouge",LA,""
+2022-03-30,"NOC Lead (2nd Shift)",iboss,iboss.com,"Computer & Network Security","$61.2K ? $77.6K a year",,,"Baton Rouge",LA,""
+2022-03-30,"NOC Technician- 2nd Shift",iboss,iboss.com,"Computer & Network Security","$41.2K ? $52.2K a year",,,"Baton Rouge",LA,""
+2022-03-30,"NOC Technician- 3rd Shift",iboss,iboss.com,"Computer & Network Security","$41.2K ? $52.2K a year",,,"Baton Rouge",LA,""
+2022-03-30,"Cloud Platform Operations Technician",iboss,iboss.com,"Computer & Network Security","$38.7K ? $48.9K a year",,,"Baton Rouge",LA,""
+2022-03-30,"Cloud Platform Operations Technician (3rd Shift)",iboss,iboss.com,"Computer & Network Security","$37.3K ? $47.3K a year",,,"Baton Rouge",LA,""
+2022-03-30,"Cloud Platform Operations Technician (2nd Shift)",iboss,iboss.com,"Computer & Network Security","$37.3K ? $47.3K a year",,,"Baton Rouge",LA,""
+2022-04-01,"Creative Coordinator","Octagon Media",octagonmedia8.com,"Marketing & Advertising","From $15 an hour",,,"Baton Rouge",LA,"70816"
+2022-03-30,"Co Manager",RaceTrac,racetrac.com,Retail,,,"Jones Creek area","Baton Rouge",LA,"70816"
+2022-03-30,"Co Manager",RaceTrac,racetrac.com,Retail,,,"Goodwood Homesites area","Baton Rouge",LA,"70806"
+2022-04-01,Bookkeeper,"Vivid Imprint",vividimprinting.com,,"$17 - $19 an hour",,"Tara area","Baton Rouge",LA,"70806"
+2022-03-30,"Co Manager",RaceTrac,racetrac.com,Retail,,,"South Burbank area","Baton Rouge",LA,"70810"
+2022-03-30,"Co Manager",RaceTrac,racetrac.com,Retail,,,"Westminster area","Baton Rouge",LA,"70809"
+2022-04-01,"Member Advocate","Neighbors FCU",neighborsfcu.org,"Financial Services","$33,069 - $41,337 a year",,,"Baton Rouge",LA,"70821"
+1970-01-01,"Restaurant Staff","Tsunami Sushi",,,"$7.25 - $25.00 an hour",,"Downtown area","Baton Rouge",LA,"70801"
+2022-03-30,"Claims Representative","Guarantee Restoration",guaranteerestoration.com,Construction,"$16 - $18 an hour",,,"Baton Rouge",LA,"70810"
+2022-04-01,"Operations Manager","Joyful Cleaners",joyfulcleanersbr.com,,"$22 - $25 an hour",,"O'Neal area","Baton Rouge",LA,"70816"
+2022-03-30,"Director of Administration",StorageAuctions.com,,,"$60,000 - $70,000 a year",,"Smiley Heights area","Baton Rouge",LA,"70806"
+2022-03-29,"Graphic Designer","Southern Marsh Collection",southernmarsh.com,Retail,"$50,000 - $55,000 a year",,"Old South Baton Rouge area","Baton Rouge",LA,"70802"
+2022-03-29,"Executive Secretary","Havens Gateway PCA -952 Oneal Lane Ste C",,,"$12 - $14 an hour",,"Millerville area","Baton Rouge",LA,"70816"
+2022-03-31,"Operations Manager - Southern University and A&M College Boo...","Follett Corporation",follett.com,Retail,"Up to $24 an hour",,"Southern University area","Baton Rouge",LA,"70813"
+2022-03-30,"Co Manager",RaceTrac,racetrac.com,Retail,,,"Millerville area","Baton Rouge",LA,"70816"
+2022-04-01,"Posting Clerk/Receptionist","The Retina Center",retinadocs.com,,"$15 - $21 an hour",,"Bocage area","Baton Rouge",LA,"70808"
+1970-01-01,"Front Desk Manager","Supreme Reality Hospitality Group LLC",,,"$160 - $250 a day",,,"Baton Rouge",LA,""
+2022-03-30,"Sonic Drive In General Manager","Sonic Drive In",kvsgroup.net,,"$72,000 - $90,000 a year",,"Downtown area","Baton Rouge",LA,"70801"
+2022-04-01,"Jewelry Store Manager","Boudreaux's Jewelers",,,"From $65,000 a year",,"Bocage area","Baton Rouge",LA,"70809"
+2022-04-01,"Office Manager","Capital Area CASA Association",,,"$19 - $22 an hour",,"Old South Baton Rouge area","Baton Rouge",LA,"70802"
+2022-03-31,"Director of Campus Operations","Great Hearts Academies",greatheartsaz.org,,"$62.1K ? $78.7K a year",,"Downtown area","Baton Rouge",LA,"70801"
+2022-04-01,"Vehicle Inspector - Contractor","Backlot Cars",backlotcars.co,Automotive,"$22 an hour",,,"Baton Rouge",LA,""
+2022-03-30,"Co Manager",RaceTrac,racetrac.com,Retail,,,"Jones Creek area","Baton Rouge",LA,"70816"
+2022-03-30,"Co Manager",RaceTrac,racetrac.com,Retail,,,"Scotlandville area","Baton Rouge",LA,"70807"
+2022-03-30,"Co Manager",RaceTrac,racetrac.com,Retail,,,"Kleinpeter area","Baton Rouge",LA,"70810"
+2022-03-30,"Co Manager",RaceTrac,racetrac.com,Retail,,,"Jones Creek area","Baton Rouge",LA,"70816"
+2022-04-01,"Web Project Manager","Red Six Media",,,"From $70,000 a year",Remote,,"Remote in Baton Rouge",LA,"70801"
+2022-03-29,"Customer Care Technician - Warranty - Baton Rouge, LA","DSLD Homes",dsldhomes.com,"Real Estate","$32.8K ? $41.6K a year",,,"Baton Rouge",LA,""
+2022-03-31,"Store Manager, Bench","Conn's Home Plus",conns.com,Retail,"$60,000 - $90,000 a year",,,"Baton Rouge",LA,""
+2022-03-31,"Area Supervisor","Ross Dress for Less New Orleans",,,"$14 an hour",,,"Baton Rouge",LA,""
+2022-04-01,"Panera Bread Restaurant AM and GMs","Cross Group",crossgroupinc.com,"Management Consulting, Business Services","$40,000 - $60,000 a year",,,"Baton Rouge",LA,""
+2022-03-30,"IT Support Technician","Grace Hebert Curtis Architects",ghc-arch.com,"Architecture & Planning","$40.4K ? $51.2K a year",,"Old South Baton Rouge area","Baton Rouge",LA,"70802"
+2022-03-31,"Power Quality CAD Specialist","inoLECT, LLC",,,"$40,000 - $70,000 a year",,"Drusilla area","Baton Rouge",LA,"70809"
+2022-03-31,"Field Operations Manager","Koala Insulation of Baton Rouge",,,"$50,000 - $70,000 a year",,,"Baton Rouge",LA,""
+2022-03-30,"Community Engagement Manager","Bolt Mobility",,,"$42.6K ? $54K a year",,,"Baton Rouge",LA,"70802"
+1970-01-01,"Digital Sales Executive - Base salary, Uncapped Commissions...","hibu Inc",,,"$70,000 - $90,000 a year",,,"Baton Rouge",LA,""
+2022-04-01,"IT Support Specialist","Evergreen Life Services",evergreenls.org,"Individual & Family Services","$36.5K ? $46.3K a year",,,"Baton Rouge",LA,"70801"
+2022-04-01,"Manager, Collections","defi SOLUTIONS",,,"$86K ? $109K a year",,,"Baton Rouge",LA,"70801"
+2022-04-01,"Associate Underwriter/Renewal Policies","Stonetrust Commercial Insurance Company",stonetrustinsurance.com,Insurance,"$37,300 - $53,000 a year",,"Bocage area","Baton Rouge",LA,"70808"
+2022-04-01,"Home Improvement Branch General Manager","Bath Planet",bathplanet.com,Construction,"$68.9K ? $87.3K a year",,,"Baton Rouge",LA,"70802"
+2022-03-30,Architect,"Grace Hebert Curtis Architects",ghc-arch.com,"Architecture & Planning","$56.2K ? $71.2K a year",,"Old South Baton Rouge area","Baton Rouge",LA,"70802"
+2022-03-29,"Structure Cable / CCTV Technician","IT Tech Force, LLC",,,"$44,616 - $52,000 a year",,,"Baton Rouge",LA,""
+2022-04-01,"Account Manager II",ChemTreat,chemtreat.com,Chemicals,"$50,000 - $90,000 a year",,,"Baton Rouge",LA,""
+2022-03-31,"Mechanical Foreman/Crew Leader","Coastal Spray",coastalspray.com,"Environmental Services","$19 - $22 an hour",,"Jefferson area","Baton Rouge",LA,"70817"
+2022-03-31,"Procurement Manager - Vendor Management","H&E Equipment Services",he-equipment.com,Construction,"$60.8K ? $77K a year",,"Kleinpeter area","Baton Rouge",LA,"70809"
+2022-03-29,"Technical Support Specialist","Paperless Environments",paperlessenvironments.com,"Computer Software","$44.1K ? $55.9K a year",,,"Baton Rouge",LA,"70816"
+2022-03-31,"Corporate Quality Compliance Director","Baton Rouge Behavioral Hospital",batonrougebehavioral.com,"Mental Health Care","$80,000 - $100,000 a year",,"Mid City area","Baton Rouge",LA,"70806"
+2022-03-30,Controller,"Belle of Baton Rouge Casino & Hotel",,,,,"Old South Baton Rouge area","Baton Rouge",LA,"70802"
+2022-03-29,"Workforce Manager","defi AUTO, LLC",defisolutions.com,"Financial Services","$34.6K ? $43.8K a year",Remote,,"Remote in Baton Rouge",LA,"70801"
+2022-03-30,"NCCER Certified Industrial Insulators - Rope Access and Insp...","Turner Industries",turner-industries.com,Construction,,,,"Baton Rouge",LA,"70805"
+2022-03-31,"Health Disparities Grant Manager","Southeast Louisiana AHEC",selahec.org,"Higher Education","$70,000 - $90,000 a year",,,"Baton Rouge",LA,""
+2022-03-29,"Workforce Manager","defi SOLUTIONS",,,"$34.2K ? $43.4K a year",Remote,,"Remote in Baton Rouge",LA,"70801"
+2022-03-30,"Panel/Building Shop Manager","Triad Control Systems",,,"$65K ? $82.2K a year",,"Cortana area","Baton Rouge",LA,"70815"
+2022-03-29,"Vendor Administrator","defi AUTO, LLC",defisolutions.com,"Financial Services","$60,000 - $80,000 a year",,,"Baton Rouge",LA,"70801"
+2022-03-30,"C# Applications Developer","Access Sciences",accesssciences.com,"Management Consulting","$62.8K ? $79.6K a year",,,"Baton Rouge",LA,"70802"
+2022-03-31,"Multifamily Construction Superintendent","STOA Construction LLC",,,"$80,000 - $95,000 a year",,"Fairwood area","Baton Rouge",LA,"70816"
+2022-03-30,"Accounts Payable Specialist","Elder Outreach",,,,,"Highland-Perkins area","Baton Rouge",LA,"70810"
+2022-03-30,"Hematology Oncology- Mary Bird Perkins",OneOncology,oneoncology.com,"Hospital & Health Care","$159K ? $201K a year",,,"Baton Rouge",LA,""
+2022-03-31,"Heavy Equipment Operators - Dozer & Excavator Experience","Craftsmen Contractors, LLC",craftsmencontractors.net,"Staffing & Recruiting","$22 - $23 an hour",,,"Baton Rouge",LA,""
+2022-03-31,"Outside Sales Representative","Koala Insulation of Baton Rouge",,,"$50,000 - $100,000 a year",,,"Baton Rouge",LA,""
+2022-03-30,"District Sales Manager-Baton Rouge","Hibbett Sports/City Gear",,,,,,"Baton Rouge",LA,""
+2022-03-30,"API Applications Developer","Access Sciences",accesssciences.com,"Management Consulting","$66.4K ? $84K a year",,,"Baton Rouge",LA,"70802"
+2022-04-01,"Partner (Recruiter/ Manager)","New York Life",experiencehfs.com,,,,,"Baton Rouge",LA,"70801"
+2022-03-31,"Operations Manager","Koala Insulation of Baton Rouge",,,"$50,000 - $70,000 a year",,,"Baton Rouge",LA,""
+2022-03-31,"Sales Estimator","Koala Insulation of Baton Rouge",,,"$50,000 - $100,000 a year",,,"Baton Rouge",LA,""
+2022-03-29,"Environmental Inspector",Arcadis,arcadis.com,"Civil Engineering",,,"Jones Creek area","Baton Rouge",LA,"70816"
+1970-01-01,"Restaurant Staff","Tsunami Sushi",,,"$7.25 - $25.00 an hour",,"Downtown area","Baton Rouge",LA,"70801"
+2022-04-01,Bookkeeper,"Vivid Imprint",vividimprinting.com,,"$17 - $19 an hour",,"Tara area","Baton Rouge",LA,"70806"
+2022-03-30,"Co Manager",RaceTrac,racetrac.com,Retail,,,"Goodwood Homesites area","Baton Rouge",LA,"70806"
+2022-03-30,"Co Manager",RaceTrac,racetrac.com,Retail,,,"Jones Creek area","Baton Rouge",LA,"70816"
+2022-03-30,"Co Manager",RaceTrac,racetrac.com,Retail,,,"Westminster area","Baton Rouge",LA,"70809"
+2022-03-30,"Co Manager",RaceTrac,racetrac.com,Retail,,,"South Burbank area","Baton Rouge",LA,"70810"
+2022-04-01,"Vehicle Inspector - Contractor","Backlot Cars",backlotcars.co,Automotive,"$22 an hour",,,"Baton Rouge",LA,""
+2022-03-30,"Co Manager",RaceTrac,racetrac.com,Retail,,,"Millerville area","Baton Rouge",LA,"70816"
+2022-04-01,"Office Manager","Balm of Gilead Christian Counseling Center, LLC",,,"$12 - $15 an hour",,"Highland-Perkins area","Baton Rouge",LA,"70810"
+2022-03-31,"PART TIME - CONTRACT ADMINISTRATOR","Guy Hopkins Construction Co., Inc.",guyhopkins.com,"Commercial & Residential Construction","$15 - $25 an hour",,"Kleinpeter area","Baton Rouge",LA,"70809"
+2022-03-30,"Co Manager",RaceTrac,racetrac.com,Retail,,,"Jones Creek area","Baton Rouge",LA,"70816"
+2022-03-30,"Co Manager",RaceTrac,racetrac.com,Retail,,,"Scotlandville area","Baton Rouge",LA,"70807"
+2022-03-30,"Co Manager",RaceTrac,racetrac.com,Retail,,,"Kleinpeter area","Baton Rouge",LA,"70810"
+2022-03-30,"Co Manager",RaceTrac,racetrac.com,Retail,,,"Jones Creek area","Baton Rouge",LA,"70816"
+2022-04-01,"Captain of the Watch, Part-time","Belle of Baton Rouge Casino & Hotel",,,,,"Old South Baton Rouge area","Baton Rouge",LA,"70802"
+1970-01-01,"Front Desk Manager","Supreme Reality Hospitality Group LLC",,,"$160 - $250 a day",,,"Baton Rouge",LA,""
+2022-03-30,"SAP ABAP Developer",Calpion,,,"$94.1K ? $119K a year",,,"Baton Rouge",LA,""
+2022-04-01,"Vehicle Inspector - Contractor","Backlot Cars",backlotcars.co,Automotive,"$22 an hour",,,"Baton Rouge",LA,""
+1970-01-01,"Front Desk Manager","Supreme Reality Hospitality Group LLC",,,"$160 - $250 a day",,,"Baton Rouge",LA,""
+2022-03-29,"Executive Secretary","Havens Gateway PCA -952 Oneal Lane Ste C",,,"$12 - $14 an hour",,"Millerville area","Baton Rouge",LA,"70816"
+2022-03-31,"Heavy Equipment Operators - Dozer & Excavator Experience","Craftsmen Contractors, LLC",craftsmencontractors.net,"Staffing & Recruiting","$22 - $23 an hour",,,"Baton Rouge",LA,""
+2022-04-01,"Sales Representative","Hotard Coaches",,,"$50K ? $63.4K a year",,"Dillard area","New Orleans",LA,"70122"
+2022-03-29,"Campaign Coordinator (Temporary contract)","Louisiana Bucket Brigade",,,"$50,000 a year",,"Mid-City area","New Orleans",LA,"70119"
+2022-03-31,"Director, Academic Services and Student-Athlete Development","University of New Orleans",uno.edu,"Higher Education","$43.3K ? $54.9K a year",,,"New Orleans",LA,""
+2022-03-29,"Brand Ambassador","Wyndham Destinations",wyndhamdestinations.com,Hospitality,,,"Lower Garden District area","New Orleans",LA,"70130"
+2022-03-31,"Assistant Store Manager","Extra Space Storage",extraspace.com,"Real Estate",,,"West Riverside area","New Orleans",LA,"70115"
+2022-03-31,"Logistics Transp Coord","New Orleans Public Facility Mngt, Inc.",mccno.com,"Events Services","$38.7K ? $48.9K a year",,"Lower Garden District area","New Orleans",LA,"70130"
+2022-04-01,"Fundraising Canvass Director - Protect Voting Rights","Wave Fundraising",iwave.com,"Information Technology & Services","$51,600 - $62,000 a year",,"Old Aurora area","New Orleans",LA,"70131"
+2022-04-01,"Administrative Project Coordinator","Children's Hospital",childrenshosp-richmond.org,"Hospital & Health Care",,,"West Riverside area","New Orleans",LA,"70118"
+2022-04-01,"Visitor Engagement Specialist","The National WWII Museum",nationalww2museum.org,"Museums & Institutions","$43.1K ? $54.5K a year",,"Central Business District area","New Orleans",LA,"70130"
+2022-03-29,"Legal Assistant- Paralegal","DUDLEY DEBOSIER",dudleydebosier.com,"Law Practice","$40.6K ? $51.4K a year",,"Central City area","New Orleans",LA,"70113"
+2022-03-30,"Facilities Specialist","Orleans Parish Communication District",opcdla.gov,"Public Safety","$15 an hour",,"Mid-City area","New Orleans",LA,"70119"
+2022-04-01,"Athletic Director","Dillard University",dillard.edu,Libraries,"$45.5K ? $57.5K a year",,"Dillard area","New Orleans",LA,"70122"
+2022-04-01,"Lead Cage Cashier","Fair Grounds Race Course",fairgroundsracecourse.com,"Gambling & Casinos","$25.4K ? $32.2K a year",,"Fairgrounds area","New Orleans",LA,"70119"
+2022-03-30,"Professional Development Specialist (Math) - New Orleans, LA","Curriculum Associates",curriculumassociates.com,Publishing,"$42.8K ? $54.2K a year",,,"New Orleans",LA,""
+2022-03-30,"Talent Sourcing Specialist (Contract) - Siemens Smart Infras...",Siemens,siemens.com,"Industrial Automation",,,,"New Orleans",LA,""
+2022-04-01,"Strategy & Growth Analyst",MARS,accessmars.withgoogle.com,,,,"Central Business District area","New Orleans",LA,"70112"
+2022-03-29,"Executive Assistant to the Vice President of People and Cult...","The National WWII Museum",nationalww2museum.org,"Museums & Institutions","$37.5K ? $47.5K a year",,"Central Business District area","New Orleans",LA,"70130"
+2022-03-30,"Operations Manager","Live Nation",livenation.se,Entertainment,,,,"New Orleans",LA,""
+2022-03-30,"Vans Retail Assistant Store Manager",Vans,vans.co.uk,"Apparel & Fashion",,,"French Quarter area","New Orleans",LA,"70130"
+2022-03-30,"Merchandise Manager - New Orleans Market","Five Below",fivebelow.com,Retail,,,"Old Aurora area","New Orleans",LA,"70131"
+2022-03-29,Paralegal,"Baker, Donelson, Bearman, Caldwell & Berkowitz,...",,,"$48.2K ? $61K a year",,"Central Business District area","New Orleans",LA,"70170"
+2022-03-31,"Deckhands - New Orleans, LA","Bo-Mac Contractors, Ltd",bo-mac.com,"Human Resources & Staffing , Business Services","$43K ? $54.4K a year",,,"New Orleans",LA,""
+2022-04-01,"Executive Producer-Nightside","Hearst Media Services",hearstmediact.com,"Marketing & Advertising","$47.8K ? $60.6K a year",,"Central City area","New Orleans",LA,"70113"
+2022-03-31,"Compensation Analyst - Remote","Ochsner Health System",ochsner.org,"Hospital & Health Care",,,,"New Orleans",LA,""
+2022-04-01,"Jr. SharePoint Developer",Leidos,opera.org.au,"Performing Arts",,,"Central Business District area","New Orleans",LA,"70113"
+2022-03-31,"PI Nurse Analyst","University Medical Center",umcsn.com,"Hospital & Health Care",,,"Tulane-Gravier area","New Orleans",LA,"70112"
+2022-03-31,"Director of Plant Operations and Environmental Services","PAM Health",pamhealth.co.uk,Furniture,"$45.7K ? $57.9K a year",,"Bayou Saint John area","New Orleans",LA,"70119"
+2022-03-29,"Recruiter- Remote Opportunity Available","Children's Hospital",childrenshosp-richmond.org,"Hospital & Health Care",,Remote,,"Remote in New Orleans",LA,"70118"
+2022-03-30,"Team Lead/Trainer","Planned Parenthood Gulf Coast Inc",,,,,"Freret area","New Orleans",LA,"70125"
+2022-03-29,"Credit Review Analyst 2","Hancock Whitney",hancockwhitney.com,Banking,"$51.7K ? $65.5K a year",,,"New Orleans",LA,""
+2022-03-30,"Vans Retail Assistant Store Manager","VF Corporation",vfc.com,"Apparel & Fashion",,,"French Quarter area","New Orleans",LA,"70130"
+2022-04-01,"Export Freight Specialist","Livingston International",livingstonintl.com,"Logistics & Supply Chain","$41.3K ? $52.3K a year",,"French Quarter area","New Orleans",LA,"70130"
+2022-03-30,"TFL Regional Manager","Louisiana Public Health Institute",lphi.org,"Health, Wellness & Fitness","$55,000 a year",Remote,,"Remote in New Orleans",LA,"70112"
+2022-03-31,"RN Program Coordinator--QA Regulatory Compliance","University Medical Center",umcsn.com,"Hospital & Health Care",,,"Tulane-Gravier area","New Orleans",LA,"70112"
+2022-03-30,"NATIONAL SALES MANAGER - WVUE","Gray Television",gray.tv,"Broadcast Media",,,"Broadmoor area","New Orleans",LA,"70125"
+2022-03-29,"Paralegal- Trial Department","DUDLEY DEBOSIER",dudleydebosier.com,"Law Practice","$48.7K ? $61.7K a year",,"Central City area","New Orleans",LA,"70113"
+2022-03-31,"Territory Sales Representative",Progressive,progressivepartnership.co.uk,"Market Research","$79,000 - $97,000 a year",Remote,,"Remote in New Orleans",LA,""
+2022-04-01,"Branch Yard/Shop Supervisor (Utility Technician)","Aggreko, LLC",aggreko.com,Utilities,"$20 an hour",,,"New Orleans",LA,""
+2022-03-30,"Hospital PAS Representative II (Financial Clearance)","LCMC Health",lcmchealth.org,"Hospital & Health Care",,,"Leonidas area","New Orleans",LA,"70118"
+2022-03-30,"Clinical Sales Representative",Intuitive,intuitive.com,"Medical Devices",,,,"New Orleans",LA,""
+2022-03-30,"French Cycle 2 Instructional Coordinator","Lycee Francais de la Nouvelle Orleans",lfno.org,"Education Management","$40,899 - $91,898 a year",,"West Riverside area","New Orleans",LA,"70115"
+2022-03-31,"Software Asset Management Consultant",Deloitte,deloitte.com,"Management Consulting",,,"Central Business District area","New Orleans",LA,"70139"
+2022-04-01,"Mass Communication Program Coordinator/ Faculty Member","Dillard University",dillard.edu,Libraries,"$58.5K ? $74.1K a year",,"Dillard area","New Orleans",LA,"70122"
+2022-03-31,"IT Applications Manager (Nuclear)",Leidos,opera.org.au,"Performing Arts",,,"Central Business District area","New Orleans",LA,"70113"
+2022-03-30,"IT Applications Manager (Nuclear)",Leidos,opera.org.au,"Performing Arts",,,"Central Business District area","New Orleans",LA,"70113"
+2022-04-01,"Organizational Change Management (OCM) Manager, Future of Wo...",Deloitte,deloitte.com,"Management Consulting",,,"Central Business District area","New Orleans",LA,"70139"
+2022-04-01,"Deloitte Chief Executive Program - Partnership & Insights Ma...",Deloitte,deloitte.com,"Management Consulting",,,"Central Business District area","New Orleans",LA,"70139"
+2022-03-31,"Strategic Program Manager ? Partnership Strategy & Communica...","Ochsner Health System",ochsner.org,"Hospital & Health Care",,,,"New Orleans",LA,""
+2022-03-29,"Digital Communication Manager","Biomat USA, Inc.",grifolsplasma.com,Pharmaceuticals,,Remote,,"Remote in New Orleans",LA,"70181"
+2022-03-30,"22-23 Alumni Teaching Force Manager (ATF)","KIPP Foundation",kipp.org,"Education Management","$45.6K ? $57.8K a year",,,"New Orleans",LA,""
+2022-03-31,"Clinical Navigator - FT | New Orleans LTACH","PAM Health",pamhealth.co.uk,Furniture,"$51K ? $64.6K a year",,"Bayou Saint John area","New Orleans",LA,"70119"
+2022-03-31,"Franchised Sales Manager","Marriott International, Inc",,,,,"Central Business District area","New Orleans",LA,""
+2022-04-01,"Development Manager, Deloitte Leadership Academy - Learning...",Deloitte,deloitte.com,"Management Consulting",,,"Central Business District area","New Orleans",LA,"70139"
+2022-04-01,"Temporary Talent Workforce Lead Specialist, Learning and Dev...",Deloitte,deloitte.com,"Management Consulting",,,"Central Business District area","New Orleans",LA,"70139"
+2022-03-29,"PARKING MANAGER - HOTEL","Ace Parking Management, Inc.",aceparking.com,"Consumer Services","$42.7K ? $54.1K a year",,,"New Orleans",LA,""
+2022-03-31,"22-23 Alumni Teaching Force Manager (ATF)","KIPP New Orleans Schools",kippneworleans.org,"Education Management","$44K ? $55.8K a year",,,"New Orleans",LA,""
+2022-03-29,"Field Clinical Specialist: New Orleans Sales Region","BIOTRONIK SE & Co. KG",,,"$56.3K ? $71.3K a year",,,"New Orleans",LA,""
+2022-03-31,"Tugboat Captain - New Orleans, LA","Bo-Mac Contractors, Ltd",bo-mac.com,"Human Resources & Staffing , Business Services","$53K ? $67.2K a year",,,"New Orleans",LA,""
+2022-03-29,"SITE SUPERVISOR - NEW ORLEANS","Air Products",airproducts.com,Chemicals,,,"Viavant-Venetian Isles area","New Orleans",LA,"70129"
+2022-04-01,"US Fraud Specialist Team Manager",Deloitte,deloitte.com,"Management Consulting",,,"Central Business District area","New Orleans",LA,"70139"
+2022-03-31,"Business Services Diversity Recruiter","PRICE WATERHOUSE COOPERS",pwc.com,Accounting,,Remote,,"Remote in New Orleans",LA,"70112"
+2022-03-31,"Case Manager - FT | New Orleans LTACH","PAM Health",pamhealth.co.uk,Furniture,"$60.5K ? $76.7K a year",,"Bayou Saint John area","New Orleans",LA,"70119"
+2022-03-30,"Traveling Construction Superintendent","Siegel Suites",siegelsuites.com,Hospitality,"$67.3K ? $85.3K a year",,"Little Woods area","New Orleans",LA,"70128"
+2022-03-31,"IT Applications Manager (PowerGen)",Leidos,opera.org.au,"Performing Arts",,,"Central Business District area","New Orleans",LA,"70113"
+2022-03-30,"IT Applications Manager (PowerGen)",Leidos,opera.org.au,"Performing Arts",,,"Central Business District area","New Orleans",LA,"70113"
+2022-03-29,"Territory Sales Manager - New Orleans, LA","PDI Inc.",ph-pdi.com,Pharmaceuticals,"$78.9K ? $99.9K a year",,,"New Orleans",LA,""
+2022-03-29,"RN Performance Improvement Coordinator (Anesthesia Safety/Qu...","Ochsner Health System",ochsner.org,"Hospital & Health Care",,,,"New Orleans",LA,""
+2022-03-31,"Manager Budget and Cost","Fluor Federal Petroleum Operations",fluorfpo.com,"Oil & Energy",,,,"New Orleans",LA,""
+2022-03-29,"Field Clinical Specialist: New Orleans Sales Region",BIOTRONIK,biotronik.com,"Medical Devices",,,,"New Orleans",LA,""
+2022-04-01,"Talent ID - Sourcing Manager","PRICE WATERHOUSE COOPERS",pwc.com,Accounting,,Remote,,"Remote in New Orleans",LA,"70112"
+2022-03-31,"Director of Facilities Management","Dillard University",dillard.edu,Libraries,"$59.3K ? $75.1K a year",,"Dillard area","New Orleans",LA,"70122"
+2022-04-01,"Portfolio Manager - New Orleans, LA",BankPlus,bankplus.net,Banking,"$54.6K ? $69.2K a year",,"Central Business District area","New Orleans",LA,"70112"
+2022-03-29,"Stage Manager - House of Blues New Orleans","Live Nation",livenation.se,Entertainment,,,,"New Orleans",LA,""
+2022-03-29,"PRINCIPAL: PK- 8th GRADE","Algiers Charter School Association",algierscharterschools.org,"Education Management","$72.8K ? $92.2K a year",,"Behrman area","New Orleans",LA,"70114"
+2022-03-30,"Traveling Construction Project Manager","Siegel Suites",siegelsuites.com,Hospitality,"$81.5K ? $103K a year",,"Little Woods area","New Orleans",LA,"70128"
+2022-03-30,"Clinical Director Cardiovascular Service","Tulane Medical Center",tulanehealthcare.com,"Hospital & Health Care",,,,"New Orleans",LA,"70112"
+2022-03-30,"Web Developer - Remote",iboss,iboss.com,"Computer & Network Security","$75.5K ? $95.5K a year",Remote,,"Remote in New Orleans",LA,""
+2022-03-30,"RN Manager Bone Marrow Transplant","Tulane Medical Center",tulanehealthcare.com,"Hospital & Health Care",,,,"New Orleans",LA,"70112"
+2022-03-29,"Transit Supervisor Paratransit","New Orleans Regional Transit Authority",norta.com,Transportation/Trucking/Railroad,,,"Pines Village area","New Orleans",LA,"70126"
+2022-03-31,"RN Program Coordinator--QA Regulatory Compliance","University Medical Center",umcsn.com,"Hospital & Health Care",,,"Tulane-Gravier area","New Orleans",LA,"70112"
+2022-03-31,"RN - Employee Health - Kenner Clinic","Ochsner Health System",ochsner.org,"Hospital & Health Care",,,,"New Orleans",LA,""
+2022-04-01,Hosts,"Broussard's Restaurant & Courtyard",,,"$12 - $15 an hour",,"French Quarter area","New Orleans",LA,"70112"
+2022-03-30,"Restaurant Hostess","The Italian Barrel",theitalianbarrel.com,,"$20 - $25 an hour",,"French Quarter area","New Orleans",LA,"70116"
+2022-03-31,"Front Desk Coordinator","GI Alliance",gialliance.com,"Hospital & Health Care","$24.8K ? $31.4K a year",,"Freret area","New Orleans",LA,"70115"
+2022-04-01,Servers,"Broussard's Restaurant & Courtyard",,,"Up to $1,000 a week",,"French Quarter area","New Orleans",LA,"70112"
+2022-03-31,"Assistant Manager",Vans,vans.co.uk,"Apparel & Fashion","$14 - $19 an hour",,"French Quarter area","New Orleans",LA,"70130"
+2022-03-29,"Hiring Manager",McDonald's,mcdonalds.com,Restaurants,"$55,000 - $70,000 a year",,,"New Orleans",LA,""
+2022-04-01,"Police Reporter, Times Picayune","Capital City Press",capitolcitypress.com,Printing,,,"Central Business District area","New Orleans",LA,"70130"
+2022-03-30,"Administrative Assistant and Grant Coordinator - College of...","Loyola University New Orleans",loyno.edu,"Higher Education","$32.3K ? $40.9K a year",,"Leonidas area","New Orleans",LA,"70118"
+2022-04-01,"Director, Birth to Three Access Initiatives","Agenda for Children",agendaforchildren.org,"Civic & Social Organization","$70,000 - $80,000 a year",,"Gert Town area","New Orleans",LA,"70118"
+2022-03-30,"Insurance Loss Control Inspector","Cal Inspection Bureau",,,"$16 - $25 an hour",,,"New Orleans",LA,""
+2022-04-01,"Elementary/Middle Art Teacher '22-'23","Success @ Thurgood Marshall",successpreparatory.org,,"$39.8K ? $50.4K a year",,"Mid-City area","New Orleans",LA,"70119"
+2022-04-01,"Credit Resolution Specialist - Eligible for remote work","LCMC Health",lcmchealth.org,"Hospital & Health Care","$37,000 - $45,000 a year",Remote,,"Remote in New Orleans",LA,"70112"
+2022-04-01,"Branch Manager (Private Security)","Pinnacle Security & Investigation",securitybypinnacle.com,"Security & Investigations","Up to $75,000 a year",,"Central City area","New Orleans",LA,"70113"
+2022-03-30,"Supervisor, Patient Access","LCMC Health",lcmchealth.org,"Hospital & Health Care","$37,000 - $58,000 a year",,"Tulane-Gravier area","New Orleans",LA,"70112"
+2022-04-01,"Unix/Linux Administrator (Remote Job)","Protos IT, LLC",,,"$50 - $55 an hour",Remote,,"Remote in New Orleans",LA,"70113"
+2022-03-30,"Banquet Manager","New Orleans Marriott",,,"$59,000 - $105,000 a year",,"Central Business District area","New Orleans",LA,"70130"
+2022-03-29,"Office Administrator","NAMI New Orleans",namineworleans.org,,"$36,500 a year",,"Garden District area","New Orleans",LA,"70115"
+2022-03-29,"Afternoon Housekeeping Supervisor","Family Inns of New Orleans",,,"From $15 an hour",,"Pines Village area","New Orleans",LA,"70126"
+2022-04-01,"Operations Manager (Private Security)","Pinnacle Security & Investigation",securitybypinnacle.com,"Security & Investigations","Up to $65,000 a year",,"Central City area","New Orleans",LA,"70113"
+2022-04-01,"Store Manager",Rowan,forrowan.com,"Apparel & Fashion","$43.2K ? $54.8K a year",,,"New Orleans",LA,""
+2022-03-30,Recruiter,"EMR USA Metal Recycling",,,"$49.9K ? $63.1K a year",,"Viavant-Venetian Isles area","New Orleans",LA,"70117"
+2022-03-29,"Business Data Analyst","Sodexo Live!",,,"$56.7K ? $71.9K a year",,"Central Business District area","New Orleans",LA,"70112"
+2022-03-29,"Building Simulation Analyst",EskewDumezRipple,,,"$50.5K ? $63.9K a year",,"French Quarter area","New Orleans",LA,"70130"
+2022-04-01,Dishwashers,"Broussard's Restaurant & Courtyard",,,"$11 - $14 an hour",,"French Quarter area","New Orleans",LA,"70112"
+2022-03-31,"Junior Architect","HRI Development LLC",,,"$59.8K ? $75.8K a year",,"Central Business District area","New Orleans",LA,"70112"
+2022-03-31,"Dental Area Manager - New Orleans","MINT dentistry",mintdentistry.com,"Medical Practice",,,"Milan area","New Orleans",LA,"70115"
+2022-03-31,"Retail Supervisor/Manager","Morrison Healthcare Foodservice@ Ochsner Baptist...",,,"$12 - $16 an hour",,"Freret area","New Orleans",LA,"70115"
+2022-03-29,"Warehouse Supervisor","The Dupuy Group",dupuygroup.com,"Logistics & Supply Chain","$36K ? $45.6K a year",,"Pines Village area","New Orleans",LA,"70126"
+2022-03-31,"Dental Office Manager (FT)","Gentilly Family Dental",,,"From $16 an hour",,"Bayou St. John area","New Orleans",LA,"70119"
+2022-03-31,"Waste / Special Projects Manager","LEI, Inc.",,,,,,"New Orleans",LA,""
+2022-03-30,"Hotel Manager","Windsor Court",windsorcourthotel.com,Hospitality,"$49.5K ? $62.7K a year",,,"New Orleans",LA,"70130"
+2022-04-01,"Manufacturing Technician","Intellyk, Inc.",intellyk.com,"Information Technology & Services","$23 - $25 an hour",,"Viavant-Venetian Isles area","New Orleans",LA,"70129"
+2022-03-30,"Night Manager","Hampton Inn & Stes NO Con Center",,,"$47.7K ? $60.3K a year",,,"New Orleans",LA,"70130"
+2022-03-31,"Client Support Technician","The Historic New Orleans Collection",hnoc.org,"Museums & Institutions","$38.3K ? $48.5K a year",,"French Quarter area","New Orleans",LA,"70130"
+2022-03-30,"Museum Team Lead","Sazerac Company",sazerac.com,"Wine & Spirits","$23 - $34 an hour",,"Central Business District area","New Orleans",LA,"70130"
+2022-04-01,"General Manager","Exhibition Hub",exhibitionhub.com,"Museums & Institutions","From $50,000 a year",,"Central Business District area","New Orleans",LA,"70130"
+2022-04-01,Bartenders,"Broussard's Restaurant & Courtyard",,,"From $1,000 a week",,"French Quarter area","New Orleans",LA,"70112"
+2022-03-31,"Sales Manager","The New Orleans Steamboat Company",,,"From $18 an hour",,"French Quarter area","New Orleans",LA,"70130"
+2022-03-31,"Property Accountant","HRI Development LLC",,,"$54K ? $68.4K a year",,"Central Business District area","New Orleans",LA,"70112"
+2022-03-29,"Therapy Awareness Consultant (New Orleans, LA)","Impulse Dynamics",,,"$67.6K ? $85.6K a year",,,"New Orleans",LA,""
+2022-03-29,"Stewarding* Manager","Windsor Court",windsorcourthotel.com,Hospitality,"$36.6K ? $46.4K a year",,,"New Orleans",LA,"70130"
+2022-03-29,"New Orleans Store Manager",KREWE,krewe.com,"Apparel & Fashion","$47.9K ? $60.7K a year",,,"New Orleans",LA,""
+2022-03-29,"O&M Technician","Opal Fuels",opalfuels.com,"Oil & Energy","$30 - $32 an hour",,"Pines Village area","New Orleans",LA,"70126"
+2022-03-31,"Front of House Manager (Brennan's)","Ralph Brennan Restaurant Group",neworleans-food.com,Restaurants,"$40.4K ? $51.2K a year",,"French Quarter area","New Orleans",LA,"70130"
+2022-03-31,"Finish Capenter- Fabrications & Installations","Central City Millworks",centralcitymillworks.com,Construction,"$25.5K ? $32.3K a year",,"Central City area","New Orleans",LA,""
+2022-03-29,"SAP PLM Consulant","Effone software inc",,,"$130,000 - $150,000 a year",,,"New Orleans",LA,""
+2022-03-31,"LOUISIANA STATE DIRECTOR","All Hands and Hearts Smart Response, Inc.",,,"$40,500 a year",,,"New Orleans",LA,""
+2022-03-30,Architect,"Grace Hebert Curtis Architects",ghc-arch.com,"Architecture & Planning","$56.2K ? $71.2K a year",,"Central Business District area","New Orleans",LA,"70130"
+2022-04-01,"Manager, System Coding","LCMC Health",lcmchealth.org,"Hospital & Health Care","$70,000 - $110,000 a year",,"Central Business District area","New Orleans",LA,"70112"
+2022-04-01,"Marketing and Communications Specialist","The Phyllis M. Taylor Center for Social Innovation...",,,"From $21 an hour",,"Audubon area","New Orleans",LA,"70118"
+2022-03-29,"Full Stack Developer - II","Syms Strategic Group, LLC (SSG)",symssg.com,"Information Technology & Services","$98.8K ? $125K a year",,"Lower Garden District area","New Orleans",LA,"70130"
+2022-03-31,"Accounting/Data Entry/ Must Know QuickBooks","CENTRAL CITY MILLWORKS",centralcitymillworks.com,Construction,"$35K ? $44.4K a year",,"Central City area","New Orleans",LA,"70113"
+2022-03-31,"Maintenance Tech","Lineage Logistics",lineagelogistics.com,"Logistics & Supply Chain",,,,"New Orleans",LA,""
+2022-03-29,"Transitional Care Manager","AbsoluteCARE Medical and Pharmacy",,,"From $80,000 a year",,"Lower Garden District area","New Orleans",LA,"70130"
+2022-04-01,"Distributor Sales Rep. Outside - New Orleans","Ben E. Keith Company",benstevens.co.uk,Design,"$54.2K ? $68.6K a year",,,"New Orleans",LA,""
+2022-03-31,"Heavy Equipment Operator","GLO Resources LLC",gloresources.com,"Staffing & Recruiting","$16 - $22 an hour",,,"New Orleans",LA,""
+2022-03-31,"Aesthetics Practice Key Accounts Manager - New Orleans",Cutera,cutera.com,"Medical Devices",,,,"New Orleans",LA,""
+2022-03-31,"Telephony Administrator - Avaya","Universal Consulting Services",ucs-inc.com,"Information Technology & Services","$73.1K ? $92.5K a year",Remote,,"Remote in New Orleans",LA,"70122"
+2022-03-29,"Glass Installer","U.S. Facility Solutions",usfacilitysolutions.com,"Facilities Services","$36.7K ? $46.5K a year",,,"New Orleans",LA,""
+2022-03-30,"Database Administrator","Syms Strategic Group, LLC (SSG)",symssg.com,"Information Technology & Services","$108K ? $137K a year",Remote,,"Remote in New Orleans",LA,"70130"
+2022-03-31,"Traveling Concrete Foreman","B&B Concrete",bbconcrete.com,"Building Materials","$50.6K ? $64K a year",,,"New Orleans",LA,""
+2022-03-30,"Interior Designer","Grace Hebert Curtis Architects",ghc-arch.com,"Architecture & Planning","$47K ? $59.4K a year",,"Central Business District area","New Orleans",LA,"70130"
+2022-03-31,"IT Manager","Goodwill Industries of SELA",goodwillno.org,"Nonprofit Organization Management","$44K ? $55.8K a year",,"Uptown area","New Orleans",LA,"70115"
+2022-03-29,"Pure Barre General Manager","Pure Barre",purebarre.com,"Health, Wellness & Fitness","$48.5K ? $61.5K a year",,"Leonidas area","New Orleans",LA,"70118"
+2022-03-30,"$15,000 Salary Incentive No Commitment RN Clinical Superviso...","LCMC Health",lcmchealth.org,"Hospital & Health Care",,,"West Riverside area","New Orleans",LA,"70115"
+1970-01-01,"Registered Nurse","vIVe Hydration",thevivehydration.com,,"$20 - $100 an hour",,"French Quarter area","New Orleans",LA,"70130"
+2022-03-29,"Medical Billing and Practice Manager","NOLA Psychologist",,,"$18 - $20 an hour",,"Mid-City area","New Orleans",LA,"70119"
+2022-03-30,"Office Coordinator Manager","J.S. Held",jsheld.com,"Management Consulting","$48.6K ? $61.6K a year",,"Lower Garden District area","New Orleans",LA,"70130"
+2022-03-29,"Director of Early Childhood Programming","Trinity Episcopal School",tesgalv.org,,"$68K ? $86.2K a year",,"Garden District area","New Orleans",LA,"70130"
+2022-03-29,Handyman,"U.S. Facility Solutions",usfacilitysolutions.com,"Facilities Services","$35.3K ? $44.7K a year",,,"New Orleans",LA,""
+2022-03-30,"LTC Substation Technician - New Orleans","NASS USA",,,"$41.6K ? $52.6K a year",,"Uptown area","New Orleans",LA,"70115"
+2022-03-29,".NET Developer - II","Syms Strategic Group, LLC (SSG)",symssg.com,"Information Technology & Services","$102K ? $129K a year",Remote,,"Remote in New Orleans",LA,"70130"
+2022-03-29,"Middle School Writing and Grammar Teacher","Trinity Episcopal School",tesgalv.org,,"$47.7K ? $60.5K a year",,"Garden District area","New Orleans",LA,"70130"
+2022-03-30,"Territory Sales Manager","ForTec Medical",fortecmedical.com,"Medical Devices","$68K ? $86K a year",,,"New Orleans",LA,""
+2022-03-29,"Dealer Sales Representative - Gulf Coast","Seakeeper Inc",seakeeper.com,Maritime,"$58.3K ? $73.9K a year",Remote,,"Remote in New Orleans",LA,""
+2022-03-30,"Assistant Chief Engineer","New Orleans Marriott",,,"$52,000 - $90,000 a year",,"Central Business District area","New Orleans",LA,"70130"
+2022-03-30,"Program Analyst -- Entergy New Orleans Energy Smart Program","APTIM Corp.",aptim.com,Construction,,,"Central Business District area","New Orleans",LA,"70163"
+2022-03-30,"Early Childhood Toddler Teacher","St. George's Episcopal School",stgnola.org,"Primary/Secondary Education","$35,900 - $52,000 a year",,"Touro area","New Orleans",LA,"70115"
+2022-03-30,"Regional Manager","MB2 HR",,,"$41.4K ? $52.4K a year",,,"New Orleans",LA,""
+2022-03-29,"Registered Nurse - Med Surg - Tulane Lakeside","Tulane Medical Center",tulanehealthcare.com,"Hospital & Health Care",,,,"New Orleans",LA,"70112"
+2022-04-01,"Director of Patient Safety and","Children's Hospital",childrenshosp-richmond.org,"Hospital & Health Care",,,"West Riverside area","New Orleans",LA,"70118"
+2022-04-01,"4th Grade ELA/SS Teacher, '22-'23","Success @ Thurgood Marshall",successpreparatory.org,,"$37.2K ? $47.2K a year",,"Mid-City area","New Orleans",LA,"70119"
+2022-03-29,"Registered Nurse - Cancer Center Clinic","Tulane Medical Center",tulanehealthcare.com,"Hospital & Health Care",,,,"New Orleans",LA,"70112"
+2022-03-29,"Registered Nurse -OR Circulator -Lakeside Campus","Tulane Medical Center",tulanehealthcare.com,"Hospital & Health Care",,,,"New Orleans",LA,"70112"
+2022-03-29,"RN Oncology","Tulane Medical Center",tulanehealthcare.com,"Hospital & Health Care",,,,"New Orleans",LA,"70112"
+2022-03-29,"RN Clinical Supervisor - Stepdown","Tulane Medical Center",tulanehealthcare.com,"Hospital & Health Care",,,,"New Orleans",LA,"70112"
+2022-03-29,"Registered Nurse - Bone Marrow Transplant","Tulane Medical Center",tulanehealthcare.com,"Hospital & Health Care",,,,"New Orleans",LA,"70112"
+2022-03-29,"Registered Nurse ? Chemotherapy Infusion Suite","Tulane Medical Center",tulanehealthcare.com,"Hospital & Health Care",,,,"New Orleans",LA,"70112"
+2022-03-29,"RN - Chemotherapy Infusion Suite","Tulane Medical Center",tulanehealthcare.com,"Hospital & Health Care",,,,"New Orleans",LA,"70112"
+2022-03-29,"Chest Pain Coordinator - Cath Lab","Tulane Medical Center",tulanehealthcare.com,"Hospital & Health Care",,,,"New Orleans",LA,"70112"
+2022-03-29,Handyman,"U.S. Facility Solutions",usfacilitysolutions.com,"Facilities Services","$35.3K ? $44.7K a year",,,"New Orleans",LA,""
+2022-03-30,"LTC Substation Technician - New Orleans","NASS USA",,,"$41.6K ? $52.6K a year",,"Uptown area","New Orleans",LA,"70115"
+2022-03-29,".NET Developer - II","Syms Strategic Group, LLC (SSG)",symssg.com,"Information Technology & Services","$102K ? $129K a year",Remote,,"Remote in New Orleans",LA,"70130"
+2022-03-29,"Middle School Writing and Grammar Teacher","Trinity Episcopal School",tesgalv.org,,"$47.7K ? $60.5K a year",,"Garden District area","New Orleans",LA,"70130"
+2022-03-30,"Territory Sales Manager","ForTec Medical",fortecmedical.com,"Medical Devices","$68K ? $86K a year",,,"New Orleans",LA,""
+2022-03-29,"Dealer Sales Representative - Gulf Coast","Seakeeper Inc",seakeeper.com,Maritime,"$58.3K ? $73.9K a year",Remote,,"Remote in New Orleans",LA,""
+2022-03-30,"Assistant Chief Engineer","New Orleans Marriott",,,"$52,000 - $90,000 a year",,"Central Business District area","New Orleans",LA,"70130"
+2022-03-30,"Program Analyst -- Entergy New Orleans Energy Smart Program","APTIM Corp.",aptim.com,Construction,,,"Central Business District area","New Orleans",LA,"70163"
+2022-03-30,"Early Childhood Toddler Teacher","St. George's Episcopal School",stgnola.org,"Primary/Secondary Education","$35,900 - $52,000 a year",,"Touro area","New Orleans",LA,"70115"
+2022-03-30,"Regional Manager","MB2 HR",,,"$41.4K ? $52.4K a year",,,"New Orleans",LA,""
+2022-03-29,"Registered Nurse - Med Surg - Tulane Lakeside","Tulane Medical Center",tulanehealthcare.com,"Hospital & Health Care",,,,"New Orleans",LA,"70112"
+2022-04-01,"Director of Patient Safety and","Children's Hospital",childrenshosp-richmond.org,"Hospital & Health Care",,,"West Riverside area","New Orleans",LA,"70118"
+2022-04-01,"4th Grade ELA/SS Teacher, '22-'23","Success @ Thurgood Marshall",successpreparatory.org,,"$37.2K ? $47.2K a year",,"Mid-City area","New Orleans",LA,"70119"
+2022-03-29,"Registered Nurse - Cancer Center Clinic","Tulane Medical Center",tulanehealthcare.com,"Hospital & Health Care",,,,"New Orleans",LA,"70112"
+2022-03-29,"Registered Nurse -OR Circulator -Lakeside Campus","Tulane Medical Center",tulanehealthcare.com,"Hospital & Health Care",,,,"New Orleans",LA,"70112"
+2022-03-29,"RN Oncology","Tulane Medical Center",tulanehealthcare.com,"Hospital & Health Care",,,,"New Orleans",LA,"70112"
+2022-03-29,"RN Clinical Supervisor - Stepdown","Tulane Medical Center",tulanehealthcare.com,"Hospital & Health Care",,,,"New Orleans",LA,"70112"
+2022-03-29,"Registered Nurse - Bone Marrow Transplant","Tulane Medical Center",tulanehealthcare.com,"Hospital & Health Care",,,,"New Orleans",LA,"70112"
+2022-03-29,"Registered Nurse ? Chemotherapy Infusion Suite","Tulane Medical Center",tulanehealthcare.com,"Hospital & Health Care",,,,"New Orleans",LA,"70112"
+2022-03-29,"RN - Chemotherapy Infusion Suite","Tulane Medical Center",tulanehealthcare.com,"Hospital & Health Care",,,,"New Orleans",LA,"70112"
+2022-03-29,"Chest Pain Coordinator - Cath Lab","Tulane Medical Center",tulanehealthcare.com,"Hospital & Health Care",,,,"New Orleans",LA,"70112"
+2022-04-01,"Assistant Manager (Part-Time), J.Crew Factory NEW STORE, Elm...","J.Crew Factory",jcrew.com,"Apparel & Fashion",,,,"New Orleans",LA,"70123"
+2022-03-31,"Project Manager - Policy & Governmental Affairs (Part Time)","Laitram LLC",,,"$42.9K ? $54.3K a year",,,"New Orleans",LA,""
+2022-04-01,Hosts,"Broussard's Restaurant & Courtyard",,,"$12 - $15 an hour",,"French Quarter area","New Orleans",LA,"70112"
+2022-03-30,"Restaurant Hostess","The Italian Barrel",theitalianbarrel.com,,"$20 - $25 an hour",,"French Quarter area","New Orleans",LA,"70116"
+2022-04-01,Servers,"Broussard's Restaurant & Courtyard",,,"Up to $1,000 a week",,"French Quarter area","New Orleans",LA,"70112"
+2022-04-01,"Production Coordinator - New Orleans - Southshore","Capital City Press",capitolcitypress.com,Printing,,,"Central Business District area","New Orleans",LA,"70130"
+2022-03-30,"Insurance Loss Control Inspector","Cal Inspection Bureau",,,"$16 - $25 an hour",,,"New Orleans",LA,""
+2022-03-31,"Waste / Special Projects Manager","LEI, Inc.",,,,,,"New Orleans",LA,""
+2022-04-01,Bartenders,"Broussard's Restaurant & Courtyard",,,"From $1,000 a week",,"French Quarter area","New Orleans",LA,"70112"
+2022-04-01,Dishwashers,"Broussard's Restaurant & Courtyard",,,"$11 - $14 an hour",,"French Quarter area","New Orleans",LA,"70112"
+1970-01-01,"Registered Nurse","vIVe Hydration",thevivehydration.com,,"$20 - $100 an hour",,"French Quarter area","New Orleans",LA,"70130"
+2022-03-29,"Medical Billing and Practice Manager","NOLA Psychologist",,,"$18 - $20 an hour",,"Mid-City area","New Orleans",LA,"70119"
+2022-03-29,"Campaign Coordinator (Temporary contract)","Louisiana Bucket Brigade",,,"$50,000 a year",,"Mid-City area","New Orleans",LA,"70119"
+2022-03-30,"General Manager, Louisiana",Dropoff,dropoff.com,"Logistics & Supply Chain","$80.1K ? $101K a year",,"Viavant-Venetian Isles area","New Orleans",LA,"70129"
+2022-03-30,"Insurance Loss Control Inspector","Cal Inspection Bureau",,,"$16 - $25 an hour",,,"New Orleans",LA,""
+2022-03-31,"Residential Construction Worker","Beyond HR, LLC",,,"$34.5K ? $43.7K a year",,"Trem? Lafitte area","New Orleans",LA,"70116"
+2022-04-01,"Manufacturing Technician","Intellyk, Inc.",intellyk.com,"Information Technology & Services","$23 - $25 an hour",,"Viavant-Venetian Isles area","New Orleans",LA,"70129"
+1970-01-01,"Registered Nurse","vIVe Hydration",thevivehydration.com,,"$20 - $100 an hour",,"French Quarter area","New Orleans",LA,"70130"
+2022-03-29,Handyman,"U.S. Facility Solutions",usfacilitysolutions.com,"Facilities Services","$35.3K ? $44.7K a year",,,"New Orleans",LA,""
+2022-03-29,"SAP PLM Consulant","Effone software inc",,,"$130,000 - $150,000 a year",,,"New Orleans",LA,""
+2022-03-29,"Glass Installer","U.S. Facility Solutions",usfacilitysolutions.com,"Facilities Services","$36.7K ? $46.5K a year",,,"New Orleans",LA,""
+2022-03-29,"Software Development IV",CompuGain,compugain.com,"Information Technology & Services","$104K ? $132K a year",Remote,,"Remote in New Orleans",LA,"70113"
+2022-03-29,"Campaign Coordinator (Temporary contract)","Louisiana Bucket Brigade",,,"$50,000 a year",,"Mid-City area","New Orleans",LA,"70119"
+2022-03-31,"Coordinator of After-School Care & Programs/Summer Camp","Academy of the Sacred Heart",ashmi.org,"Primary/Secondary Education","$38.1K ? $48.3K a year",,"Uptown area","New Orleans",LA,"70115"
+2022-03-30,"Administrative Assistant and Grant Coordinator - College of...","Loyola University New Orleans",loyno.edu,"Higher Education","$32.3K ? $40.9K a year",,"Leonidas area","New Orleans",LA,"70118"
+2022-04-01,"General Manager","Exhibition Hub",exhibitionhub.com,"Museums & Institutions","From $50,000 a year",,"Central Business District area","New Orleans",LA,"70130"
+2022-03-30,"NEWS PRODUCER (PRIMARY) - KSLA","Gray Television",gray.tv,"Broadcast Media",,,"Highland-Stoner Hill area",Shreveport,LA,"71101"
+2022-03-29,"TECHNICIAN MAINTENANCE","Sam's Town Shreveport",samstownshreveport.com,"Gambling & Casinos",,,"North Highlands area",Shreveport,LA,"71101"
+2022-03-31,"Sales Coordinator","Lamar Advertising Company",lamar.com,"Marketing & Advertising","$17.13 - $23.55 an hour",,,Shreveport,LA,""
+2022-03-30,"Care Supervisor - Shreveport, LA","Choices CCS",,,"$50,000 - $60,000 a year",,"Highland-Stoner Hill area",Shreveport,LA,"71104"
+2022-03-29,"Dealer Relationship Manager - Chase Auto","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,Remote,,"Remote in Shreveport",LA,""
+2022-03-29,"MANAGER BANQUET (T)","Sam's Town Shreveport",samstownshreveport.com,"Gambling & Casinos",,,"North Highlands area",Shreveport,LA,"71101"
+2022-03-31,"Quality Specialist","Calumet Specialty Products Partners, L.P.",calumetspecialty.com,"Oil & Energy","$41K ? $52K a year",,,Shreveport,LA,""
+2022-03-31,"OHE Lineman B","MasTec Utility Services",mastec-utilityservices.com,Construction,,,,Shreveport,LA,""
+2022-03-29,"Performance Improvement Coordinator - Quality Assurance - Ki...","Ochsner LSU Shreveport",,,"$38.5K ? $48.7K a year",,,Shreveport,LA,""
+2022-03-29,"MANAGER BANQUET (T)","Sam's Town Shreveport",samstownshreveport.com,"Gambling & Casinos",,,"North Highlands area",Shreveport,LA,"71101"
+2022-03-30,"Human Resources Generalist","LifeShare Blood Centers",lifeshare.org,"Nonprofit Organization Management","$50,000 - $65,000 a year",,"Springlake-University Terrace area",Shreveport,LA,"71106"
+2022-03-31,"Immunology Specialist","Syneos Health Commercial Solutions",syneoshealth.com,Pharmaceuticals,,,,Shreveport,LA,""
+2022-04-01,"National Military Marketing Liaison","Brentwood Hospital",brentwoodbehavioral.com,"Mental Health Care",,,"Highland, Stoner Hill area",Shreveport,LA,"71101"
+2022-03-29,"TECHNICIAN MAINTENANCE","Sam's Town Shreveport",samstownshreveport.com,"Gambling & Casinos",,,"North Highlands area",Shreveport,LA,"71101"
+2022-03-31,"SLOT TECHNICIAN II","Sam's Town Shreveport",samstownshreveport.com,"Gambling & Casinos",,,"North Highlands area",Shreveport,LA,"71101"
+2022-03-29,"Retail Food Service Manager","ABM Industries",marriott.com,"Computer Software",,,"Caddo Heights, South Highlands area",Shreveport,LA,"71103"
+2022-03-29,"Facility Coordinator","State of Louisiana",louisiana.gov,"Government Administration",,,,Shreveport,LA,""
+2022-03-29,"Internal Consultant - Revenue Cycle - Kings Hwy","Ochsner LSU Shreveport",,,"$34.6K ? $43.8K a year",,,Shreveport,LA,""
+2022-03-30,"NURSE SUPERVISOR","Council on Alcoholism and Drug Abuse of Northwest...",,,"$53.6K ? $67.8K a year",,,Shreveport,LA,""
+2022-03-29,"TECHNICIAN MAINTENANCE","Sam's Town Shreveport",samstownshreveport.com,"Gambling & Casinos",,,"North Highlands area",Shreveport,LA,"71101"
+2022-03-29,"TECHNICIAN MAINTENANCE","Sam's Town Shreveport",samstownshreveport.com,"Gambling & Casinos",,,"North Highlands area",Shreveport,LA,"71101"
+2022-03-29,"SUPERVISOR REVENUE AUDIT","Sam's Town Shreveport",samstownshreveport.com,"Gambling & Casinos",,,"North Highlands area",Shreveport,LA,"71101"
+2022-03-31,"Registered Nurse Vascular Access","CHRISTUS Health",christushealth.org,"Hospital & Health Care",,,"Springlake, University Terrace area",Shreveport,LA,"71105"
+2022-03-30,"Clinical Manager","Choices CCS",,,"$60,000 - $65,000 a year",,"Highland-Stoner Hill area",Shreveport,LA,"71104"
+2022-03-30,"UGE Foreman","MasTec Utility Services",mastec-utilityservices.com,Construction,,,,Shreveport,LA,""
+2022-03-29,"Gas Engineering Manager","CenterPoint Energy",centerpointenergy.com,Utilities,"$99.9K ? $126K a year",,,Shreveport,LA,""
+2022-03-31,"Break-Bulk Supervisor","Southeastern Freight Lines",sefl.com,Transportation/Trucking/Railroad,,,,Shreveport,LA,""
+2022-03-31,"SLOT TECHNICIAN II","Sam's Town Shreveport",samstownshreveport.com,"Gambling & Casinos",,,"North Highlands area",Shreveport,LA,"71101"
+2022-03-31,"Manager, Cross Dock","Conn's Home Plus",conns.com,Retail,,,"Springlake, University Terrace area",Shreveport,LA,"71105"
+2022-03-29,"OHE Lineman A","MasTec Utility Services",mastec-utilityservices.com,Construction,,,,Shreveport,LA,""
+2022-03-30,"Clinical Manager (32)","Fresenius Medical Care",fmc-au.com,"Medical Devices",,,"Hyde Park Brookwood-Southern Hills area",Shreveport,LA,"71118"
+2022-03-29,"TECHNICIAN MAINTENANCE","Sam's Town Shreveport",samstownshreveport.com,"Gambling & Casinos",,,"North Highlands area",Shreveport,LA,"71101"
+2022-03-29,"TECHNICIAN MAINTENANCE","Sam's Town Shreveport",samstownshreveport.com,"Gambling & Casinos",,,"North Highlands area",Shreveport,LA,"71101"
+2022-03-29,"Supervisor Buildings","City of Shreveport",,,,,"Highland-Stoner Hill area",Shreveport,LA,"71101"
+2022-04-01,"New Home Sales Agent","Lighthouse Construction & Development",,,"$53.2K ? $67.4K a year",,,Shreveport,LA,""
+2022-03-31,"ADMINISTRATIVE ASSISTANT/BUSINESS OFFICE SUPPORT","MD Clinics LLC",drmdclinics.com,"Medical Practice","$18 an hour",,"Highland, Stoner Hill area",Shreveport,LA,"71104"
+2022-03-30,"Website Manager","Shreveport-Bossier Convention & Tourist Bureau",,,"$41.7K ? $52.9K a year",,"Downtown Riverfront area",Shreveport,LA,"71101"
+2022-04-01,"Automation Technician","Aeon PEC",aeonpec.com,"Oil & Energy","$17 - $27 an hour",,,Shreveport,LA,""
+2022-04-01,"Accounting Assistant","Southern Scripts",southernscripts.net,Pharmaceuticals,,Remote,,"Remote in Shreveport",LA,"71109"
+2022-04-01,"Inventory Cycle Counter - Forklift Operator","Omni Specialty Packaging, LLC",omnisp.com,,"$14 - $17 an hour",,"Hyde Park Brookwood, Southern Hills area",Shreveport,LA,"71118"
+2022-03-30,"Installer IV (telecom)",Telamon,telamon.com,Telecommunications,"$47,840 - $60,320 a year",,,Shreveport,LA,""
+2022-03-29,"Retail Store Manager","Cricket Wireless Authorized Dealer",,,"$36,000 - $42,000 a year",,,Shreveport,LA,""
+2022-03-30,Roadmaster,"Kansas City Southern Railway",kcsouthern.com,Transportation/Trucking/Railroad,"$58.6K ? $74.2K a year",,,Shreveport,LA,""
+2022-03-30,"Store Manager - (Optical Retail)","Now Optics",nowoptics.com,Retail,"$37.7K ? $47.7K a year",,"Springlake, University Terrace area",Shreveport,LA,"71105"
+2022-03-30,"Intercept Supervisor - Social Services","Choices CCS",,,"$43.3K ? $54.9K a year",,"Highland-Stoner Hill area",Shreveport,LA,"71104"
+2022-03-31,"Accounts Payable Coordinator","Centenary College of Louisiana",centenary.edu,"Primary/Secondary Education","$32.9K ? $41.7K a year",,"Broadmoor, Anderson Island, Shreve Isle. area",Shreveport,LA,"71104"
+2022-03-31,"Cross Dock Manager","Conn's HomePlus",,,,,"Springlake, University Terrace area",Shreveport,LA,"71105"
+2022-03-29,"Family Support Coordinator Supervisor","Shoulders of Strength",shouldersofstrength.com,"Mental Health Care","$38.7K ? $48.9K a year",,"Highland, Stoner Hill area",Shreveport,LA,"71104"
+2022-03-31,"Human Resource Generalist","Vintage Realty Company",vintagerealty.com,"Real Estate","$34.7K ? $43.9K a year",,"Highland-Stoner Hill area",Shreveport,LA,"71101"
+2022-03-30,"Construction Supervisor","H & H Operating, LLC",,,"$37,017 - $101,764 a year",,"Ceder Grove, Lynbrook area",Shreveport,LA,"71106"
+2022-03-30,Roadmaster,"Kansas City Southern Railway",kcsouthern.com,Transportation/Trucking/Railroad,"$58.6K ? $74.2K a year",,,Shreveport,LA,""
+2022-04-01,"Registered Nurse (RN) HOME Care Contracts","Nurses Direct",nursesdirect.net,"Staffing & Recruiting","$2,400 - $3,000 a week",,"Highland-Stoner Hill area",Shreveport,LA,"71101"
+2022-03-29,"IT Helpdesk Technician","Gray & Company, Inc.",grayinsco.com,Insurance,"$33.4K ? $42.2K a year",,,Metairie,LA,"70002"
+2022-03-31,"Technology Portfolio Support Specialist (2022-3779)","Atrium CWS",atriumworks.com,"Human Resources","$32.3K ? $40.9K a year",,,Metairie,LA,""
+2022-04-01,"Loss Prevention Market Specialist - New Orleans","Academy Sports + Outdoors",,,,,,Metairie,LA,"70003"
+2022-03-31,"Project Controls Coordinator (Metairie Office)","Engineering and Inspection Services",,,"$33.2K ? $42K a year",,,Metairie,LA,""
+2022-03-29,"Mgr Public Affairs","Atmos Energy",atmosenergy.com,Utilities,"$49.5K ? $62.7K a year",,,Metairie,LA,""
+2022-03-30,"Utilization Management Nurse 2 (Remote) Gulf States Region",Humana,humana.com,"Health, Wellness & Fitness",,Remote,,"Remote in Metairie",LA,"70001"
+2022-03-31,"Utilization Management Nurse 2 (Remote) Gulf States Region",Humana,humana.com,"Health, Wellness & Fitness",,Remote,,"Remote in Metairie",LA,"70001"
+2022-03-30,"IT Project Manager","American Heart Association",heart.org,"Health, Wellness & Fitness","$88.8K ? $112K a year",,,Metairie,LA,"70001"
+2022-04-01,"Branch Manager - New Orleans Market - LA","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Metairie,LA,""
+2022-03-31,"Director of Financial Aid","Herzing University",herzing.edu,"Higher Education","$63.5K ? $80.5K a year",,,Metairie,LA,"70002"
+2022-03-29,Paralegal,"Hebbler & Giordano, LLC",,,"$47K ? $59.6K a year",,,Metairie,LA,"70002"
+2022-04-01,"Elementary Teacher","Private School in Metairie",,,"$20,000 - $40,000 a year",,,Metairie,LA,"70006"
+2022-03-31,"Tech Portfolio Support Spec I","Workforce Logiq",workforcelogiq.com,"Information Technology & Services","$19 - $20 an hour",,,Metairie,LA,"70001"
+2022-04-01,"Operations Manager","Allied Universal",aus.com,"Security & Investigations",,,,Metairie,LA,"70005"
+2022-04-01,Manager,MOOYAH,mooyah.com,Restaurants,,,,Metairie,LA,"70002"
+2022-03-29,"Assistant Manager/Spirits Specialist","Martin Wine Cellar",martinwine.com,"Food & Beverages","$28.9K ? $36.5K a year",,,Metairie,LA,"70005"
+2022-03-29,"Who wants to Manage an Assisted Living as a Caregiver?","Peristyle Residences",peristyleresidences.com,"Hospital & Health Care","$14 - $17 an hour",,,Metairie,LA,"70005"
+2022-04-01,"Project Controls Coordinator (Metairie Office)","Engineering & Inspection Services",eisllc.net,"Mechanical Or Industrial Engineering","$33.2K ? $42K a year",,,Metairie,LA,"70002"
+2022-04-01,"Kindergarten Teacher - 2022 - 2023","Discovery Health Sciences Foundation Charter",,,"$35.5K ? $44.9K a year",,,Metairie,LA,"70003"
+2022-04-01,"Ophthalmic Technician","Eye Care Associates",eyecareassociatesnc.com,,"$32.4K ? $41K a year",,,Metairie,LA,"70006"
+2022-03-29,"General Manager","Pure Barre",purebarre.com,"Health, Wellness & Fitness","$48.2K ? $61K a year",,,Metairie,LA,"70005"
+2022-03-31,"Expanded Duties Dental Assistant","Brindis Prosthodontics, LLC",,,"From $16 an hour",,,Metairie,LA,"70006"
+2022-03-31,"Store Manager - Cricket Wireless",Mobilelink,mobilelinkusa.com,Telecommunications,"$36.2K ? $45.8K a year",,,Metairie,LA,""
+2022-04-01,"Assistant Manager",MOOYAH,mooyah.com,Restaurants,,,,Metairie,LA,"70002"
+2022-04-01,"Experienced Attorney","Gauthier Murphy & Houghtaling LLC",gmhatlaw.com,"Law Practice","$49,679 - $171,984 a year",,,Metairie,LA,"70002"
+2022-03-31,"Associate Attorney, Litigation","Connick and Connick, LLC",,,"$81.5K ? $103K a year",,,Metairie,LA,"70002"
+2022-03-31,"Sheet Metal Supervisor","Regional Mechanical Services",regionalmsllc.com,Construction,"$46K ? $58.2K a year",,,Metairie,LA,"70002"
+2022-04-01,"Elementary Teacher","Private School in Metairie",,,"$20,000 - $40,000 a year",,,Metairie,LA,"70006"
+2022-04-01,Manager,MOOYAH,mooyah.com,Restaurants,,,,Metairie,LA,"70002"
+2022-04-01,"CRNA - part time","GI Alliance",gialliance.com,"Hospital & Health Care","$55.1K ? $69.7K a year",,,Metairie,LA,"70006"
+2022-04-01,"Assistant Manager",MOOYAH,mooyah.com,Restaurants,,,,Metairie,LA,"70002"
+2022-03-30,"Plasma Center Manager - Lake Charles, LA","Biomat USA, Inc.",grifolsplasma.com,Pharmaceuticals,,,,"Lake Charles",LA,"70616"
+2022-04-01,"Assistant Office Manager","Aspen Dental",aspendent.com,"Health, Wellness & Fitness",,,,"Lake Charles",LA,"70605"
+2022-03-31,"Administrative Program Specialist-A","State of Louisiana",louisiana.gov,"Government Administration","$2,883 - $5,675 a month",,,"Lake Charles",LA,""
+2022-03-30,"Care Supervisor - Lake Charles, LA","Choices CCS",,,"$50,000 - $60,000 a year",,,"Lake Charles",LA,"70601"
+2022-04-01,"Practice Manager","Mission Veterinary Partners",missionvetpartners.com,Veterinary,"$49.5K ? $62.7K a year",,,"Lake Charles",LA,"70605"
+2022-03-31,"Hot Shot Driver","Continental Battery Company",continentalbattery.com,Accounting,"$23.5K ? $29.7K a year",,,"Lake Charles",LA,"70601"
+2022-03-31,"Leadman - Scaffold Builder","The Brock Group",thebrockgroupllc.com,"Marketing & Advertising","$39.7K ? $50.3K a year",,,"Lake Charles",LA,""
+2022-03-29,"DOTD Certified Construction Inspector",Fenstermaker,fenstermaker.com,"Oil & Energy","$55.4K ? $70.2K a year",,,"Lake Charles",LA,""
+2022-03-29,"Store Manager Unassigned",WALGREENS,walgreens.com,Retail,,,,"Lake Charles",LA,"70605"
+2022-03-30,"Clinical Manager","Choices CCS",,,"$60,000 - $65,000 a year",,,"Lake Charles",LA,"70601"
+2022-03-31,"Skilled Home Health Clinical Team Manager","Elara Caring",elara.com,"Hospital & Health Care",,,,"Lake Charles",LA,""
+2022-03-29,"Leadman - Painter","The Brock Group",thebrockgroupllc.com,"Marketing & Advertising","$33.1K ? $41.9K a year",,,"Lake Charles",LA,""
+2022-03-30,"Leadman - Scaffold Builder","The Brock Group",thebrockgroupllc.com,"Marketing & Advertising","$38.7K ? $48.9K a year",,,"Lake Charles",LA,""
+2022-03-30,"Personal Protection Officer","The Maccabees Security LLC",,,"$25 - $30 an hour",,,"Lake Charles",LA,"70605"
+2022-03-30,"Denny's Manager","SWLA Delights LLC DBA Dunkin - Baskin in Lake...",,,"$42,000 - $50,000 a year",,,"Lake Charles",LA,"70601"
+2022-04-01,"Panera Bread General Manager","Cross Group",crossgroupinc.com,"Management Consulting, Business Services","$55,000 - $65,000 a year",,,"Lake Charles",LA,""
+2022-04-01,"Account Manager","Allied Universal",aus.com,"Security & Investigations",,,,"Lake Charles",LA,"70601"
+2022-03-30,"Account Manager","Allied Universal",aus.com,"Security & Investigations",,,,"Lake Charles",LA,"70601"
+2022-03-31,"Account Executive",Gannett,mplsoffset.com,Printing,,,,"Lake Charles",LA,""
+2022-03-30,"Practice Manager","Mission Veterinary Partners",missionvetpartners.com,Veterinary,"$49.5K ? $62.7K a year",,,"Lake Charles",LA,"70605"
+2022-03-29,"DOTD Certified Construction Inspector",Fenstermaker,fenstermaker.com,"Oil & Energy","$55.4K ? $70.2K a year",,,"Lake Charles",LA,""
+2022-03-30,"Personal Protection Officer","The Maccabees Security LLC",,,"$25 - $30 an hour",,,"Lake Charles",LA,"70605"
+2022-03-30,"Programmer Analyst","The University of Louisiana at Monroe",ulm.edu,"Higher Education","$57.2K ? $72.4K a year",,"University Area area",Monroe,LA,"71209"
+2022-03-29,"Transactions Specialist II - Collateral Review","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services",,,,Monroe,LA,""
+2022-03-30,"Application Developer: .net Intermediate",IBM,bionovo.com.cn,"Computer Software",,,,Monroe,LA,"71201"
+2022-03-29,"Procurement & Contract Coordinator","The University of Louisiana at Monroe",ulm.edu,"Higher Education","$57.9K ? $73.3K a year",,"University Area area",Monroe,LA,"71209"
+2022-03-29,"Procurement & Contract Coordinator","University of Louisiana Monroe",,,,,,Monroe,LA,"71209"
+2022-03-29,"Sort Manager","Wagner Logistics",wagnerlogistics.com,"Logistics & Supply Chain","$42.7K ? $54.1K a year",,,Monroe,LA,"71203"
+2022-03-30,"RN Director of Patient Care","Heart of Hospice",,,,,"Midtown area",Monroe,LA,"71201"
+2022-03-30,"Janitorial / Maintenance","Osprey Management",contractosprey.com,Construction,"$13 an hour",,,Monroe,LA,"71203"
+2022-03-31,"Field Tech III (Part-Time)",Corix,corix.com,Utilities,"$36K ? $45.6K a year",,,Monroe,LA,""
+2022-03-29,"merchandise manager","Five Below",fivebelow.com,Retail,,,,Slidell,LA,"70458"
+2022-03-30,"Assistant Director of Child Care","Primary Colors Early Childhood Learning Center-...",primarycolorspreschool.com,"Individual & Family Services","$13 - $15 an hour",,,Slidell,LA,"70461"
+2022-03-29,"Northshore Transfusion Services Lab Supervisor","The Blood Center",,,"From $26 an hour",,,Slidell,LA,"70458"
+2022-03-31,"Maintenance Technician (Northshore)","Broad Management Group",indigoplantationapartments.com,"Real Estate","$17 - $22 an hour",,,Slidell,LA,"70461"
+2022-03-30,"Construction Superintendent","Rotolo Consultants, Inc. (RCI)",rotoloconsultants.com,"Facilities Services","$60,000 - $80,000 a year",,,Slidell,LA,""
+2022-03-31,"Maintenance Technician","Broad Management Group",indigoplantationapartments.com,"Real Estate","$20 - $23 an hour",,,Slidell,LA,"70461"
+2022-03-31,"Registered Clinical Dietician - PRN","PAM Health",pamhealth.co.uk,Furniture,"$59K ? $74.8K a year",,,Slidell,LA,"70458"
+2022-04-01,"Accounting Assistant","SP MANAGEMENT SERVICES INC",spmgmt.com,"Management Consulting","$31.2K ? $39.4K a year",,,Houma,LA,"70360"
+2022-03-30,"Power Plant Supervisor","Terrebonne General Medical Center",tghealthsystem.com,"Hospital & Health Care","$35.4K ? $44.8K a year",,,Houma,LA,"70360"
+2022-03-31,"Sales Rep - Commission","United Rentals, Inc.",unitedrentals.com,Construction,,,,Houma,LA,"70363"
+2022-03-29,"VP - Director of Commercial Services",b1BANK,b1bank.com,Banking,"$83.2K ? $105K a year",,,Houma,LA,"70360"
+2022-04-01,"Project Coordinator","Sibley Construction Services, LLC.",sibleyconstruction.com,Construction,"$16 - $20 an hour",,,Houma,LA,"70363"
+2022-03-31,"Career Navigator Assistant","Goodwill Industries of SELA",goodwillno.org,"Nonprofit Organization Management","$34.4K ? $43.6K a year",,,Houma,LA,"70360"
+2022-04-01,"Casualty Claims Adjuster I","Saia LTL Freight",saia.com,,"$61,080 - $76,344 a year",,,Houma,LA,"70363"
+2022-04-01,Manager,"Applebee's Bar + Grill | Big River Restaurants",,,,,,Houma,LA,"70360"
+2022-03-31,"Pharmacy Technician Program Director","Unitech Training Academy",unitechtrainingacademy.com,"Education Management","$40,000 - $50,000 a year",,,Houma,LA,"70364"
+2022-04-01,"Assistant Repair Technician","Amarillo Gear Company LLC",,,"$33.5K ? $42.5K a year",,,Covington,LA,"70433"
+2022-03-29,"Client Service Representative",Netchex,netchex.com,"Human Resources","$35,000 - $39,000 a year",,,Covington,LA,"70433"
+2022-03-29,"Business Development Manager","Airgas Inc.",airgas.com,Chemicals,,,,Covington,LA,"70433"
+2022-03-31,"Full Time Assistant Manager","Build-A-Bear Workshop",texasballoonandnovelty.com,Retail,"$28.3K ? $35.9K a year",,,Covington,LA,"70433"
+2022-03-31,"Director, Surgical Services","Lakeview Regional Medical Center",lakeviewregional.com,"Hospital & Health Care",,,,Covington,LA,"70433"
+2022-04-01,"LPN - Skilled Nursing FT Day",Christwood,christwoodrc.com,"Hospital & Health Care","$20 - $22 an hour",,,Covington,LA,"70433"
+2022-03-31,"Product Specialist",Civix,gocivix.com,"Computer Software","$55.6K ? $70.4K a year",,,Covington,LA,"70433"
+2022-03-31,"PET Radiopharmaceutical Production & Equipment Specialist (C...","Siemens Healthineers",siemens-healthineers.com,"Hospital & Health Care",,,,Covington,LA,"70433"
+2022-04-01,"Outside Sales Representative - Base, Commissions and Benefit...","Hibu Inc",,,"$60.4K ? $76.4K a year",Remote,,"Hybrid remote in Covington",LA,""
+2022-04-01,"Project Manager",ProMach,promachbuilt.com,Machinery,,,,Covington,LA,""
+2022-04-01,"Electrical Designer",ProMach,promachbuilt.com,Machinery,,,,Covington,LA,""
+2022-04-01,"Vendor Compliance Specialist",Poolcorp,poolcorp.com,Wholesale,,,,Covington,LA,"70433"
+2022-03-29,"Hospice Intake LPN","St. Tammany Health System",sttammany.health,"Hospital & Health Care","$35.9K ? $45.5K a year",,,Covington,LA,""
+2022-03-29,"School Operations Officer","Louisiana Key Academy Northshore",,,"$46,171 - $60,000 a year",,,Covington,LA,"70433"
+2022-03-29,"ACCOUNTING CLERK I","Gilsbar HealthComp",,,"$28.7K ? $36.3K a year",,,Covington,LA,"70433"
+2022-03-30,"Co Manager",RaceTrac,racetrac.com,Retail,,,,Covington,LA,"70433"
+2022-03-29,"Phlebotomist - In Office","CliniCore Labs",,,"From $14 an hour",,,Covington,LA,"70433"
+2022-03-29,"BUSINESS ANALYST I","Gilsbar HealthComp",,,"$37.2K ? $47.2K a year",,,Covington,LA,"70433"
+2022-03-31,"Endoscopy Technician","GI Alliance",gialliance.com,"Hospital & Health Care","$28.4K ? $36K a year",,,Covington,LA,"70433"
+2022-04-01,"Credentialing Specialist","Neurocare of Louisiana, LLC",,,"$14 - $18 an hour",,,Covington,LA,"70433"
+2022-03-29,"RN Employee Health","Lakeview Regional Medical Center",lakeviewregional.com,"Hospital & Health Care",,,,Covington,LA,"70433"
+2022-03-30,"Mortgage Department Manager",CSI,thecsi.com,"Logistics & Supply Chain","$85,000 - $100,000 a year",,,Covington,LA,"70433"
+1970-01-01,"Digital Sales Executive - Base salary, Uncapped Commissions...","hibu Inc",,,"$70,000 - $90,000 a year",,,Covington,LA,""
+2022-03-29,"TECHNICAL OPERATIONS ANALYST I","Gilsbar HealthComp",,,"$48K ? $60.8K a year",,,Covington,LA,"70433"
+2022-03-31,LPN,"GI Alliance",gialliance.com,"Hospital & Health Care","$42.9K ? $54.3K a year",,,Covington,LA,"70433"
+2022-03-31,"Software Administrator I",Poolcorp,poolcorp.com,Wholesale,,,,Covington,LA,"70433"
+2022-03-31,"ACCOUNT MANAGER - EB",HealthComp,healthcomp.com,Insurance,"$49.3K ? $62.5K a year",,,Covington,LA,"70433"
+2022-03-29,"Account Manager - EB","HealthComp, LLC",,,"$60,000 - $80,000 a year",,,Covington,LA,"70433"
+2022-03-31,"Registered Nurse - OR Circulator Lead","Lakeview Regional Medical Center",lakeviewregional.com,"Hospital & Health Care",,,,Covington,LA,"70433"
+2022-03-29,"UTILIZATION MANAGEMENT COORDINATOR","Gilsbar HealthComp",,,"$53.7K ? $67.9K a year",,,Covington,LA,"70433"
+2022-03-30,"Co Manager",RaceTrac,racetrac.com,Retail,,,,Covington,LA,"70433"
+2022-03-29,"School Operations Officer","Louisiana Key Academy Northshore",,,"$46,171 - $60,000 a year",,,Covington,LA,"70433"

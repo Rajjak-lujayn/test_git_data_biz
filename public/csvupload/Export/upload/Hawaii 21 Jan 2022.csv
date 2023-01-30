@@ -1,0 +1,813 @@
+DATE,"Job Title",Company,Website,Industry,Salary,Remote,AREA,City,State,"Zip Code"
+2022-01-24,"Account Executive",Popmenu,popmenu.com,Internet,"$120,000 - $150,000 a year",Remote,,Honolulu,HI,""
+2022-01-22,Accountant,"Olelo Community Media",olelo.org,"Broadcast Media","$50,000 - $55,000 a year",,,Honolulu,HI,"96819"
+2022-01-22,"Coding Specialist, Certified - Health Information Services","Hawaii Pacific Health",hawaiipacifichealth.org,"Hospital & Health Care","$30.6K – $38.8K a year",,,Honolulu,HI,""
+2022-01-24,"Data Entry Operator - Pathology","The Queen's Medical Center",queens.org,"Hospital & Health Care","$28.1K – $35.5K a year",,,Honolulu,HI,""
+2022-01-23,"Registered Nurse (RN)- $50 per hour- $60 per hour","Fair Healthcare Staffing",,,"$50 an hour",,,Honolulu,HI,""
+2022-01-22,"Transporter - Supply Chain Management","Hawaii Pacific Health",hawaiipacifichealth.org,"Hospital & Health Care","$32.2K – $40.8K a year",,,Honolulu,HI,""
+2022-01-24,"Imaging Assistant (Rotating) - Multiple Openings","The Queen's Medical Center",queens.org,"Hospital & Health Care","$28K – $35.4K a year",,,Honolulu,HI,""
+2022-01-22,"Endoscopy Technician - Endoscopy","Hawaii Pacific Health",hawaiipacifichealth.org,"Hospital & Health Care","$30.5K – $38.7K a year",,,Honolulu,HI,""
+2022-01-22,"Funeral Arranger","SCI Shared Resources, LLC",sci-corp.com,"Individual & Family Services","$28K – $35.4K a year",,"Makiki area",Honolulu,HI,"96823"
+2022-01-22,"Resident Service Specialist - Ohana Military Communities - N...","Hunt Military Communities",huntmilitarycommunities.com,"Real Estate","$28.9K – $36.7K a year",,"Airport area",Honolulu,HI,"96818"
+2022-01-22,"Medical Assistant - Hawaii Kai, Family Practice","Hawaii Pacific Health",hawaiipacifichealth.org,"Hospital & Health Care","$30.4K – $38.6K a year",,,Honolulu,HI,""
+2022-01-23,"Administrative Assistant I","Lanakila Pacific",lanakilapacific.org,"Nonprofit Organization Management","$26.7K – $33.9K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-21,"Physician - Adult Congenital Heart Disease","Hawaii Pacific Health",hawaiipacifichealth.org,"Hospital & Health Care","$178K – $226K a year",,,Honolulu,HI,""
+2022-01-22,"TECHNICAL MEDIA PRODUCER (PRIMARY) - KHNL","Gray Television",gray.tv,"Broadcast Media",,,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-23,"Specialist, Marketing",Deloitte,deloitte.com,"Management Consulting","$47.9K – $60.7K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-22,"Digital Sales Development Specialist","Bank of Hawaii",boh.com,Banking,"$34.9K – $44.1K a year",,,Honolulu,HI,""
+2022-01-22,"Patient Account Rep - Collections","Hawaii Pacific Health",hawaiipacifichealth.org,"Hospital & Health Care","$28.3K – $35.9K a year",,,Honolulu,HI,""
+2022-01-21,"Physician - Pediatric Hospitalists","Hawaii Pacific Health",hawaiipacifichealth.org,"Hospital & Health Care","$140K – $178K a year",,,Honolulu,HI,""
+2022-01-21,"Physician - Neonatal Hospitalist","Hawaii Pacific Health",hawaiipacifichealth.org,"Hospital & Health Care","$174K – $220K a year",,,Honolulu,HI,""
+2022-01-22,"Coordinator, Development","AMERICAN CANCER SOCIETY",cancer.org,"Nonprofit Organization Management","$45.7K – $57.9K a year",,"Nuuanu-Punchbowl area",Honolulu,HI,"96817"
+2022-01-22,"Maintenance Technician","The Arcadia Family of Companies",arcadia.org,"Hospital & Health Care","$33.9K – $42.9K a year",,,Honolulu,HI,""
+2022-01-22,"Patient Service Rep - Vascular Center","Hawaii Pacific Health",hawaiipacifichealth.org,"Hospital & Health Care","$27.3K – $34.5K a year",,,Honolulu,HI,""
+2022-01-22,"Clinic Assistant - Pediatric Specialty Ctr","Hawaii Pacific Health",hawaiipacifichealth.org,"Hospital & Health Care","$28.6K – $36.2K a year",,,Honolulu,HI,""
+2022-01-22,"Customer Relations Advisor (Honolulu)","Hawaii Medical Service Association",hmsa.com,Insurance,"$30.3K – $38.3K a year",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-22,"Mission Systems Engineering Specialist Leader",Deloitte,deloitte.com,"Management Consulting","$74.2K – $94K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-24,"Patient Service Representative - Queens Cancer Center POB I...","The Queen's Medical Center",queens.org,"Hospital & Health Care","$26.4K – $33.4K a year",,,Honolulu,HI,""
+2022-01-22,"Clinic Assistant - Pediatric Pulmonology","Hawaii Pacific Health",hawaiipacifichealth.org,"Hospital & Health Care","$30.6K – $38.8K a year",,,Honolulu,HI,""
+2022-01-22,"Medical Assistant - Cardiothoracic Surgery","Hawaii Pacific Health",hawaiipacifichealth.org,"Hospital & Health Care","$29.6K – $37.4K a year",,,Honolulu,HI,""
+2022-01-22,"Home Appliance Delivery Helper - Honolulu","Hawktree International",hawktree.net,"Logistics & Supply Chain","$26.3K – $33.3K a year",,,Honolulu,HI,"96819"
+2022-01-23,"Activities Aide","The Arcadia Family of Companies",arcadia.org,"Hospital & Health Care","$25.3K – $32.1K a year",,,Honolulu,HI,""
+2022-01-22,"Laboratory Assistant","Clinical Laboratories of Hawaii, LLP",clinicallabs.com,"Hospital & Health Care",,,,Honolulu,HI,""
+2022-01-24,"Vendor Stock Support Associate, Ala Moana - Full Time",Macy’s,,,,,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-22,"Customer Service Representative","Honolulu Freight Service A Corp",honolulufreightservice.com,Transportation/Trucking/Railroad,"$18 an hour",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-22,"Guest Service Hotline Agent (Full Time) - Hilton Hawaiian Vi...",Hilton,hiltonmyersadv.com,"Advertising & Marketing, Business Services, Human Resources & Staffing, Â ... Lodging & Resorts, Hos","$21.9K – $27.7K a year",,"Diamond Head-Kapahulu area",Honolulu,HI,"96815"
+2022-01-23,"Ward Clerk","The Arcadia Family of Companies",arcadia.org,"Hospital & Health Care","$27.8K – $35.2K a year",,,Honolulu,HI,""
+2022-01-23,"Urban Outfitters Key Holder Full-Time","URBN Outfitters, Inc.",,,"$18.50 an hour",,"Diamond Head-Kapahulu area",Honolulu,HI,"96815"
+2022-01-23,"Oakley - Specialized Consultant",Oakley,,,"$22.2K – $28K a year",,"Diamond Head-Kapahulu area",Honolulu,HI,"96815"
+2022-01-22,"Activities Instructor for Seniors","Aegis Therapies",aegistherapies.com,"Hospital & Health Care","Up to $17 an hour",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-22,"Medical Assistant - Endocrinology","Hawaii Pacific Health",hawaiipacifichealth.org,"Hospital & Health Care","$31.2K – $39.4K a year",,,Honolulu,HI,""
+2022-01-22,Receptionist,"SCI Shared Resources, LLC",sci-corp.com,"Individual & Family Services","$26K – $33K a year",,"Makiki area",Honolulu,HI,"96823"
+2022-01-24,"FT-Sales Specialist - Cabinets-Day",Lowe's,lowes.com,Retail,,,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-22,"Oakley - Specialized Consultant","Oakley Retail",oakley.com,"Apparel & Fashion","$20.6K – $26K a year",,"Diamond Head-Kapahulu area",Honolulu,HI,"96815"
+2022-01-22,"Day Selector",Sysco,sysco.com,"Food & Beverages",,,,Honolulu,HI,"96814"
+2022-01-22,"FT-Sales Associate - Plumbing",Lowe's,lowes.com,Retail,,,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-23,"Nurse Aide -Arcadia Home Health Services","The Arcadia Family of Companies",arcadia.org,"Hospital & Health Care","$25.9K – $32.7K a year",,,Honolulu,HI,""
+2022-01-23,"Customer Service Agent at HNL Airport Alamo","Enterprise Holdings",enterpriseholdings.com,"Leisure, Travel & Tourism","$16.92 an hour",,,Honolulu,HI,""
+2022-01-24,"Sales Associate - Handbags, Ala Moana - Full Time",Bloomingdale’s,,,,,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-22,"Retail Counter Sales","O'Reilly Auto Parts",oreillyauto.com,Retail,,,"Airport area",Honolulu,HI,"96818"
+2022-01-23,"Pharmacy Customer Associate - Designated Hitter",WALGREENS,walgreens.com,Retail,"$30.1K – $38.1K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-22,"Sales Associate Oakley",Luxottica,luxottica.com,"Luxury Goods & Jewelry","$28.2K – $35.8K a year",,,Honolulu,HI,"96814"
+2022-01-22,"FT-Sales Associate - Hardware",Lowe's,lowes.com,Retail,,,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-21,"Team Member - Royal Hawaiian Shop. Ctr.",Sbarro,,,"$19.2K – $24.4K a year",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-22,"Sales Associate Oakley","Oakley Retail",oakley.com,"Apparel & Fashion","$32.6K – $41.2K a year",,,Honolulu,HI,"96814"
+2022-01-22,"FT-Sales Associate - Electrical And Lighting",Lowe's,lowes.com,Retail,,,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-22,Laborer,"Neil Nakai Inc",,,"$20 - $40 an hour",,,Honolulu,HI,""
+2022-01-23,Cleaner,"Sparkling Clean Solutions",,,"$20 - $30 an hour",,,Honolulu,HI,""
+2022-01-22,"Guest Services","Kaimana Beach Hotel",kaimana.com,Hospitality,"From $24 an hour",,"Diamond Head-Kapahulu-St. Louis area",Honolulu,HI,"96815"
+2022-01-22,"Virtual Webinar Presenter","HOH Digital",,,"$34,000 - $64,000 a year",Remote,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-22,"U.S. Probation Officer","U.S. District Court, District of Hawaii",,,"$51,845 - $117,364 a year",,"Downtown area",Honolulu,HI,"96850"
+2022-01-22,"ACCOUNTS PAYABLE CLERK","Y. Hata & Co., Limited",yhata.com,"Food & Beverages",,,,Honolulu,HI,"96819"
+2022-01-24,"Dress for Success Honolulu Donation and Volunteer Coordinato...","YWCA Oahu",,,"$31.3K – $39.7K a year",,,Honolulu,HI,"96813"
+2022-01-22,"Lot Technician","JN Group Inc. dba; Porsche Hawaii",,,"$30.8K – $39K a year",,"Ala Moana-Kakaako area",Honolulu,HI,"96813"
+2022-01-23,"Delivery Driver","Na Hoku",nahoku.com,Retail,"$18 an hour",,,Honolulu,HI,"96819"
+2022-01-22,"Human Resources Assistant","Taco Bell | TD Food Group",tdfoodgroup.com,Telecommunications,"$35.2K – $44.6K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-22,"Registered Nurse (RN)",Maxicare-Link,,,"$30 - $33 an hour",,,Honolulu,HI,""
+2022-01-22,"Claims Examiner","DB Insurance",dbinsus.com,Insurance,"$46.1K – $58.3K a year",,,Honolulu,HI,"96814"
+2022-01-22,"Accounting Assistant","Design Partners Incorporated",,,"$42,000 - $55,000 a year",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-23,Housekeeper/Houseperson,Wyndham,,,"$22 - $23 an hour",,,Honolulu,HI,""
+2022-01-22,"Team Member","Popeyes Hawaii",,,"Up to $17 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-22,"Barista (Diamond Head)","Coffee Bean & Tea Leaf Hawaii",,,"$19.6K – $24.8K a year",,"Diamond Head-Kapahulu-St. Louis area",Honolulu,HI,"96815"
+2022-01-22,"Wheelchair Attendant","PrimeFlight Aviation Services Inc",primeflight.com,Airlines/Aviation,"$10.10 an hour",,,Honolulu,HI,"96819"
+2022-01-23,Receptionist,"hawai'i habitat",hawaiihabitat.org,"Nonprofit Organization Management","$38.2K – $48.4K a year",Remote,,Honolulu,HI,""
+2022-01-22,"Barista (Kahala)","Coffee Bean & Tea Leaf Hawaii",,,"$19.6K – $24.8K a year",,"Waialae-Kahala area",Honolulu,HI,"96816"
+2022-01-22,"HR ASSISTANT","Y. Hata & Co., Limited",yhata.com,"Food & Beverages",,,,Honolulu,HI,"96819"
+2022-01-22,"House cleaning at a private home.","Sax Household",youtube.com,Internet,"$24 an hour",,"Diamond Head-Kapahulu-St. Louis area",Honolulu,HI,"96815"
+2022-01-23,Bellperson,Wyndham,,,"$18 - $19 an hour",,,Honolulu,HI,""
+2022-01-24,"Kono's Kapahulu is HIRING Crew Member! ($11 + TIPS)","Kono's Restaurant Hawaii",,,"From $11 an hour",,"Diamond Head-Kapahulu-St. Louis area",Honolulu,HI,"96816"
+2022-01-23,"Maintenance Technician","ARCADIA RETIREMENT",,,"$33.9K – $42.9K a year",,"Makiki-Lower Punchbowl-Tantalus area",Honolulu,HI,"96822"
+2022-01-22,"Security Officer Full Time Walmart Maui","Allied Universal",aus.com,"Security & Investigations",,,"Palolo area",Honolulu,HI,"96816"
+2022-01-23,"Janitorial Worker (Homeless Shelter)","The Institute for Human Services",ihshawaii.org,"Nonprofit Organization Management","$16 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-21,"HNL Airline Club Attendant","Sodexo-United Club",,,"$14 an hour",,,Honolulu,HI,""
+2022-01-21,"AT&T Retail Sales Associate (3015)","My Wireless",,,"$16 - $18 an hour",,"Palolo area",Honolulu,HI,"96816"
+2022-01-22,"Merchandiser in Oahu Retail Stores","The Islander Group",,,"$16 an hour",,,Honolulu,HI,""
+2022-01-23,"Accounting Clerk","The Institute for Human Services",ihshawaii.org,"Nonprofit Organization Management","$31.7K – $40.1K a year",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-22,"Kennel Assistant","Purradise Cat Care Inc.",,,"From $12 an hour",,"Diamond Head-Kapahulu-St. Louis area",Honolulu,HI,"96816"
+2022-01-22,"Assistant Stabilization Program Manager (Full-Time, Temporar...","Hawai'i Health & Harm Reduction Center",hhhrc.org,"Hospital & Health Care","Up to $29 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96813"
+2022-01-22,Custodian,"Oahu Country Club",oahucountryclub.com,"Recreational Facilities & Services","$25.2K – $32K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-22,"Wrap Facilitator (Full-Time, Oahu)","EPIC 'Ohana, Inc.",,,"From $20 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-22,"HR Assistant","The Care Center of Honolulu",ccoh.us,"Hospital & Health Care","From $18.50 an hour",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-23,"Maintenance Assistant","The Institute for Human Services",ihshawaii.org,"Nonprofit Organization Management","Up to $20 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-21,"Locker Room Attendant/Housekeeping","Oahu Country Club",oahucountryclub.com,"Recreational Facilities & Services","$23.3K – $29.5K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-22,"Baggage Handling Agent","PrimeFlight Aviation Services Inc",primeflight.com,Airlines/Aviation,"$10.10 an hour",,,Honolulu,HI,"96819"
+2022-01-23,"Ward Clerk","ARCADIA RETIREMENT",,,"$27.8K – $35.2K a year",,"Makiki-Lower Punchbowl-Tantalus area",Honolulu,HI,"96822"
+2022-01-23,"Veterinary Technician or Assistant","Island Veterinary Care",,,"$15 - $23 an hour",,"McCully-Moiliili area",Honolulu,HI,"96826"
+2022-01-22,"Barista (Ward/South Shore Market)","Coffee Bean & Tea Leaf Hawaii",,,"$19.6K – $24.8K a year",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-22,"Administrative Assistant","Commodity Forwarders, Inc.",cfi-lax.com,,"$16 - $18 an hour",,"Kalihi-Palama area",Honolulu,HI,"96819"
+2022-01-24,"Office Associate SSA at Honolulu Zoo","SSA Group, LLC",thessagroup.com,"Events Services","$14.50 an hour",,"Diamond Head-Kapahulu-St. Louis area",Honolulu,HI,"96815"
+2022-01-22,"Youth Circle Facilitator (Full-time, Oahu)","EPIC 'Ohana, Inc.",,,"$18 - $20 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-22,Counter/Cashier,"FCH Enterprises Inc",fchenterprises.com,"Food & Beverages","$20.7K – $26.1K a year",,,Honolulu,HI,"96813"
+2022-01-24,"Kahala Mall Janitor-Graveyard","Federal Maintenance, Inc.",954asphalt.com,Construction,"$24.2K – $30.6K a year",,,Honolulu,HI,"96819"
+2022-01-22,"Retail Sales Associate","Crazy Shirts",crazyshirts.com,"Apparel & Fashion","From $15 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-23,"Cashier/Barista/Customer Service/Shave Ice","Island Vintage Coffee",islandvintagecoffee.com,"Food & Beverages","$12 - $16 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-22,"Office Representative - State Farm Agent Team Member","Catherine Sing Chow - State Farm Agent",singchowinsurance.com,,"$30,000 - $60,000 a year",,"Palolo area",Honolulu,HI,"96816"
+2022-01-23,"Rental Agent","Little Hawaii ACE Rent A Car",,,"From $15 an hour",,,Honolulu,HI,"96819"
+2022-01-22,"Front Desk Agent (Full Time)","Aston Waikiki Sunset",,,"$25.3K – $32.1K a year",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-22,Bartender,"Oahu Country Club",oahucountryclub.com,"Recreational Facilities & Services","$25.2K – $32K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-22,"Dental Assistant","Waialae Dental Care & Dental Care of Pearlridge",waialaedentalcare.com,,"$15 - $20 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-24,"Community Services Specialist (Kalihi District Office)","Honolulu Community Action Program (HCAP)",hcapweb.org,"Individual & Family Services","$26,595 - $46,864 a year",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-22,"Ohana Conferencing Specialist I (Full-time, Oahu)","EPIC 'Ohana, Inc.",,,"$17 - $18 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-22,"House Attendant","Caring Manoa",,,"$14 - $16 an hour",,"Manoa area",Honolulu,HI,"96822"
+2022-01-22,"Parent Partner (Full-time, Oahu)","EPIC 'Ohana, Inc.",,,"From $16.50 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-23,"Activities Aide","ARCADIA RETIREMENT",,,"$25.3K – $32.1K a year",,"Makiki-Lower Punchbowl-Tantalus area",Honolulu,HI,"96822"
+2022-01-22,"Lead Warehouse Agent","Commodity Forwarders, Inc.",cfi-lax.com,,"From $18 an hour",,"Kalihi-Palama area",Honolulu,HI,"96819"
+2022-01-22,"Warehouse Agent","Commodity Forwarders, Inc.",cfi-lax.com,,"From $13 an hour",,"Kalihi-Palama area",Honolulu,HI,"96819"
+2022-01-22,"Key Warehouse Agent","Commodity Forwarders, Inc.",cfi-lax.com,,"From $15 an hour",,"Kalihi-Palama area",Honolulu,HI,"96819"
+2022-01-24,Dishwasher/Utility,"Yama's Fish Market",yamasfishmarket.com,"Food & Beverages","$14 an hour",,"McCully-Moiliili area",Honolulu,HI,"96826"
+2022-01-23,Barista,"Ali'i Coffee Co",,,"From $12 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-22,"Security Officer","Securitas Security Services USA",,,"$24.9K – $31.5K a year",,,Honolulu,HI,""
+2022-01-23,"Dental receptionist/assisstant","Kapalama dental clinic",,,"$14 - $19 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-22,Greeter,"Hawaii Family Dental Centers",hawaiifamilydental.com,"Hospital & Health Care","$13 an hour",,"Downtown area",Honolulu,HI,"96813"
+2022-01-22,"Pesticide/Irrigation Technician","Oahu Country Club",oahucountryclub.com,"Recreational Facilities & Services","$29.7K – $37.7K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-24,"Veterinary Technician","Ohana Veterinary Hospital",,,"$31.5K – $39.9K a year",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-24,"Kono's Waikiki is looking for Shift Leaders! ($13+Lots of Ti...","Kono's Restaurant Hawaii",,,"From $13 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-22,"Optical Technician","Yamamoto & Inouchi",,,"$13 - $17 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-22,"CUSTOMER SERVICE ASSOCIATE CHEFZONE","Y. Hata & Co., Limited",yhata.com,"Food & Beverages","From $14 an hour",,,Honolulu,HI,"96819"
+2022-01-22,"Retail Associate SSA at Hanauma Bay","SSA Group, LLC",thessagroup.com,"Events Services","$21.3K – $26.9K a year",,"Hawaii Kai area",Honolulu,HI,"96825"
+2022-01-23,"Experienced Tax Accountant HI & CA","Hawaii Accounting",,,"$54.8K – $69.4K a year",Remote,,Honolulu,HI,"96813"
+2022-01-22,"Home Appliance Delivery Helper - Honolulu","Island Movers",,,"$14 - $15 an hour",,,Honolulu,HI,""
+2022-01-24,"Pediatric Dentist","Kidshine Pediatric Dental Group, LLC",,,"$60.9K – $77.1K a year",,,Honolulu,HI,""
+2022-01-22,"Merchandiser (FT)","Southern Glazer's Wine and Spirits of Florida",,,"$14 - $16 an hour",,,Honolulu,HI,""
+2022-01-22,"General Service Technician","Midas Hawaii",midashawaii.com,"Individual & Family Services","$26.7K – $33.7K a year",,,Honolulu,HI,"96814"
+2022-01-23,"Nurse Aide -Arcadia Home Health Services","ARCADIA RETIREMENT",,,"$25.9K – $32.7K a year",,"Makiki-Lower Punchbowl-Tantalus area",Honolulu,HI,"96822"
+2022-01-22,Counter/Cashier,"FCH Enterprises Inc",fchenterprises.com,"Food & Beverages","$12 - $13 an hour",,"Palolo area",Honolulu,HI,"96816"
+2022-01-22,"Team Members - Barista, Cashier, Prep (The Alley-HI)","Kei Concepts",keiconcepts.info,"Food & Beverages","From $12 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-22,"Financial Professional","New York Life",experiencehfs.com,,"$32.5K – $41.1K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-22,"Security Gate Agent","PrimeFlight Aviation Services Inc",primeflight.com,Airlines/Aviation,"$25.1K – $31.7K a year",,,Honolulu,HI,"96819"
+2022-01-22,"Customer Service Representative - Driving","SP Plus Corporation",spplus.com,"Facilities Services","$13 an hour",,"Downtown area",Honolulu,HI,"96813"
+2022-01-22,"General Service Technician","Midas Hawaii",midashawaii.com,"Individual & Family Services","$26.7K – $33.7K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-23,"Kitchen Shift Leader","California Pizza Kitchen",cpk.com,Restaurants,"$23.6K – $29.8K a year",,"Waialae-Kahala area",Honolulu,HI,"96816"
+2022-01-22,"Retail Sales Associate","Crazy Shirts",crazyshirts.com,"Apparel & Fashion","From $15 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-22,"Assistant Manager","FCH Enterprises Inc",fchenterprises.com,"Food & Beverages","$26.1K – $33.1K a year",,"Hawaii Kai area",Honolulu,HI,"96825"
+2022-01-23,"Kitchen Shift Leader","California Pizza Kitchen",cpk.com,Restaurants,"$23.6K – $29.8K a year",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-23,"Kitchen Shift Leader","California Pizza Kitchen",cpk.com,Restaurants,"$23.6K – $29.8K a year",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-22,"Maintenance Porter","SP Plus Corporation",spplus.com,"Facilities Services","$13 an hour",,"Downtown area",Honolulu,HI,"96813"
+2022-01-23,"Store Crew",Jollibee,jollibeefoods.com,Restaurants,"$13.10 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-23,"Full Time Retail Sales Associate-135","Crazy Shirts",crazyshirts.com,"Apparel & Fashion","$15 - $16 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-23,"Management Fast track Financial Professional","New York Life",experiencehfs.com,,"$52.9K – $66.9K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-22,"Housekeeper - Full Time & Benefits","Aston Waikiki Sunset",,,"$26.4K – $33.4K a year",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-22,"Reservations Clerk","Marriott International, Inc",,,,,"Waikiki area",Honolulu,HI,"96815"
+2022-01-22,"Guest Services Coordinator","Marriott International, Inc",,,,,"Waikiki area",Honolulu,HI,"96815"
+2022-01-23,"Registered Nurse (RN)- $50 per hour- $60 per hour","Fair Healthcare Staffing",,,"$50 an hour",,,Honolulu,HI,""
+2022-01-22,"Member Service Representative (Part-Time) - Pearl Harbor","Navy Federal Credit Union",navyfederal.org,"Financial Services","$21 an hour",,"Airport area",Honolulu,HI,"96818"
+2022-01-22,"PARKING CASHIER","ABM Industries",marriott.com,"Computer Software","$26K – $33K a year",,"McCully-Moiliili area",Honolulu,HI,"96826"
+2022-01-23,"Teaching Assistant, Glassblowing - Academy, Grades 9-12",Punahou,punahou.edu,"Primary/Secondary Education","$29.5K – $37.3K a year",,"Manoa area",Honolulu,HI,"96822"
+2022-01-22,"Loss Prevention Officer","Marriott International, Inc",,,,,"Waikiki area",Honolulu,HI,"96815"
+2022-01-23,"Cashier-Food Service Worker",Sodexo,sodexo.com,"Facilities Services","$19.5K – $24.7K a year",,"Manoa area",Honolulu,HI,"96822"
+2022-01-22,"STORE WORKER (Part Time/ RAMS)","Navy Exchange Service Command",nexweb.org,,"$12.94 an hour",,,Honolulu,HI,""
+2022-01-22,"OTA Instructional Designer & Lecturer - Casual Hire","University of Hawaii",hawaii.edu,"Higher Education","$40 an hour",,,Honolulu,HI,""
+2022-01-23,"Food Prep Helper",Sodexo,sodexo.com,"Facilities Services","$20.5K – $25.9K a year",,"Manoa area",Honolulu,HI,"96822"
+2022-01-22,"Driver Helper","Honolulu Freight Service",hfsnet.com,"Freight & Logistics Services , Transportation","$13 - $14 an hour",,,Honolulu,HI,""
+2022-01-24,"Administrative Support Team Associate, Ala Moana - Part Time",Macy’s,,,,,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-22,"Oakley - Specialized Consultant","Oakley Retail",oakley.com,"Apparel & Fashion","$20.6K – $26K a year",,"Diamond Head-Kapahulu area",Honolulu,HI,"96815"
+2022-01-22,"Sales Associate Oakley","Oakley Retail",oakley.com,"Apparel & Fashion","$20.7K – $26.1K a year",,"Diamond Head-Kapahulu area",Honolulu,HI,"96815"
+2022-01-24,"Retail Fragrances Sales Associate - Chanel, Ala Moana - Part...",Macy’s,,,,,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-23,"Nurse Aide -Arcadia Home Health Services","The Arcadia Family of Companies",arcadia.org,"Hospital & Health Care","$25.9K – $32.7K a year",,,Honolulu,HI,""
+2022-01-22,"Sales Associate Oakley","Oakley Retail",oakley.com,"Apparel & Fashion","$20.7K – $26.1K a year",,,Honolulu,HI,"96814"
+2022-01-22,"Hosthelp (Part Time) - Tropics Bar & Grill at Hilton Hawaiia...",Hilton,hiltonmyersadv.com,"Advertising & Marketing, Business Services, Human Resources & Staffing, Â ... Lodging & Resorts, Hos","$20.4K – $25.8K a year",,"Diamond Head-Kapahulu area",Honolulu,HI,"96815"
+2022-01-22,"Sales Associate Sunglass Hut","Sunglass Hut",,,"$23.8K – $30.2K a year",,,Honolulu,HI,"96814"
+2022-01-24,"Sales Associate - Womens Ready to Wear, Ala Moana - Part Tim...",Bloomingdale’s,,,,,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-22,"Sales Associate Sunglass Hut",Luxottica,luxottica.com,"Luxury Goods & Jewelry","$23.5K – $29.7K a year",,,Honolulu,HI,"96814"
+2022-01-23,"Sales Associate Oakley",Luxottica,luxottica.com,"Luxury Goods & Jewelry","$20.2K – $25.6K a year",,"Diamond Head-Kapahulu area",Honolulu,HI,"96815"
+2022-01-24,"Retail Cosmetics Sales - Prestige Beauty, Waikiki - Part Tim...",Macy’s,,,,,"Waikiki area",Honolulu,HI,"96815"
+2022-01-24,"Retail Cosmetics Sales - Shiseido, Ala Moana - Part Time",Macy’s,,,,,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-21,"Team Member - Royal Hawaiian Shop. Ctr.",Sbarro,,,"$19.2K – $24.4K a year",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-22,"Sales Associate Oakley",Luxottica,luxottica.com,"Luxury Goods & Jewelry","$20.2K – $25.6K a year",,,Honolulu,HI,"96814"
+2022-01-23,Cleaner,"Sparkling Clean Solutions",,,"$20 - $30 an hour",,,Honolulu,HI,""
+2022-01-22,"Guest Services","Kaimana Beach Hotel",kaimana.com,Hospitality,"From $24 an hour",,"Diamond Head-Kapahulu-St. Louis area",Honolulu,HI,"96815"
+2022-01-24,"Medical Receptionist","Center for Innovative Medicine",,,"Up to $20 an hour",,"Makiki-Lower Punchbowl-Tantalus area",Honolulu,HI,"96814"
+2022-01-22,"Partnership Manager","Anytime Fitness",hagerstownsportsclubfitness.com,"Health, Wellness & Fitness","$25,000 - $143,972 a year",,,Honolulu,HI,"96813"
+2022-01-22,"Field Technician",MKThink,mkthink.com,"Architecture, Engineering & Design , Construction","$20 an hour",,,Honolulu,HI,""
+2022-01-22,"Registered Nurse (RN)",Maxicare-Link,,,"$30 - $33 an hour",,,Honolulu,HI,""
+2022-01-22,"Cashier (Part-Time) - Food Pantry Eaton Square","Food Pantry Ltd",,,"$29.3K – $37.1K a year",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-22,"Construction Draw Inspector","GMC-CMI Corporation",,,"$45 - $50 an hour",,,Honolulu,HI,""
+2022-01-22,"Aircraft Cleaner","PrimeFlight Aviation Services Inc",primeflight.com,Airlines/Aviation,"$23.1K – $29.3K a year",,,Honolulu,HI,"96819"
+2022-01-22,"Team Member","Popeyes Hawaii",,,"Up to $17 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-22,"MAC Artist - Part-time - Kahala-Macy's - Honolulu, Hawaii","Estée Lauder Companies",,,"$26.2K – $33.2K a year",,,Honolulu,HI,""
+2022-01-22,"Barista (Diamond Head)","Coffee Bean & Tea Leaf Hawaii",,,"$19.6K – $24.8K a year",,"Diamond Head-Kapahulu-St. Louis area",Honolulu,HI,"96815"
+2022-01-24,"Personal Assistant","HI Supreme LLC",,,"$12 - $23 an hour",,,Honolulu,HI,""
+2022-01-24,"Hospitality Team Member","Via Gelato",,,"From $15 an hour",,"Kaimuki area",Honolulu,HI,"96816"
+2022-01-23,Receptionist,"hawai'i habitat",hawaiihabitat.org,"Nonprofit Organization Management","$38.2K – $48.4K a year",Remote,,Honolulu,HI,""
+2022-01-22,"Barista (Kahala)","Coffee Bean & Tea Leaf Hawaii",,,"$19.6K – $24.8K a year",,"Waialae-Kahala area",Honolulu,HI,"96816"
+2022-01-22,"House cleaning at a private home.","Sax Household",youtube.com,Internet,"$24 an hour",,"Diamond Head-Kapahulu-St. Louis area",Honolulu,HI,"96815"
+2022-01-24,"Kono's Kapahulu is HIRING Crew Member! ($11 + TIPS)","Kono's Restaurant Hawaii",,,"From $11 an hour",,"Diamond Head-Kapahulu-St. Louis area",Honolulu,HI,"96816"
+2022-01-22,"Delivery Driver","Malama Meals Oahu",malamamealsoahu.com,,"$14 - $17 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-22,"Merchandiser in Oahu Retail Stores","The Islander Group",,,"$16 an hour",,,Honolulu,HI,""
+2022-01-23,"Sales Associate","Sugar Sugar Hawaii - Ala Moana",sugarsugarhi.com,,"$13 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-22,"Deli Clerk (Part-Time) - Food Pantry Eaton Square","Food Pantry Ltd",,,"$23.5K – $29.7K a year",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-23,"Veterinary Technician or Assistant","Island Veterinary Care",,,"$15 - $23 an hour",,"McCully-Moiliili area",Honolulu,HI,"96826"
+2022-01-22,"Barista (Ward/South Shore Market)","Coffee Bean & Tea Leaf Hawaii",,,"$19.6K – $24.8K a year",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-24,"Office Associate SSA at Honolulu Zoo","SSA Group, LLC",thessagroup.com,"Events Services","$14.50 an hour",,"Diamond Head-Kapahulu-St. Louis area",Honolulu,HI,"96815"
+2022-01-22,Counter/Cashier,"FCH Enterprises Inc",fchenterprises.com,"Food & Beverages","$20.7K – $26.1K a year",,,Honolulu,HI,"96813"
+2022-01-23,"Cashier/Barista/Customer Service/Shave Ice","Island Vintage Coffee",islandvintagecoffee.com,"Food & Beverages","$12 - $16 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-22,"House Attendant","Caring Manoa",,,"$14 - $16 an hour",,"Manoa area",Honolulu,HI,"96822"
+2022-01-23,"US TEMPLATE Retail Floor Leader",Skechers,skechers.com,Retail,"$23.7K – $29.9K a year",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-24,Dishwasher/Utility,"Yama's Fish Market",yamasfishmarket.com,"Food & Beverages","$14 an hour",,"McCully-Moiliili area",Honolulu,HI,"96826"
+2022-01-24,"FOH and BOH team members Temporary 3-6 months","Giovanni's Shrimp Truck",,,"$12 - $15 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96813"
+2022-01-23,"Dental receptionist/assisstant","Kapalama dental clinic",,,"$14 - $19 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-24,"Kono's Waikiki is looking for Shift Leaders! ($13+Lots of Ti...","Kono's Restaurant Hawaii",,,"From $13 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-22,"Retail Associate SSA at Hanauma Bay","SSA Group, LLC",thessagroup.com,"Events Services","$21.3K – $26.9K a year",,"Hawaii Kai area",Honolulu,HI,"96825"
+2022-01-24,"Food prep/Utility","Yama's Fish Market",yamasfishmarket.com,"Food & Beverages","From $14 an hour",,"McCully-Moiliili area",Honolulu,HI,"96826"
+2022-01-22,"Housekeeper (Casual On-Call)","Ewa Hotel Waikiki",,,"$23.9K – $30.3K a year",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-23,"Nurse Aide -Arcadia Home Health Services","ARCADIA RETIREMENT",,,"$25.9K – $32.7K a year",,"Makiki-Lower Punchbowl-Tantalus area",Honolulu,HI,"96822"
+2022-01-22,"Housekeeper (Casual On-Call)","Pagoda Hotel",,,"$23.9K – $30.3K a year",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-22,Counter/Cashier,"FCH Enterprises Inc",fchenterprises.com,"Food & Beverages","$12 - $13 an hour",,"Palolo area",Honolulu,HI,"96816"
+2022-01-22,"Team Members - Barista, Cashier, Prep (The Alley-HI)","Kei Concepts",keiconcepts.info,"Food & Beverages","From $12 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-22,"Air Guard 2","PrimeFlight Aviation Services Inc",primeflight.com,Airlines/Aviation,"$21.1K – $26.7K a year",,,Honolulu,HI,"96819"
+2022-01-24,"Security Officer / Residential Specialists (Part-time)","Plaza Landmark",,,"From $15 an hour",,"Aliamanu-Salt Lake-Foster Village area",Honolulu,HI,"96818"
+2022-01-23,"Store Crew",Jollibee,jollibeefoods.com,Restaurants,"$13.10 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-22,"Medical Assistant - Hawaii Kai, Family Practice","Hawaii Pacific Health",hawaiipacifichealth.org,"Hospital & Health Care","$30.4K – $38.6K a year",,,Honolulu,HI,""
+2022-01-22,"OTA Instructional Designer & Lecturer - Casual Hire","University of Hawaii",hawaii.edu,"Higher Education","$40 an hour",,,Honolulu,HI,""
+2022-01-22,"Seasonal Stockroom Associate- Waikiki","Kate Spade",adelington.com,,"$25K – $31.6K a year",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-22,"Medical Assistant - Endocrinology","Hawaii Pacific Health",hawaiipacifichealth.org,"Hospital & Health Care","$31.2K – $39.4K a year",,,Honolulu,HI,""
+2022-01-23,"CASHIER CLERK - TEMPORARY - WAIKIKI AQUARIUM - OAHU","State of Hawai'i",ehawaii.gov,"Government Administration","$2,760 - $3,359 a month",,,Honolulu,HI,"96813"
+2022-01-22,"Assistant Stabilization Program Manager (Full-Time, Temporar...","Hawai'i Health & Harm Reduction Center",hhhrc.org,"Hospital & Health Care","Up to $29 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96813"
+2022-01-23,Cleaner,"Sparkling Clean Solutions",,,"$20 - $30 an hour",,,Honolulu,HI,""
+2022-01-22,"Virtual Webinar Presenter","HOH Digital",,,"$34,000 - $64,000 a year",Remote,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-22,"Field Technician",MKThink,mkthink.com,"Architecture, Engineering & Design , Construction","$20 an hour",,,Honolulu,HI,""
+2022-01-22,"MAC Artist - Part-time - Kahala-Macy's - Honolulu, Hawaii","Estée Lauder Companies",,,"$26.2K – $33.2K a year",,,Honolulu,HI,""
+2022-01-24,"Personal Assistant","HI Supreme LLC",,,"$12 - $23 an hour",,,Honolulu,HI,""
+2022-01-22,"HR Assistant","The Care Center of Honolulu",ccoh.us,"Hospital & Health Care","From $18.50 an hour",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-23,"Veterinary Technician or Assistant","Island Veterinary Care",,,"$15 - $23 an hour",,"McCully-Moiliili area",Honolulu,HI,"96826"
+2022-01-26,"Customer Success Representative",Pearson,pearson.com,"Education Management","$39.3K – $49.7K a year",,,Honolulu,HI,""
+2022-01-24,"Administrative Assistant I - Food Service","Lanakila Pacific",lanakilapacific.org,"Nonprofit Organization Management","$26.2K – $33.2K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-26,"Medical Records Clerk","Kalihi Palama Health Center",kphc.org,"Hospital & Health Care","$27K – $34.2K a year",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-26,"Fulfillment Representative I","Hawaii Medical Service Association",hmsa.com,Insurance,"$26.6K – $33.6K a year",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-25,"Registered Client Service Associate","Morgan Stanley",morganstanleybranch.com,"Financial Services","$35.4K – $44.8K a year",,,Honolulu,HI,""
+2022-01-27,"Customer Care Coordinator","American Floor and Home",americanfloorandhome.com,Retail,"$28.9K – $36.5K a year",,,Honolulu,HI,"96819"
+2022-01-26,"Fulfillment Representative II","Hawaii Medical Service Association",hmsa.com,Insurance,"$26.5K – $33.5K a year",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-25,"Community Support Staff","Choosy Brand",getchoosy.com,"Apparel & Fashion","$20 - $30 an hour",,,Honolulu,HI,""
+2022-01-27,"Sales Administrative Assistant","American Floor and Home",americanfloorandhome.com,Retail,"$17 - $20 an hour",,,Honolulu,HI,"96819"
+2022-01-27,"Retail Sales Consultant Kapiolani",AT&T,att.com,Telecommunications,"$55,965 a year",,,Honolulu,HI,""
+2022-01-27,"ADMIN - GENERAL_OFFICE_CLERK","Hawktree International",hawktree.net,"Logistics & Supply Chain","$27.1K – $34.3K a year",,,Honolulu,HI,"96819"
+2022-01-25,"Sales Administrative Assistant","Bougainville Flooring Super Store",,,"$15 - $18 an hour",,"Airport area",Honolulu,HI,"96818"
+2022-01-26,"Retail Sales Representative",Verizon,verizon.co.in,,"$40.4K – $51.2K a year",,"Palolo area",Honolulu,HI,"96816"
+2022-01-27,"Sales Consultant","American Floor and Home",americanfloorandhome.com,Retail,"$48,000 - $100,000 a year",,,Honolulu,HI,"96819"
+2022-01-26,"Control Clerk","Outrigger Hospitality Group",outrigger.com,Hospitality,"$26.8K – $34K a year",,,Honolulu,HI,""
+2022-01-27,"Patient Access Representative I","REHAB Hospital of the Pacific",,,"$27.3K – $34.5K a year",,,Honolulu,HI,""
+2022-01-26,"Enrollment Specialist","Choosy Brand",getchoosy.com,"Apparel & Fashion","$20 - $30 an hour",,,Honolulu,HI,""
+2022-01-25,"Enrollment Specialist","Choosy Brand",getchoosy.com,"Apparel & Fashion","$20 - $30 an hour",,,Honolulu,HI,""
+2022-01-27,"Patient Access Representative I","Rehabilitation Hospital of the Pacific",rehabhospital.org,"Hospital & Health Care","$27.7K – $35.1K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-26,"Pricing & Content Coordinator","AAA Hawaii",,,"$15.50 - $18.50 an hour",Remote,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-25,"Patient Registrar - Guest Registration","Hawaii Pacific Health",hawaiipacifichealth.org,"Hospital & Health Care","$29K – $36.8K a year",,,Honolulu,HI,""
+2022-01-27,"Physician - Community Pediatrics","Hawaii Pacific Health",hawaiipacifichealth.org,"Hospital & Health Care","$140K – $178K a year",,,Honolulu,HI,""
+2022-01-25,"Sterile Processing Aide II (Rotating)","The Queen's Medical Center",queens.org,"Hospital & Health Care","$60.5K – $76.7K a year",,,Honolulu,HI,""
+2022-01-27,"Teller Services Associate - Hawaii Kai Branch","Hawaii State Federal Credit Union",hawaiistatefcu.com,"Financial Services","$27.7K – $35.1K a year",,"Hawaii Kai area",Honolulu,HI,"96825"
+2022-01-24,"Imaging Assistant (Rotating) - Multiple Openings","The Queen's Medical Center",queens.org,"Hospital & Health Care","$28K – $35.4K a year",,,Honolulu,HI,""
+2022-01-27,"Independent Loan Originator","Loan Factory",loanfactory.com,"Financial Services","$47K – $59.4K a year",,,Honolulu,HI,""
+2022-01-25,Houseperson,"Marriott Vacations Worldwide",marriottvacationsworldwide.com,Hospitality,,,"Waikiki area",Honolulu,HI,"96815"
+2022-01-24,"Account Executive",Popmenu,popmenu.com,Internet,"$120,000 - $150,000 a year",Remote,,Honolulu,HI,""
+2022-01-25,"District Executive","Boy Scouts of America Aloha Council",,,"$53.6K – $67.8K a year",,"Nuuanu-Punchbowl area",Honolulu,HI,"96817"
+2022-01-25,"(#78276T) Student Services Specialist","University of Hawaii",hawaii.edu,"Higher Education","$39K – $49.4K a year",,,Honolulu,HI,""
+2022-01-27,"Apprentice Installer","American Floor and Home",americanfloorandhome.com,Retail,"$17 an hour",,,Honolulu,HI,"96819"
+2022-01-24,"Patient Service Representative - Queens Cancer Center POB I...","The Queen's Medical Center",queens.org,"Hospital & Health Care","$26.4K – $33.4K a year",,,Honolulu,HI,""
+2022-01-26,"Endoscopic Procedure Technician (D/E)","The Queen's Medical Center",queens.org,"Hospital & Health Care","$28K – $35.4K a year",,,Honolulu,HI,""
+2022-01-25,"Field Operations Support Assistant","SCI Shared Resources, LLC",sci-corp.com,"Individual & Family Services","$28.1K – $35.5K a year",,"Makiki area",Honolulu,HI,"96823"
+2022-01-26,"Test Center Administrator - Honolulu, HI","PSI Services LLC",psionline.com,"Information Technology & Services","$13.25 an hour",,,Honolulu,HI,"96814"
+2022-01-27,"HR/Payroll Specialist","American Floor and Home",americanfloorandhome.com,Retail,"$34.5K – $43.7K a year",,,Honolulu,HI,"96819"
+2022-01-27,"Imaging Assistant - Fetal Diagnostic Center","Hawaii Pacific Health",hawaiipacifichealth.org,"Hospital & Health Care","$30.9K – $39.1K a year",,,Honolulu,HI,""
+2022-01-25,"Flooring Specialist","Bougainville Flooring Super Store",,,"$33.4K – $42.4K a year",,"Airport area",Honolulu,HI,"96818"
+2022-01-26,"Multiline Claims Associate Adjuster to Adjuster - FiRMS Clai...","FICOH, LTD",ficoh.com,Insurance,"$40.9K – $51.9K a year",,,Honolulu,HI,"96814"
+2022-01-25,"Product Planning Associate","Servco Pacific Inc.",servco.com,"Consumer Goods","$32.6K – $41.2K a year",,,Honolulu,HI,"96819"
+2022-01-26,"Driver Training Program - OAHU","Polynesian Adventure Activities",polyad.com,Hospitality,"$28.5K – $36.1K a year",,,Honolulu,HI,"96819"
+2022-01-25,"Lead Specialist, Compliance",AmerisourceBergen,amerisourcebergen.com,"Hospital & Health Care",,,,Honolulu,HI,""
+2022-01-27,"Assistant Service Manager","Lithia Motors, Inc.",,,,,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-26,"Relationship Banking Representative","Hawaii National Bank 23725",,,"$24.3K – $30.7K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-27,"WAREHOUSE WORKER (RFT/Distribution Center Storage Dept)","Navy Exchange Service Command",nexweb.org,,"$14.91 an hour",,,Honolulu,HI,""
+2022-01-25,Warehouse,"Bougainville Flooring Super Store",,,"$15 - $18 an hour",,"Airport area",Honolulu,HI,"96818"
+2022-01-26,"Project Administrators - Guam","Hensel Phelps Construction Co",henselphelpspacific.com,,"$45.5K – $57.5K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-27,"WAREHOUSE WORKER (RFT/Distribution Center Receiving Departme...","Navy Exchange Service Command",nexweb.org,,"$14.91 an hour",,,Honolulu,HI,""
+2022-01-27,"Risk Management & Insurance Analyst",Pearson,pearson.com,"Education Management","$67.4K – $85.4K a year",,,Honolulu,HI,""
+2022-01-25,"Prepared Foods Team Member (Deli Service Counter & Culinary...","Whole Foods Market",wholefoodsmarket.com,Supermarkets,"$27.6K – $35K a year",,"Waialae-Kahala area",Honolulu,HI,"96816"
+2022-01-27,"Public Relations Specialist",Deloitte,deloitte.com,"Management Consulting","$46.6K – $59K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-27,"Dietitian, Ornish - Intensive Cardiac Rehab","Hawaii Pacific Health",hawaiipacifichealth.org,"Hospital & Health Care","$61.3K – $77.7K a year",,,Honolulu,HI,""
+2022-01-26,"Clerical Sales Experience - Ala Moana","Neiman Marcus",neimanmarcusstores.com,,"$42.8K – $54.2K a year",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-26,"Complex Revenue Analyst","Courtyard Waikiki Beach",,,"$46.2K – $58.6K a year",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-27,"All-Source Intelligence Analyst Subject Matter Expert","Yorktown Systems Group",,,"$52.3K – $66.3K a year",,"Makiki area",Honolulu,HI,"96801"
+2022-01-26,"Machine Operator (Night Shift)","Hawaiian Host Honolulu, Inc.",,,"$30.8K – $39K a year",,,Honolulu,HI,""
+2022-01-27,"Open-Source Intelligence Analyst","Yorktown Systems Group",,,"$62.5K – $79.1K a year",,"Makiki area",Honolulu,HI,"96801"
+2022-01-25,"Transporter (Rotating)","The Queen's Medical Center",queens.org,"Hospital & Health Care","$33.6K – $42.6K a year",,,Honolulu,HI,""
+2022-01-27,"Parts Manager","Lithia Motors, Inc.",,,,,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-26,"Merchandiser - Soft Drinks","The Odom Corporation",odomcorp.com,Wholesale,"$28.7K – $36.3K a year",,,Honolulu,HI,"96819"
+2022-01-25,"Family Service Counselor","SCI Shared Resources, LLC",sci-corp.com,"Individual & Family Services","$26K – $33K a year",,"Makiki area",Honolulu,HI,"96823"
+2022-01-26,"Clinician 1 (Full-Time) - Honolulu, HI #PPH","Planned Parenthood GNHI",,,"$57.5K – $72.7K a year",,"Makiki-Lower Punchbowl-Tantalus area",Honolulu,HI,"96814"
+2022-01-27,"Express Lube Advisor","Lithia Motors, Inc.",,,,,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-27,"Service Advisor","Lithia Motors, Inc.",,,,,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-25,"Market Manager","Choosy Brand",getchoosy.com,"Apparel & Fashion","$20 - $30 an hour",,,Honolulu,HI,""
+2022-01-27,"Physician - Pediatric Physiatry","Hawaii Pacific Health",hawaiipacifichealth.org,"Hospital & Health Care","$195K – $248K a year",,,Honolulu,HI,""
+2022-01-27,"Sales Representative","Lithia Motors, Inc.",,,,,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-27,"Lot Attendant/Porter","Lithia Motors, Inc.",,,,,,Honolulu,HI,"96819"
+2022-01-25,"TEMP RN - Adolescent Psych (D/E)","The Queen's Medical Center",queens.org,"Hospital & Health Care","$76.9K – $97.3K a year",,,Honolulu,HI,""
+2022-01-25,Dosimetrist,"The Queen's Medical Center",queens.org,"Hospital & Health Care","$64.7K – $81.9K a year",,,Honolulu,HI,""
+2022-01-25,"Wireless Specialist","Choosy Brand",getchoosy.com,"Apparel & Fashion","$20 - $30 an hour",,,Honolulu,HI,""
+2022-01-25,"Retail Sales - Kids' Apparel & Shoes - Ala Moana",Nordstrom,norddstrom.com,,"$32.7K – $41.3K a year",,,Honolulu,HI,""
+2022-01-26,"Registered Dietitian","Kalihi Palama Health Center",kphc.org,"Hospital & Health Care","$59.3K – $75.1K a year",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-25,"Wireless Specialist","Choosy Brand",getchoosy.com,"Apparel & Fashion","$20 - $30 an hour",,,Honolulu,HI,""
+2022-01-27,"Parts Advisor","Lithia Motors, Inc.",,,,,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-26,"Activities Instructor - Full Time","Aegis Therapies",aegistherapies.com,"Hospital & Health Care","Up to $17 an hour",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-24,"Sales Specialist - Cabinets",Lowe's,lowes.com,Retail,,,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-27,"Housekeeper II Rooms","Outrigger Hospitality Group",outrigger.com,Hospitality,"$23.8K – $30.2K a year",,,Honolulu,HI,""
+2022-01-26,"Parts Delivery","O'Reilly Auto Parts",oreillyauto.com,Retail,,,"Airport area",Honolulu,HI,"96818"
+2022-01-24,"Pharmacy Customer Associate - Designated Hitter",WALGREENS,walgreens.com,Retail,"$30.1K – $38.1K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-26,"Hepatologist (Transplant)","The Queen's Medical Center",queens.org,"Hospital & Health Care","$117K – $149K a year",,,Honolulu,HI,""
+2022-01-24,"NURSERY WORKER I (PLANT PROPAGATION) (BC-05)","City and County of Honolulu",honolulu.gov,"Government Administration","$31.4K – $39.8K a year",,,Honolulu,HI,"96813"
+2022-01-27,"Service Technician","Lithia Motors, Inc.",,,"$1,500 a month",,,Honolulu,HI,"96819"
+2022-01-24,"WATER SYSTEMS OPERATOR I (BC-09)","City and County of Honolulu",honolulu.gov,"Government Administration","$31K – $39.2K a year",,,Honolulu,HI,"96813"
+2022-01-27,"Sales Specialist - Flooring",Lowe's,lowes.com,Retail,,,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-25,"Outbound Selector - USBL - US-1",Sysco,sysco.com,"Food & Beverages",,,,Honolulu,HI,"96814"
+2022-01-27,"Warehouse Material Handler",Graybar,graybar.com,Wholesale,"$28.2K – $35.8K a year",,,Honolulu,HI,"96814"
+2022-01-24,"WATER QUALITY TECHNICIAN I (SR-13)","City and County of Honolulu",honolulu.gov,"Government Administration","$34K – $43K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-24,"Sales Associate - Handbags, Full Time: Ala Moana",Bloomingdale’s,,,,,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-25,"RN - Endoscopy (D/E 40)","The Queen's Medical Center",queens.org,"Hospital & Health Care","$73.9K – $93.5K a year",,,Honolulu,HI,""
+2022-01-27,"Driver Commercial Drivers License-B (HI only) - USBL - US",Sysco,sysco.com,"Food & Beverages",,,,Honolulu,HI,"96814"
+2022-01-26,"Registered Nurse, Charge - Perioperative Services","Hawaii Pacific Health",hawaiipacifichealth.org,"Hospital & Health Care","$70.4K – $89.2K a year",,,Honolulu,HI,""
+2022-01-25,"GENERAL PROFESSIONAL V (PUBLIC DEBT COMPLIANCE) - DOWNTOWN,...","State of Hawai'i",ehawaii.gov,"Government Administration","$5,178 - $6,299 a month",,,Honolulu,HI,"96813"
+2022-01-27,"Driver Commercial Drivers License-B (HI only) - USBL - US-1",Sysco,sysco.com,"Food & Beverages",,,,Honolulu,HI,"96814"
+2022-01-24,"COMPUTER PROGRAMMER II (SR-18)","City and County of Honolulu",honolulu.gov,"Government Administration","$60.6K – $76.8K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-27,"Civil EIT/Coordinator",HDR,hdrinc.com,Design,"$56.1K – $71.1K a year",,,Honolulu,HI,""
+2022-01-25,"TEMP RN - Emergency (D/N 36)","The Queen's Medical Center",queens.org,"Hospital & Health Care","$86.4K – $109K a year",,,Honolulu,HI,""
+2022-01-25,"RN - Neuro Tele (D/N 36)","The Queen's Medical Center",queens.org,"Hospital & Health Care","$70K – $88.6K a year",,,Honolulu,HI,""
+2022-01-24,"MECHANICAL REPAIRER (BC-09)","City and County of Honolulu",honolulu.gov,"Government Administration","$36.5K – $46.3K a year",,,Honolulu,HI,"96813"
+2022-01-26,"Customer Service Rep-Self Storage Mgr","Public Storage",publicstorage.com,"Real Estate","$15.50 an hour",,,Honolulu,HI,""
+2022-01-27,"Youth Partner (Full-time/Part-time, Oahu)","EPIC 'Ohana, Inc.",,,"From $17 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-27,"Full Time Front Dental Receptionist","Uehara Family Cosmetic Dentistry",,,"$12 - $15 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-27,"General Office Clerk/Administrative Assistant","Hawaiian Sun Products",,,"$11 - $17 an hour",,"Kalihi-Palama area",Honolulu,HI,"96819"
+2022-01-27,"Member Service Representative/Teller","Kamehameha Federal Credit Union",kamehamehafcu.org,"Financial Services","$12 - $16 an hour",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-27,"Restaurant Take-out Server","California Pizza Kitchen",cpk.com,Restaurants,"$23K – $29.2K a year",,"Waialae-Kahala area",Honolulu,HI,"96816"
+2022-01-25,"The Search for Snoopy: A Peanuts Adventure - Box Office Staf...","Kilburn Live",,,"$15.50 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-26,"Marketing and Outreach Coordinator","Nomi Health",nomihealth.com,"Computer Software","$37.2K – $47K a year",,,Honolulu,HI,""
+2022-01-25,"Dress for Success Honolulu Donation and Volunteer Coordinato...","YWCA Oahu",,,"$31.3K – $39.7K a year",,,Honolulu,HI,"96813"
+2022-01-26,"Sales Associate FT- Luxury Retail",RIMOWA,rimowa.com,"Luxury Goods & Jewelry","$26.9K – $34.1K a year",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-27,Telefundraiser,"Youth Event Services",youtheventservices.com,,"$13 - $20 an hour",Remote,,Honolulu,HI,""
+2022-01-26,"Veterinary Receptionist/Customer Care","King Street Pet Hospital",,,"$11 - $19 an hour",,"McCully-Moiliili area",Honolulu,HI,"96826"
+2022-01-27,"Merchandiser/Stock Clerk (Oahu Evenings)","Hawaii Foodservice Alliance",hfahawaii.com,"Food & Beverages","$25.2K – $31.8K a year",,,Honolulu,HI,""
+2022-01-26,"Courier Driver","Courier Corporation of Hawaii",,,"$12 - $19 an hour",,,Honolulu,HI,""
+2022-01-26,"Catering Screener","SCIS Air Security Corporation",scissolutions.com,,"$15.50 an hour",,"Daniel K. Inouye International Airport area",Honolulu,HI,"96819"
+2022-01-27,"Boarding Agent","Norton Lilly International",nortonlilly.com,Maritime,"$35.7K – $45.3K a year",,,Honolulu,HI,"96813"
+2022-01-26,"Legal Assistant","Motooka Rosenberg Lau and Oyama",,,"$2,000 a month",,"Downtown area",Honolulu,HI,"96813"
+2022-01-25,"The Search for Snoopy: A Peanuts Adventure - Costume Charact...","Kilburn Live",,,"$16.50 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-26,"Activities Assistant - Part Time (PUN)","The Plaza Assisted Living",theplazaassistedliving.com,"Hospital & Health Care","$15 an hour",,"Makiki-Lower Punchbowl-Tantalus area",Honolulu,HI,"96822"
+2022-01-25,"The Search for Snoopy: A Peanuts Adventure - Entertainment H...","Kilburn Mini Golf Experience",puttshack.com,Hospitality,"$15.50 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-27,"Enrollment Representative II","University Health Alliance",uhahealth.com,Insurance,"$26K – $33K a year",,,Honolulu,HI,"96813"
+2022-01-25,"The Search for Snoopy: A Peanuts Adventure - Floor Manager","Kilburn Live",,,"$19.50 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-25,"Entry-level Survey Rod Person","ControlPoint Surveying Inc.",cpshawaii.com,"Computer Software","From $15 an hour",,,Honolulu,HI,""
+2022-01-26,"Sales Associate - Luxury Retail",RIMOWA,rimowa.com,"Luxury Goods & Jewelry","$30.4K – $38.4K a year",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-25,"The Search for Snoopy: A Peanuts Adventure - Retail Staff","Kilburn Live",,,"$15.50 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-27,"Loan Assistant","Kamehameha Federal Credit Union",kamehamehafcu.org,"Financial Services","$14 - $22 an hour",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-25,"Retail Sales Associate","Motion Art Ltd.",motionartstudio.eu,,"$15 - $18 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-27,"Help Desk Technician","Pan Pacific Retail Management (Hawaii)",,,"From $18 an hour",,,Honolulu,HI,""
+2022-01-25,"Kono's Waikiki is searching for Burrito Slanging CHAMPION! (...","Kono's Restaurant Hawaii",,,"From $11 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-25,"The Search for Snoopy: A Peanuts Adventure - Scenic Team/Art...","Kilburn Live",,,"$25 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-26,"Retail Sales Associate","Crazy Shirts",crazyshirts.com,"Apparel & Fashion","From $15 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-26,"Jewelry Sales Associate for a Locally Owned Company","Pacific Diamond Wedding Rings",,,"$550 - $700 a week",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-27,"Front of House Team Member","Kona Coffee Purveyors | b. patisserie",,,"From $14 an hour",,"Diamond Head-Kapahulu area",Honolulu,HI,"96815"
+2022-01-26,"Medical Assistant","Kokua Kalihi Valley Comprehensive Family Services",kkv.net,"Hospital & Health Care","$30.1K – $38.1K a year",,"Kalihi Valley area",Honolulu,HI,"96819"
+2022-01-25,"Administrative Clerk","Na Hoku",nahoku.com,Retail,"$15 - $17 an hour",,,Honolulu,HI,"96819"
+2022-01-26,"Medical Office Assistant","JACO Rehab LP",jacorehab.com,"Health, Wellness & Fitness","$16 - $17 an hour",,,Honolulu,HI,""
+2022-01-26,"Retail Sales Associate","Crazy Shirts",crazyshirts.com,"Apparel & Fashion","From $15 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-27,Bartender/Server,"Leahi Bar and Grill",leahigrill.com,,"$10.25 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-26,"Wholesale Office Associate","Angels by the Sea Hawaii",angelsbytheseahawaii.com,"Apparel & Fashion","Up to $16 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-27,"Accounting Clerk *Full-Time*","Kahala Nui",kahalanui.com,"Hospital & Health Care","From $20 an hour",,"Waialae-Kahala area",Honolulu,HI,"96821"
+2022-01-27,"Preschool Aide","Rainbow School - Honolulu",rainbowschools.com,"Individual & Family Services","From $12 an hour",,"Downtown area",Honolulu,HI,"96850"
+2022-01-27,"Underwriting Assistant",HEMIC,hemic.com,Insurance,"$30.1K – $38.1K a year",,,Honolulu,HI,"96813"
+2022-01-27,"Purchasing and Inventory Coordinator","Tori Richard, Ltd.",toririchard.com,"Apparel & Fashion","From $15 an hour",,"Kalihi-Palama area",Honolulu,HI,"96819"
+2022-01-26,"Live Event Operations Manager","Kilburn Live",,,"$1,300 a week",,,Honolulu,HI,""
+2022-01-27,"Sales Consultant","BedMart Mattress Superstores",shopbedmart.com,Furniture,"$50,000 - $90,000 a year",,,Honolulu,HI,""
+2022-01-25,"Barista/Cashier/Utility Worker","Honolulu Cafe",honolulucoffee.com,Entertainment,"$18K – $22.8K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-26,"Barista (Kahala)","Coffee Bean & Tea Leaf Hawaii",,,"$19.6K – $24.8K a year",,"Waialae-Kahala area",Honolulu,HI,"96816"
+2022-01-26,"Barista - Manoa","Coffee Bean & Tea Leaf Hawaii",,,"$19.6K – $24.8K a year",,"Manoa area",Honolulu,HI,"96822"
+2022-01-26,"Barista - First Hawaiian Center","Coffee Bean & Tea Leaf Hawaii",,,"$19.6K – $24.8K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-27,"Kitchen Staff","Big Kahuna’s Pizza",,,"$13 - $17 an hour",,"Daniel K. Inouye International Airport area",Honolulu,HI,"96819"
+2022-01-26,"Barista (Diamond Head)","Coffee Bean & Tea Leaf Hawaii",,,"$19.6K – $24.8K a year",,"Diamond Head-Kapahulu-St. Louis area",Honolulu,HI,"96815"
+2022-01-25,"Community Services Specialist (Leahi District Office)","Honolulu Community Action Program (HCAP)",hcapweb.org,"Individual & Family Services","$26,595 - $46,864 a year",,"Palolo area",Honolulu,HI,"96816"
+2022-01-26,Cashier/Receptionist,"Honolulu Ford",honoluluford.com,Automotive,"$12 - $16 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-26,"Full time Housekeeper $19 an hour","Waikiki Central Hotel",,,"$19 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-27,"Sales Associate","Nui Tours LLC.",,,"$25.2K – $31.8K a year",,,Honolulu,HI,""
+2022-01-24,"Community Services Specialist (Kalihi District Office)","Honolulu Community Action Program (HCAP)",hcapweb.org,"Individual & Family Services","$26,595 - $46,864 a year",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-26,"Food Service Associate SSA at Honolulu Zoo","SSA Group, LLC",thessagroup.com,"Events Services","$50.8K – $64.4K a year",,"Diamond Head-Kapahulu-St. Louis area",Honolulu,HI,"96815"
+2022-01-25,Receptionist,"Ke Ola Mamo",keolamamo.org,"Health, Wellness & Fitness","From $15 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-25,"PM HOST at QUIORA restaurant in WAIKIKI","G.Lion Hawaii",glionhawaii.com,Hospitality,"From $15 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-27,"Athletic Coach","Kamehameha Schools",ksbe.edu,"Education Management","$34K – $43K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-27,"General Labor","Aloha Tofu Factory, Inc.",aloha-tofu.com,Restaurants,"$12 - $14 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-26,"Administrative Assistant","Pond & Company",pondco.com,"Architecture & Planning","$42,000 - $50,000 a year",,"Airport area",Honolulu,HI,"96818"
+2022-01-27,"Accounting Assistant","Bronster Fujichaku Robbins",,,"$36,000 - $46,000 a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-25,"Repack Associate",Sysco,sysco.com,"Food & Beverages",,,,Honolulu,HI,"96819"
+2022-01-27,"Administrative Assistant","Manoa Botanicals LLC",noacares.com,"Health, Wellness & Fitness","$28.6K – $36.2K a year",,"Makiki-Lower Punchbowl-Tantalus area",Honolulu,HI,"96814"
+2022-01-27,"Medical Assistant - (Full Time)",Concentra,concentra.com,"Health, Wellness & Fitness","$28.1K – $35.5K a year",,,Honolulu,HI,"96819"
+2022-01-26,"Outside Sales Representative (Marketing Agency)","Marketing Agency in Orange County & Los Angeles",,,"$35,000 - $184,361 a year",,,Honolulu,HI,""
+2022-01-25,"Loss Prevention Agent","PPRM Hawaii",,,"$18 - $20 an hour",,,Honolulu,HI,""
+2022-01-27,"Executive Assistant to CEO","Rainbow Helicopters",,,"$39.4K – $49.8K a year",,"Daniel K. Inouye International Airport area",Honolulu,HI,"96819"
+2022-01-26,"Fellow Neurotechnologist","NMA (Neuromonitoring Associates)",nmaiom.com,"Health, Wellness & Fitness","$58.6K – $74.2K a year",,,Honolulu,HI,""
+2022-01-25,"Security Officer $1,000.00 hiring incentive","Alert Security Asset Protection",,,"$16 - $17 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-27,"Maintenance Worker","Iolani Court Plaza",,,"$28.2K – $35.8K a year",,"McCully-Moiliili area",Honolulu,HI,"96826"
+2022-01-27,"Registered Nurse and Medical Assistant","Kamehameha Schools",ksbe.edu,"Education Management","$56.9K – $72.1K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-26,"HR Coordinator","Allied Universal",aus.com,"Security & Investigations",,,"Makiki area",Honolulu,HI,"96801"
+2022-01-27,"Medical Assistant","Hawaii Institute of Pain",,,"$15 - $18 an hour",,,Honolulu,HI,""
+2022-01-26,"Barista (Ward)","Coffee Bean & Tea Leaf Hawaii",,,"$19.6K – $24.8K a year",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-27,"Youth Counselor - Kalihi Emergency Shelter","Hale Kipa, Inc..",,,"$27.3K – $34.5K a year",,,Honolulu,HI,"96814"
+2022-01-27,"Maintenance Workers / Maintenance Techs","Kamehameha Schools",ksbe.edu,"Education Management","$28.1K – $35.5K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-27,"Clinical Clerk","Palolo Chinese Home",palolohome.org,"Health, Wellness & Fitness","From $17.50 an hour",,"Palolo area",Honolulu,HI,"96816"
+2022-01-26,"Dishwasher/Food Prep","Outrigger Canoe Club",outriggercanoeclub.com,,"$16 - $17 an hour",,"Diamond Head-Kapahulu-St. Louis area",Honolulu,HI,"96815"
+2022-01-26,"Environmental Scientist/Industrial Hygienist","Environmental Risk Analysis LLC",,,"$40,000 - $50,000 a year",Remote,"McCully-Moiliili area",Honolulu,HI,"96826"
+2022-01-27,"Kitchen Cabinet Designer",LOWE'S,lowes.com,Retail,"$18 - $21 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-25,"Fitness Trainer","Planet Fitness - PFNY/ PFCali",,,"$21.1K – $26.7K a year",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-27,"Warehouse Associate","Pacific Source",,,"$18 - $20 an hour",,"Kalihi-Palama area",Honolulu,HI,"96819"
+2022-01-24,"Kono's Kapahulu is HIRING Crew Member! ($11 + TIPS)","Kono's Restaurant Hawaii",,,"From $11 an hour",,"Diamond Head-Kapahulu-St. Louis area",Honolulu,HI,"96816"
+2022-01-25,"Pool Deck Specialist","Waikiki Beach Activities",waikikibeachactivities.com,Maritime,"$13 - $15 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-25,"Dairy Queen Crew Member","Dairy Queen Orange Julius Navy Exchange",,,"$12 - $13 an hour",,"Airport area",Honolulu,HI,"96818"
+2022-01-26,"Supplies & Facilities Coord.","Navian Hawaii",navianhawaii.org,"Hospital & Health Care","$27.3K – $34.5K a year",Remote,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-25,"Resident Manger (LU)",AOAO,aoao.org,"Medical Practice","$57.9K – $73.3K a year",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-26,"Housekeeping Attendant/Housekeeper","The SurfJack Hotel & Swim Club",surfjack.com,Hospitality,"$20.7K – $26.3K a year",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-27,"Marketing Coordinator","Honolulu Cookie Company",honolulucookie.com,Retail,"$39.4K – $50K a year",,"Kalihi-Palama area",Honolulu,HI,"96819"
+2022-01-27,"Central Supply Clerk","Palolo Chinese Home",palolohome.org,"Health, Wellness & Fitness","From $17.50 an hour",,"Palolo area",Honolulu,HI,"96816"
+2022-01-27,"Caregiver - In-Home Care - Day Shifts Avail. - Full Time Hou...","FirstLight Home Care of Honolulu",,,"Up to $21 an hour",,,Honolulu,HI,""
+2022-01-26,"$1000 hiring incentive- Security Guard Officer","Alert Security Asset Protection",,,"$16 - $17 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-26,"Security Officer Needed (Full Time)",AOAO,aoao.org,"Medical Practice","From $16 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-25,"Pressure Washer","Block by Block",blockbyblock.com,Hospitality,"$17 - $18 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-24,Dishwasher/Utility,"Yama's Fish Market",yamasfishmarket.com,"Food & Beverages","$14 an hour",,"McCully-Moiliili area",Honolulu,HI,"96826"
+2022-01-27,"MEDICAL TRANSPORTER","Non-Emergency Medical Transporter",,,"From $12.50 an hour",,,Honolulu,HI,""
+2022-01-25,"Retail Wireless Sales Consultant","VERIZON AUTHORIZED RETAILER - GOWIRELESS",gowireless.com,Telecommunications,"$33,000 - $45,000 a year",,,Honolulu,HI,""
+2022-01-25,"Operations Manager","ZAG Community of Businesses",,,"$48,000 - $55,000 a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-27,"Infant/Toddler Aide","Rainbow School - Honolulu",rainbowschools.com,"Individual & Family Services","From $12 an hour",,"Downtown area",Honolulu,HI,"96850"
+2022-01-25,"Chief of Party","ControlPoint Surveying Inc.",cpshawaii.com,"Computer Software","$61.1K – $77.3K a year",,,Honolulu,HI,""
+2022-01-24,Barista,"Ali'i Coffee Co",,,"From $12 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-27,"Front of House (FOH)","Poke Bar Dice & Mix",,,"$11 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-25,"Overnight Custodian","Planet Fitness - PFNY/ PFCali",,,"$22.6K – $28.6K a year",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-25,"Office Associate SSA at Honolulu Zoo","SSA Group, LLC",thessagroup.com,"Events Services","$14.50 an hour",,"Diamond Head-Kapahulu-St. Louis area",Honolulu,HI,"96815"
+2022-01-27,"Outreach Case Manager","Achieve Zero",,,"$40,000 - $54,000 a year",,,Honolulu,HI,""
+2022-01-27,"Security Watchman - Luxury Waikiki Condominium","Liliuokalani Gardens at Waikiki",liliuokalanigardenswaikiki.com,,"$16 - $17 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-27,"FT Custodian - Starting pay $15.00/hr","Hy-Pac Self Storage LLC",hypac.net,Warehousing,"$15 an hour",,"Kalihi-Palama area",Honolulu,HI,"96819"
+2022-01-27,"Preschool Teaching Assistant - Oahu","Kamehameha Schools",ksbe.edu,"Education Management","$24K – $30.4K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-27,"Daytime Supervisor","Nico's Pier",,,"From $12 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-25,"Safety Associate","Block by Block",blockbyblock.com,Hospitality,"$18 - $20 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-25,"Sales Associate - Nuuanu","7-Eleven Hawaii",7elevenhawaii.com,Supermarkets,"$29.2K – $37K a year",,"Nuuanu-Punchbowl area",Honolulu,HI,"96817"
+2022-01-27,"Junk Removal Warriors Wanted","ZAG Community of Businesses",,,"$16 - $19 an hour",,,Honolulu,HI,"96814"
+2022-01-25,"Receiver (Warehouse)","D. OTANI PRODUCE",,,"$15 - $16 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-27,"Mover Driver","ZAG Community of Businesses",,,"$17 - $20 an hour",,,Honolulu,HI,"96814"
+2022-01-24,"Kahala Mall Janitor-Graveyard","Federal Maintenance, Inc.",954asphalt.com,Construction,"$24.2K – $30.6K a year",,,Honolulu,HI,"96819"
+2022-01-26,"Overnight Personal Caregiver Shift- 8pm-8am - Wed, Thurs, Fr...","FirstLight Home Care of Honolulu",,,"Up to $21 an hour",,"Waialae-Kahala area",Honolulu,HI,"96816"
+2022-01-27,"Sanitation Worker","Honolulu Cookie Company",honolulucookie.com,Retail,"$24.6K – $31.2K a year",,"Kalihi-Palama area",Honolulu,HI,"96819"
+2022-01-27,"RN (Registered Nurse) needed!","Travel Care Hawaii LLC",travelcarehawaii.com,,"$48 - $65 an hour",,,Honolulu,HI,"96814"
+2022-01-27,"Flooring Sales Specialist",LOWE'S,lowes.com,Retail,"$18 - $21 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-25,"Cookroom Boiler","Sun Noodle",,,"$13 - $15 an hour",,"Kalihi-Palama area",Honolulu,HI,"96819"
+2022-01-26,Houseperson/Houseman,"The SurfJack Hotel & Swim Club",surfjack.com,Hospitality,"$23.1K – $29.3K a year",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-27,"Medical Assistant",Concentra,concentra.com,"Health, Wellness & Fitness","$28.5K – $36.1K a year",,,Honolulu,HI,"96819"
+2022-01-25,"Program/Publication Manager","Pacific Forum International",,,"$40,000 - $50,000 a year",,,Honolulu,HI,"96813"
+2022-01-27,"Professional Mover/Driver","Ewa Moving Co.",,,"$18 - $22 an hour",,,Honolulu,HI,""
+2022-01-24,"Pediatric Dentist","Kidshine Pediatric Dental Group, LLC",,,"$60.9K – $77.1K a year",,,Honolulu,HI,""
+2022-01-27,"Residential Security Guard Moanalua Hillside","Allied Universal",aus.com,"Security & Investigations",,,,Honolulu,HI,"96813"
+2022-01-25,"Refrigeration Technician","Refrigeration Systems Construction and Service",,,"$30 - $55 an hour",,,Honolulu,HI,""
+2022-01-26,"Project Accounting Specialist","Bergeman Group",,,"$55,000 - $75,000 a year",,,Honolulu,HI,"96813"
+2022-01-27,"Security Guard Waterfront Plaza Honolulu","Allied Universal",aus.com,"Security & Investigations",,,,Honolulu,HI,"96813"
+2022-01-24,"Kono's Waikiki is looking for Shift Leaders! ($13+Lots of Ti...","Kono's Restaurant Hawaii",,,"From $13 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-25,"Maintenance Technician","Kleenco Group, Inc.",,,"$32.1K – $40.7K a year",,"Kalihi-Palama area",Honolulu,HI,"96819"
+2022-01-27,"Specialty Lines Account Executive","Finance Insurance, Ltd.",financeinsurance.com,Insurance,"From $66,475 a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-26,"Tile Installer","Hotel La Croix",lacroixwaikiki.com,Hospitality,"$20 - $24 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-25,"Maintenance Technician","Kleenco Group",kleencogroup.com,"Facilities Services","$19 - $20 an hour",,,Honolulu,HI,""
+2022-01-25,"Clinical Operations Manager","ike Group",,,"$55.1K – $69.7K a year",,,Honolulu,HI,""
+2022-01-25,"Medical Assistant Float","Urgent Care Hawaii, LLC",ucarehi.com,"Hospital & Health Care","$17 - $19 an hour",,,Honolulu,HI,""
+2022-01-25,"Line Chef","Hale Ku'ike Pali",,,"$16 - $18 an hour",,"Nuuanu-Punchbowl area",Honolulu,HI,"96817"
+2022-01-26,"Floating Nurse (set schedule)","Navian Hawaii",navianhawaii.org,"Hospital & Health Care","$63.5K – $80.5K a year",Remote,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-26,"Nurse Case Manager (FT)","Navian Hawaii",navianhawaii.org,"Hospital & Health Care","$59.8K – $75.8K a year",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-26,"MAINTENANCE TECH","Sandalwood Management, Inc.",,,"From $16 an hour",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-26,"Social Worker (FT)","Navian Hawaii",navianhawaii.org,"Hospital & Health Care","$51.2K – $64.8K a year",Remote,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-26,"NYL Sales Management","New York Life",experiencehfs.com,,"$66.6K – $84.4K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-26,"Admissions Nurse (FT)","Navian Hawaii",navianhawaii.org,"Hospital & Health Care","$62.2K – $78.8K a year",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-25,"Registered Nurse (RN) - SNF/LTC","Palolo Chinese Home",palolohome.org,"Health, Wellness & Fitness","$35.00 - $39.25 an hour",,"Palolo area",Honolulu,HI,"96816"
+2022-01-26,"Clinical Field Director (Hawaii)","Nomi Health",nomihealth.com,"Computer Software","$120,000 - $150,000 a year",,,Honolulu,HI,""
+2022-01-24,"Veterinary Technician - Must Live On Oahu","Ohana Veterinary Hospital",,,"$31.7K – $40.1K a year",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-26,"Associate Attorney","Aldridge Pite LLP",aldridgepite.com,"Law Practice","$70.2K – $89K a year",,,Honolulu,HI,"96813"
+2022-01-26,"Benefits Coordinator - Ohana Pacific Health","Ohana Pacific Management Company",ohanapacific.com,"Hospital & Health Care","$32K – $40.6K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-25,"Sales Associate - Nuuanu","7-Eleven Hawaii",7elevenhawaii.com,Supermarkets,"$29.2K – $37K a year",,"Nuuanu-Punchbowl area",Honolulu,HI,"96817"
+2022-01-26,"Retail Sales-Samsung Electronics","2020 Companies",2020companies.com,"Marketing & Advertising","From $18 an hour",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-27,"Data Survey Associate","RetailData LLC",retaildatallc.com,"Information Technology & Services","$15 an hour",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-27,"In-Store Shopper (Online Orders) - Part Time","Whole Foods Market",wholefoodsmarket.com,Supermarkets,"$24.9K – $31.5K a year",,"Waialae-Kahala area",Honolulu,HI,"96816"
+2022-01-26,"Bar Attendant","Marriott International, Inc",,,,,"Waikiki area",Honolulu,HI,"96815"
+2022-01-25,"Grocery Team Member (Stocker, Inventory, Floor Service, Cust...","Whole Foods Market",wholefoodsmarket.com,Supermarkets,"$26.7K – $33.9K a year",,"Waialae-Kahala area",Honolulu,HI,"96816"
+2022-01-27,Host,"The Cheesecake Factory",thecheesecakefactory.com,Restaurants,"$21K – $26.6K a year",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-26,"Hiring Now – Support Merchandiser - Honolulu, HI","American Greetings",americangreetings.com,"Consumer Goods",,,,Honolulu,HI,""
+2022-01-25,"Office Associate","Servco Pacific Inc.",servco.com,"Consumer Goods","$23.7K – $30.1K a year",,,Honolulu,HI,"96819"
+2022-01-25,"Community Support Staff","Choosy Brand",getchoosy.com,"Apparel & Fashion","$20 - $30 an hour",,,Honolulu,HI,""
+2022-01-25,Housekeeper,"Marriott Vacations Worldwide",marriottvacationsworldwide.com,Hospitality,,,,Honolulu,HI,"96814"
+2022-01-27,Receptionist,"The Arcadia Family of Companies",arcadia.org,"Hospital & Health Care","$23.2K – $29.4K a year",,,Honolulu,HI,""
+2022-01-27,"Station Attendant",Sodexo,sodexo.com,"Facilities Services","$19.9K – $25.1K a year",,"Manoa area",Honolulu,HI,"96822"
+2022-01-26,"Enrollment Specialist","Choosy Brand",getchoosy.com,"Apparel & Fashion","$20 - $30 an hour",,,Honolulu,HI,""
+2022-01-25,"Enrollment Specialist","Choosy Brand",getchoosy.com,"Apparel & Fashion","$20 - $30 an hour",,,Honolulu,HI,""
+2022-01-27,"Station Attendant",Sodexo,sodexo.com,"Facilities Services","$19.9K – $25.1K a year",,"Manoa area",Honolulu,HI,"96822"
+2022-01-25,"Valet Parker","Marriott International, Inc",,,,,"Waikiki area",Honolulu,HI,"96815"
+2022-01-27,"RTL Program Assistant (Temporary)","Helping Hands Hawaii",helpinghandshawaii.org,"Individual & Family Services","$14 an hour",,"Kalihi-Palama area",Honolulu,HI,"96819"
+2022-01-25,"Cashier Team Member (Front End Service)-Part Time","Whole Foods Market",wholefoodsmarket.com,Supermarkets,"$27.9K – $35.3K a year",,"Waialae-Kahala area",Honolulu,HI,"96816"
+2022-01-27,"Assistant Coach, Track and Field","Kamehameha Schools",ksbe.edu,"Education Management",,,,Honolulu,HI,""
+2022-01-26,"(Casual Hire) Administrative and Fiscal Support Specialist","University of Hawaii",hawaii.edu,"Higher Education","$21.73 an hour",,,Honolulu,HI,""
+2022-01-27,"Independent Loan Originator","Loan Factory",loanfactory.com,"Financial Services","$47K – $59.4K a year",,,Honolulu,HI,""
+2022-01-26,"Beauty Advisor","Sephora USA",sephora.com,Retail,"$22.8K – $28.8K a year",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-26,"Dessert Finisher/Barista","The Cheesecake Factory",thecheesecakefactory.com,Restaurants,"$22.7K – $28.7K a year",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-26,CLEANER,"ABM Industries",marriott.com,"Computer Software","$23.3K – $29.5K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-26,"Retail Sales Associate, Waikiki - Part Time",Macy’s,,,,,"Waikiki area",Honolulu,HI,"96815"
+2022-01-25,"Telecommunication Operator - Info Exchange Center (Rotator 2...","The Queen's Medical Center",queens.org,"Hospital & Health Care","$22.2K – $28.2K a year",,,Honolulu,HI,""
+2022-01-26,"Driver Training Program - OAHU","Polynesian Adventure Activities",polyad.com,Hospitality,"$28.5K – $36.1K a year",,,Honolulu,HI,"96819"
+2022-01-25,Server,"The Cheesecake Factory",thecheesecakefactory.com,Restaurants,"$20.1K – $25.5K a year",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-25,"Registered Wealth Management Client Associate (FP)","Bank of America",appianrx.com,"Hospital & Health Care",,,"Downtown area",Honolulu,HI,"96813"
+2022-01-25,"Driver Helpers","Honolulu Freight Service A Corp",honolulufreightservice.com,Transportation/Trucking/Railroad,"$13 - $14 an hour",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-24,"Retail Fragrances Sales Associate - Chanel, Ala Moana - Part...",Macy’s,,,,,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-25,"Wireless Specialist","Choosy Brand",getchoosy.com,"Apparel & Fashion","$20 - $30 an hour",,,Honolulu,HI,""
+2022-01-25,"Market Manager","Choosy Brand",getchoosy.com,"Apparel & Fashion","$20 - $30 an hour",,,Honolulu,HI,""
+2022-01-24,"Sales Associate - Women's Ready to Wear, Part Time: Ala Moan...",Bloomingdale’s,,,"$13.55 - $15.55 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-25,"Wireless Specialist","Choosy Brand",getchoosy.com,"Apparel & Fashion","$20 - $30 an hour",,,Honolulu,HI,""
+2022-01-25,"Cleaner – Honolulu","Hawaiian Airlines",hawaiianairlines.com,Airlines/Aviation,"$14.17 an hour",,,Honolulu,HI,""
+2022-01-24,"Retail Cosmetics Sales - Prestige Beauty, Waikiki - Part Tim...",Macy’s,,,,,"Waikiki area",Honolulu,HI,"96815"
+2022-01-24,"Retail Cosmetics Sales - Shiseido, Ala Moana - Part Time",Macy’s,,,,,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-25,"Pre-Planning Advisor","SCI Shared Resources, LLC",sci-corp.com,"Individual & Family Services","$20.5K – $25.9K a year",,"Makiki area",Honolulu,HI,"96823"
+2022-01-25,"Registered Nurse - Part time","Covenant Physician Partners",covenantphysicianpartners.com,"Hospital & Health Care","$61.7K – $78.1K a year",,,Honolulu,HI,"96814"
+2022-01-25,"Prepared Foods Team Member (Deli Service Counter & Culinary...","Whole Foods Market",wholefoodsmarket.com,Supermarkets,"$27K – $34.2K a year",,"Waialae-Kahala area",Honolulu,HI,"96816"
+2022-01-25,"Nursing Assistant - Trauma (E/N 32)","The Queen's Medical Center",queens.org,"Hospital & Health Care","$61.2K – $77.4K a year",,,Honolulu,HI,""
+2022-01-25,"Off Duty Officer","Security Industry Specialists, Inc.",sis.us,"Security & Investigations","$63.1K – $79.9K a year",,,Honolulu,HI,""
+2022-01-27,"Youth Partner (Full-time/Part-time, Oahu)","EPIC 'Ohana, Inc.",,,"From $17 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-27,"Brand Ambassador (Honolulu)","Aspire Brands. Inc",aspirebrands.com,Cosmetics,"$20 an hour",,,Honolulu,HI,"96814"
+2022-01-27,"Member Service Representative/Teller","Kamehameha Federal Credit Union",kamehamehafcu.org,"Financial Services","$12 - $16 an hour",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-27,"Restaurant Take-out Server","California Pizza Kitchen",cpk.com,Restaurants,"$23K – $29.2K a year",,"Waialae-Kahala area",Honolulu,HI,"96816"
+2022-01-25,"The Search for Snoopy: A Peanuts Adventure - Box Office Staf...","Kilburn Live",,,"$15.50 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-27,"Honolulu Zoo Twilight Tour Guide","Honolulu Zoological Society",,,"$11 - $13 an hour",,"Diamond Head-Kapahulu-St. Louis area",Honolulu,HI,"96815"
+2022-01-25,"Member Services Representative","Planet Fitness - PFNY/ PFCali",,,"$19.4K – $24.6K a year",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-27,Receptionist,"ARCADIA RETIREMENT",,,"$23.2K – $29.4K a year",,"Makiki-Lower Punchbowl-Tantalus area",Honolulu,HI,"96822"
+2022-01-25,"Cashier/Customer Service","Burgers on Bishop",,,"$11 - $15 an hour",,"Downtown area",Honolulu,HI,"96813"
+2022-01-26,"Catering Screener","SCIS Air Security Corporation",scissolutions.com,,"$15.50 an hour",,"Daniel K. Inouye International Airport area",Honolulu,HI,"96819"
+2022-01-24,"Medical Receptionist","Center for Innovative Medicine",,,"Up to $20 an hour",,"Makiki-Lower Punchbowl-Tantalus area",Honolulu,HI,"96814"
+2022-01-25,"The Search for Snoopy: A Peanuts Adventure - Costume Charact...","Kilburn Live",,,"$16.50 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-25,"The Search for Snoopy: A Peanuts Adventure - Entertainment H...","Kilburn Mini Golf Experience",puttshack.com,Hospitality,"$15.50 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-25,"The Search for Snoopy: A Peanuts Adventure - Floor Manager","Kilburn Live",,,"$19.50 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-25,"Pool/Beach Attendant","Waialae Country Club",waialaecc.com,Hospitality,"$20.6K – $26K a year",,"Waialae-Kahala area",Honolulu,HI,"96816"
+2022-01-25,"The Search for Snoopy: A Peanuts Adventure - Retail Staff","Kilburn Live",,,"$15.50 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-27,"Loan Assistant","Kamehameha Federal Credit Union",kamehamehafcu.org,"Financial Services","$14 - $22 an hour",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-26,"Part-Time Sales Associate - Famous Footwear","Famous Footwear",famousfootwear.com,Retail,,,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-25,"Retail Sales Associate","Motion Art Ltd.",motionartstudio.eu,,"$15 - $18 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-25,"Kono's Waikiki is searching for Burrito Slanging CHAMPION! (...","Kono's Restaurant Hawaii",,,"From $11 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-25,"The Search for Snoopy: A Peanuts Adventure - Scenic Team/Art...","Kilburn Live",,,"$25 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-26,"HR Office Support","Alert Security Asset Protection",,,"From $16 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-27,"Front of House Team Member","Kona Coffee Purveyors | b. patisserie",,,"From $14 an hour",,"Diamond Head-Kapahulu area",Honolulu,HI,"96815"
+2022-01-27,Bartender/Server,"Leahi Bar and Grill",leahigrill.com,,"$10.25 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-26,"$15 per hour - Part-time After-School Program Leader - Honol...","After-School All-Stars Hawaii",,,"$15 an hour",,,Honolulu,HI,""
+2022-01-26,"Bubble Waffle & Ice Cream Creator/Cashier (Part-time Positio...","DOUBLE THREE",,,"$12 - $13 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-26,"Associate Veterinarian","Arms of Aloha LLC",,,"$200 - $900 a day",,,Honolulu,HI,""
+2022-01-24,"Hospitality Team Member","Via Gelato",,,"From $15 an hour",,"Kaimuki area",Honolulu,HI,"96816"
+2022-01-26,Host/Hostess,"Gyu-Kaku Japanese BBQ",gyu-kaku.com,Restaurants,"$10.10 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-25,Dishwasher,"Pipeline Bakeshop & Creamery",pipelinebakeshop.com,,"$19.1K – $24.1K a year",,"Kaimuki area",Honolulu,HI,"96816"
+2022-01-26,"Barista (Kahala)","Coffee Bean & Tea Leaf Hawaii",,,"$19.6K – $24.8K a year",,"Waialae-Kahala area",Honolulu,HI,"96816"
+2022-01-26,"Barista - Manoa","Coffee Bean & Tea Leaf Hawaii",,,"$19.6K – $24.8K a year",,"Manoa area",Honolulu,HI,"96822"
+2022-01-26,"Barista - First Hawaiian Center","Coffee Bean & Tea Leaf Hawaii",,,"$19.6K – $24.8K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-27,"Kitchen Staff","Big Kahuna’s Pizza",,,"$13 - $17 an hour",,"Daniel K. Inouye International Airport area",Honolulu,HI,"96819"
+2022-01-26,"Barista (Diamond Head)","Coffee Bean & Tea Leaf Hawaii",,,"$19.6K – $24.8K a year",,"Diamond Head-Kapahulu-St. Louis area",Honolulu,HI,"96815"
+2022-01-27,"Sales Associate","Nui Tours LLC.",,,"$25.2K – $31.8K a year",,,Honolulu,HI,""
+2022-01-26,"Food Service Associate SSA at Honolulu Zoo","SSA Group, LLC",thessagroup.com,"Events Services","$50.8K – $64.4K a year",,"Diamond Head-Kapahulu-St. Louis area",Honolulu,HI,"96815"
+2022-01-25,"Community Health Worker (AIAN)","Ke Ola Mamo",keolamamo.org,"Health, Wellness & Fitness","From $15 an hour",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-27,"Barback at open-air restaurant & bar, Deck. Waikiki Hotel","Deck. Waikiki",deckwaikiki.com,,"From $10.10 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-26,"Urgent - Skateboard Instructor Needed in Honolulu, HI",GoSkate,goskate.com,Sports,"$30 - $40 an hour",,,Honolulu,HI,""
+2022-01-25,"PM HOST at QUIORA restaurant in WAIKIKI","G.Lion Hawaii",glionhawaii.com,Hospitality,"From $15 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-27,"Athletic Coach","Kamehameha Schools",ksbe.edu,"Education Management","$34K – $43K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-25,"Office of Student Affairs Adviser","University Health Partners of Hawaii",,,"$27.5K – $34.9K a year",,,Honolulu,HI,"96813"
+2022-01-25,"Athletic Kiosk Attendant","The Pacific Club",thepacificclub.com,"Nonprofit Organization Management","From $14 an hour",,"Downtown area",Honolulu,HI,"96813"
+2022-01-26,"Outside Sales Representative (Marketing Agency)","Marketing Agency in Orange County & Los Angeles",,,"$35,000 - $184,361 a year",,,Honolulu,HI,""
+2022-01-25,"Loss Prevention Agent","PPRM Hawaii",,,"$18 - $20 an hour",,,Honolulu,HI,""
+2022-01-25,"Security Officer $1,000.00 hiring incentive","Alert Security Asset Protection",,,"$16 - $17 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-27,"Registered Nurse and Medical Assistant","Kamehameha Schools",ksbe.edu,"Education Management","$56.9K – $72.1K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-26,Manager,"DM Management",,,"From $20 an hour",,,Honolulu,HI,""
+2022-01-26,"Barista (Ward)","Coffee Bean & Tea Leaf Hawaii",,,"$19.6K – $24.8K a year",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-27,"Event Porter $17-$20/ hour Waikiki Hotel Wedding and Events","Deck. Waikiki",deckwaikiki.com,,"$17 - $20 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-27,"Maintenance Workers / Maintenance Techs","Kamehameha Schools",ksbe.edu,"Education Management","$28.1K – $35.5K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-26,"Ramp Agent/Baggage Handler","Worldwide Flight Services",wfs.aero,Airlines/Aviation,"Up to $15.50 an hour",,"Daniel K. Inouye International Airport area",Honolulu,HI,"96819"
+2022-01-25,"FOH and BOH team members Temporary 3-6 months","Giovanni's Shrimp Truck",,,"$12 - $15 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96813"
+2022-01-26,"Youth Development Specialist I, II, or III - Spalding Clubho...","Boys & Girls Club of Hawaii",bgch.com,"Program Development","$13 - $14 an hour",,"Mccully-Moiliili area",Honolulu,HI,"96826"
+2022-01-27,"Server Assistant, Open-air Restaurant Deck. Waikiki","Deck. at Queen Kapiolani Hotel",,,"From $10.10 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-24,"Kono's Kapahulu is HIRING Crew Member! ($11 + TIPS)","Kono's Restaurant Hawaii",,,"From $11 an hour",,"Diamond Head-Kapahulu-St. Louis area",Honolulu,HI,"96816"
+2022-01-25,"Dairy Queen Crew Member","Dairy Queen Orange Julius Navy Exchange",,,"$12 - $13 an hour",,"Airport area",Honolulu,HI,"96818"
+2022-01-25,Housekeeper,"Marriott Vacations Worldwide",marriottvacationsworldwide.com,Hospitality,,,,Honolulu,HI,"96814"
+2022-01-27,"RTL Program Assistant (Temporary)","Helping Hands Hawaii",helpinghandshawaii.org,"Individual & Family Services","$14 an hour",,"Kalihi-Palama area",Honolulu,HI,"96819"
+2022-01-26,"(Casual Hire) Administrative and Fiscal Support Specialist","University of Hawaii",hawaii.edu,"Higher Education","$21.73 an hour",,,Honolulu,HI,""
+2022-01-25,"(#78276T) Student Services Specialist","University of Hawaii",hawaii.edu,"Higher Education","$39K – $49.4K a year",,,Honolulu,HI,""
+2022-01-27,"Imaging Assistant - Fetal Diagnostic Center","Hawaii Pacific Health",hawaiipacifichealth.org,"Hospital & Health Care","$30.9K – $39.1K a year",,,Honolulu,HI,""
+2022-01-25,"The Search for Snoopy: A Peanuts Adventure - Box Office Staf...","Kilburn Live",,,"$15.50 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-25,"The Search for Snoopy: A Peanuts Adventure - Costume Charact...","Kilburn Live",,,"$16.50 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-27,"Human Resources Assistant","Central Pacific Bank",cpb.bank,Banking,"$29.7K – $37.5K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-25,"The Search for Snoopy: A Peanuts Adventure - Entertainment H...","Kilburn Mini Golf Experience",puttshack.com,Hospitality,"$15.50 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-25,"The Search for Snoopy: A Peanuts Adventure - Floor Manager","Kilburn Live",,,"$19.50 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-25,"The Search for Snoopy: A Peanuts Adventure - Retail Staff","Kilburn Live",,,"$15.50 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-25,"The Search for Snoopy: A Peanuts Adventure - Scenic Team/Art...","Kilburn Live",,,"$25 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-26,"Live Event Operations Manager","Kilburn Live",,,"$1,300 a week",,,Honolulu,HI,""
+2022-01-26,"Urgent - Skateboard Instructor Needed in Honolulu, HI",GoSkate,goskate.com,Sports,"$30 - $40 an hour",,,Honolulu,HI,""
+2022-01-27,"Computer Operations Assistant","Central Pacific Bank",cpb.bank,Banking,"$25.2K – $32K a year",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-25,"Office of Student Affairs Adviser","University Health Partners of Hawaii",,,"$27.5K – $34.9K a year",,,Honolulu,HI,"96813"
+2022-01-25,"FOH and BOH team members Temporary 3-6 months","Giovanni's Shrimp Truck",,,"$12 - $15 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96813"
+2022-01-27,"Deposit Recovery Specialist","Aloha Hospitality Professionals",alohahospitalityprofessionals.com,"Staffing & Recruiting","$16 - $17 an hour",,,Honolulu,HI,""
+2022-01-27,"Loan Servicing Support","Central Pacific Bank",cpb.bank,Banking,"$28K – $35.4K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-27,"Commercial & Consumer Services Assistant","Central Pacific Bank",cpb.bank,Banking,"$23.1K – $29.3K a year",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-27,"RN (Registered Nurse) needed!","Travel Care Hawaii LLC",travelcarehawaii.com,,"$48 - $65 an hour",,,Honolulu,HI,"96814"
+2022-01-26,"Benefits Coordinator - Ohana Pacific Health","Ohana Pacific Management Company",ohanapacific.com,"Hospital & Health Care","$32K – $40.6K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-27,"Full Time Front Dental Receptionist","Uehara Family Cosmetic Dentistry",,,"$12 - $15 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-26,"Jewelry Sales Associate for a Locally Owned Company","Pacific Diamond Wedding Rings",,,"$550 - $700 a week",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-26,"Urgent - Skateboard Instructor Needed in Honolulu, HI",GoSkate,goskate.com,Sports,"$30 - $40 an hour",,,Honolulu,HI,""
+2022-01-26,"Outside Sales Representative (Marketing Agency)","Marketing Agency in Orange County & Los Angeles",,,"$35,000 - $184,361 a year",,,Honolulu,HI,""
+2022-01-25,"Security Officer $1,000.00 hiring incentive","Alert Security Asset Protection",,,"$16 - $17 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-27,"RN (Registered Nurse) needed!","Travel Care Hawaii LLC",travelcarehawaii.com,,"$48 - $65 an hour",,,Honolulu,HI,"96814"
+2022-01-22,"Case Manager, RN - Case Management","Hawaii Pacific Health",hawaiipacifichealth.org,"Hospital & Health Care","$71.1K – $90.1K a year",,,Honolulu,HI,""
+2022-01-22,"Football Chief of Staff","University of Hawaii",hawaii.edu,"Higher Education","$48.3K – $61.1K a year",,,Honolulu,HI,""
+2022-01-22,"Corporate Legal Assistant - Legal Services","Hawaii Pacific Health",hawaiipacifichealth.org,"Hospital & Health Care","$41.6K – $52.6K a year",,,Honolulu,HI,""
+2022-01-22,"Knowledge Base Manager",Pearson,pearson.com,"Education Management","$44.3K – $56.1K a year",,,Honolulu,HI,""
+2022-01-22,"Operations Administrative Coordinator","Kamehameha Schools",ksbe.edu,"Education Management",,,,Honolulu,HI,""
+2022-01-22,"Coordinator, Clinic Operations - Chest Disease","Hawaii Pacific Health",hawaiipacifichealth.org,"Hospital & Health Care","$42K – $53.2K a year",,,Honolulu,HI,""
+2022-01-22,"Registered Nurse","The Arcadia Family of Companies",arcadia.org,"Hospital & Health Care","$60.8K – $77K a year",,,Honolulu,HI,""
+2022-01-22,"Director of Human Resources Operations","Marriott International, Inc",,,,,"Waikiki area",Honolulu,HI,"96815"
+2022-01-22,"Technology Engagement Manager",Pearson,pearson.com,"Education Management","$63.5K – $80.5K a year",,,Honolulu,HI,""
+2022-01-22,"Training & Security Coord","Aloha Air Cargo",alohaaircargo.com,"Package/Freight Delivery","$36.8K – $46.6K a year",,"Daniel K. Inouye International Airport area",Honolulu,HI,"96819"
+2022-01-22,"Project Manager","Hensel Phelps",henselphelps.com,Construction,"$71.6K – $90.6K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-24,"Automation Tester- Location Open",Deloitte,deloitte.com,"Management Consulting","$85.8K – $109K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-23,"Administrative Assistant - Health Center",Punahou,punahou.edu,"Primary/Secondary Education","$30.9K – $39.1K a year",,"Manoa area",Honolulu,HI,"96822"
+2022-01-24,"Ethics & Compliance Manager",Deloitte,deloitte.com,"Management Consulting","$83.4K – $106K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-22,"Operations Services Coordinator","Kamehameha Schools",ksbe.edu,"Education Management",,,,Honolulu,HI,""
+2022-01-22,"Specialist, Digital Strategies and Operations","FCH Enterprises",,,"$53.8K – $68.2K a year",,"Mccully-Moiliili area",Honolulu,HI,"96826"
+2022-01-24,"Data Privacy & Anonymization Specialist",Deloitte,deloitte.com,"Management Consulting","$41.1K – $52.1K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-22,"Technician, Switch",T-Mobile,interseguro.pe,Insurance,"$34.9K – $44.3K a year",,"Daniel K. Inouye International Airport area",Honolulu,HI,"96819"
+2022-01-22,"Project Manager","Brookfield Properties",brookfieldproperties.com,"Real Estate","$91.2K – $115K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-24,"Night Operations Department Supervisor",Lowe's,lowes.com,Retail,,,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-22,"UX/UI Designer - Deloitte’s Green Dot Agency",Deloitte,deloitte.com,"Management Consulting","$64K – $81K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-22,"Finance Analyst",Sysco,sysco.com,"Food & Beverages",,,,Honolulu,HI,"96814"
+2022-01-24,"State Regulatory Analyst",Deloitte,deloitte.com,"Management Consulting","$49.8K – $63K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-21,"Cycle Counter",Sysco,sysco.com,"Food & Beverages",,,,Honolulu,HI,"96814"
+2022-01-22,"Material Handler, Laborer","Yulista Management Services",yulista.com,"Management Consulting","$25.7K – $32.5K a year",,,Honolulu,HI,""
+2022-01-23,"Chef de Cuisine","Alohilani Resort Waikiki Beach",alohilaniresort.com,Hospitality,"$33.9K – $42.9K a year",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-22,"Assistant Project Manager","Brookfield Properties",brookfieldproperties.com,"Real Estate","$65.8K – $83.4K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-24,"Nurse Manager - Cancer Center","The Queen's Medical Center",queens.org,"Hospital & Health Care","$77.5K – $98.1K a year",,,Honolulu,HI,""
+2022-01-22,"UX Strategist (Manager) - Deloitte’s Green Dot Agency",Deloitte,deloitte.com,"Management Consulting","$94.5K – $120K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-22,"PMO Specialist - Location Open",Deloitte,deloitte.com,"Management Consulting","$55.1K – $69.7K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-22,"Guest Service Agent (Full Time) - Hilton Hawaiian Village",Hilton,hiltonmyersadv.com,"Advertising & Marketing, Business Services, Human Resources & Staffing, Â ... Lodging & Resorts, Hos","$26.4K – $33.4K a year",,"Diamond Head-Kapahulu area",Honolulu,HI,"96815"
+2022-01-24,"Business System Analyst/ Product Owner - DAS Talent",Deloitte,deloitte.com,"Management Consulting","$94.3K – $119K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-22,"Business Sales Manager - Cosmetics/Fine Jewelry/Handbags",Bloomingdale’s,,,,,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-22,"Safety & Security Officer (Full Time) - Hilton Hawaiian Vill...",Hilton,hiltonmyersadv.com,"Advertising & Marketing, Business Services, Human Resources & Staffing, Â ... Lodging & Resorts, Hos","$24.4K – $30.8K a year",,"Diamond Head-Kapahulu area",Honolulu,HI,"96815"
+2022-01-23,"Full Stack Developer Specialist - Location Open",Deloitte,deloitte.com,"Management Consulting","$79.3K – $100K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-22,"Claims Adjuster Workers Compensation",ManpowerGroup,manpowergroup.com,"Staffing & Recruiting","$55.4K – $70.2K a year",Remote,,Honolulu,HI,""
+2022-01-22,"SAS Clinical Data Analyst","Pinnacle Solutions Inc",pinnaclesolutionsinc.com,"Aviation & Aerospace","$63.2K – $80K a year",,"Makiki area",Honolulu,HI,"96801"
+2022-01-22,"Human Resources Director","Hawai'i Health & Harm Reduction Center",hhhrc.org,"Hospital & Health Care","From $51,529 a year",,"Ala Moana-Kakaako area",Honolulu,HI,"96813"
+2022-01-22,"Human Resources Generalist","Hawaii Behavioral Health",hibh.org,"Mental Health Care","$44.5K – $56.3K a year",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-24,"Furniture Store Manager","Outdoor Living Oahu LLC",,,"From $50,000 a year",,"Hawaii Kai area",Honolulu,HI,"96825"
+2022-01-24,"Fire Systems Suppression and Alarm Sales Representative","Alert Alarm Of Hawaii",,,"$49.2K – $62.2K a year",,,Honolulu,HI,""
+2022-01-23,"Counterintelligence Specialist - Mid","Calhoun International, LLC",calhouninternational.com,"Management Consulting","$75.5K – $95.7K a year",,,Honolulu,HI,""
+2022-01-22,"Accounts Payable/Payroll Specialist",SageWater,sagewater.com,Construction,"$39.9K – $50.5K a year",,,Honolulu,HI,""
+2022-01-22,"Residential Project Manager","Atlas Construction Inc",atlasconstruction808.com,"Real Estate","$80,000 - $140,000 a year",,,Honolulu,HI,""
+2022-01-23,"Operations Coordinator","East-West Center",eastwestcenter.org,"Higher Education","$62,234 a year",,"Makiki area",Honolulu,HI,"96848"
+2022-01-24,"Preventative Maintenance Sales Representative","Alert Alarm Of Hawaii",,,"$36.5K – $46.3K a year",,,Honolulu,HI,""
+2022-01-24,"Accounting & Credit Supervisor","City Mill Co Ltd",citymill.com,Retail,"$55.4K – $70.2K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-22,"Developer/Analyst (Healthcare)","Hawaii Permanente Medical Group",hawaiipermanente.com,"Computer Software","$55.5K – $70.3K a year",,,Honolulu,HI,"96819"
+2022-01-22,"Construction Foreman HAWAII RESIDENCY REQ","Atlas Construction Inc",atlasconstruction808.com,"Real Estate","Up to $40 an hour",,,Honolulu,HI,""
+2022-01-22,"Simulator Technician II - 83953",CAE,,,"$31.5K – $39.9K a year",,"Daniel K. Inouye International Airport area",Honolulu,HI,"96819"
+2022-01-22,"Director of Communications & Advancement","Hawaii Public Health Institute",,,"Up to $90,000 a year",Remote,"Downtown area",Honolulu,HI,"96813"
+2022-01-23,"Director of Recreation","Hale Nani Rehabilitation & Nursing Center",,,,,"Makiki-Lower Punchbowl-Tantalus area",Honolulu,HI,"96822"
+2022-01-22,"DRIVER : HAWAII RESIDENTS ONLY CLEAN ABSTRACT","Atlas Construction Inc",atlasconstruction808.com,"Real Estate","$12 - $17 an hour",,,Honolulu,HI,""
+2022-01-22,"EXPERIENCED EVENT PLANNER","Aloha Hospitality Professionals",alohahospitalityprofessionals.com,"Staffing & Recruiting","$35.7K – $45.3K a year",Remote,,Honolulu,HI,"96819"
+2022-01-22,"DYNAMIC APPLICATIONS ADMINISTRATOR","Y. Hata & Co., Limited",yhata.com,"Food & Beverages",,,,Honolulu,HI,"96819"
+2022-01-24,"SECURITY ALARM INSTALLATION TECHNICIAN - Technician I",ZMANA,zmana.com,"Security & Investigations","$31.6K – $40K a year",,,Honolulu,HI,""
+2022-01-22,"HR BUSINESS PARTNER","Y. Hata & Co., Limited",yhata.com,"Food & Beverages",,,,Honolulu,HI,"96819"
+2022-01-22,"Automotive Store Manager","Midas Hawaii",midashawaii.com,"Individual & Family Services","$45.7K – $57.9K a year",,,Honolulu,HI,"96814"
+2022-01-22,"ENTERPRISE APPLICATIONS MANAGER","Y. Hata & Co., Limited",yhata.com,"Food & Beverages",,,,Honolulu,HI,"96819"
+2022-01-22,"Automotive Store Manager","Midas Hawaii",midashawaii.com,"Individual & Family Services","$45.7K – $57.9K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-22,"Lecturer UHM","University of Hawaii",hawaii.edu,"Higher Education","$41K – $52K a year",,,Honolulu,HI,""
+2022-01-24,"Key Holder Honolulu, HI (bareMinerals)","Bare Minerals",bareminerals.com,Cosmetics,"$17 - $20 an hour",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-24,"SECURITY ALARM INSTALLATION TECHNICIAN - Technician I",ZMANA,zmana.com,"Security & Investigations","$31.6K – $40K a year",,,Honolulu,HI,""
+2022-01-22,"Vertebrate Zoology Collections Technician","Bishop Museum",bishopmuseum.org,"Museums & Institutions","$35.8K – $45.4K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-22,"Lecturer UHM","University of Hawaii",hawaii.edu,"Higher Education","$41K – $52K a year",,,Honolulu,HI,""
+2022-01-22,"Vertebrate Zoology Collections Technician","Bishop Museum",bishopmuseum.org,"Museums & Institutions","$35.8K – $45.4K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-22,"Lecturer UHM","University of Hawaii",hawaii.edu,"Higher Education","$41K – $52K a year",,,Honolulu,HI,""
+2022-01-24,"Sales Account Manager (Commercial)",ZMANA,zmana.com,"Security & Investigations","Up to $250,000 a year",,,Honolulu,HI,""
+2022-01-27,"Project Coordinator",Pearson,pearson.com,"Education Management","$33.4K – $42.4K a year",,,Honolulu,HI,""
+2022-01-27,"Housing Manager","EF International Language Campuses",ef.com,"Higher Education","$39K – $49.4K a year",,"Diamond Head-Kapahulu area",Honolulu,HI,"96815"
+2022-01-26,"Project Manager",Pearson,pearson.com,"Education Management","$68,000 - $75,000 a year",,,Honolulu,HI,""
+2022-01-25,"Assistant Manager, Product, Ala Moana",Chanel,chanel.co.uk,"Apparel & Fashion","$39.3K – $49.7K a year",,,Honolulu,HI,""
+2022-01-26,"Admin Aide/Assistant","The Salvation Army Western USA",salvationarmyusa.org,"Nonprofit Organization Management","$36.7K – $46.5K a year",,,Honolulu,HI,""
+2022-01-26,"Accountant II","Kuakini Medical Center",kuakini.org,"Medical Practice","$39.3K – $49.7K a year",,,Honolulu,HI,""
+2022-01-26,"Home Loan Specialist","Churchill Mortgage Corporation",churchillmortgage.com,"Financial Services","$46.3K – $58.7K a year",,,Honolulu,HI,""
+2022-01-26,"Administrative Assistant - VP Professional Services","The Queen's Medical Center",queens.org,"Hospital & Health Care","$30.4K – $38.4K a year",,,Honolulu,HI,""
+2022-01-26,"Learning & Development Specialist II","Bank of Hawaii",boh.com,Banking,"$58.5K – $74.1K a year",,,Honolulu,HI,""
+2022-01-26,"Residential Life Office Administrative Assistant","Iolani School",iolani.org,"Primary/Secondary Education","$31.2K – $39.4K a year",,"McCully-Moiliili area",Honolulu,HI,"96826"
+2022-01-25,"Front Desk Supervisor","Outrigger Hospitality Group",outrigger.com,Hospitality,"$26.9K – $34.1K a year",,,Honolulu,HI,""
+2022-01-27,"Administrator Private Bank I","Bank of Hawaii",boh.com,Banking,"$28.6K – $36.2K a year",,,Honolulu,HI,""
+2022-01-25,"Client Associate - Private Client Group","Wells Fargo",climaticsolar.com,"Environmental Services","$42K – $53.2K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-26,"Corporate Buyer","Hawaiian Host Honolulu, Inc.",,,"$43.6K – $55.2K a year",,,Honolulu,HI,""
+2022-01-26,"STORE MANAGER - FULL-TIME - HONOLUA",Boardriders,boardriders.com,"Apparel & Fashion","From $22 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-26,"Customer Relations Business Analyst I","Hawaii Medical Service Association",hmsa.com,Insurance,"$44.7K – $56.7K a year",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-26,"Substitute Junior Kindergarten Teacher","HAWAII BAPTIST ACADEMY",hba.net,"Education Management","$28.9K – $36.7K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-26,"Supply Specialist","HAWAIIAN TELCOM",hawaiiantel.com,Telecommunications,"$34.5K – $43.7K a year",,,Honolulu,HI,"96821"
+2022-01-27,"Rooms Operations Manager","Marriott International, Inc",,,,,"Waikiki area",Honolulu,HI,"96815"
+2022-01-26,"Customer Relations Business Analyst II","Hawaii Medical Service Association",hmsa.com,Insurance,"$54.1K – $68.5K a year",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-26,"Analyst, Vendor Finance Management","Hawaii Medical Service Association",hmsa.com,Insurance,"$56.7K – $71.7K a year",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-25,"Housekeeping Manager","Marriott International, Inc",,,,,"Waikiki area",Honolulu,HI,"96815"
+2022-01-27,"Area Director of Food & Beverage","Alohilani Resort Waikiki Beach",alohilaniresort.com,Hospitality,"$62.2K – $78.8K a year",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-24,"Data Privacy & Anonymization Specialist",Deloitte,deloitte.com,"Management Consulting","$41.1K – $52.1K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-27,"ISR Collection Manager Subject Matter Expert","Yorktown Systems Group",,,"$62.9K – $79.7K a year",,"Makiki area",Honolulu,HI,"96801"
+2022-01-24,"State Regulatory Analyst",Deloitte,deloitte.com,"Management Consulting","$49.8K – $63K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-26,"Store Manager",Luxottica,luxottica.com,"Luxury Goods & Jewelry","$35.7K – $45.1K a year",,"Diamond Head-Kapahulu area",Honolulu,HI,"96815"
+2022-01-26,"Associate Director of Innovation Programs","University of Hawaii",hawaii.edu,"Higher Education","$60.6K – $76.8K a year",,,Honolulu,HI,""
+2022-01-24,"Ethics & Compliance Manager",Deloitte,deloitte.com,"Management Consulting","$83.4K – $106K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-27,"Assistant General Manager- Ruscello- Ala Moana Center","Nordstrom Inc",nordstrom.com,Retail,"$40.6K – $51.4K a year",,,Honolulu,HI,""
+2022-01-25,"Compliance Manager (8912-Asset Management)","EAH INC.",eahhousing.org,"Real Estate","$53.1K – $67.3K a year",,,Honolulu,HI,"96813"
+2022-01-26,"Customer Relations Business Analyst III","Hawaii Medical Service Association",hmsa.com,Insurance,"$51.8K – $65.6K a year",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-26,"Store Manager","Sunglass Hut",,,"$35.7K – $45.1K a year",,"Diamond Head-Kapahulu area",Honolulu,HI,"96815"
+2022-01-25,"Project Environmental Planner","Haley & Aldrich",haleyaldrich.com,"Environmental Services","$58.2K – $73.8K a year",,,Honolulu,HI,""
+2022-01-27,"Marketing Director","American Floor and Home",americanfloorandhome.com,Retail,"$94.3K – $119K a year",,,Honolulu,HI,"96819"
+2022-01-26,"Coordinator, Point of Care Testing - Quality Management","Hawaii Pacific Health",hawaiipacifichealth.org,"Hospital & Health Care","$57.5K – $72.7K a year",,,Honolulu,HI,""
+2022-01-26,"Manager, Vendor Finance Management","Hawaii Medical Service Association",hmsa.com,Insurance,"$88.4K – $112K a year",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-24,"Automation Tester- Location Open",Deloitte,deloitte.com,"Management Consulting","$85.8K – $109K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-26,"Sales Manager - Consumer Sales","HAWAIIAN TELCOM SERVICES",,,"$43.3K – $54.9K a year",,,Honolulu,HI,"96821"
+2022-01-24,"Business System Analyst/ Product Owner - DAS Talent",Deloitte,deloitte.com,"Management Consulting","$94.3K – $119K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-26,"Electrical Computer Aided Design Designer","Bowers + Kubota",bowersandkubota.com,"Civil Engineering","$53.5K – $67.7K a year",,"Daniel K. Inouye International Airport area",Honolulu,HI,"96819"
+2022-01-24,"Nurse Manager - Cancer Center","The Queen's Medical Center",queens.org,"Hospital & Health Care","$77.5K – $98.1K a year",,,Honolulu,HI,""
+2022-01-25,"Manager, Clinical Operations - Employee Health","The Queen's Medical Center",queens.org,"Hospital & Health Care","$72.6K – $92K a year",,,Honolulu,HI,""
+2022-01-27,"Project Architect",HDR,hdrinc.com,Design,"$79.6K – $101K a year",,,Honolulu,HI,""
+2022-01-25,"Site Coordinator (pos #79367T)","University of Hawaii",hawaii.edu,"Higher Education","From $4,591 a month",,"Makiki area",Honolulu,HI,"96822"
+2022-01-25,"Claims Team Lead (Supervisor) Worker Compensation",Sedgwick,sedgwick.com,Insurance,"$65.2K – $82.6K a year",,,Honolulu,HI,""
+2022-01-26,"Manager, Grants and Contracts","Hawaii Pacific University",hpu.edu,"Higher Education","$57.5K – $72.7K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-24,"SUPERVISING PROJECT MANAGER (SR-28)","City and County of Honolulu",honolulu.gov,"Government Administration","$7,558 a month",,"Downtown area",Honolulu,HI,"96813"
+2022-01-27,"Administrative Assistant","Associa Hawaii",associahawaii.com,Accounting,"$17 - $19 an hour",,"Downtown area",Honolulu,HI,"96813"
+2022-01-27,"Administrative Assistant",Oceanit,oceanit.com,Research,"$33K – $41.8K a year",,,Honolulu,HI,"96813"
+2022-01-26,"Administrative Assistant/Coordinator","Kamehameha Schools",ksbe.edu,"Education Management","$31.4K – $39.8K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-25,"Recruitment Assistant (Temporary)","Hawaii Permanente Medical Group",hawaiipermanente.com,"Computer Software","$32.1K – $40.7K a year",,,Honolulu,HI,"96819"
+2022-01-26,"Office Manager","Kleintop & Luria, LLP",,,"$65,000 - $75,000 a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-27,"Loan Booking Specialist I, II or III","Central Pacific Bank",cpb.bank,Banking,"$34.8K – $44K a year",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-26,"Data Analyst","Pacific Guardian Life",pacificguardian.com,Insurance,"$58.9K – $74.5K a year",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-27,"Manager of Safety and Technical Training","Royal Hawaiian Movers",,,"$65,000 - $75,000 a year",,,Honolulu,HI,"96819"
+2022-01-25,"Manager of Safety & Technical Training","Royal Hawaiian Movers Inc.",royalhawaiianmovers.com,Transportation/Trucking/Railroad,"$32K – $40.6K a year",,,Honolulu,HI,"96819"
+2022-01-24,"Furniture Store Manager","Outdoor Living Oahu LLC",,,"From $50,000 a year",,"Hawaii Kai area",Honolulu,HI,"96825"
+2022-01-25,"Corporate Training Administrator","Central Pacific Bank",cpb.bank,Banking,"$38.3K – $48.5K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-27,Accountant,"WDI International Inc.",wdiinternational.com,Restaurants,"$52,000 - $60,000 a year",,"Diamond Head-Kapahulu area",Honolulu,HI,"96815"
+2022-01-26,"Master Jeweler / Goldsmith","Na Hoku",nahoku.com,Retail,"$42.4K – $53.6K a year",,,Honolulu,HI,"96819"
+2022-01-25,"Human Resources Generalist","Hawaii Behavioral Health",hibh.org,"Mental Health Care","$44.5K – $56.3K a year",,,Honolulu,HI,""
+2022-01-25,"Tier 1 Support and Training Specialist","Premier Solutions Hi, LLC",,,"$47.1K – $59.7K a year",,"Ala Moana-Kakaako area",Honolulu,HI,"96813"
+2022-01-27,"Operations Manager","Norton Lilly International",nortonlilly.com,Maritime,"$34.7K – $43.9K a year",,,Honolulu,HI,"96813"
+2022-01-26,"Teller Supervisor","Aloha Pacific Federal Credit U",alohapacific.com,"Financial Services","$29.6K – $37.4K a year",,"Palolo area",Honolulu,HI,"96816"
+2022-01-26,"Bathroom Renovations","Hotel La Croix",lacroixwaikiki.com,Hospitality,"$20 - $24 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-27,"Preschool Teacher","Rainbow School - Honolulu",rainbowschools.com,"Individual & Family Services","From $14 an hour",,"Downtown area",Honolulu,HI,"96850"
+2022-01-26,"IT Help Desk Specialist","Liliuokalani Trust",,,"$34.2K – $43.4K a year",,,Honolulu,HI,"96813"
+2022-01-27,"Database Administrator","Kamehameha Schools",ksbe.edu,"Education Management","$58.2K – $73.8K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-26,"Maintenance Technician","Liliuokalani Gardens at Waikiki",liliuokalanigardenswaikiki.com,,"From $17 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-26,"Program Coordinator","Aloha Hospitality Professionals",alohahospitalityprofessionals.com,"Staffing & Recruiting","$20 - $24 an hour",,,Honolulu,HI,""
+2022-01-27,"High School Assistant Principal","Kamehameha Schools",ksbe.edu,"Education Management","$80.6K – $102K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-25,"Organ Program Manager","Legacy of Life Hawaii",,,"$100,000 - $140,000 a year",,,Honolulu,HI,""
+2022-01-25,Accountant,"Castle & Cooke",,,"$47K – $59.4K a year",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-24,"Fire Systems Suppression and Alarm Sales Representative","Alert Alarm Of Hawaii",,,"$49.2K – $62.2K a year",,,Honolulu,HI,""
+2022-01-27,"Specialty Lines Account Manager","Finance Insurance, Ltd.",financeinsurance.com,Insurance,"From $25.57 an hour",,"Downtown area",Honolulu,HI,"96813"
+2022-01-27,"VP, Assistant Commercial Real Estate Manager & Loan Officer","Finance Factors. Ltd.",financefactors.com,Banking,"From $95,175 a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-26,"Operations Manager","Allied Universal",aus.com,"Security & Investigations",,,"Downtown area",Honolulu,HI,"96804"
+2022-01-26,"Front of House Manager","Doraku Sushi Kakaako",,,"$49,400 a year",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-27,"VP, Business Development Manager (Loan Officer) Oahu","Finance Factors. Ltd.",financefactors.com,Banking,"From $2,000 a month",,"Downtown area",Honolulu,HI,"96813"
+2022-01-26,"Philanthropy Manager (FT)","Navian Hawaii",navianhawaii.org,"Hospital & Health Care","$40K – $50.6K a year",Remote,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-27,"Production Supervisor","Min Plastics and Supply",,,"$20 - $23 an hour",,"Kalihi-Palama area",Honolulu,HI,"96817"
+2022-01-26,"Youth Development Director-Middle School (Spalding Clubhouse...","Boys & Girls Club of Hawaii",bgch.com,"Program Development","$16 an hour",,"Mccully-Moiliili area",Honolulu,HI,"96826"
+2022-01-24,"Preventative Maintenance Sales Representative","Alert Alarm Of Hawaii",,,"$36.5K – $46.3K a year",,,Honolulu,HI,""
+2022-01-25,"Registered Nurse (RN)","Kamehameha Schools",ksbe.edu,"Education Management","$52.5K – $66.5K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-26,"Project Manager","Electricians Inc",,,"From $85,000 a year",,,Honolulu,HI,"96819"
+2022-01-26,"Program Director - Full Time Honolulu","Parents And Children Together",pacthawaii.org,"Nonprofit Organization Management","$51K – $64.6K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-26,"Case Manager","YWCA OF OAHU FERNHURST",,,"$34.5K – $43.7K a year",,"Makiki-Lower Punchbowl-Tantalus area",Honolulu,HI,"96822"
+2022-01-27,"MANAGER - OPERATIONS","Hard Rock Cafe International (USA), Inc.",,,"$36.5K – $46.3K a year",,"Diamond Head-Kapahulu area",Honolulu,HI,"96815"
+2022-01-27,"SITE SUPERINTENDENT SMC 1669","North Wind Group",northwindgrp.com,"Government Relations","$73.4K – $93K a year",,,Honolulu,HI,""
+2022-01-26,"ACCOUNT MANAGER CHEFZONE","Y. Hata & Co., Limited",yhata.com,"Food & Beverages",,,,Honolulu,HI,"96819"
+2022-01-25,"Assistant Efficiency Manager","Honolulu Disposal Service",honoluludisposal.com,Transportation/Trucking/Railroad,"$36.3K – $45.9K a year",,"Kalihi-Palama area",Honolulu,HI,"96819"
+2022-01-26,"VCU RCU Unit Manager","The Care Center of Honolulu",ccoh.us,"Hospital & Health Care","From $99,000 a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-26,"Compliance Manager (8912-Asset Management)","EAH Housing",,,"$53.1K – $67.3K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-26,"HR Business Partner","HAWAII GAS",hawaiigas.com,Utilities,"From $68,147 a year",,"Ala Moana-Kakaako area",Honolulu,HI,"96814"
+2022-01-26,"Electrical Computer Aided Design Designer","Bowers + Kubota Consulting",,,"$57K – $72.2K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-24,"Accounting & Credit Supervisor","City Mill Co Ltd",citymill.com,Retail,"$55.4K – $70.2K a year",,"Liliha-Kapalama area",Honolulu,HI,"96817"
+2022-01-24,"SECURITY ALARM INSTALLATION TECHNICIAN - Technician I",ZMANA,zmana.com,"Security & Investigations","$31.6K – $40K a year",,,Honolulu,HI,""
+2022-01-25,"Commercial Lines Account Manager (Monarch Insurance Services...","Acrisure LLC",acrisure.com,"Financial Services","$39.3K – $49.7K a year",,,Honolulu,HI,"96813"
+2022-01-27,"Flight Nurse","Global Medical Response",globalmedicalresponse.com,"Hospital & Health Care","$74.7K – $94.7K a year",,"Daniel K. Inouye International Airport area",Honolulu,HI,"96819"
+2022-01-26,"Associate Director of Innovation Programs","University of Hawaii",hawaii.edu,"Higher Education","$60.6K – $76.8K a year",,,Honolulu,HI,""
+2022-01-25,"Site Coordinator (pos #79367T)","University of Hawaii",hawaii.edu,"Higher Education","From $4,591 a month",,"Makiki area",Honolulu,HI,"96822"
+2022-01-25,"Recruitment Assistant (Temporary)","Hawaii Permanente Medical Group",hawaiipermanente.com,"Computer Software","$32.1K – $40.7K a year",,,Honolulu,HI,"96819"
+2022-01-27,"House Supervisor, RN PT Nights 12hrs","Kaiser Permanente",socialsourcingnetwork.com,,,,,Honolulu,HI,""
+2022-01-26,"Director Operations I",WinnCompanies,winnco.com,,"$57K – $72.2K a year",,"Airport area",Honolulu,HI,"96818"
+2022-01-26,"Director Operations I",WinnCompanies,winnco.com,,"$57K – $72.2K a year",,"Airport area",Honolulu,HI,"96818"
+2022-01-26,"Director Operations I",WinnCompanies,winnco.com,,"$57K – $72.2K a year",,"Airport area",Honolulu,HI,"96818"
+2022-01-27,"Morning Server in open-air restaurant, Deck. Waikiki","Deck. Waikiki",deckwaikiki.com,,"From $10.10 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-27,"Restaurant Supervisor in open-air restaurant Deck. Waikiki $...","Deck. Waikiki",deckwaikiki.com,,"$20 - $22 an hour",,"Waikiki area",Honolulu,HI,"96815"
+2022-01-27,"Program Manager II (enterprise agile transformation)","Principal Financial Group",principalgroup.com,,"$127,000 a year",Remote,"Downtown Des Moines area","Des Moines",IA,"50392"
+2022-01-25,"Director-Defined Benefit Client Services","Principal Financial Group",principalgroup.com,,"$127,000 a year",Remote,"Downtown Des Moines area","Des Moines",IA,"50309"
+2022-01-27,"Program Manager II (enterprise agile transformation)","Principal Financial Group",principalgroup.com,,"$127,000 a year",,,"Des Moines",IA,""
+2022-01-27,"Manager Consumer Direct Sales","Windstream Communications",windstreamenterprise.com,Telecommunications,,,"Southwestern Hills area","Des Moines",IA,"50321"
+2022-01-27,"DC Cloud Operations Lead",Deloitte,deloitte.com,"Management Consulting","$135K – $170K a year",,"Downtown Des Moines area","Des Moines",IA,"50309"
+2022-01-27,"DC Cloud Operations Lead",Deloitte,deloitte.com,"Management Consulting","$135K – $170K a year",,"Downtown Des Moines area","Des Moines",IA,"50309"
+2022-01-27,"IBM Solutions Architect",Deloitte,deloitte.com,"Management Consulting","$108K – $137K a year",,"Downtown Des Moines area","Des Moines",IA,"50309"
+2022-01-26,"Strategic Enterprise Account Executive",Paradox,paradox.ai,"Computer Software","$93.5K – $118K a year",,"Downtown area","Des Moines",IA,"50309"
+2022-01-26,"Director-Engineering for Cyber Governance, Risk & Compliance","Principal Financial Group",principalgroup.com,,"$140,000 a year",,,"Des Moines",IA,""
+2022-01-25,"Director-Defined Benefit Client Services","Principal Financial Group",principalgroup.com,,"$127,000 a year",,,"Des Moines",IA,""
+2022-01-26,"Director-Engineering for Cyber Governance, Risk & Compliance","Principal Financial Group",principalgroup.com,,"$140,000 a year",Remote,"Downtown Des Moines area","Des Moines",IA,"50392"
+2022-01-25,"MEP Project Manager - Industrial Division","The Weitz Company / Contrack Watts, Inc.",weitz.com,Construction,"$78.2K – $99K a year",,"Downtown area","Des Moines",IA,"50309"
+2022-01-27,"Director - Affordable Housing Network","Four Oaks Family And Childrens Services",fouroaks.org,"Nonprofit Organization Management","$98.5K – $125K a year",,,"Cedar Rapids",IA,"52404"
+2022-01-27,"Associate Director Business Development - Autonomous Systems...","Collins Aerospace",collinsaerospace.com,"Aviation & Aerospace",,,,"Cedar Rapids",IA,"52498"
+2022-01-25,"Assistant Director Community Development and Planning","City of Cedar Rapids, IA",,,"$80,808 - $113,090 a year",,,"Cedar Rapids",IA,"52401"
+2022-01-25,"Mission Systems Operations Project Lead","Collins Aerospace",collinsaerospace.com,"Aviation & Aerospace","$81.6K – $103K a year",,,"Cedar Rapids",IA,""
+2022-01-25,"Mission Systems Operations Project Lead","Collins Aerospace",collinsaerospace.com,"Aviation & Aerospace",,,,"Cedar Rapids",IA,"52498"
+2022-01-26,"Associate Actuary (Level 3)",Transamerica,ta-retirement.com,Insurance,"$80.6K – $102K a year",,,"Cedar Rapids",IA,"52402"
+2022-01-27,"Manager Consumer Direct Sales","Windstream Communications",windstreamenterprise.com,Telecommunications,,,,"Cedar Rapids",IA,"52404"
+2022-01-22,"Director Business Development",Pearson,pearson.com,"Education Management","$105K – $133K a year",,,Honolulu,HI,""
+2022-01-23,"Associate Creative Director - Experience Design",Deloitte,deloitte.com,"Management Consulting","$106K – $134K a year",,"Downtown area",Honolulu,HI,"96813"
+2022-01-22,"Director, Value-Based Care - Strategic Planning","Hawaii Pacific Health",hawaiipacifichealth.org,"Hospital & Health Care","$67.6K – $85.6K a year",,,Honolulu,HI,""
+2022-01-22,"Director of Programs (Indo-Pacific) (Dir Programs 1)","Alion Science and Technology",alionscience.com,"Defense & Space","$97.7K – $124K a year",,,Honolulu,HI,""
+2022-01-27,"Medical Director - Hawaii Health Partners","Hawaii Pacific Health",hawaiipacifichealth.org,"Hospital & Health Care","$178K – $226K a year",,,Honolulu,HI,""
+2022-01-27,"Environmental Analyst","Yorktown Systems Group",,,"$58.2K – $73.8K a year",,"Makiki area",Honolulu,HI,"96801"

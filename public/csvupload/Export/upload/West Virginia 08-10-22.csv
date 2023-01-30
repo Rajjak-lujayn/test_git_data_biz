@@ -1,0 +1,755 @@
+DATE,"Job Title",Company,Website,Industry,Salary,Remote,AREA,City,State,"Zip Code"
+2022-10-01,"Well Tender - Boone County, WV","Greylock Energy",,,"estimated $45.3k - $57.3k a year",,"Oakridge/Greenbrier area)",Charleston,WV,"25311"
+2022-10-02,"Investigator Assistant","Elevance Health",,,"estimated $33.2k - $42k a year",,,Charleston,WV,""
+2022-10-03,"Sales Representative",Sysco,sysco.com,"Food & Beverages",,,,Charleston,WV,"25329"
+2022-10-04,"Technical Analyst Associate (Engineering Degree Required)","West Virginia Department of Environmental...",,,"$49,642 - $91,837 a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-01,"Plant Operator","Airgas Inc.",airgas.com,Chemicals,,,,Charleston,WV,"25312"
+2022-10-04,"Service Technician","Motion Industries",generaltoolworldwide.com,Wholesale,,,,Charleston,WV,"25309"
+2022-10-01,"Front Desk Agent Charleston Holiday Inn Express","Shaner Hotel Group",,,"estimated $23.7k - $29.9k a year",,"Downtown area)",Charleston,WV,"25301"
+2022-10-04,Server,Chili's,chilisjobs.com,,,,"Downtown area)",Charleston,WV,"25389"
+2022-10-02,"Full-time Presser/Counter person","NuWay Cleaners",thecleaners.net,Textiles,"$10.50 - $11.00 an hour",,"East End area)",Charleston,WV,"25301"
+2022-10-01,Caregiver,Sevita,sevita.com,"Food Production",,,,Charleston,WV,""
+2022-10-01,"Environmental Services Tech 2 -- Housekeeping -- Women & Chi...","CAMC Health System",camc.org,"Hospital & Health Care","estimated $26.3k - $33.3k a year",,,Charleston,WV,""
+2022-10-01,"Psychiatric Nurse Practitioner","Highland Hospital",highlandhosp.com,"Mental Health Care",,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-04,Bartender,Chili's,chilisjobs.com,,,,"Downtown area)",Charleston,WV,"25389"
+2022-10-04,"Physician Assistant-Certified","Chesapeake Healthcare Center",,,"$44 - $51 an hour",,,Charleston,WV,""
+2022-10-04,"Banquet Captain","Charleston Embassy Suites",,,"$14.00 - $14.70 an hour",,"Downtown area)",Charleston,WV,"25301"
+2022-10-01,"Guest Room Attendant Charleston Holiday Inn Express","Shaner Hotel Group",,,"estimated $23.7k - $30.1k a year",,"Downtown area)",Charleston,WV,"25301"
+2022-10-04,Host,Chili's,chilisjobs.com,,,,"Downtown area)",Charleston,WV,"25389"
+2022-10-01,"5th Grade Teacher","Kanawha County School District",k12.wv.us,"Education Management","estimated $40.9k - $51.7k a year",,,Charleston,WV,"25315"
+2022-10-04,Dishwasher,Chili's,chilisjobs.com,,,,"Downtown area)",Charleston,WV,"25389"
+2022-10-04,"Banquet Captain","Charleston Embassy Suites",,,"estimated $28.7k - $36.3k a year",,,Charleston,WV,""
+2022-10-04,Janitor,Chili's,chilisjobs.com,,,,"Downtown area)",Charleston,WV,"25389"
+2022-10-01,"ACT Case Manager","Prestera Center for Health Services Inc",,,"$15.89 an hour",,"East End area)",Charleston,WV,"25301"
+2022-10-04,QA/Expeditor,Chili's,chilisjobs.com,,,,"Downtown area)",Charleston,WV,"25389"
+2022-10-04,"To Go",Chili's,chilisjobs.com,,,,"Downtown area)",Charleston,WV,"25389"
+2022-10-04,"Food Runner",Chili's,chilisjobs.com,,,,"Downtown area)",Charleston,WV,"25389"
+2022-10-02,"Real Estate Associate - DOA - Real Estate - Kanawha","West Virginia",mywvvacation.com,"Industry: Newspapers & News Services, Media & Internet","estimated $53.6k - $67.8k a year",,"East End area)",Charleston,WV,"25305"
+2022-10-01,"Phlebotomist -- Lab -- General Hospital","CAMC Health System",camc.org,"Hospital & Health Care","estimated $27.4k - $34.8k a year",,,Charleston,WV,""
+2022-10-02,"Team Member - Charleston Town",Sbarro,,,"estimated $21.6k - $27.4k a year",,"Downtown area)",Charleston,WV,"25389"
+2022-10-03,"CL A Drivers 6 Mos Experience 2K/WK Dedicated Regional",Blackbird,blackbirdbar.com,Hospitality,"$205 a day",,,Charleston,WV,"25323"
+2022-10-02,"Programmer Analyst 2 - DHHR/MIS - Kanawha Co.","Charleston, WV 25305 (East End area)",,,,,,,,""
+2022-10-01,"Transportation Worker 1 Equipment Operator - Ohio County","West Virginia Department of Transportation (WV)",wvu.edu,"Higher Education","$12.99 an hour",,,Charleston,WV,"25305"
+2022-10-01,"Transportation Worker 1 Equipment Operator - Ohio County","West Virginia Department of Transportation (WV)",wvu.edu,"Higher Education","$12.99 an hour",,,Charleston,WV,"25305"
+2022-10-01,"Transportation Worker 1 Equipment Operator - Marshall County","West Virginia Department of Transportation (WV)",wvu.edu,"Higher Education","$12.99 an hour",,,Charleston,WV,"25305"
+2022-10-04,"Restaurant Server","Recovery Sports Grill Charleston",recoverysportsgrill.com,Restaurants,"estimated $25.3k - $32.1k a year",,"Downtown area)",Charleston,WV,"25301"
+2022-10-01,"Transportation Worker 1 Equipment Operator - Wetzel County","West Virginia Department of Transportation (WV)",wvu.edu,"Higher Education","$12.99 an hour",,,Charleston,WV,"25305"
+2022-10-01,"Transportation Worker 1 Equipment Operator - Brooke County","West Virginia Department of Transportation (WV)",wvu.edu,"Higher Education","$12.99 an hour",,,Charleston,WV,"25305"
+2022-10-01,"Transportation Worker 1 Equipment Operator - Hancock County","West Virginia Department of Transportation (WV)",wvu.edu,"Higher Education","$12.99 an hour",,,Charleston,WV,"25305"
+2022-10-01,"Transportation Worker 1 Equipment Operator - Tyler County","West Virginia Department of Transportation (WV)",wvu.edu,"Higher Education","$12.99 an hour",,,Charleston,WV,"25305"
+2022-10-01,"Transportation Worker 2 Equipment Operator - Ohio County","West Virginia Department of Transportation (WV)",wvu.edu,"Higher Education","$15.03 an hour",,,Charleston,WV,"25305"
+2022-10-01,"Transportation Worker 2 Equipment Operator - Booke County","West Virginia Department of Transportation (WV)",wvu.edu,"Higher Education","$15.03 an hour",,,Charleston,WV,"25305"
+2022-10-01,"Recreation Director","Complete Care at Oakridge",completecareoakridge.com,,"estimated $44.9k - $56.9k a year",,"Oakridge/Greenbrier area)",Charleston,WV,"25311"
+2022-10-04,"Resident Monitor (Full-Time)","Dismas Charities",dismas.com,"Government Relations","$15.00 - $19.27 an hour",,,Charleston,WV,""
+2022-10-01,"Behavioral Health Disaster Response Coordinator","WV Department of Health and Human Resources",,,"$35,994 - $66,589 a year",,"Downtown area)",Charleston,WV,"25301"
+2022-10-02,Bartender,"Tidewater Grill",tidewatergrillrestaurant.com,Restaurants,,,"Downtown area)",Charleston,WV,"25387"
+2022-10-03,"Pest Control Technician","Rentokil North America",rentokil.com,"Consumer Services",,,,Charleston,WV,"25301"
+2022-10-04,"Research Specialist 2 - Nutrition Services","WV DHHR - Bureau for Public Health",,,"$38,157 - $70,589 a year",,"Downtown area)",Charleston,WV,"25301"
+2022-10-02,Accountant/Bookkeeper,"Union Oil & Gas, Inc.",,,"$35,000 - $55,000 a year",,"East End area)",Charleston,WV,"25301"
+2022-10-04,"Programmer Analyst 2 - Applications Team","Bureau for Child Support Enforcement",,,"$42,898 - $79,358 a year",,"Downtown area)",Charleston,WV,"25301"
+2022-10-04,"Ophthalmic Technician/Scribe","Minardi Eye Center",,,"$15 - $20 an hour",,"Downtown area)",Charleston,WV,"25301"
+2022-10-01,"Environmental Inspector","West Virginia Department of Environmental...",,,"$35,994 - $66,589 a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-07,"Insurance Sales Agent","The Lewis Financial Group",,,"$1,250 a week",,,Charleston,WV,""
+2022-10-01,"Children's Crisis Services Specialist","WV Department of Health and Human Resources",,,"$35,994 - $66,589 a year",,"Downtown area)",Charleston,WV,"25301"
+2022-10-01,"Crew Member","Little Caesars",,,"up to $11 an hour",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-07,"REO Eviction Vendors | REO Property Preservation Vendors | R...","Midwest Property REO, LLC.",midwest-reo.com,,"$3,000 - $5,000 a month",,,Charleston,WV,""
+2022-10-01,"CARES Act Program Specialist","WV Department of Health and Human Resources",,,"$35,994 - $66,589 a year",,"Downtown area)",Charleston,WV,"25301"
+2022-10-01,"Behavioral Provider Network Program Specialist","WV Department of Health and Human Resources",,,"$35,994 - $66,589 a year",,"Downtown area)",Charleston,WV,"25301"
+2022-10-04,"Van Driver","Stonerise Charleston",,,"estimated $20.1k - $25.5k a year",,,Charleston,WV,"25304"
+2022-10-02,"Team Member","Arby's | AES Restaurants",aesrestaurants.com,,"estimated $23.3k - $29.5k a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-01,"RN - Registered Nurse","Womencare Inc.",womencareinc.nl,"Hospital & Health Care","estimated $51.9k - $65.7k a year",,,Charleston,WV,"25301"
+2022-10-01,"Office Manager","Northeast Natural Energy",northeastnaturalenergy.com,"Oil & Energy","estimated $30.1k - $38.1k a year",,"Downtown area)",Charleston,WV,"25301"
+2022-10-04,"Grounds Maintenance Worker","City Of Charleston",charleston-sc.gov,"Government Administration","$11.56 - $12.88 an hour",,,Charleston,WV,"25301"
+2022-10-03,"CREW MEMBERS","Steak Escape",steakescape.com,Restaurants,"$10.50 - $11.50 an hour",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-02,"Host / Hostess","Tidewater Grill",tidewatergrillrestaurant.com,Restaurants,"$14 an hour",,"Downtown area)",Charleston,WV,"25387"
+2022-10-01,"Chairside Dental Assistant","J Christopher Smith DDS PLLC",smithfamilydentistrywv.com,"Medical Practice","from $13 an hour",,"West Side area)",Charleston,WV,"25387"
+2022-10-04,"Office Support Specialist","City Of Charleston",charleston-sc.gov,"Government Administration","$13.38 - $14.88 an hour",,,Charleston,WV,"25301"
+2022-10-01,"Metal Building Erector","American Building Sysytems Inc",,,"$20 - $25 an hour",,"Downtown area)",Charleston,WV,"25301"
+2022-10-01,"Environmental Inspector In Training","West Virginia Department of Environmental...",,,"$34,261 - $63,382 a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-01,"Security Officer","Security America",securityamerica.com,"Security & Investigations","estimated $22.5k - $28.5k a year",,,Charleston,WV,"25301"
+2022-10-02,"Food Service Clerk - Dunkin Donuts","Dunkin Donuts | Little General Stores",,,"estimated $20.6k - $26k a year",,,Charleston,WV,"25314"
+2022-10-04,"Housekeeping Aide","Stonerise Charleston",,,"estimated $21.9k - $27.7k a year",,,Charleston,WV,"25304"
+2022-10-01,"Child Advocate Attorney - Kanawha County","Bureau for Child Support Enforcement",,,"$49,642 - $91,837 a year",,,Charleston,WV,"25313"
+2022-10-01,Dishwasher,Applebee's,,,"$13 - $15 an hour",,,Charleston,WV,"25309"
+2022-10-04,"Laundry Worker","Healthcare Services Group, Inc.",hcsgcorp.com,"Hospital & Health Care",,,,Charleston,WV,"25309"
+2022-10-02,"Job Coach - Charleston","Job Squad Inc",,,"$12 - $15 an hour",,"South Hills area)",Charleston,WV,"25303"
+2022-10-02,"Registered Nurse Interview Day - Charleston, WV","CenterWell Home Health",,,"estimated $68.5k - $86.7k a year",,,Charleston,WV,""
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,,Charleston,WV,"25306"
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,,Charleston,WV,"25320"
+2022-10-04,"Frac Equipment Operator - Mill Hall PA",NexTier,nextierbank.com,Banking,,,,Charleston,WV,""
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,"West Side area)",Charleston,WV,"25302"
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-04,Infantryman,"ArmyRecruiting Ohio",,,"estimated $56.7k - $71.7k a year",,,Charleston,WV,""
+2022-10-01,"Technical Analyst Trainee (Engineering Degree Required)","West Virginia Department of Environmental...",,,"$42,898 - $79,358 a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-02,"Registered Dietitian","Healthcare Services Group, Inc.",hcsgcorp.com,"Hospital & Health Care",,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-02,"Team Member","Arby's | AES Restaurants",aesrestaurants.com,,"estimated $23.3k - $29.5k a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-02,"Team Member","Arby's | AES Restaurants",aesrestaurants.com,,"estimated $23.3k - $29.5k a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-02,"Team Member","Arby's | AES Restaurants",aesrestaurants.com,,"estimated $23.3k - $29.5k a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,,Charleston,WV,"25315"
+2022-10-02,RGM,"Arby's | AES Restaurants",aesrestaurants.com,,"estimated $32.6k - $41.2k a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-07,"Mortgage Loan Officer","Obsidian Financial Services",obsidianfinancialservices.com,"Financial Services",,,,Charleston,WV,""
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,,Charleston,WV,"25365"
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,,Charleston,WV,"25312"
+2022-10-04,Housekeeper,"Healthcare Services Group, Inc.",hcsgcorp.com,"Hospital & Health Care",,,,Charleston,WV,"25309"
+2022-10-02,"Assistant Manager","Arby's | AES Restaurants",aesrestaurants.com,,"estimated $33.6k - $42.6k a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-02,"Assistant Manager","Arby's | AES Restaurants",aesrestaurants.com,,"estimated $33.6k - $42.6k a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-01,"Roadway Worker In Charge (RWIC)","National Railroad Safety Services, Inc. (NRSS)",nrssinc.net,Transportation/Trucking/Railroad,"estimated $50.8k - $64.4k a year",,,Charleston,WV,"25301"
+2022-10-02,"Shift Leader","Little Caesars",,,"up to $12 an hour",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-04,"Optometrist - WV, Charleston - 404 - Sublease",Visionworks,visionworks.com,Retail,,,"Downtown area)",Charleston,WV,"25389"
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-04,"Optometrist - WV, Charleston - 404 - Sublease",Visionworks,visionworks.com,Retail,,,"Downtown area)",Charleston,WV,"25389"
+2022-10-04,"Optometrist - WV, Charleston - 404 - Sublease",Visionworks,visionworks.com,Retail,,,"Downtown area)",Charleston,WV,"25389"
+2022-10-04,"Optometrist - WV, Charleston - 404 - Sublease",Visionworks,visionworks.com,Retail,,,"Downtown area)",Charleston,WV,"25389"
+2022-10-04,"Optometrist - WV, Charleston - 404 - Sublease",Visionworks,visionworks.com,Retail,,,"Downtown area)",Charleston,WV,"25389"
+2022-10-04,"Optometrist - WV, Charleston - 404 - Sublease",Visionworks,visionworks.com,Retail,,,"Downtown area)",Charleston,WV,"25389"
+2022-10-04,"Optometrist - WV, Charleston - 404 - Sublease",Visionworks,visionworks.com,Retail,,,"Downtown area)",Charleston,WV,"25389"
+2022-10-04,"Optometrist - WV, Charleston - 404 - Sublease",Visionworks,visionworks.com,Retail,,,"Downtown area)",Charleston,WV,"25389"
+2022-10-04,"Optometrist - WV, Charleston - 404 - Sublease",Visionworks,visionworks.com,Retail,,,"Downtown area)",Charleston,WV,"25389"
+2022-10-04,"Event Staff Part-Time","Hale Street Center",,,"$12 - $15 an hour",,"Downtown area)",Charleston,WV,"25301"
+2022-10-04,"BRFSS Interviewer",WVDHHR/BPH/HSC,,,"$12.09 an hour",,"Downtown area)",Charleston,WV,"25301"
+2022-10-02,"Retail Sales Associate","Best Buy",bestbuy.com,Retail,,,,Charleston,WV,"25309"
+2022-10-04,"Customer Service Associate",WALGREENS,walgreens.com,Retail,,,"East End area)",Charleston,WV,"25301"
+2022-10-01,"Specimen Accessioner/ Part Time (lab associate)",Labcorp,labcorp.com,"Hospital & Health Care","estimated $30.3k - $38.3k a year",,,Charleston,WV,"25312"
+2022-10-01,"Specimen Accessioner/ Part Time (lab associate)",Labcorp,labcorp.com,"Hospital & Health Care",,,,Charleston,WV,"25312"
+2022-10-02,"Retail Warehouse Associate - Seasonal","Best Buy",bestbuy.com,Retail,,,,Charleston,WV,"25309"
+2022-10-04,Server,Chili's,chilisjobs.com,,,,"Downtown area)",Charleston,WV,"25389"
+2022-10-01,"Holiday Assistant Local Manager-US","Cherry Hill Programs - Santa Photography",,,"estimated $24.6k - $31.2k a year",,,Charleston,WV,"25389"
+2022-10-04,Bartender,Chili's,chilisjobs.com,,,,"Downtown area)",Charleston,WV,"25389"
+2022-10-04,"Physician Assistant-Certified","Chesapeake Healthcare Center",,,"$44 - $51 an hour",,,Charleston,WV,""
+2022-10-01,"Traffic Control Protector - (Drivers License Required)","Area Wide Protective",awptrafficsafety.com,Utilities,"$13 an hour",,,Charleston,WV,"25301"
+2022-10-04,Host,Chili's,chilisjobs.com,,,,"Downtown area)",Charleston,WV,"25389"
+2022-10-04,Dishwasher,Chili's,chilisjobs.com,,,,"Downtown area)",Charleston,WV,"25389"
+2022-10-04,Janitor,Chili's,chilisjobs.com,,,,"Downtown area)",Charleston,WV,"25389"
+2022-10-04,QA/Expeditor,Chili's,chilisjobs.com,,,,"Downtown area)",Charleston,WV,"25389"
+2022-10-04,"To Go",Chili's,chilisjobs.com,,,,"Downtown area)",Charleston,WV,"25389"
+2022-10-04,"Concierge - Part Time","Harmony at Southridge",,,"estimated $22.9k - $28.9k a year",,,Charleston,WV,"25309"
+2022-10-04,"Food Runner",Chili's,chilisjobs.com,,,,"Downtown area)",Charleston,WV,"25389"
+2022-10-02,"Team Member - Charleston Town",Sbarro,,,"estimated $21.6k - $27.4k a year",,"Downtown area)",Charleston,WV,"25389"
+2022-10-02,Bartender,"Tidewater Grill",tidewatergrillrestaurant.com,Restaurants,,,"Downtown area)",Charleston,WV,"25387"
+2022-10-04,"Customer Service-Test Center Administrator (PT)",Prometric,prometric.com,"Information Technology & Services","estimated $24.9k - $31.5k a year",,"Oakridge/Greenbrier area)",Charleston,WV,"25311"
+2022-10-04,"Soap Maker/Retail Key Carrier","Buff City Soap Franchise",franchimp.com,"Market Research","estimated $22.1k - $27.9k a year",,,Charleston,WV,"25309"
+2022-10-04,"Part-Time Hotel Restaurant Server - Holiday Inn & Suite Char...","Chesapeake Payroll Services, LLC",,,"estimated $22.2k - $28.2k a year",,,Charleston,WV,"25303"
+2022-10-01,"Crew Member","Little Caesars",,,"up to $11 an hour",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-07,"REO Eviction Vendors | REO Property Preservation Vendors | R...","Midwest Property REO, LLC.",midwest-reo.com,,"$3,000 - $5,000 a month",,,Charleston,WV,""
+2022-10-02,"Team Member","Arby's | AES Restaurants",aesrestaurants.com,,"estimated $23.3k - $29.5k a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-04,"Concierge - Part Time","Harmony Senior Services",harmonyseniorservices.com,"Hospital & Health Care","estimated $22.9k - $28.9k a year",,,Charleston,WV,"25309"
+2022-10-03,"CREW MEMBERS","Steak Escape",steakescape.com,Restaurants,"$10.50 - $11.50 an hour",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-02,"Host / Hostess","Tidewater Grill",tidewatergrillrestaurant.com,Restaurants,"$14 an hour",,"Downtown area)",Charleston,WV,"25387"
+2022-10-01,"Dynamic Presenter - Virtual and In-Person Test Prep Instruct...",MasteryPrep,masteryprep.com,"Education Management","$50,000 - $75,000 a year",Remote,,"Remote in Charleston",WV,""
+2022-10-04,Merchandiser,"Neptune Retail Solutions",newsamerica.com,"Marketing & Advertising",,,,Charleston,WV,""
+2022-10-01,"Roadway Worker In Charge (RWIC","National Railroad Safety Services, Inc. (NRSS)",nrssinc.net,Transportation/Trucking/Railroad,"estimated $48.6k - $61.6k a year",,,Charleston,WV,"25301"
+2022-10-07,"In Home Assembly Technicians","Merchandisers on Demand 1",,,"from $18 an hour",,,Charleston,WV,""
+2022-10-01,Dishwasher,Applebee's,,,"$13 - $15 an hour",,,Charleston,WV,"25309"
+2022-10-04,"Laundry Worker","Healthcare Services Group, Inc.",hcsgcorp.com,"Hospital & Health Care",,,,Charleston,WV,"25309"
+2022-10-02,"Job Coach - Charleston","Job Squad Inc",,,"$12 - $15 an hour",,"South Hills area)",Charleston,WV,"25303"
+2022-10-02,"Front of House","Bob Evans Restaurants",bobevans.com,Restaurants,,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,,Charleston,WV,"25306"
+2022-10-04,"Customer Service-Test Center Administrator (PT)",Prometric,prometric.com,"Information Technology & Services","estimated $24.9k - $31.5k a year",,"Oakridge/Greenbrier area)",Charleston,WV,"25311"
+2022-10-02,"Back of House","Bob Evans Restaurants",bobevans.com,Restaurants,,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,,Charleston,WV,"25320"
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,"West Side area)",Charleston,WV,"25302"
+2022-10-02,"Front of House","Bob Evans Restaurants",bobevans.com,Restaurants,,,,Charleston,WV,"25313"
+2022-10-02,"Back of House","Bob Evans Restaurants",bobevans.com,Restaurants,,,,Charleston,WV,"25313"
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-02,"Team Member","Arby's | AES Restaurants",aesrestaurants.com,,"estimated $23.3k - $29.5k a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-02,"Team Member","Arby's | AES Restaurants",aesrestaurants.com,,"estimated $23.3k - $29.5k a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-02,"Team Member","Arby's | AES Restaurants",aesrestaurants.com,,"estimated $23.3k - $29.5k a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,,Charleston,WV,"25315"
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,,Charleston,WV,"25365"
+2022-10-04,"Weekend Caregivers Needed!","Charleston, WV",,,,,,,,""
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,,Charleston,WV,"25312"
+2022-10-04,Housekeeper,"Healthcare Services Group, Inc.",hcsgcorp.com,"Hospital & Health Care",,,,Charleston,WV,"25309"
+2022-10-02,"Shift Leader","Little Caesars",,,"up to $12 an hour",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,,Charleston,WV,"25365"
+2022-10-04,"Weekend Caregivers Needed!","Charleston, WV",,,,,,,,""
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,,Charleston,WV,"25312"
+2022-10-04,Housekeeper,"Healthcare Services Group, Inc.",hcsgcorp.com,"Hospital & Health Care",,,,Charleston,WV,"25309"
+2022-10-02,"Shift Leader","Little Caesars",,,"up to $12 an hour",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-04,"BRFSS Interviewer",WVDHHR/BPH/HSC,,,"$12.09 an hour",,"Downtown area)",Charleston,WV,"25301"
+2022-10-04,"22-8928 Clinical Associate","WVUH West Virginia University Hospitals",,,"estimated $29.5k - $37.3k a year",,,Morgantown,WV,"26506"
+2022-10-04,"Travel Agent Reservationist","National Travel Inc.",,,"$37,440 - $55,000 a year",,,Morgantown,WV,"26505"
+2022-10-02,"Sales Representative","US Cellular",uscellular.com,Wireless,"up to $65,000 a year",,,Morgantown,WV,""
+2022-10-04,"Support Associate","WVUH West Virginia University Hospitals",,,"estimated $24.4k - $31k a year",,,Morgantown,WV,"26506"
+2022-10-04,"22-4105 Clinical Associate","WVUH West Virginia University Hospitals",,,"estimated $29.3k - $37.1k a year",,,Morgantown,WV,"26506"
+2022-10-04,"22-8586 Clinical Associate","WVUH West Virginia University Hospitals",,,"estimated $29.3k - $37.1k a year",,,Morgantown,WV,"26506"
+2022-10-07,"Banquet Server","Lakeview Resort",,,"from $13 an hour",,,Morgantown,WV,"26508"
+2022-10-04,"SERVICE WRITER/ASSISTANT MANAGER","PARCS Superstores",,,"$14 - $18 an hour",,,Morgantown,WV,"26501"
+2022-10-04,"Sales Manager","Hampton Inn & Suites Morgantown/University Town...",,,"$16 an hour",,,Morgantown,WV,"26501"
+2022-10-04,"Laboratory Technician-Conservation Genetics","Careers | West Virginia University",,,,,,Morgantown,WV,"26506"
+2022-10-04,"Pharmacy Generalist","Morgantown, WV 26506",,,,,,,,""
+2022-10-04,"Print Shop / Screen Printing Assistant",Gabe*s,gabesstores.com,Retail,"from $11.25 an hour",,,Morgantown,WV,"26508"
+2022-10-02,"Catering Service Worker @ WVU Dining",Sodexo,sodexo.com,"Facilities Services",,,,Morgantown,WV,"26506"
+2022-10-04,Host,Chili's,chilisjobs.com,,,,,Morgantown,WV,"26501"
+2022-10-04,Painter,"The Paint Store",,,"$12 - $17 an hour",,,Morgantown,WV,"26505"
+2022-10-02,"FT-Loader/Cart Associate-Opening",Lowe's,lowes.com,Retail,,,,Morgantown,WV,"26508"
+2022-10-04,"RN Infusion Nurse","Vitana Inc",,,"from $2,630 a week",,,Morgantown,WV,""
+2022-10-02,"WVU-Clinical Associate-Nursing Assistant -27006","WVUH West Virginia University Hospitals",,,"estimated $24.4k - $31k a year",,,Morgantown,WV,"26506"
+2022-10-04,"Registration Rep - Patient Registration","Mon Health",monhealth.com,"Hospital & Health Care","estimated $26.8k - $34k a year",,,Morgantown,WV,"26505"
+2022-10-04,"Lube Technician","Lithia Motors, Inc.",,,,,,Morgantown,WV,"26505"
+2022-10-03,"Hotel Housekeeping","Quality Inn",qualityinncedarcity.com,Hospitality,"estimated $20.1k - $25.5k a year",,,Morgantown,WV,"26508"
+2022-10-02,"Utility Locator","USIC Locating Services, LLC",usicllc.com,Utilities,"$15 an hour",,,Morgantown,WV,"26501"
+2022-10-04,"Food Runner",Chili's,chilisjobs.com,,,,,Morgantown,WV,"26501"
+2022-10-04,"Speech Language Pathologist","Therapy Services LLC",,,"$47,000 - $53,000 a year",,,Morgantown,WV,"26505"
+2022-10-07,"RN Operating Room","Vitana Inc",,,"from $3,679 a week",,,Morgantown,WV,""
+2022-10-04,"To Go",Chili's,chilisjobs.com,,,,,Morgantown,WV,"26501"
+2022-10-07,"RN PICU","Vitana Inc",,,"from $3,311 a week",,,Morgantown,WV,""
+2022-10-03,"CL A Drivers 6 Mos Experience 2K/WK Dedicated Regional",Blackbird,blackbirdbar.com,Hospitality,"$205 a day",,,Morgantown,WV,"26501"
+2022-10-04,"Receptionist - State Farm Agent Team Member","Jason Gallagher - State Farm Agent",,,"$40,000 - $60,000 a year",,,Morgantown,WV,"26508"
+2022-10-04,"Front Desk Coordinator","MMS Endodontic Specialists",,,"estimated $31.1k - $39.3k a year",,,Morgantown,WV,"26508"
+2022-10-03,"Deli/Bakery Associate",Walmart,walmart.com,Retail,"$15 - $17 an hour",,,Morgantown,WV,"26508"
+2022-10-02,"Daycare Teacher","Young Hearts LLC",youngheartsllc.com,,"$11 - $15 an hour",,,Morgantown,WV,"26505"
+2022-10-04,"Activity Aide","Stonerise Morgantown",,,"estimated $27.7k - $35.1k a year",,,Morgantown,WV,"26505"
+2022-10-02,"D2D Home Internet Sales Representative- Morgantown WV",LSS,,,"$2,000 - $5,000 a week",,,Morgantown,WV,"26501"
+2022-10-04,"Warehouse Associate - Full time","The Book Exchange",booksmontana.com,Retail,"$14.25 an hour",,"First Ward area)",Morgantown,WV,"26501"
+2022-10-04,"Caregiver (Companion)","Right at Home Morgantown",,,"estimated $23k - $29.2k a year",,,Morgantown,WV,"26505"
+2022-10-02,"Opening Morning Crew Member","Dunkin Donuts",dunkindonutscenter.com,Entertainment,"$11 - $12 an hour",,,Morgantown,WV,"26505"
+2022-10-02,"Account Executive","Dasco HME LLC",godasco.com,"Hospital & Health Care",,,,Morgantown,WV,"26505"
+2022-10-02,"Kitchen Staff","Lakehouse Restaurant",thelakehouserest.com,Restaurants,"$13 - $17 an hour",,,Morgantown,WV,"26508"
+2022-10-04,"Front Desk Coordinator","North American Dental Group",nadentalgroup.com,"Medical Practice","estimated $29k - $36.8k a year",,,Morgantown,WV,"26508"
+2022-10-04,Janitor/Cleaner,"Atalian Global Services",atalian.us,"Facilities Services","$14 an hour",,,Morgantown,WV,"26505"
+2022-10-04,"Dental Assistant","MMS Endodontic Specialists",,,"estimated $30k - $38k a year",,,Morgantown,WV,"26508"
+2022-10-04,"Security Officer","Security America",securityamerica.com,"Security & Investigations","$14 an hour",,,Morgantown,WV,"26501"
+2022-10-02,"Pizza Delivery Driver","Fox's Pizza Den Cheat Lake",,,"$8.75 - $20.00 an hour",,,Morgantown,WV,"26508"
+2022-10-07,"Dishwasher/Food Prep","Sabraton Station",sabratonstation.com,Restaurants,"$12 - $15 an hour",,,Morgantown,WV,"26505"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26501"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26505"
+2022-10-03,"Crew Member-$13-$15 per Hour (Includes Tips)","Jersey Mike's Subs | Blasco5, LLC",,,"$11.00 - $11.50 an hour",,,Morgantown,WV,"26501"
+2022-10-03,"Personal Care Assistant (PCA)","Right at Home Morgantown",,,"estimated $20.8k - $26.4k a year",,,Morgantown,WV,"26505"
+2022-10-04,"Frac Equipment Operator - Mill Hall PA",NexTier,nextierbank.com,Banking,,,,Morgantown,WV,""
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,,Morgantown,WV,"26505"
+2022-10-04,"Dietary Services Manager","Stonerise Morgantown",,,"estimated $38.7k - $49.1k a year",,,Morgantown,WV,"26505"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26508"
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,,Morgantown,WV,"26508"
+2022-10-02,"AP Clerk","Bruceton Farm Service, Inc. | BFS Companies",,,"estimated $26.4k - $33.4k a year",,,Morgantown,WV,"26508"
+2022-10-02,Manager,"Arby's | Restaurant Enterprises Inc",,,"estimated $32.1k - $40.7k a year",,,Morgantown,WV,"26505"
+2022-10-04,"Registered Nurse (RN) NEW WAGES","Morgantown Health and Rehab",,,,,,Morgantown,WV,""
+2022-10-04,"Front Desk Coordinator","North American Dental Group",nadentalgroup.com,"Medical Practice","estimated $29k - $36.8k a year",,,Morgantown,WV,"26508"
+2022-10-03,"Home Health Aide (HHA)","Right at Home Morgantown",,,"estimated $21.8k - $27.6k a year",,,Morgantown,WV,"26505"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26501"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26501"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26501"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26505"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26505"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26505"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26505"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26505"
+2022-10-04,"Dental Assistant I","North American Dental Group",nadentalgroup.com,"Medical Practice","estimated $28.4k - $36k a year",,,Morgantown,WV,"26508"
+2022-10-04,"Registered Nurse (RN) NEW WAGES","Morgantown Health and Rehab",,,,,,Morgantown,WV,"26505"
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,,Morgantown,WV,"26505"
+2022-10-03,"Shift Leader - $14-$16 per Hour (Includes Tips)","Jersey Mike's Subs | Blasco5, LLC",,,"$11.50 - $12.00 an hour",,,Morgantown,WV,"26501"
+2022-10-07,"RN Stepdown","Vitana Inc",,,"from $2,812 a week",,,Morgantown,WV,""
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26508"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26508"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26508"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26508"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26508"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26508"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26508"
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,,Morgantown,WV,"26508"
+2022-10-04,Receptionist,"Pineview Dermatology",,,"$13.50 - $16.00 an hour",,,Morgantown,WV,"26505"
+2022-10-04,"CITY CARRIER ASSISTANT","United States Postal Service",usps.com,"Government Administration","$18.92 an hour",,,Morgantown,WV,"26508"
+2022-10-02,"Fishing Sales Associate","Sportsman's Warehouse",sportsmans.com,Retail,"estimated $21k - $26.6k a year",,,Morgantown,WV,"26501"
+2022-10-04,"Unit Clerk","WVUH West Virginia University Hospitals",,,"estimated $29.4k - $37.2k a year",,,Morgantown,WV,"26506"
+2022-10-04,"MGW Airport- Customer Service Agent","Southern Airways Corporation",iflysouthern.com,Airlines/Aviation,"estimated $18.8k - $23.8k a year",,,Morgantown,WV,"26505"
+2022-10-07,"Banquet Server","Lakeview Resort",,,"from $13 an hour",,,Morgantown,WV,"26508"
+2022-10-04,Barista,"WVUH West Virginia University Hospitals",,,"estimated $18k - $22.8k a year",,,Morgantown,WV,"26506"
+2022-10-04,"Retail Stocking Associate","Harbor Freight Tools USA, Inc.",harborfreight.com,Retail,"$15.05 an hour",,,Morgantown,WV,"26501"
+2022-10-02,"Retail Sales Associate","Best Buy",bestbuy.com,Retail,,,,Morgantown,WV,"26501"
+2022-10-04,"Clinical Associate","WVUH West Virginia University Hospitals",,,"estimated $27.4k - $34.8k a year",,,Morgantown,WV,"26506"
+2022-10-04,"22-7828 Clinical Associate","WVUH West Virginia University Hospitals",,,"estimated $25.3k - $32.1k a year",,,Morgantown,WV,"26506"
+2022-10-04,"JR22-9820 Clinical Associate","WVUH West Virginia University Hospitals",,,"estimated $24.9k - $31.5k a year",,,Morgantown,WV,"26506"
+2022-10-04,"Unit Clerk","WVUH West Virginia University Hospitals",,,"estimated $27.6k - $35k a year",,,Morgantown,WV,"26506"
+2022-10-02,"Clinical Associate (22-9934)","WVUH West Virginia University Hospitals",,,"estimated $27.9k - $35.3k a year",,,Morgantown,WV,"26506"
+2022-10-03,"Cashier Part Time",Petco,petco.com,Retail,,,,Morgantown,WV,"26501"
+2022-10-04,"22-9760 Clinical Associate","WVUH West Virginia University Hospitals",,,"estimated $27.6k - $35k a year",,,Morgantown,WV,"26506"
+2022-10-04,Host,Chili's,chilisjobs.com,,,,,Morgantown,WV,"26501"
+2022-10-04,"AE - Brand Ambassador (Sales Associate) - US","American Eagle Outfitters",ae-inc.net,,,,,Morgantown,WV,"26501"
+2022-10-04,"RN Infusion Nurse","Vitana Inc",,,"from $2,630 a week",,,Morgantown,WV,""
+2022-10-04,"Retail Sales Associate","Harbor Freight Tools USA, Inc.",harborfreight.com,Retail,"$15.05 an hour",,,Morgantown,WV,"26501"
+2022-10-04,"Registration Rep - Patient Registration","Mon Health",monhealth.com,"Hospital & Health Care","estimated $26.4k - $33.4k a year",,,Morgantown,WV,"26505"
+2022-10-03,"Hotel Housekeeping","Quality Inn",qualityinncedarcity.com,Hospitality,"estimated $20.1k - $25.5k a year",,,Morgantown,WV,"26508"
+2022-10-04,"Dietetic Specialist","WVUH West Virginia University Hospitals",,,"estimated $22.9k - $29.1k a year",,,Morgantown,WV,"26506"
+2022-10-04,"Food Runner",Chili's,chilisjobs.com,,,,,Morgantown,WV,"26501"
+2022-10-07,"RN Operating Room","Vitana Inc",,,"from $3,679 a week",,,Morgantown,WV,""
+2022-10-04,"To Go",Chili's,chilisjobs.com,,,,,Morgantown,WV,"26501"
+2022-10-07,"RN Med/Surg","Vitana Inc",,,"from $3,062 a week",,,Morgantown,WV,""
+2022-10-07,"RN PICU","Vitana Inc",,,"from $3,311 a week",,,Morgantown,WV,""
+2022-10-04,"New Home Quality Reviewer","2M Quality",,,"estimated $37.7k - $47.7k a year",,,Morgantown,WV,"26508"
+2022-10-04,"Soap Maker/Retail Associate","Buff City Soap Franchise",franchimp.com,"Market Research","estimated $19.9k - $25.1k a year",,,Morgantown,WV,"26501"
+2022-10-02,"Daycare Teacher","Young Hearts LLC",youngheartsllc.com,,"$11 - $15 an hour",,,Morgantown,WV,"26505"
+2022-10-02,"Medical Equipment Delivery Driver","Dasco HME LLC",godasco.com,"Hospital & Health Care","estimated $25k - $31.6k a year",,,Morgantown,WV,"26505"
+2022-10-03,"Cart Attendant",Walmart,walmart.com,Retail,"$12 an hour",,,Morgantown,WV,"26508"
+2022-10-02,"Kitchen Staff","Lakehouse Restaurant",thelakehouserest.com,Restaurants,"$13 - $17 an hour",,,Morgantown,WV,"26508"
+2022-10-02,"Pizza Delivery Driver","Fox's Pizza Den Cheat Lake",,,"$8.75 - $20.00 an hour",,,Morgantown,WV,"26508"
+2022-10-07,"Dishwasher/Food Prep","Sabraton Station",sabratonstation.com,Restaurants,"$12 - $15 an hour",,,Morgantown,WV,"26505"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26501"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26505"
+2022-10-04,"Lane Bryant-Part Time Sales Associate/ Morgantown WV","Lane Bryant",lanebryant.com,Retail,"$8.75 - $14.00 an hour",,,Morgantown,WV,"26501"
+2022-10-03,"Crew Member-$13-$15 per Hour (Includes Tips)","Jersey Mike's Subs | Blasco5, LLC",,,"$11.00 - $11.50 an hour",,,Morgantown,WV,"26501"
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,,Morgantown,WV,"26505"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26508"
+2022-10-02,"Front of House","Bob Evans Restaurants",bobevans.com,Restaurants,,,,Morgantown,WV,"26501"
+2022-10-02,"Back of House","Bob Evans Restaurants",bobevans.com,Restaurants,,,,Morgantown,WV,"26501"
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,,Morgantown,WV,"26508"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26501"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26501"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26501"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26505"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26505"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26505"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26505"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26505"
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,,Morgantown,WV,"26505"
+2022-10-03,"Shift Leader - $14-$16 per Hour (Includes Tips)","Jersey Mike's Subs | Blasco5, LLC",,,"$11.50 - $12.00 an hour",,,Morgantown,WV,"26501"
+2022-10-07,"RN Stepdown","Vitana Inc",,,"from $2,812 a week",,,Morgantown,WV,""
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26508"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26508"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26508"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26508"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26508"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26508"
+2022-10-02,CSR,"BFS Foods, Inc. | BFS Companies",bfscompanies.com,"Food & Beverages","estimated $21.4k - $27k a year",,,Morgantown,WV,"26508"
+2022-10-02,"Retail Clerk - Little General","Little General Convenience Stores | Little General...",,,"estimated $17.8k - $22.6k a year",,,Morgantown,WV,"26508"
+2022-10-04,"RN Infusion Nurse","Vitana Inc",,,"from $2,630 a week",,,Morgantown,WV,""
+2022-10-07,"RN Operating Room","Vitana Inc",,,"from $3,679 a week",,,Morgantown,WV,""
+2022-10-07,"RN Med/Surg","Vitana Inc",,,"from $3,062 a week",,,Morgantown,WV,""
+2022-10-07,"RN PICU","Vitana Inc",,,"from $3,311 a week",,,Morgantown,WV,""
+2022-10-07,"RN Stepdown","Vitana Inc",,,"from $2,812 a week",,,Morgantown,WV,""
+2022-10-04,"RN Infusion Nurse","Vitana Inc",,,"from $2,630 a week",,,Morgantown,WV,""
+2022-10-07,"RN Operating Room","Vitana Inc",,,"from $3,679 a week",,,Morgantown,WV,""
+2022-10-07,"RN Med/Surg","Vitana Inc",,,"from $3,062 a week",,,Morgantown,WV,""
+2022-10-03,"Zales Line Concierge starting at $15/hour","Signet Jewelers",signetjewelers.com,Retail,"from $15 an hour",,,Morgantown,WV,"26508"
+2022-10-04,"Lane Bryant-Part Time Sales Associate/ Morgantown WV","Lane Bryant",lanebryant.com,Retail,"$8.75 - $14.00 an hour",,,Morgantown,WV,"26501"
+2022-10-07,"RN Stepdown","Vitana Inc",,,"from $2,812 a week",,,Morgantown,WV,""
+2022-10-05,"Biometric (Fingerprinting) Technician - On Call",Amentum,amentum.com,"Defense & Space","up to $20.99 an hour",,,Charleston,WV,""
+2022-10-07,"Footwear Sales Outfitter",Cabela's,cabelas.com,Retail,,,,Charleston,WV,"25309"
+2022-10-06,"Courier -- CAMC LabWorks -- Chesterfield","CAMC Health System",camc.org,"Hospital & Health Care",,,,Charleston,WV,""
+2022-10-06,"Department Assistant Receptionist - Charleston, WV",UnitedHealthcare,unitedhealthcare.com,Insurance,,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-06,"Car Washer - Automotive Detailer - Yeager Airport","Enterprise Holdings",enterpriseholdings.com,"Leisure, Travel & Tourism","$13 an hour",,,Charleston,WV,"25311"
+2022-10-06,"Registration Representative -- CAMC Weight Loss Center -- No...","CAMC Health System",camc.org,"Hospital & Health Care",,,,Charleston,WV,""
+2022-10-06,"EEG Tech Trainee -- EEG -- General Hospital","CAMC Health System",camc.org,"Hospital & Health Care",,,,Charleston,WV,""
+2022-10-06,"Environmental Services Tech 2 -- Housekeeping - Commercial B...","CAMC Health System",camc.org,"Hospital & Health Care",,,,Charleston,WV,""
+2022-10-07,"Event Coordinator","Charleston, WV 25301",,,,,,,,""
+2022-10-07,"Auto Parts Delivery Driver (Part-Time)",AutoZone,autolinesorters.com,,,,"West Side area)",Charleston,WV,"25302"
+2022-10-06,"Dietary Aide -- Dietary -- Memorial Hospital","CAMC Health System",camc.org,"Hospital & Health Care",,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-07,"Auto Parts Delivery Driver (Full-Time)",AutoZone,autolinesorters.com,,,,,Charleston,WV,"25309"
+2022-10-05,"Biometric (Fingerprinting) Technician- On Call",Amentum,amentum.com,"Defense & Space","up to $19.10 an hour",,,Charleston,WV,""
+2022-10-07,"Auto Parts Delivery Driver (Part-Time)",AutoZone,autolinesorters.com,,,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-07,"Production Technician",Eriks,bikesourcekansascity.com,Sports,,,,Charleston,WV,""
+2022-10-06,"Valet -- Security -- Memorial-Parking Garage","CAMC Health System",camc.org,"Hospital & Health Care",,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-05,"Staff Consultant, Medicaid",BerryDunn,,,,,"Downtown area)",Charleston,WV,"25301"
+2022-10-05,"FT-Sales Specialist - Flooring-Day",Lowe's,lowes.com,Retail,,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-05,"Intake Coordinator/ Recovery Coach","Highland Hospital",highlandhosp.com,"Mental Health Care",,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-07,"Patient Accounts Collector --Patient Accounts --General Hosp...","CAMC Health System",camc.org,"Hospital & Health Care",,,,Charleston,WV,""
+2022-10-07,"MANAGER TRAINEE",AutoZone,autolinesorters.com,,,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-07,"Security Officer - Full Time - Property Security","Allied Universal®",,,"$13.50 an hour",,,Charleston,WV,"25314"
+2022-10-06,"Physician Assistant- Detox","Highland Hospital",highlandhosp.com,"Mental Health Care",,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-06,"Environmental Services Aide","Highland Hospital",highlandhosp.com,"Mental Health Care",,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-07,"MANAGER TRAINEE",AutoZone,autolinesorters.com,,,,"West Side area)",Charleston,WV,"25302"
+2022-10-07,"MANAGER TRAINEE",AutoZone,autolinesorters.com,,,,,Charleston,WV,"25309"
+2022-10-07,"Security Guard - Full Time - Access Control","Allied Universal®",,,"$10.25 an hour",,,Charleston,WV,"25301"
+2022-10-05,"TIRE ITIN 3rd Grade Overage Teacher 1 year position (2022-20...","Charleston, WV 25314",,,,,,,,""
+2022-10-06,"Front Desk Associate","Charleston Embassy Suites",,,,,,Charleston,WV,""
+2022-10-06,"Dietary Production Coordinator -- Dietary -- Memorial Hospit...","CAMC Health System",camc.org,"Hospital & Health Care",,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-07,"Subway Sandwich Artist®",Subway,subway.com,Restaurants,"$9 an hour",,,Charleston,WV,"25304"
+2022-10-05,"intake counselor","Highland Hospital",highlandhosp.com,"Mental Health Care",,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-06,"Pre-Certification Specialist -- CAMC G.I. -- Chesterfield Bl...","CAMC Health System",camc.org,"Hospital & Health Care",,,,Charleston,WV,""
+2022-10-05,"Wrestling Coach (2022-2023)","Charleston, WV 25313",,,"keep certification valid and current estimated annual cost: $ 35.00.",,,,,""
+2022-10-06,"Head Cheer Coach (2022-2023)","Charleston, WV 25304",,,"keep certification valid and current estimated annual cost: $ 35.00.",,,,,""
+2022-10-06,"Ultrasonographer Cardiac -- EKG -- Memorial Hospital","CAMC Health System",camc.org,"Hospital & Health Care",,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-06,"Nursing Assistant -- Emergency Room -- General Hospital","CAMC Health System",camc.org,"Hospital & Health Care",,,,Charleston,WV,""
+2022-10-05,"Head Girls Basketball Coach (2022-2023)","Charleston, WV 25312",,,"keep certification valid and current estimated annual cost: $ 35.00.",,,,,""
+2022-10-06,"Intake RN","Highland Hospital",highlandhosp.com,"Mental Health Care",,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-06,"Care Management Assistant -- CAMC Health Network -- Staunton...","CAMC Health System",camc.org,"Hospital & Health Care",,,,Charleston,WV,""
+2022-10-06,"Recruiter/ Talent Acquisition Specialist","Allied Universal® Compliance and Investigations",,,,,,Charleston,WV,"25302"
+2022-10-06,"EEG Tech Trainee -- EEG -- General Hospital","CAMC Health System",camc.org,"Hospital & Health Care",,,,Charleston,WV,""
+2022-10-06,"EEG Tech Trainee -- EEG -- General Hospital","CAMC Health System",camc.org,"Hospital & Health Care",,,,Charleston,WV,""
+2022-10-07,"Auto Parts Delivery Driver (Full-Time)",AutoZone,autolinesorters.com,,,,"West Side area)",Charleston,WV,"25302"
+2022-10-06,"Environmental Services Team Lead -- Housekeeping- General --...","CAMC Health System",camc.org,"Hospital & Health Care",,,,Charleston,WV,""
+2022-10-06,"Account Resolution Specialist 1 -- Healthcare Financial Serv...","CAMC Health System",camc.org,"Hospital & Health Care",,,,Charleston,WV,""
+2022-10-06,"Environmental Services Tech 2 -- Housekeeping -- Memorial Ho...","CAMC Health System",camc.org,"Hospital & Health Care",,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-06,"Environmental Services Tech 2 -- Housekeeping -- Memorial Ho...","CAMC Health System",camc.org,"Hospital & Health Care",,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-06,"Environmental Services Tech 2 -- Housekeeping -- Memorial Ho...","CAMC Health System",camc.org,"Hospital & Health Care",,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-06,"Environmental Services Tech 2 -- Housekeeping -- Memorial Ho...","CAMC Health System",camc.org,"Hospital & Health Care",,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-06,"Environmental Services Tech 2 -- Housekeeping -- Memorial Ho...","CAMC Health System",camc.org,"Hospital & Health Care",,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-07,"Auto Parts Delivery Driver (Part-Time)",AutoZone,autolinesorters.com,,,,,Charleston,WV,"25309"
+2022-10-07,"Auto Parts Delivery Driver (Full-Time)",AutoZone,autolinesorters.com,,,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-07,"Production Technician",Eriks,bikesourcekansascity.com,Sports,,,,Charleston,WV,""
+2022-10-07,"Security Guard - Full Time - Access Control","Allied Universal®",,,"$13 an hour",,,Charleston,WV,"25301"
+2022-10-07,"Security Guard - Full Time - Access Control","Allied Universal®",,,"$13 an hour",,,Charleston,WV,"25301"
+2022-10-06,"Nurse Practitioner MSN -- CAMC Weight Loss Center -- Northga...","CAMC Health System",camc.org,"Hospital & Health Care",,,,Charleston,WV,""
+2022-10-05,"9th Grade Boys Basketball Coach (2022-2023)","Charleston, WV 25312",,,"keep certification valid and current estimated annual cost: $ 35.00.",,,,,""
+2022-10-05,"9th Grade Girls Basketball Coach - 2 Positions (2022-2023)","Charleston, WV 25312",,,"keep certification valid and current estimated annual cost: $ 35.00.",,,,,""
+2022-10-06,"Emerging Store Manager",WALGREENS,walgreens.com,Retail,,,,Charleston,WV,"25312"
+2022-10-06,"Pharmacy Residency Program Director -- Pharmacy -- Memorial...","CAMC Health System",camc.org,"Hospital & Health Care",,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-05,"Assistant Boys Basketball Coach (2022-2023)","Charleston, WV 25312",,,"keep certification valid and current estimated annual cost: $ 35.00.",,,,,""
+2022-10-05,"Assistant Boys Basketball Coach (2022-2023)","Charleston, WV 25312",,,"keep certification valid and current estimated annual cost: $ 35.00.",,,,,""
+2022-10-05,"Assistant Girls Basketball Coach (2022-2023)","Charleston, WV 25312",,,"keep certification valid and current estimated annual cost: $ 35.00.",,,,,""
+2022-10-05,"Assistant Girls Basketball Coach (2022-2023)","Charleston, WV 25312",,,"keep certification valid and current estimated annual cost: $ 35.00.",,,,,""
+2022-10-05,"Head Boys Basketball Coach (2022-2023)","Charleston, WV 25312",,,"keep certification valid and current estimated annual cost: $ 35.00.",,,,,""
+2022-10-05,"Utilities Inspector 2 - Public Service Commission - See Post...","West Virginia",mywvvacation.com,"Industry: Newspapers & News Services, Media & Internet","$33,688 - $62,323 a year",,"East End area)",Charleston,WV,"25305"
+2022-10-06,"Cardiac Cath Rad Tech 2 -- Cardiac Cath Lab -- Heart & Vascu...","CAMC Health System",camc.org,"Hospital & Health Care",,,,Charleston,WV,""
+2022-10-05,"Transportation Accounting Technician 2 - Wood County","Charleston, WV 25305",,,,,,,,""
+2022-10-05,"Swim Coach (2022-2023)","Charleston, WV 25312",,,"keep certification valid and current estimated annual cost: $ 35.00.",,,,,""
+2022-10-05,"Assistant Wrestling Coach (2022-2023)","Charleston, WV 25312",,,"keep certification valid and current estimated annual cost: $ 35.00.",,,,,""
+2022-10-06,"Nursing Assistant -- Operating Room -- Memorial Hospital","CAMC Health System",camc.org,"Hospital & Health Care",,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-06,"Nursing Assistant -- Operating Room -- Memorial Hospital","CAMC Health System",camc.org,"Hospital & Health Care",,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-06,"Registered Nurse 2 -- Operating Room -- General Hospital","CAMC Health System",camc.org,"Hospital & Health Care",,,,Charleston,WV,""
+2022-10-05,"Field Advanced Practice Provider","Elevance Health",,,,,,Charleston,WV,""
+2022-10-05,"Head Wrestling Coach (20202-2023)","Charleston, WV 25312",,,"keep certification valid and current estimated annual cost: $ 35.00.",,,,,""
+2022-10-05,"Investigator Associate - DHHR - Kanawha Co.","Charleston, WV 25305 (East End area)",,,,,,,,""
+2022-10-04,"Transportation Accounting Technician 2 - Kanawha County","Charleston, WV 25305",,,,,,,,""
+2022-10-05,"RN Case Manager",Amedisys,amedisys.com,"Hospital & Health Care",,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-07,"Property Preservation","National Facilities Direct Corp",,,"$20 - $35 an hour",,,Charleston,WV,""
+2022-10-06,"Phlebotomist -- Lab Central -- Memorial Hospital","CAMC Health System",camc.org,"Hospital & Health Care",,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-06,"Phlebotomist -- Lab Central -- Memorial Hospital","CAMC Health System",camc.org,"Hospital & Health Care",,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-04,Programmer,"Charleston, WV 25305 (East End area)",,,,,,,,""
+2022-10-04,"Staff Development Specialist - DHHR - Kanawha Co.","Charleston, WV 25305 (East End area)",,,,,,,,""
+2022-10-06,"Cardiac Cath Rad Tech 2 -- Cardiac Cath Lab -- Heart & Vascu...","CAMC Health System",camc.org,"Hospital & Health Care",,,,Charleston,WV,""
+2022-10-06,"Cardiac Cath Rad Tech 2 -- Cardiac Cath Lab -- Heart & Vascu...","CAMC Health System",camc.org,"Hospital & Health Care",,,,Charleston,WV,""
+2022-10-06,"Registered Nurse 2 -- Operating Room -- General Hospital","CAMC Health System",camc.org,"Hospital & Health Care",,,,Charleston,WV,""
+2022-10-06,"Health and Human Resources Specialist - Bureau for Public He...","Charleston, WV 25305 (East End area)",,,,,,,,""
+2022-10-05,"Warehouse Receiver","Drug Emporium",drugemp.com,,,,"West Side area)",Charleston,WV,"25387"
+2022-10-06,"Investigator Associate","Bureau for Child Support Enforcement",,,"$30,502 - $56,428 a year",,"Oakridge/Greenbrier area)",Charleston,WV,"25311"
+2022-10-07,"Survey Technician","Luck Grove Telecom Inc",,,"$18 - $25 an hour",,,Charleston,WV,""
+2022-10-07,"Consulting Utility Forester","Davey Resource Group",davey.com,"Environmental Services","$18 - $23 an hour",,,Charleston,WV,"25306"
+2022-10-05,Paralegal,"Ray, Winton & Kelley, PLLC",,,"from $45,000 a year",,"Downtown area)",Charleston,WV,"25301"
+2022-10-06,"Environmental Inspector In Training","West Virginia Department of Environmental...",,,"$34,261 - $63,382 a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-07,Installer,"Builders FirstSource",bldr.com,"Building Materials",,,"West Side area)",Charleston,WV,"25387"
+2022-10-06,"Sterilization Specialist","Mountain State Oral and Facial Surgery",mtstateoms.com,"Hospital & Health Care",,,,Charleston,WV,"25301"
+2022-10-05,"Emergency Medical Technician (EMT Academy)","Kanawha County Emergency Ambulance Authority",kceaa.org,"Hospital & Health Care","$13.52 - $16.64 an hour",,,Charleston,WV,""
+2022-10-07,Dishwasher,"Pies & Pints",piesandpints.net,Restaurants,"$14 - $16 an hour",,"Downtown area)",Charleston,WV,"25301"
+2022-10-06,"Office Support Specialist","City Of Charleston",charleston-sc.gov,"Government Administration","$13.38 - $14.88 an hour",,,Charleston,WV,"25301"
+2022-10-05,"HVACR Technical Service Advisor","R.E. Michel Company, LLC",remichel.com,Wholesale,,,,Charleston,WV,""
+2022-10-07,"AT&T Wireless Retail Sales Associate","AT&T by Cellular World",cellularworld.com,Retail,"$35,000 - $55,000 a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-07,"Medical Office Receptionist","Asthma and Allergy Center",asthmaandallergycenter.net,"Medical Practice","$28,000 - $30,000 a year",,"South Hills area)",Charleston,WV,"25304"
+2022-10-05,"Retail Reset Merchandiser - FT","Acosta, Inc.",,,,,,Charleston,WV,"25302"
+2022-10-05,"Customer Relations Specialist","Big Sandy Superstore",bigsandysuperstore.com,Retail,,,,Charleston,WV,"25309"
+2022-10-06,"Dermatology Medical Assistant","Charleston Dermatology - Charleston, WV",,,"$13 - $15 an hour",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-06,"Culinary Associate","Charleston Embassy Suites",,,"$12.75 - $13.50 an hour",,"Downtown area)",Charleston,WV,"25301"
+2022-10-06,"Kitchen Team Member FULL TIME","Chick-fil-A | Southridge",,,"$14.50 - $15.50 an hour",,,Charleston,WV,"25309"
+2022-10-06,"Caregiver: All Shifts Available","AMADA Senior Care",amadaseniorcare.com,"Hospital & Health Care","$20,800 - $25,000 a year",,,Charleston,WV,""
+2022-10-05,"Men's Shelter Chaplain","Charleston, WV 25304 (Kanawha City area)",,,,,,,,""
+2022-10-07,EMT-B,"Kanawha County Emergency Ambulance Authority",kceaa.org,"Hospital & Health Care","from $16.64 an hour",,,Charleston,WV,""
+2022-10-07,Carside,Applebee's,,,"$15 - $25 an hour",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-07,"Sales Floor Associate","Bridgeport Equipment and Tool",bridgeportequip.com,Retail,,,,Charleston,WV,"25314"
+2022-10-06,"Electrical Technician","Herkules USA Corporation",,,"$16.25 - $23.00 an hour",,,Charleston,WV,""
+2022-10-05,Server,"Pies & Pints",piesandpints.net,Restaurants,"$25,000 - $60,000 a year",,"Downtown area)",Charleston,WV,"25301"
+2022-10-05,"Sales & Service Representative","MRC Global",mrcglobal.com,"Oil & Energy",,,"Oakridge/Greenbrier area)",Charleston,WV,"25311"
+2022-10-05,"Health Insurance Navigator","First Choice Services",,,"$17 - $20 an hour",,,Charleston,WV,"25311"
+2022-10-05,"PT Sales Associate/Cashier FT Donation Processor","Salvation Army Charleston",salvationarmycharlestonwv.org,,"$9.21 - $9.25 an hour",,"West Side area)",Charleston,WV,"25302"
+2022-10-06,"Environmental Inspector","West Virginia Department of Environmental...",,,"$35,994 - $66,589 a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-05,"Environmental Services - Manager in Training","Healthcare Services Group, Inc.",hcsgcorp.com,"Hospital & Health Care",,,"Oakridge/Greenbrier area)",Charleston,WV,"25311"
+2022-10-07,"Legislative Affairs Counsel","Bureau for Child Support Enforcement",,,"$80,000 - $90,000 a year",,"Downtown area)",Charleston,WV,"25301"
+2022-10-05,"Janitorial - Commercial Cleaning Technicians","Charleston, WV 25303",,,,,,,,""
+2022-10-06,"HHR Specialist - HIV Prevention Program Coordinator","WV DHHR - Bureau for Public Health",,,"$32,336 - $59,820 a year",,"Downtown area)",Charleston,WV,"25301"
+2022-10-05,Cashier,"Little Caesars",,,"up to $10 an hour",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-07,Installer,"Builders FirstSource",bldr.com,"Building Materials",,,"West Side area)",Charleston,WV,"25387"
+2022-10-07,Installer,"Builders FirstSource",bldr.com,"Building Materials",,,"West Side area)",Charleston,WV,"25387"
+2022-10-07,Installer,"Builders FirstSource",bldr.com,"Building Materials",,,"West Side area)",Charleston,WV,"25387"
+2022-10-07,Installer,"Builders FirstSource",bldr.com,"Building Materials",,,"West Side area)",Charleston,WV,"25387"
+2022-10-07,Installer,"Builders FirstSource",bldr.com,"Building Materials",,,"West Side area)",Charleston,WV,"25387"
+2022-10-07,"Engineer Trainee","West Virginia Department of Environmental...",,,"$45,042 - $83,326 a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-07,"Co Manager **PAID TRAINING**","Cook Out Restaurants",,,"from $48,000 a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-05,Host,"Pies & Pints",piesandpints.net,Restaurants,"$11 - $19 an hour",,"Downtown area)",Charleston,WV,"25301"
+2022-10-06,"Housekeeping / Laundry Supervisor","Stonerise Charleston",,,,,,Charleston,WV,"25304"
+2022-10-06,"Drive-Thru/Cashier Team Member","Chick-fil-A | Southridge",,,"$14.50 - $15.50 an hour",,,Charleston,WV,"25309"
+2022-10-06,"Piping Designer","ENTRUST Solutions Group",,,"from $40 an hour",,,Charleston,WV,"25306"
+2022-10-05,"Pediatric office looking for LPN","South Charleston Pediatrics",,,"$16 - $23 an hour",,"West Side area)",Charleston,WV,"25302"
+2022-10-07,"Restaurant Supervisor","Holiday Inn & Suites Charleston West",,,"$15 - $17 an hour",,,Charleston,WV,"25303"
+2022-10-07,"Credit Analyst","MRC Global",mrcglobal.com,"Oil & Energy",,,"Oakridge/Greenbrier area)",Charleston,WV,"25311"
+2022-10-07,"Outreach Counselor","Home Base Inc.",homebaseinc.org,"Program Development",,,"West Side area)",Charleston,WV,"25302"
+2022-10-06,"Host / Hostess",Applebee's,,,"$9 - $11 an hour",,,Charleston,WV,"25309"
+2022-10-07,"Co Manager","Cook Out Restaurants",,,"from $48,000 a year",,,Charleston,WV,"25313"
+2022-10-05,"Physician Assistants and Nurse Practitioners","Charleston Area Medical Center (CAMC)",,,,,"Downtown area)",Charleston,WV,"25301"
+2022-10-05,"Registered Nurse (RN)","Highland Hospital",highlandhosp.com,"Mental Health Care","$28 - $41 an hour",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-07,"Charge Nurse LPN or RN (Relocate to Santa Cruz, CA)","Hearts & Hands",hnhcares.org,"Nonprofit Organization Management",,,,Charleston,WV,""
+2022-10-07,"Traveling Nurse (LPN)","The Centers for Living and Rehabilitation",centerforlivinghc.com,,"from $30 an hour",,,Charleston,WV,""
+2022-10-05,"Part-Time Stocker",ALDI,aldi.pl,Retail,"$15.50 an hour",,,Charleston,WV,""
+2022-10-05,"Part-Time Store Associate",ALDI,aldi.pl,Retail,"$15.50 an hour",,,Charleston,WV,""
+2022-10-07,"Intake Counselor- Part Time","Highland Hospital",highlandhosp.com,"Mental Health Care",,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-07,"Retail Sales Associate (Part-Time)",AutoZone,autolinesorters.com,,,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-07,"Auto Parts Delivery Driver (Part-Time)",AutoZone,autolinesorters.com,,,,"West Side area)",Charleston,WV,"25302"
+2022-10-07,"Retail Sales Clerk - St. Albans","Goodwill Industries of Kanawha Valley, Inc.",goodwillwv.com,"Civic & Social Organization","$11.50 an hour",,"South Hills area)",Charleston,WV,"25303"
+2022-10-07,"Retail Sales Associate (Part-Time)",AutoZone,autolinesorters.com,,,,,Charleston,WV,"25309"
+2022-10-06,"Retail Store Associates and Stockers","Big Lots",bigink.com,,,,"West Side area)",Charleston,WV,"25387"
+2022-10-06,"Weekend Receptionist PRN","Highland Hospital",highlandhosp.com,"Mental Health Care",,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-07,"Auto Parts Delivery Driver (Full-Time)",AutoZone,autolinesorters.com,,,,,Charleston,WV,"25309"
+2022-10-07,"Auto Parts Delivery Driver (Part-Time)",AutoZone,autolinesorters.com,,,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-05,"Behavioral Health Technician (PRN)","Highland Hospital",highlandhosp.com,"Mental Health Care",,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-06,"Store Clerk & Sorting Room Worker (Chapmanville, WV)","The Salvation Army",salvationarmyfortwalton.org,Retail,,,,Charleston,WV,"25302"
+2022-10-05,"Concierge - Part Time","Harmony at Southridge",,,,,,Charleston,WV,"25309"
+2022-10-07,"Auto Parts Delivery Driver (Full-Time)",AutoZone,autolinesorters.com,,,,"West Side area)",Charleston,WV,"25302"
+2022-10-07,"Auto Parts Delivery Driver (Part-Time)",AutoZone,autolinesorters.com,,,,,Charleston,WV,"25309"
+2022-10-07,"Auto Parts Delivery Driver (Full-Time)",AutoZone,autolinesorters.com,,,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-07,"Retail Sales Associate (Part-Time)",AutoZone,autolinesorters.com,,,,"West Side area)",Charleston,WV,"25302"
+2022-10-05,"Intake Coordinator- Part Time","Highland Hospital",highlandhosp.com,"Mental Health Care",,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-07,"Kitchen Steward","Charleston Embassy Suites",,,,,,Charleston,WV,""
+2022-10-07,"Property Preservation","National Facilities Direct Corp",,,"$20 - $35 an hour",,,Charleston,WV,""
+2022-10-07,"Office Assistant","WV Lottery Commission",,,"up to $14 an hour",,"West Side area)",Charleston,WV,"25302"
+2022-10-07,"Door Lock Installer","Reliant Services",reliant-services.org,,"$60 - $70 a day",,,Charleston,WV,""
+2022-10-05,"Seasonal Sales Associate",Gamestop,gamestop.com,Retail,"from $8.75 an hour",,,Charleston,WV,""
+2022-10-06,"Dermatology Medical Assistant","Charleston Dermatology - Charleston, WV",,,"$13 - $15 an hour",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-06,"Culinary Associate","Charleston Embassy Suites",,,"$12.75 - $13.50 an hour",,"Downtown area)",Charleston,WV,"25301"
+2022-10-07,"Key Sales Associate – Charleston Town Cntr (134) - Banter/Pi...","Signet Jewelers",signetjewelers.com,Retail,"$15 an hour",,"Downtown area)",Charleston,WV,"25389"
+2022-10-06,"Caregiver: All Shifts Available","AMADA Senior Care",amadaseniorcare.com,"Hospital & Health Care","$20,800 - $25,000 a year",,,Charleston,WV,""
+2022-10-05,"Retail Sales Clerk - Charleston","Goodwill Industries of Kanawha Valley, Inc.",goodwillwv.com,"Civic & Social Organization","$11.50 an hour",,"West Side area)",Charleston,WV,"25302"
+2022-10-07,Carside,Applebee's,,,"$15 - $25 an hour",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-07,"Sales Floor Associate","Bridgeport Equipment and Tool",bridgeportequip.com,Retail,,,,Charleston,WV,"25314"
+2022-10-05,"Concierge - Part Time","Harmony Senior Services",harmonyseniorservices.com,"Hospital & Health Care",,,,Charleston,WV,"25309"
+2022-10-05,"PT Sales Associate/Cashier FT Donation Processor","Salvation Army Charleston",salvationarmycharlestonwv.org,,"$9.21 - $9.25 an hour",,"West Side area)",Charleston,WV,"25302"
+2022-10-05,"Janitorial - Commercial Cleaning Technicians","Charleston, WV 25303",,,,,,,,""
+2022-10-05,Cashier,"Little Caesars",,,"up to $10 an hour",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-06,"Drive-Thru/Cashier Team Member Evenings (5pm-10:45pm))","Chick-fil-A | Southridge",,,"$11.00 - $14.50 an hour",,,Charleston,WV,"25309"
+2022-10-07,"Outreach Counselor","Home Base Inc.",homebaseinc.org,"Program Development",,,"West Side area)",Charleston,WV,"25302"
+2022-10-06,"Host / Hostess",Applebee's,,,"$9 - $11 an hour",,,Charleston,WV,"25309"
+2022-10-05,"Seasonal Sales Associate",Gamestop,gamestop.com,Retail,"from $8.75 an hour",,,Charleston,WV,""
+2022-10-06,"Laborer - Parks & Rec","City Of Charleston",charleston-sc.gov,"Government Administration","$10 an hour",,,Charleston,WV,"25301"
+2022-10-07,"Sub-Contractor Network Partner","Charleston, WV",,,,,,,,""
+2022-10-05,"West Virginia - Inspector/Auditor",Quiktrak,quiktrak.com,"Financial Services",,,,Charleston,WV,"25306"
+2022-10-06,"PRN Phlebotomist-Mobile Phlebotomy, Clinical Trial & Wellnes...",Phleb-Finders,,,"$30 - $32 an hour",,,Charleston,WV,""
+2022-10-07,"WVU-Centralized Scheduler-Mary Babb Randolph Cancer Center-6...","Morgantown, WV 26506",,,,,,,,""
+2022-10-06,"Ambulatory Care Asst - MA","Morgantown, WV 26508",,,,,,,,""
+2022-10-06,"Financial Resource Coor","Morgantown, WV 26506",,,,,,,,""
+2022-10-07,"Centralized Scheduler","Morgantown, WV",,,,,,,,""
+2022-10-07,"Centralized Scheduler","Morgantown, WV 26506",,,,,,,,""
+2022-10-07,"Unit Clerk","Morgantown, WV 26506",,,"route service sales representative (4-day workweek) - $20.00...",,,,,""
+2022-10-05,"Route Service Sales Representative (4-Day Workweek) - $20.00...",Cintas,cintas.com,"Facilities Services","$20 an hour",,,Morgantown,WV,"26508"
+2022-10-07,"Children's Sterile Processing Technician","Morgantown, WV 26506",,,,,,,,""
+2022-10-07,"Nutrition Team Lead","Morgantown, WV 26506",,,,,,,,""
+2022-10-07,"Surgical Tech I","Morgantown, WV 26506",,,,,,,,""
+2022-10-05,"FT-Sales Associate - Inside Lawn And Garden-Day",Lowe's,lowes.com,Retail,,,,Morgantown,WV,"26508"
+2022-10-05,"WVU-Security Officer 3 -30752","Morgantown, WV 26506",,,,,,,,""
+2022-10-07,"Auto Parts Delivery Driver (Full-Time)",AutoZone,autolinesorters.com,,,,"Sunnyside area)",Morgantown,WV,"26505"
+2022-10-07,"Technical Specialist Lab","Morgantown, WV 26506",,,,,,,,""
+2022-10-05,"Print Shop / Screen-Printing Assistant",Gabes,,,"$11.25 an hour",,,Morgantown,WV,"26508"
+2022-10-06,"Automotive Detailer - Car Washer - Morgantown Airport","Enterprise Holdings",enterpriseholdings.com,"Leisure, Travel & Tourism","$13 an hour",,,Morgantown,WV,"26505"
+2022-10-05,"Medical Tech Generalist","Morgantown, WV 26506",,,,,,,,""
+2022-10-06,"Car Washer - Automotive Detailer","Enterprise Holdings",enterpriseholdings.com,"Leisure, Travel & Tourism","$13 an hour",,,Morgantown,WV,"26505"
+2022-10-07,"Workforce Administration Specialist - The Shared Services Ce...","Careers | West Virginia University",,,,Remote,,"Remote in Morgantown",WV,"26506"
+2022-10-06,"Tower Technician I","Pillar Innovations",pillarinnovations.com,"Oil & Energy",,,,Morgantown,WV,"26501"
+2022-10-07,RN-Clinic,"Morgantown, WV 26506",,,,,,,,""
+2022-10-07,"Linen Services Attendant","Morgantown, WV 26501",,,,,,,,""
+2022-10-07,"MANAGER TRAINEE",AutoZone,autolinesorters.com,,,,,Morgantown,WV,"26505"
+2022-10-06,"Telecom Technician I","Pillar Innovations",pillarinnovations.com,"Oil & Energy",,,,Morgantown,WV,"26501"
+2022-10-07,"Patient Access Specialist","Morgantown, WV 26506",,,,,,,,""
+2022-10-05,"Store Team Member - #604 - Days",Sheetz,sheetz.com,Retail,"$14 an hour",,,Morgantown,WV,"26508"
+2022-10-06,"Activity Assistant","Madison Center - Morgantown",,,,,,Morgantown,WV,"26508"
+2022-10-07,"Children's Sterile Processing Tech","Morgantown, WV 26506",,,,,,,,""
+2022-10-05,"Service Technician - Class A","Lithia Motors, Inc.",,,,,,Morgantown,WV,"26505"
+2022-10-05,"HB/PB Coding Specialist II","Morgantown, WV 26508",,,,,,,,""
+2022-10-05,"Program Assistant II - Department of Communication Studies -...","Careers | West Virginia University",,,,,,Morgantown,WV,"26506"
+2022-10-06,"Civil Technician I","Pillar Innovations",pillarinnovations.com,"Oil & Energy",,,,Morgantown,WV,"26501"
+2022-10-06,"Recruiter/ Talent Acquisition Specialist","Allied Universal® Compliance and Investigations",,,,,,Morgantown,WV,"26501"
+2022-10-06,"Service Technician - Class C","Lithia Motors, Inc.",,,,,,Morgantown,WV,"26505"
+2022-10-05,"WVU-Cardiovascular Interventional Tech -60378","Morgantown, WV 26506",,,,,,,,""
+2022-10-05,"Registered Nurse (RN) - Pre Admissions","Morgantown, WV 26506",,,,,,,,""
+2022-10-07,"Auto Parts Delivery Driver (Full-Time)",AutoZone,autolinesorters.com,,,,,Morgantown,WV,"26505"
+2022-10-07,"Auto Parts Delivery Driver (Part-Time)",AutoZone,autolinesorters.com,,,,"Sunnyside area)",Morgantown,WV,"26505"
+2022-10-07,"Auto Parts Delivery Driver (Part-Time)",AutoZone,autolinesorters.com,,,,,Morgantown,WV,"26505"
+2022-10-05,Bartender,Chili's,chilisjobs.com,,,,,Morgantown,WV,"26501"
+2022-10-05,Dishwasher,Chili's,chilisjobs.com,,,,,Morgantown,WV,"26501"
+2022-10-06,Janitor,Chili's,chilisjobs.com,,,,,Morgantown,WV,"26501"
+2022-10-06,"HUB Operations Lead","Advance Auto Parts",advanceautoparts.com,Retail,,,,Morgantown,WV,"26505"
+2022-10-07,"MANAGER TRAINEE",AutoZone,autolinesorters.com,,,,"Sunnyside area)",Morgantown,WV,"26505"
+2022-10-07,"Patient Access Specialist","Morgantown, WV 26506",,,,,,,,""
+2022-10-07,"Patient Access Specialist","Morgantown, WV 26506",,,,,,,,""
+2022-10-05,QA/Expeditor,Chili's,chilisjobs.com,,,,,Morgantown,WV,"26501"
+2022-10-06,"Tower Technician II","Pillar Innovations",pillarinnovations.com,"Oil & Energy",,,,Morgantown,WV,"26501"
+2022-10-07,"WVHC-RN-Hospice -10254","Morgantown, WV 26501",,,,,,,,""
+2022-10-07,LPN,"Mon Health",monhealth.com,"Hospital & Health Care",,,,Morgantown,WV,"26505"
+2022-10-05,"Registered Nurse Weekend - 5 South Surgical","Mon Health",monhealth.com,"Hospital & Health Care",,,,Morgantown,WV,"26505"
+2022-10-05,Server,Chili's,chilisjobs.com,,,,,Morgantown,WV,"26501"
+2022-10-05,"Registered Nurse (RN) - Pre Admissions","Morgantown, WV 26506",,,,,,,,""
+2022-10-05,"Registered Nurse (RN) - Pre Admissions","Morgantown, WV 26506",,,,,,,,""
+2022-10-07,"Property Preservation","National Facilities Direct Corp",,,"$20 - $35 an hour",,,Morgantown,WV,""
+2022-10-06,"Regional Mobile Customer Service Representative - Full time",ManpowerGroup,manpowergroup.com,"Staffing & Recruiting","up to $16 an hour",,,Morgantown,WV,""
+2022-10-07,Teller,"Clear Mountain Bank, Inc.",,,,,,Morgantown,WV,""
+2022-10-07,"Automotive Service Reception","University Motors",universitymotorsltd.com,"Higher Education",,,,Morgantown,WV,"26508"
+2022-10-07,"Sales Associate","Shoe Dept",,,,,,Morgantown,WV,"26501"
+2022-10-07,"Sales Person","Painter's Choice Auto Supply",,,"$44,183 - $49,231 a year",,,Morgantown,WV,""
+2022-10-07,Custodian,"University Motors",universitymotorsltd.com,"Higher Education",,,,Morgantown,WV,"26508"
+2022-10-05,"Customer Service Representative - Work from Home - Morgantow...","Anomaly Squared",anomalysquared.com,"Marketing & Advertising","$10 an hour",Remote,,"Remote in Morgantown",WV,""
+2022-10-07,"Home Service Technician (Company Vehicle + Base + Commission...",Terminix,terminix.com,"Consumer Services","$30,000 - $50,000 a year",,,Morgantown,WV,""
+2022-10-06,"Facility Maintenance","Candlewood Suites - Morgantown, WV",,,"$13 - $25 an hour",,,Morgantown,WV,"26501"
+2022-10-07,"Payroll Clerk / Human Resources Assistant","Bruceton Farm Service, Inc.",,,"from $15 an hour",,,Morgantown,WV,"26508"
+2022-10-06,"IMMEDIATE HIRING Convenience Store Cashier","JACOBS PETROLEUM / STUCK ENTERPRISES",,,"from $12 an hour",,,Morgantown,WV,"26508"
+2022-10-06,"Opening Morning Crew Member","Dunkin Donuts",dunkindonutscenter.com,Entertainment,"$11 - $12 an hour",,,Morgantown,WV,"26501"
+2022-10-07,"Valve Technician","AWC Frac Technology",awcfracvalves.com,"Oil & Energy","$17 an hour",,,Morgantown,WV,"26505"
+2022-10-06,"Key Holder/Assistant Manager","Shoe Dept",,,,,,Morgantown,WV,"26501"
+2022-10-07,"Evening Baker","Dunkin Donuts",dunkindonutscenter.com,Entertainment,"$11 - $12 an hour",,,Morgantown,WV,"26505"
+2022-10-07,"Kitchen Aide","Suncrest Childcare and Early Learning Center",suncrestelc.com,,"$11 - $13 an hour",,,Morgantown,WV,"26505"
+2022-10-07,"(Actively Hiring) Sabraton Dunkin Team Members (All Shifts)","Dunkin Donuts",dunkindonutscenter.com,Entertainment,"$11 - $13 an hour",,,Morgantown,WV,"26505"
+2022-10-05,"Volunteer Services and Outreach Coordinator","WV Caring",,,"$14 - $16 an hour",,,Morgantown,WV,"26505"
+2022-10-07,"(Urgently Hiring) Westridge/Westover Dunkin Team Members (Ev...","Dunkin Donuts",dunkindonutscenter.com,Entertainment,"$11 - $13 an hour",,,Morgantown,WV,"26501"
+2022-10-07,CSR,"Morgantown, WV 26501",,,,,,,,""
+2022-10-07,"Hotel Housekeeper","Euro-Suites Hotel",eurosuiteshotel.com,Hospitality,"from $13 an hour",,,Morgantown,WV,"26505"
+2022-10-07,CSR,"Morgantown, WV 26505",,,,,,,,""
+2022-10-07,"WVU Chick-Fil-A Food Service Worker",Sodexo/University,,,"from $13 an hour",,,Morgantown,WV,"26505"
+2022-10-06,"Crew Member","Devino Pizzeria",,,"from $12 an hour",,,Morgantown,WV,"26508"
+2022-10-05,"Case Manager II","Encompass Health",encompasshealth.com,"Hospital & Health Care",,,,Morgantown,WV,"26505"
+2022-10-06,"Registered Nurse (RN) (No on call, nights or weekends)","Regional Eye Associates, Inc. and Surgical Eye...",readocs.com,"Medical Practice","$25.20 - $36.40 an hour",,,Morgantown,WV,"26505"
+2022-10-06,Laundry/Housekeeping,"Candlewood Suites - Morgantown, WV",,,"from $12 an hour",,,Morgantown,WV,"26501"
+2022-10-07,"Shift Leader",Chick-fil-A,chick-fil-afoundation.org,Philanthropy,"$15 - $16 an hour",,,Morgantown,WV,"26505"
+2022-10-06,Housekeeper,"Candlewood Suites - Morgantown, WV",,,"from $12 an hour",,,Morgantown,WV,"26501"
+2022-10-07,"Dairy Queen Crew Member",subway,subway.com,Restaurants,"$12 - $13 an hour",,,Morgantown,WV,"26505"
+2022-10-07,Housekeeping,"Holiday Inn Express",hiecliftonpark.com,Hospitality,"$12.00 - $12.01 an hour",,,Morgantown,WV,"26508"
+2022-10-06,"Nursing Faculty","Morgantown, WV 26505",,,,,,,,""
+2022-10-07,"Administrative LPN","Interim HealthCare",interimhealthcare.com,"Hospital & Health Care",,,,Morgantown,WV,"26501"
+2022-10-06,"Mid day Crew Member","Dunkin Donuts",dunkindonutscenter.com,Entertainment,"$11 - $12 an hour",,,Morgantown,WV,"26501"
+2022-10-07,"Patient Care Manager RN (Home Health)","Care Partners Home Health",,,,,,Morgantown,WV,"26505"
+2022-10-07,"Registered Nurse (RN)","Stonerise Home Health Morgantown",,,"$29.12 - $32.05 an hour",,,Morgantown,WV,"26505"
+2022-10-05,"Hourly Manager","Burger King",bk.com,Restaurants,"$12.60 an hour",,,Morgantown,WV,"26505"
+2022-10-07,"Assistant Manager",subway,subway.com,Restaurants,"$12 - $17 an hour",,,Morgantown,WV,"26505"
+2022-10-07,"RN Operating Room","Vitana Inc",,,"from $3,679 a week",,,Morgantown,WV,""
+2022-10-06,"Registered Nurse (RN)","Stonerise Morgantown",,,"$5,000 sign-on bonus why join the stonerise family? leave a lasting legacy of serving through love. ",,,Morgantown,WV,"26505"
+2022-10-06,"Dental Assistant","The Landing Dental Spa",,,"$13.00 - $17.80 an hour",,,Morgantown,WV,"26508"
+2022-10-06,CSR,"Morgantown, WV 26501",,,,,,,,""
+2022-10-07,"WVU Chick-Fil-A Cashier",Sodexo/University,,,"from $13 an hour",,,Morgantown,WV,"26505"
+2022-10-06,"Housekeeper and Laundry","Candlewood Suites - Morgantown, WV",,,"from $12 an hour",,,Morgantown,WV,"26501"
+2022-10-07,"Weekend Supervisor Central Transport","Morgantown, WV 26506",,,,,,,,""
+2022-10-07,"WVU-Exercise Specialist -86794","Morgantown, WV 26506",,,,,,,,""
+2022-10-07,"Auto Parts Delivery Driver (Full-Time)",AutoZone,autolinesorters.com,,,,"Sunnyside area)",Morgantown,WV,"26505"
+2022-10-05,"Ops Pharmacy Tech I","Morgantown, WV 26506",,,,,,,,""
+2022-10-07,"WVU-Unit Clerk-Adult HVI Unit/6SE- 26001","Morgantown, WV 26506",,,,,,,,""
+2022-10-05,"WVU-Unit Clerk-Adult HVI Unit/6SE- 26001","Morgantown, WV 26506",,,,,,,,""
+2022-10-07,"Seasonal Store Support Teammate",Buckle,buckleup.com,"Financial Services",,,,Morgantown,WV,"26501"
+2022-10-07,"Auto Parts Delivery Driver (Full-Time)",AutoZone,autolinesorters.com,,,,,Morgantown,WV,"26505"
+2022-10-07,"Auto Parts Delivery Driver (Part-Time)",AutoZone,autolinesorters.com,,,,"Sunnyside area)",Morgantown,WV,"26505"
+2022-10-07,"Auto Parts Delivery Driver (Part-Time)",AutoZone,autolinesorters.com,,,,,Morgantown,WV,"26505"
+2022-10-07,"Retail Sales Associate (Part-Time)",AutoZone,autolinesorters.com,,,,"Sunnyside area)",Morgantown,WV,"26505"
+2022-10-07,"Retail Sales Associate (Part-Time)",AutoZone,autolinesorters.com,,,,,Morgantown,WV,"26505"
+2022-10-05,Bartender,Chili's,chilisjobs.com,,,,,Morgantown,WV,"26501"
+2022-10-05,"Seasonal PT - Cashier, Stock and Sales Associates","Bed Bath & Beyond",bedbathandbeyond.com,Retail,,,,Morgantown,WV,"26501"
+2022-10-05,Dishwasher,Chili's,chilisjobs.com,,,,,Morgantown,WV,"26501"
+2022-10-06,Janitor,Chili's,chilisjobs.com,,,,,Morgantown,WV,"26501"
+2022-10-05,QA/Expeditor,Chili's,chilisjobs.com,,,,,Morgantown,WV,"26501"
+2022-10-06,"Medical Assistant ? Women?s Health Fairm","Mon Health",monhealth.com,"Hospital & Health Care",,,,Morgantown,WV,"26505"
+2022-10-07,"Registered Nurse (RN) - Neuro Step Down 10E","Morgantown, WV 26506",,,,,,,,""
+2022-10-05,Server,Chili's,chilisjobs.com,,,,,Morgantown,WV,"26501"
+2022-10-07,"Property Preservation","National Facilities Direct Corp",,,"$20 - $35 an hour",,,Morgantown,WV,""
+2022-10-05,"Merchandising Service Associate","Morgantown, WV 26501",,,,,,,,""
+2022-10-07,"Sales Associate","Shoe Dept",,,,,,Morgantown,WV,"26501"
+2022-10-06,"Sls & Srvc Assoc",Hertz,hertz.com.ar,"Leisure, Travel & Tourism",,,,Morgantown,WV,"26508"
+2022-10-06,"IMMEDIATE HIRING Convenience Store Cashier","JACOBS PETROLEUM / STUCK ENTERPRISES",,,"from $12 an hour",,,Morgantown,WV,"26508"
+2022-10-06,"Key Holder/Assistant Manager","Shoe Dept",,,,,,Morgantown,WV,"26501"
+2022-10-07,"Evening Baker","Dunkin Donuts",dunkindonutscenter.com,Entertainment,"$11 - $12 an hour",,,Morgantown,WV,"26505"
+2022-10-07,"Part-Time Maintenance Technician- Independence Hill","Inspire Communities",inspirecommunities.com,"Real Estate","$14 - $15 an hour",,,Morgantown,WV,"26508"
+2022-10-07,"Kitchen Aide","Suncrest Childcare and Early Learning Center",suncrestelc.com,,"$11 - $13 an hour",,,Morgantown,WV,"26505"
+2022-10-07,"(Actively Hiring) Sabraton Dunkin Team Members (All Shifts)","Dunkin Donuts",dunkindonutscenter.com,Entertainment,"$11 - $13 an hour",,,Morgantown,WV,"26505"
+2022-10-07,"(Urgently Hiring) Westridge/Westover Dunkin Team Members (Ev...","Dunkin Donuts",dunkindonutscenter.com,Entertainment,"$11 - $13 an hour",,,Morgantown,WV,"26501"
+2022-10-07,CSR,"Morgantown, WV 26501",,,,,,,,""
+2022-10-07,"Hotel Housekeeper","Euro-Suites Hotel",eurosuiteshotel.com,Hospitality,"from $13 an hour",,,Morgantown,WV,"26505"
+2022-10-07,CSR,"Morgantown, WV 26505",,,"$12+/hr + commission** - seasonal sales associate - morganto...",,,,,""
+2022-10-06,"$12+/HR + COMMISSION** - Seasonal Sales Associate - Morganto...","Sunglass Hut",,,"from $12 an hour",,,Morgantown,WV,"26501"
+2022-10-06,"Crew Member","Devino Pizzeria",,,"from $12 an hour",,,Morgantown,WV,"26508"
+2022-10-06,Laundry/Housekeeping,"Candlewood Suites - Morgantown, WV",,,"from $12 an hour",,,Morgantown,WV,"26501"
+2022-10-07,"In Home Caregiver","Visiting Angels",visitingangels.com,"Hospital & Health Care","$13 - $15 an hour",,,Morgantown,WV,"26508"
+2022-10-07,"Shift Leader",Chick-fil-A,chick-fil-afoundation.org,Philanthropy,"$15 - $16 an hour",,,Morgantown,WV,"26505"
+2022-10-06,Housekeeper,"Candlewood Suites - Morgantown, WV",,,"from $12 an hour",,,Morgantown,WV,"26501"
+2022-10-07,"Dairy Queen Crew Member",subway,subway.com,Restaurants,"$12 - $13 an hour",,,Morgantown,WV,"26505"
+2022-10-07,Housekeeping,"Holiday Inn Express",hiecliftonpark.com,Hospitality,"$12.00 - $12.01 an hour",,,Morgantown,WV,"26508"
+2022-10-05,"Hourly Manager","Burger King",bk.com,Restaurants,"$12.60 an hour",,,Morgantown,WV,"26505"
+2022-10-07,"Registered Nurse RN","Care Partners Home Health",,,,,,Morgantown,WV,"26505"
+2022-10-07,"Assistant Manager",subway,subway.com,Restaurants,"$12 - $17 an hour",,,Morgantown,WV,"26505"
+2022-10-07,"RN Operating Room","Vitana Inc",,,"from $3,679 a week",,,Morgantown,WV,""
+2022-10-06,CSR,"Morgantown, WV 26501",,,,,,,,""
+2022-10-07,"WVU Chick-Fil-A Cashier",Sodexo/University,,,"from $13 an hour",,,Morgantown,WV,"26505"
+2022-10-06,"Housekeeper and Laundry","Candlewood Suites - Morgantown, WV",,,"from $12 an hour",,,Morgantown,WV,"26501"
+2022-10-07,"RN Operating Room","Vitana Inc",,,"from $3,679 a week",,,Morgantown,WV,""
+2022-10-06,"Summer 2022 Audit Associate","Baker Tilly US, LLP",,,,,,Morgantown,WV,"26505"
+2022-10-07,"Sales Associate Sunglass Hut","Sunglass Hut",,,,,,Morgantown,WV,"26501"
+2022-10-07,"Sales Associate Sunglass Hut",Luxottica,luxottica.com,"Luxury Goods & Jewelry",,,,Morgantown,WV,"26501"
+2022-10-07,"RN Operating Room","Vitana Inc",,,"from $3,679 a week",,,Morgantown,WV,""
+2022-10-04,"Transition Coordinator - West Virginia, Take Me Home","Metro Area Agency on Aging",metroaaa.com,,"$35,000 - $37,000 a year",,,Charleston,WV,""
+2022-10-04,"National Sales Manager Merchant Processing","Valor Merchant Services",valormerchantservices.net,,"$32,789 - $200,974 a year",,"Edgewood area)",Charleston,WV,"25302"
+2022-10-04,"Early Childhood Specialist (Supervisory position)","Appalachian Council Head Start",,,"$30,000 - $40,000 a year",,"Downtown area)",Charleston,WV,"25301"
+2022-10-04,"Survey Party Chief - Charleston, WV","Bowman Consulting Group",bowman.com,"Civil Engineering","estimated $58.2k - $73.8k a year",,,Charleston,WV,"25314"
+2022-10-04,"Travel RN - ER - $3,412.97- 48 hrs./week - Day Shift - 13 we...","Travel Nurses for Neth",thegypsynurse.com,"Hospital & Health Care","$3,413 a week",,"East End area)",Charleston,WV,"25301"
+2022-10-03,"Travel RN-OPERATING ROOM-$3,876.25- 48 hrs./week-Night Shift...","Travel Nurses for Neth",thegypsynurse.com,"Hospital & Health Care","$3,876 a week",,"East End area)",Charleston,WV,"25301"
+2022-10-04,"Travel RN - ER - $3,412.97- 48 hrs./week - Night Shift - 13...","Travel Nurses for Neth",thegypsynurse.com,"Hospital & Health Care","$3,413 a week",,"East End area)",Charleston,WV,"25301"
+2022-10-04,"Travel RN - ER - $3,412.97- 48 hrs./week - Night Shift - 13...","Travel Nurses for Neth",thegypsynurse.com,"Hospital & Health Care","$3,413 a week",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-02,"Territory Sales Manager - Frontier Communications",LSS,,,"estimated $83.8k - $106k a year",,,Charleston,WV,"25301"
+2022-10-03,"Project Director of Outreach/Admissions and Career Transitio...","Horizons Youth Services",,,"$60,000 - $65,000 a year",,"Oakridge/Greenbrier area)",Charleston,WV,"25311"
+2022-10-02,"General Manager","Little Caesars",,,"up to $42,000 a year",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-04,"Marketing Operations Lead - Relocation to Fitchburg, WI","Arch Advisory Group",archadvisorygroup.com,,"estimated $82.3k - $104k a year",,,Charleston,WV,""
+2022-10-03,"General Litigation Attorney","The Sweetbridge Group",,,"from $75,000 a year",,,Charleston,WV,"25306"
+2022-10-04,"Travel RN - ER - $3,412.97- 48 hrs./week - Day Shift - 13 we...","Travel Nurses for Neth",thegypsynurse.com,"Hospital & Health Care","$3,413 a week",,"East End area)",Charleston,WV,"25301"
+2022-10-03,"Travel RN-OPERATING ROOM-$3,876.25- 48 hrs./week-Night Shift...","Travel Nurses for Neth",thegypsynurse.com,"Hospital & Health Care","$3,876 a week",,"East End area)",Charleston,WV,"25301"
+2022-10-04,"Travel RN - ER - $3,412.97- 48 hrs./week - Night Shift - 13...","Travel Nurses for Neth",thegypsynurse.com,"Hospital & Health Care","$3,413 a week",,"East End area)",Charleston,WV,"25301"
+2022-10-04,"Travel RN - ER - $3,412.97- 48 hrs./week - Night Shift - 13...","Travel Nurses for Neth",thegypsynurse.com,"Hospital & Health Care","$3,413 a week",,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-04,"WVU-Marketing Specialist-Peak Health -102896","WVUH West Virginia University Hospitals",,,"estimated $55.2k - $69.8k a year",,,Morgantown,WV,"26505"
+2022-10-04,"Associate Manager, Accounts and Inventory Customer Relations",Viatris,mylan.in,Pharmaceuticals,"estimated $58k - $73.4k a year",,,Morgantown,WV,""
+2022-10-04,"WVU-Member Services Representative-Peak Health -102876","WVUH West Virginia University Hospitals",,,"estimated $28.7k - $36.3k a year",,,Morgantown,WV,"26505"
+2022-10-02,"DISASTER PROGRAM SPECIALIST- MORGANTOWN,WV, American Red Cro...","American Red Cross",redcross.org,"Nonprofit Organization Management",,,,Morgantown,WV,"26505"
+2022-10-02,"Store Manager","Bed Bath & Beyond",bedbathandbeyond.com,Retail,,,,Morgantown,WV,"26501"
+2022-10-04,"WVU-Member Services Representative-Peak Health -102876","WVUH West Virginia University Hospitals",,,"estimated $28.7k - $36.3k a year",,,Morgantown,WV,"26505"
+2022-10-04,"WVU-Member Services Representative-Peak Health -102876","WVUH West Virginia University Hospitals",,,"estimated $28.7k - $36.3k a year",,,Morgantown,WV,"26505"
+2022-10-04,"Food Services Supervisor","Mon Health",monhealth.com,"Hospital & Health Care","estimated $29.7k - $37.7k a year",,,Morgantown,WV,"26505"
+2022-10-04,"RN Telephone Triage (Remote: Work From Home)",TeamHealth,argomarketing.com,Internet,,Remote,,"Remote in Morgantown",WV,""
+2022-10-02,"DISASTER PROGRAM SPECIALIST- MORGANTOWN,WV, American Red Cro...","American Red Cross",redcross.org,"Nonprofit Organization Management",,,,Morgantown,WV,"26501"
+2022-10-04,"General Litigation Attorney","The Sweetbridge Group",,,"from $75,000 a year",,,Morgantown,WV,"26501"
+2022-10-04,"RN Telephone Triage (Remote: Work From Home)",TeamHealth,argomarketing.com,Internet,,Remote,,"Remote in Morgantown",WV,""
+2022-10-06,"PATIENT ADVOCATE HSRX",HealthSmart,healthsmart.com,"Health, Wellness & Fitness",,Remote,,"Remote in Charleston",WV,"25331"
+2022-10-06,"Outside Sales Representative",Graybar,graybar.com,Wholesale,,,,Charleston,WV,"25329"
+2022-10-05,"Retail Security Operations Account Manager","Allied Universal®",,,,,,Charleston,WV,"25301"
+2022-10-05,"Automotive Lead Technician","Firestone Complete Auto Care",firestonecompleteautocare.com,Automotive,,,"Downtown area)",Charleston,WV,"25301"
+2022-10-06,"Technical Project Manager",Pearson,pearson.com,"Education Management",,,,"Hybrid remote in Charleston",WV,"25325"
+2022-10-06,"Technical Account Manager - East Coast - Remote","Veeam Software",,,,Remote,,"Remote in Charleston",WV,""
+2022-10-04,"Transportation Building and Grounds Maintenance Worker 2 - M...","Charleston, WV 25305",,,,,,,,""
+2022-10-05,"Transportation Information Systems Consultant- Kanawha Count...","Charleston, WV 25305",,,,,,,,""
+2022-10-04,"Transportation Worker 3 Equipment Operator - Mineral County","West Virginia Department of Transportation (WV)",wvu.edu,"Higher Education","$20.21 an hour",,,Charleston,WV,"25305"
+2022-10-05,"Transportation Division Manager 1 - Kanawha County","Charleston, WV 25305",,,,,,,,""
+2022-10-07,"Intermediate Document Control Analyst","Ford & Sweeney Support Services",fordandsweeney.com,,"$30 - $33 an hour",,"South Hills area)",Charleston,WV,"25314"
+2022-10-06,Operator,"Charleston, WV",,,,,,,,""
+2022-10-06,"Project Safety Coordinator","Hatzel and Buehler Inc.",,,"$41,427 - $84,305 a year",,,Charleston,WV,"25313"
+2022-10-07,"Resident Manager","HRDE, Inc.",,,"from $37,000 a year",,"Edgewood area)",Charleston,WV,"25302"
+2022-10-06,"Accounting Specialist","Industrial Supply Solutions, Inc.",issimro.com,,"$14 - $18 an hour",,,Charleston,WV,"25302"
+2022-10-06,Accountant,"West Virginia Housing Development Fund",wvhdf.com,Banking,,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-06,"Business Services Area Operations Manager","Goodwill Industries of Kanawha Valley, Inc.",goodwillwv.com,"Civic & Social Organization","$40,000 a year",,"West Side area)",Charleston,WV,"25302"
+2022-10-05,"HHR Program Manager 1 - Quality Assurance Coordinator","WV DHHR - Bureau for Public Health",,,"$42,898 - $79,358 a year",,"Downtown area)",Charleston,WV,"25301"
+2022-10-05,"Financial Reporting Specialist 3","WV Finance Division",,,"$45,043 - $83,326 a year",,"East End area)",Charleston,WV,"25305"
+2022-10-06,"Manager - Multifamily Lending","West Virginia Housing Development Fund",wvhdf.com,Banking,,,"Kanawha City area)",Charleston,WV,"25304"
+2022-10-07,"Intermediate Document Control Analyst","Ford & Sweeney Support Services",fordandsweeney.com,,"$30 - $33 an hour",,"South Hills area)",Charleston,WV,"25314"
+2022-10-07,"1099 Insurance Loss Control Inspector",Sedgwick,sedgwick.com,Insurance,,,,Charleston,WV,""
+2022-10-07,"West Virginia Telemedicine Primary Care NP / APRN - REMOTE","Circle Medical - a UCSF Health Affiliate",,,"$120 an hour",Remote,,"Remote in Charleston",WV,""
+2022-10-07,"West Virginia Telemedicine Primary Care MD / DO - REMOTE","Circle Medical - a UCSF Health Affiliate",,,"$120 an hour",Remote,,"Remote in Charleston",WV,""
+2022-10-06,"Director of Communications","City of Morgantown, West Virginia",morgantownwv.gov,"Government Administration","$65,148 - $70,408 a year",,,Morgantown,WV,"26505"
+2022-10-05,"Specialist Account Management and Inventory, Customer Relati...",Viatris,mylan.in,Pharmaceuticals,,,,Morgantown,WV,""
+2022-10-07,"Supervisor, Construction","Morgantown, WV 26506",,,,,,,,""
+2022-10-06,"Building Maintenance Technician","City of Morgantown, West Virginia",morgantownwv.gov,"Government Administration","from $18.83 an hour",,,Morgantown,WV,"26505"
+2022-10-06,"HR Onboarding Specialist","Morgantown, WV",,,,,,,,""
+2022-10-06,"Administrator Neurosurgery","Morgantown, WV 26506",,,,,,,,""
+2022-10-07,"AmeriCorps Coordinator-Extension, Energy Express","Careers | West Virginia University",,,,,,Morgantown,WV,"26506"
+2022-10-06,"Pre Access Specialist","Mon Health",monhealth.com,"Hospital & Health Care",,,,Morgantown,WV,"26505"
+2022-10-06,"Telecom Technician II","Pillar Innovations",pillarinnovations.com,"Oil & Energy",,,,Morgantown,WV,"26501"
+2022-10-07,"Coding Auditor-Educator","Morgantown, WV",,,,,,,,""
+2022-10-06,"Civil Foreman","Pillar Innovations",pillarinnovations.com,"Oil & Energy",,,,Morgantown,WV,"26501"
+2022-10-06,"(Remote) Grants Administrator - Office of Research and Gradu...","Careers | West Virginia University",,,,Remote,,"Remote in Morgantown",WV,"26506"
+2022-10-06,"Civil Technician II","Pillar Innovations",pillarinnovations.com,"Oil & Energy",,,,Morgantown,WV,"26501"
+2022-10-07,"(Remote) Business Analyst - Operational Excellence","Careers | West Virginia University",,,,Remote,,"Remote in Morgantown",WV,"26506"
+2022-10-07,"Clinical Documentation Specialist","Mon Health",monhealth.com,"Hospital & Health Care",,,,Morgantown,WV,"26505"
+2022-10-06,"Wireless Services Construction Manager","Pillar Innovations",pillarinnovations.com,"Oil & Energy",,,,Morgantown,WV,"26501"
+2022-10-06,"Telecom Foreman","Pillar Innovations",pillarinnovations.com,"Oil & Energy",,,,Morgantown,WV,"26501"
+2022-10-06,"Nurse Navigator - Clinic","Morgantown, WV",,,,,,,,""
+2022-10-06,"Tower Technician III","Pillar Innovations",pillarinnovations.com,"Oil & Energy",,,,Morgantown,WV,"26501"
+2022-10-06,"Tower Foreman","Pillar Innovations",pillarinnovations.com,"Oil & Energy",,,,Morgantown,WV,"26501"
+2022-10-06,"(Remote) Grants Administrator - Office of Research and Gradu...","Careers | West Virginia University",,,,Remote,,"Remote in Morgantown",WV,"26506"
+2022-10-05,"Hydraulic Technician II","Tiefenbach North America",tiefenbach.us,"Mining & Metals","$18 - $21 an hour",,,Morgantown,WV,"26501"
+2022-10-06,"205 - Sabraton - Community Office Manager","First United Bank & Trust",mybank.com,Banking,,,,Morgantown,WV,"26505"
+2022-10-07,"Housekeeper/Suite Attendants","Morgantown, WV 26505",,,,,,,,""
+2022-10-06,"Outside Sales Representative","Buffalo Biodiesel, Inc.",,,"$52,000 - $200,000 a year",,,Morgantown,WV,""
+2022-10-05,"Ophthalmic Technician Manager","Morgantown, WV 26505",,,,,,,,""
+2022-10-07,"Clinical Manager (RN)","Stonerise Home Health Morgantown",,,"$62,000 - $72,000 a year",,,Morgantown,WV,"26505"
+2022-10-06,"Dental Assistant Clinical Instructor/ Instructor","Morgantown, WV 26505",,,,,,,,""
+2022-10-07,"Nursing Clinical Instructor- Adjunct","Morgantown, WV 26505",,,,,,,,""
+2022-10-07,"PICU RN","Midas Consulting",midasconsulting.com.ar,"Financial Services","$92.00 - $94.90 an hour",,,Morgantown,WV,"26506"
+1970-01-01,,,,,,,,,,""

@@ -1,0 +1,820 @@
+DATE,"Job Title",Company,Website,Industry,Salary,Remote,AREA,City,State,"Zip Code"
+2022-08-07,"FT-Head Cashier-Flexible",Lowe's,lowes.com,Retail,,,"Bayshore-Klatt area)",Anchorage,AK,"99515"
+2022-08-07,"FT-Sales Associate - Hardware-Day",Lowe's,lowes.com,Retail,,,"Bayshore-Klatt area)",Anchorage,AK,"99515"
+2022-08-07,"Store Stock Associate- Spenard","NAPA Auto Parts",douglasnapa.com,,,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-06,"Laborer Groundskeeper","Cook Inlet Housing Authority",cookinlethousing.org,Veterinary,"$16.83 - $21.63 an hour",,,Anchorage,AK,""
+2022-08-07,"Yard Assistant - Full Time/Permanent","Shoreside Petroleum Inc.",,,"estimated $28.5k - $36.1k a year",,,Anchorage,AK,""
+2022-08-05,"Member Service Center Team Manager","Alaska USA Federal Credit Union",alaskausa.org,"Financial Services",,,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-05,"FT-Merchandising Service Associate-Day",Lowe's,lowes.com,Retail,,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-05,"Customer Service Representative","Speedy Glass",,,"$18 an hour",,"Spenard area)",Anchorage,AK,"99503"
+2022-08-05,"Sales Associate, Full Time","Old Navy",gap.com,Retail,,,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-07,HR,Schlumberger,slb.com,"Oil & Energy",,,,Anchorage,AK,""
+2022-08-06,Receptionist,"Lithia Motors, Inc.",,,"$15 - $17 an hour",,"Bayshore-Klatt area)",Anchorage,AK,"99515"
+2022-08-05,"Private Investigator","Allied Universal? Compliance and Investigations",,,,,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-06,Porter,"Lithia Motors, Inc.",,,"$15 - $17 an hour",,"Bayshore-Klatt area)",Anchorage,AK,"99515"
+2022-08-06,"PATIENT TRANSPORTER (FULL-TIME)","Crothall Healthcare",crothall.com,"Hospital & Health Care",,,"University Area area)",Anchorage,AK,"99508"
+2022-08-05,"Scheduling & Staffing Admin",Lowe's,lowes.com,Retail,,,,Anchorage,AK,""
+2022-08-05,"Warehouse Associate",Ferguson,ferguson.com,Wholesale,,,"Bayshore-Klatt area)",Anchorage,AK,"99515"
+2022-08-06,Custodian,"Anchorage Neighborhood Health Center",anhc.org,"Medical Practice","$17.37 - $19.30 an hour",,,Anchorage,AK,""
+2022-08-07,"Security Officer - Neighborhood Store","Allied Universal?",,,,,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-06,"Customer Service Representative (Inside Sales)","Motion Industries",generaltoolworldwide.com,Wholesale,,,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-06,"Security Officer Part Time","Castle Megastore",castlemegastore.com,Retail,"estimated $32.4k - $41k a year",,"Mountain View area)",Anchorage,AK,"99501"
+2022-08-05,"Warehouse Worker","GTS Interior Supply, Inc",,,"estimated $29.1k - $36.9k a year",,"Fairview area)",Anchorage,AK,"99501"
+2022-08-05,"Sales Associate, Full Time","Old Navy",gap.com,Retail,,,"Northeast area)",Anchorage,AK,"99504"
+2022-08-05,"Customer Service Representative",Graybar,graybar.com,Wholesale,,,,Anchorage,AK,"99507"
+2022-08-06,"Warehouse Associate",Sysco,sysco.com,"Food & Beverages",,,,Anchorage,AK,"99507"
+2022-08-06,"FT-Sales Associate - Millwork-Day",Lowe's,lowes.com,Retail,,,,Anchorage,AK,""
+2022-08-05,"Counter Sales - Old Seward (AIH)","Anchorage, AK 99518?(Taku-Campbell area)",,,,,,,,""
+2022-08-05,"Sales Associate , Full Time","Old Navy",gap.com,Retail,,,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-06,"School Secretary, Elementary","Anchorage School District",asdk12.org,"Primary/Secondary Education","$14.87 - $16.00 an hour",,,Anchorage,AK,""
+2022-08-07,"Criminal Justice Technician 1 (060394)","State of Alaska",aebsd.org,"Education Management","estimated $38.9k - $49.3k a year",,,Anchorage,AK,""
+2022-08-05,"Counter Sales - Old Seward (AIH)","Anchorage, AK 99518?(Taku-Campbell area)",,,,,,,,""
+2022-08-07,"Asset Protection Specialist",Safeway,safewaymobility.com,,"estimated $37.2k - $47k a year",,"Northeast area)",Anchorage,AK,"99504"
+2022-08-05,"Store Sales Associate","Brown Jug",brownjugalaska.net,Retail,,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-06,"Asset Protection Specialist",Safeway,safewaymobility.com,,"estimated $37.2k - $47k a year",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-07,"Dental Assistant","Anchorage Neighborhood Health Center",anhc.org,"Medical Practice","$20.55 an hour",,,Anchorage,AK,""
+2022-08-06,"BEAUTY CONSULTANT",WALGREENS,walgreens.com,Retail,,,"Old Seward-Oceanview area)",Anchorage,AK,"99515"
+2022-08-06,"Dock Worker",Carlile,carlile.biz,Transportation/Trucking/Railroad,"estimated $26k - $33k a year",,"Mountain View area)",Anchorage,AK,"99501"
+2022-08-06,"Janitor II","Assets, Inc.",usassetsinc.com,"Real Estate","$15 an hour",,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-06,"Dock Worker",Carlile,carlile.biz,Transportation/Trucking/Railroad,"estimated $26k - $33k a year",,"Mountain View area)",Anchorage,AK,"99501"
+2022-08-08,"Parent Partner","AK Child & Family",akchild.org,"Mental Health Care","$15 an hour",,"Mid-Hillside area)",Anchorage,AK,"99507"
+2022-08-08,"Recreation and Education Assistant/Residential Behavioral He...","AK Child & Family",akchild.org,"Mental Health Care","$15 an hour",,"Mid-Hillside area)",Anchorage,AK,"99507"
+2022-08-08,"Residential Behavioral Health Specialist","AK Child & Family",akchild.org,"Mental Health Care","$15.29 an hour",,"Mid-Hillside area)",Anchorage,AK,"99507"
+2022-08-08,"Community Programs Behavioral Health Specialist","AK Child & Family",akchild.org,"Mental Health Care","$15 an hour",,"Mid-Hillside area)",Anchorage,AK,"99507"
+2022-08-08,"Environmental Services Technician - Environmental Services",Providence,psjhealth.org,"Hospital & Health Care","$ 1,500 sign-on bonus for eligible external hires that meet required qualifications and conditions f",,,Anchorage,AK,"99508"
+2022-08-07,"Security Officer - Local Safeway","Allied Universal?",,,,,"Bayshore-Klatt area)",Anchorage,AK,"99515"
+2022-08-07,"RN Resident - Emergency Department",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-07,"Environmental Laboratory Technician",SGS,sgs.com,"International Trade & Development",,,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-06,"Member Assistance Admin Processor I","Credit Union 1",creditunion1.org,"Financial Services","estimated $33.7k - $42.7k a year",,"Abbott Loop area)",Anchorage,AK,"99507"
+2022-08-06,"Security Monitor","GEO Reentry Services",georeentry.com,Biotechnology,"$19.50 an hour",,,Anchorage,AK,""
+2022-08-06,"Elementary School Teacher - STEM focused (Russian Jack / Kla...","Anchorage School District",asdk12.org,"Primary/Secondary Education","estimated $53.3k - $67.5k a year",,,Anchorage,AK,""
+2022-08-06,"Heavy Equipment Technician","US Ecology, Inc.",,,,,,Anchorage,AK,""
+2022-08-06,"Field Service Technician","Raymond Handling Concepts Corp",,,"estimated $37.4k - $47.4k a year",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-06,"Language Arts Teacher","Anchorage School District",asdk12.org,"Primary/Secondary Education","estimated $53.4k - $67.6k a year",,,Anchorage,AK,""
+2022-08-06,"Office of Research Grant Analyst","University of Alaska",kodiak.alaska.edu,"Higher Education","estimated $36.8k - $46.6k a year",,"University Area area)",Anchorage,AK,"99508"
+2022-08-06,"Warehouse Worker","Gypsum Management & Supply, Inc.",gms.com,"Building Materials","estimated $28k - $35.4k a year",,,Anchorage,AK,"99501"
+2022-08-05,"RN - High Acuity - St. Elias",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99503"
+2022-08-05,"RN - Intensive Care Unit",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-05,"Corporate Controller","Afognak Native Corporation",afognak.org,"Government Administration","estimated $109k - $138k a year",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-05,"Tire Technician 2","Firestone Complete Auto Care",firestonecompleteautocare.com,Automotive,"estimated $30k - $38k a year",,,Anchorage,AK,"99518"
+2022-08-05,"Supervisor Long Term Care RN",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99504"
+2022-08-06,Receptionist,"Lithia Motors, Inc.",,,"$20 an hour",,"Bayshore-Klatt area)",Anchorage,AK,"99515"
+2022-08-07,"Right of Way Agent 2/3 (PCN 0480)","State of Alaska",aebsd.org,"Education Management","$27.62 - $31.82 an hour",,"Ted Stevens Anchorage International Airport area)",Anchorage,AK,"99502"
+2022-08-07,"Right-of-Way Agent 1/2 (PCN 0427)","State of Alaska",aebsd.org,"Education Management","$24.05 - $27.62 an hour",,"Ted Stevens Anchorage International Airport area)",Anchorage,AK,"99502"
+2022-08-07,"Nurse 3 (PCN 027418)","State of Alaska",aebsd.org,"Education Management","$47.65 an hour",,"South Addition area)",Anchorage,AK,"99501"
+2022-08-06,"Epidemiology Specialist 2 (PCN 16NALCANLink Epidemiologist)","State of Alaska",aebsd.org,"Education Management","$36.42 an hour",,,Anchorage,AK,""
+2022-08-06,"Information Officer 2 (PCN 122087)","State of Alaska",aebsd.org,"Education Management","$4,478 a month",,"Campbell Park area)",Anchorage,AK,"99507"
+2022-08-06,"Human Resource Consultant 5 (PCN 022120)","State of Alaska",aebsd.org,"Education Management","$6,408 - $6,728 a month",,,Anchorage,AK,""
+2022-08-06,"Grants Administrator 1/2 (PCN 213053)","State of Alaska",aebsd.org,"Education Management","$3,608 - $4,569 a month",,,Anchorage,AK,""
+2022-08-06,"Grants Administrator 3 (PCN 0420)","State of Alaska",aebsd.org,"Education Management","$5,112 a month",,,Anchorage,AK,""
+2022-08-06,"Administrative Assistant 2 (PCN 5208)","State of Alaska",aebsd.org,"Education Management","$25.25 an hour",,,Anchorage,AK,""
+2022-08-06,"The North Face Floor Supervisor (Anchorage 511 Anchorage, AK...",Vans,vans.co.uk,"Apparel & Fashion",,,,Anchorage,AK,""
+2022-08-06,"Emergency Management Specialist 2 (PCNs 0421, 0422)","State of Alaska",aebsd.org,"Education Management","$27.62 an hour",,,Anchorage,AK,""
+2022-08-06,"Biometrician 1/2/3 (PCN 4207)","State of Alaska",aebsd.org,"Education Management","$4,436 - $5,463 a month",,,Anchorage,AK,""
+2022-08-05,"Administrative Officer 1 (PCN Administrative/Finance Officer...","State of Alaska",aebsd.org,"Education Management","$4,750 a month",,,Anchorage,AK,""
+2022-08-05,"Microcomputer/Network Technician 1 (Long-Term, Non-Perm) (PC...","State of Alaska",aebsd.org,"Education Management","$24.05 - $25.25 an hour",,"Fairview area)",Anchorage,AK,"99501"
+2022-08-06,"Assistant Buyer",Sysco,sysco.com,"Food & Beverages",,,,Anchorage,AK,"99507"
+2022-08-05,"Quality Control Associate",Sysco,sysco.com,"Food & Beverages",,,,Anchorage,AK,"99507"
+2022-08-05,"Security Officer - Security",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-06,"Security Officer - 5th Ave Mall","Allied Universal?",,,,,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-05,"Warehouse Material Handler",Graybar,graybar.com,Wholesale,"$16 an hour",,,Anchorage,AK,"99507"
+2022-08-06,"Nursing Assistant - Patient Transportation",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-05,"Security Officer - Security",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-05,"Security Officer - Security",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-05,"Linen Representative - Environmental Services",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-06,"Asset Protection Specialist",Safeway,safewaymobility.com,,"estimated $37.2k - $47k a year",,"Northeast area)",Anchorage,AK,"99504"
+2022-08-05,"Dimond High Language Arts Teacher (0.6 FTE)","Anchorage School District",asdk12.org,"Primary/Secondary Education","estimated $52.4k - $66.4k a year",,,Anchorage,AK,""
+2022-08-05,"Medical Laboratory Technician - Clinical Laboratory",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-05,"Environmental Services Technician - Environmental Services",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-06,"Emergency Management Specialist 2 (PCNs 09-0421, 09-0422)","State of Alaska",aebsd.org,"Education Management","estimated $48.1k - $60.9k a year",,,Anchorage,AK,"99501"
+2022-08-05,"FIREFIGHTER - Range 25 / IAFF","Municipality of Anchorage",muni.org,"Government Relations","estimated $38.1k - $48.3k a year",,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-06,"General Laborer Car Processor Seasonal & Year Round - Metals...","Alaska Scrap & Recycling",,,"$15 - $16 an hour",,"Government Hill area)",Anchorage,AK,"99501"
+2022-08-06,"Administrative Assistant 2 (PCN 10-5208)","State of Alaska",aebsd.org,"Education Management","estimated $26.1k - $33.1k a year",,,Anchorage,AK,"99501"
+2022-08-06,"Grants Administrator 1/2 (PCN 213053)","State of Alaska",aebsd.org,"Education Management","estimated $44.7k - $56.7k a year",,,Anchorage,AK,""
+2022-08-06,"Biometrician 1/2/3 (PCN 11-4207)","State of Alaska",aebsd.org,"Education Management",,,,Anchorage,AK,"99501"
+2022-08-06,"R66774 - Fresh Cuts Associate",Sysco,sysco.com,"Food & Beverages","$17 an hour",,,Anchorage,AK,"99518"
+2022-08-05,"BusinessManager in Alternative Healthcare","Natural Health Center, LLC",,,"$30 - $35 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-07,Housekeeper,"Paradigm Senior Living",,,"estimated $25.9k - $32.9k a year",,"Northeast area)",Anchorage,AK,"99504"
+2022-08-08,"Virtual Reality Entertainment Center Team Member","Vortex VR",,,"$12 - $15 an hour",,"Midtown area)",Anchorage,AK,"99518"
+2022-08-06,"Laborer Groundskeeper","Cook Inlet Housing Authority",cookinlethousing.org,Veterinary,"$16.83 - $21.63 an hour",,"Spenard area)",Anchorage,AK,"99503"
+2022-08-05,"Aviation Sales Associate","Northern Lights Avionics",,,"from $17.25 an hour",,"Fairview area)",Anchorage,AK,"99501"
+2022-08-07,"Warehouse Order Selector","US Foods",usfoods.com,"Food & Beverages",,,,Anchorage,AK,""
+2022-08-07,"Ticket Sales Ambassador - Anchorage Trolley Tours","Anchorage Trolley Tours",,,"$18 an hour",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-05,"Warehouse Customer Service Lead","Everts Air",evertsair.com,,"$19 - $23 an hour",,"Ted Stevens Anchorage International Airport area)",Anchorage,AK,"99502"
+2022-08-05,Painter/Laborer,"JRF Enterprises LLC",,,"$25 - $28 an hour",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-05,"Passage House ? Live-In","Covenant House Alaska",covenanthouseak.org,"Individual & Family Services","estimated $35.9k - $45.5k a year",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-06,"Account Associate - State Farm Agent Team Member","Todd Jackson - State Farm Agent",sfalaska.com,Sports,"$40,000 - $75,000 a year",,"Old Seward-Oceanview area)",Anchorage,AK,"99515"
+2022-08-08,"FOOD PRODUCTION - Airline Catering","LSG Sky Chefs",lsg.co.tz,,"$15.50 an hour",,"Ted Stevens Anchorage International Airport area)",Anchorage,AK,"99502"
+2022-08-05,"Sales Associates - All Anchorage Locations $13+ to Start","Office Depot",officedepot.com,"Business Supplies & Equipment","$13.00 - $13.50 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-06,"Account Representative - State Farm Agent Team Member","Randy Rhodes - State Farm Agent",sfakinsurance.com,,"$29,000 - $42,000 a year",,"Campbell Park area)",Anchorage,AK,"99507"
+2022-08-05,"Spa Concierge","Alyeska Resort",,,"$18 an hour",,,Anchorage,AK,""
+2022-08-06,"Account Manager - State Farm Agent Team Member","Andrew Sayer - State Farm Agent",,,"$30,000 - $60,000 a year",,,Anchorage,AK,"99501"
+2022-08-08,"Rail Support","Wilderness Express",,,"from $15 an hour",,"Government Hill area)",Anchorage,AK,"99501"
+2022-08-06,Custodian,"Frontline Enterprises, LLC",,,"$16.10 an hour",,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-05,"Shop Laborer","Northern Solutions LLC",,,"estimated $26.6k - $33.6k a year",,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-06,"Patient Care Technician","Fresenius Kidney Care",freseniuskidneycare.com,"Hospital & Health Care",,,,Anchorage,AK,"99507"
+2022-08-06,"Personal Care Assistant / PCA (FT)","HomeWell Care Services",homewellcares.com,"Hospital & Health Care","estimated $26k - $33k a year",,"Campbell Park area)",Anchorage,AK,"99507"
+2022-08-05,"In Home Caregiver","Midnight Sun Home Care",,,"$15.00 - $17.50 an hour",,"Fairview area)",Anchorage,AK,"99501"
+2022-08-05,Caregiver,"Home Instead",homeinstead.com.au,"Hospital & Health Care","$16 - $19 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-05,"Team Member","Carl's Jr",,,"from $14 an hour",,"Eagle River area)",Anchorage,AK,"99577"
+2022-08-05,"Night Shift Janitor","Charlie's Produce",charliesproduce.com,"Logistics & Supply Chain",,,"Bayshore-Klatt area)",Anchorage,AK,"99515"
+2022-08-06,"Avanti Route Driver","Vend Inc",vendhq.com,Internet,"$16 - $18 an hour",,,Anchorage,AK,""
+2022-08-07,"R66777 - Warehouse Associate",Sysco,sysco.com,"Food & Beverages","$16 an hour",,,Anchorage,AK,"99518"
+2022-08-07,"Caregiver (FT)","HomeWell Care Services",homewellcares.com,"Hospital & Health Care","estimated $27.4k - $34.6k a year",,"Campbell Park area)",Anchorage,AK,"99507"
+2022-08-07,Cashier,Popeyes,znhfoodsinc.com,,"$13 - $14 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-06,"Agent's Assistant - State Farm Agent Team Member","Randy Rhodes - State Farm Agent",sfakinsurance.com,,"$29,000 - $45,000 a year",,"Campbell Park area)",Anchorage,AK,"99507"
+2022-08-06,"Insurance and Financial Services Position - State Farm Agent...","Todd Jackson - State Farm Agent",sfalaska.com,Sports,"$40,000 - $55,000 a year",,"Old Seward-Oceanview area)",Anchorage,AK,"99515"
+2022-08-06,"NOW HIRING* Human Resources Admin","Hilton Anchorage Hotel",,,"$16 - $18 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-06,"Brake Rebuilder",TruckPro,,,"from $20 an hour",,"Mountain View area)",Anchorage,AK,"99501"
+2022-08-06,Rebuilder,TruckPro,,,,,"Mountain View area)",Anchorage,AK,"99501"
+2022-08-06,"Night Auditor Crowne Plaza Midtown","Northwest x Southern Hospitality",nwxsouthern.com,Hospitality,"$15.50 an hour",,,Anchorage,AK,"99518"
+2022-08-06,"Admissions Representative","Charter College",chartercollege.edu,"Higher Education","$24.04 an hour",,"Rogers Park area)",Anchorage,AK,"99508"
+2022-08-06,"Customer Service Rep - Merchant Services","Cornerstone Credit Services",cornerstonecredit.net,"Management Consulting","from $16 an hour",,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-06,"Driver Trainer","Carlile Transportation",,,"$21.18 - $32.82 an hour",,"Mountain View area)",Anchorage,AK,"99501"
+2022-08-06,"Server-Lucrative Daily Tipping $$",Benihana,benihana.com,Restaurants,,,"South Addition area)",Anchorage,AK,"99501"
+2022-08-05,"Youth Activities Specialist","Covenant House Alaska",covenanthouseak.org,"Individual & Family Services","$21.63 - $24.04 an hour",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-05,"Admissions Advisor","Alaska Career College",,,"estimated $34.5k - $43.7k a year",,"Tudor Area area)",Anchorage,AK,"99507"
+2022-08-05,"Assistant Teachers - Now Hiring!","Kindercare Learning Centers",,,,,"University Area area)",Anchorage,AK,"99508"
+2022-08-05,"GSE Maintenance Admin/Clerk",Swissport,swissport.com,Airlines/Aviation,,,"Ted Stevens Anchorage International Airport area)",Anchorage,AK,"99502"
+2022-08-05,"Data Analyst",Microcom,microcom.tv,Telecommunications,"estimated $46.5k - $58.9k a year",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-05,"Career Services Officer","Charter College",chartercollege.edu,"Higher Education","$19.00 - $23.56 an hour",,"Rogers Park area)",Anchorage,AK,"99508"
+2022-08-05,"Manager/ Assistant Manager Virtual Reality Entertainment Cen...","Vortex VR",,,"$17 - $22 an hour",,"Midtown area)",Anchorage,AK,"99518"
+2022-08-05,"Team Lead (Assistant Store Manager/Supervisor) Store #1021","Party City",partycity.com,Retail,"$17 - $21 an hour",,"Mountain View area)",Anchorage,AK,"99501"
+2022-08-05,"Janitorial Technician","NeighborWorks Alaska",nwalaska.org,"Nonprofit Organization Management","from $15 an hour",,"Government Hill area)",Anchorage,AK,"99501"
+2022-08-05,"Executive Assistant","Great Alaska Council",,,"$32,000 - $35,000 a year",,"Scenic Foothills area)",Anchorage,AK,"99504"
+2022-08-05,"District Executive","Great Alaska Council",,,"from $40,000 a year",,,Anchorage,AK,""
+2022-08-05,"Express Lube Technician","Kendall Auto Group",kendallautogroup.com,Automotive,"$16 an hour",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-10,"Front of House Manager","49th State Brewing Company",49statebrewing.com,"Food Production","$40,000 - $69,912 a year",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-05,"Direct Care Provider - Full Time","Golden Hearts, Inc.",goldenheartsinc.com,,"from $16 an hour",,"Spenard area)",Anchorage,AK,"99503"
+2022-08-05,"Host - SSH","Sullivan's Steakhouse",sullivanssteakhouse.com,Entertainment,"estimated $24k - $30.4k a year",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-05,"Server - SSH","Sullivan's Steakhouse",sullivanssteakhouse.com,Entertainment,,,"Downtown area)",Anchorage,AK,"99501"
+2022-08-05,"Dish Machine Operator - SSH","Sullivan's Steakhouse",sullivanssteakhouse.com,Entertainment,"estimated $24.8k - $31.4k a year",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-05,"Bartender - SSH","Sullivan's Steakhouse",sullivanssteakhouse.com,Entertainment,,,"Downtown area)",Anchorage,AK,"99501"
+2022-08-08,"Property Leasing Manager","Cornerstone Properties USA Inc",,,"$15 - $30 an hour",,,Anchorage,AK,""
+2022-08-07,"Medical Assistant/Ophthalmic Technician","Eberle Eyecare, P.C.",,,"$17 - $21 an hour",,"Bayshore-Klatt area)",Anchorage,AK,"99515"
+2022-08-07,"Shift Leader",Popeyes,znhfoodsinc.com,,"$15 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-07,"Leasing Consultant","Weidner Apartment Homes",weidner.com,"Real Estate","estimated $31.4k - $39.8k a year",,"Northeast area)",Anchorage,AK,"99504"
+2022-08-06,"Car Detailer","Kendall Auto Group",kendallautogroup.com,Automotive,"$17 an hour",,"Ted Stevens Anchorage International Airport area)",Anchorage,AK,"99502"
+2022-08-06,"Store Associate","Anchorage, AK 99503?(Midtown area)",,,,,,,,""
+2022-08-06,"Warehouse Associate","Think Office, LLC",,,"from $17 an hour",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-06,"MEDICAL ASSISTANT CLINICAL","Anchorage, AK 99508?(University Area area)",,,,,,,,""
+2022-08-06,"Account Manager - State Farm Agent Team Member","Ryan Mulholland - State Farm Agent",,,"$35,000 - $80,000 a year",,,Anchorage,AK,"99507"
+2022-08-06,"Administrative Assistant / Event Coordinator","The Chariot Group Inc",chariotgroup.com,"Custom Software & Technical Consulting","$15 - $18 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-10,Busser,"49th State Brewing Company",49statebrewing.com,"Food Production","$10.34 an hour",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-06,"Office Furniture Installer","Think Office, LLC",,,"$17 - $20 an hour",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-06,"Maintenance Technician - Anchorage, AK","Red Tail Residential",,,"$17 - $20 an hour",,"Bayshore-Klatt area)",Anchorage,AK,"99515"
+2022-08-06,"Room Attendant - Crowne Plaza Midtown","Northwest x Southern Hospitality",nwxsouthern.com,Hospitality,"$14 an hour",,,Anchorage,AK,"99518"
+2022-08-06,"Maintenance Technician-Crowne Plaza Midtown","Northwest x Southern Hospitality",nwxsouthern.com,Hospitality,"estimated $32.7k - $41.3k a year",,,Anchorage,AK,"99518"
+2022-08-06,"Guest Service Representative (Front Desk Clerk)-Crowne Plaza...","Northwest x Southern Hospitality",nwxsouthern.com,Hospitality,"$15 an hour",,,Anchorage,AK,"99518"
+2022-08-06,"Assistant Manager","CosmoProf Beauty Supply",,,,,"Midtown area)",Anchorage,AK,"99518"
+2022-08-06,"Field Service Technician - North Slope, Alaska","SolstenXP Inc.",,,"estimated $39k - $49.4k a year",,,Anchorage,AK,"99518"
+2022-08-06,"Cargo Agent Lead Swing Shift","Everts Air",evertsair.com,,"from $20 an hour",,"Ted Stevens Anchorage International Airport area)",Anchorage,AK,"99502"
+2022-08-06,"INFUSION COORDINATOR- INFUSION PHARMACY",PharMerica,pharmerica.com,Pharmaceuticals,,,,Anchorage,AK,"99501"
+2022-08-06,"Dental Assistant/DA (True North Family Dental)","MB2 HR",,,"estimated $32.9k - $41.7k a year",,,Anchorage,AK,""
+2022-08-06,"Hibachi Benihana Chef - Life Changing Annual Income",Benihana,benihana.com,Restaurants,,,"South Addition area)",Anchorage,AK,"99501"
+2022-08-05,"Street Outreach Lead","Covenant House Alaska",covenanthouseak.org,"Individual & Family Services","$21.63 - $24.04 an hour",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-05,"Permanency Navigator","Covenant House Alaska",covenanthouseak.org,"Individual & Family Services","$24.04 an hour",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-05,"Daycare Teachers - Immediate Openings!","Kindercare Learning Centers",,,,,"Downtown area)",Anchorage,AK,"99501"
+2022-08-05,"Breakfast Attendent/Houseperson","PRISM HOTELS & RESORTS",prismhotels.com,Hospitality,"from $14.30 an hour",,,Anchorage,AK,"99501"
+2022-08-05,Housekeeper,"Clarion Suites Downtown",,,"from $14.10 an hour",,"South Addition area)",Anchorage,AK,"99501"
+2022-08-05,"Maintenance Technician","PRISM HOTELS & RESORTS",prismhotels.com,Hospitality,"from $16.10 an hour",,"South Addition area)",Anchorage,AK,"99501"
+2022-08-05,"Registered Nurse","Medical Park Family Care",mpfcak.com,"Medical Practice","from $35 an hour",,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-05,"Cargo Services Officer","Cathay Pacific Airways Limited",cathaypacific.com,Airlines/Aviation,"estimated $30.7k - $38.9k a year",,"Ted Stevens Anchorage International Airport area)",Anchorage,AK,"99502"
+2022-08-05,"Car Detailer","Kendall Auto Group",kendallautogroup.com,Automotive,"estimated $28.4k - $36k a year",,"Fairview area)",Anchorage,AK,"99501"
+2022-08-05,"Automotive Sales Manager","Kendall Auto Group",kendallautogroup.com,Automotive,,,"Fairview area)",Anchorage,AK,"99501"
+2022-08-05,"Driver - Elders Program","Southcentral Foundation",scfnuka.com,"Hospital & Health Care","$14 - $20 an hour",,"University Area area)",Anchorage,AK,"99508"
+2022-08-05,"Team Member","Carl's Jr",,,"from $14 an hour",,"Abbott Loop area)",Anchorage,AK,"99507"
+2022-08-05,Host/Hostess,IHOP,ihop.com,Restaurants,,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-05,"Pantry Chef - SSH","Sullivan's Steakhouse",sullivanssteakhouse.com,Entertainment,"estimated $32.1k - $40.7k a year",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-05,"Food Runner/Busser - SSH","Sullivan's Steakhouse",sullivanssteakhouse.com,Entertainment,"estimated $24.8k - $31.4k a year",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-05,"Broiler Chef - SSH","Sullivan's Steakhouse",sullivanssteakhouse.com,Entertainment,"estimated $32.4k - $41k a year",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-05,"Ramp Services Agent/Fueler - Rotational (G)",TDX,tdxpert.com,,"estimated $31.3k - $39.7k a year",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-05,"Maintenance Technician - Temporary","VITUS ENERGY LLC",,,"estimated $33.1k - $41.9k a year",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-05,"Collision / Body Shop Estimator","Payless Collision and Service",,,"$65,000 - $110,000 a year",,"Fairview area)",Anchorage,AK,"99501"
+2022-08-05,"Front Desk Agent","Clarion Suites Downtown",,,"$14.70 an hour",,"South Addition area)",Anchorage,AK,"99501"
+2022-08-05,"Culinary Assistant - SSH","Sullivan's Steakhouse",sullivanssteakhouse.com,Entertainment,"estimated $29.3k - $37.1k a year",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-05,"Medical Scribe","Alaska Womens Health",akwomenshealth.com,"Hospital & Health Care","$21.00 - $24.15 an hour",,"University Area area)",Anchorage,AK,"99508"
+2022-08-07,"Lear 45 PIC (Float--Alaska Statewide)","Guardian Flight",guardianflight.com,"Hospital & Health Care","$127,500 - $144,000 a year",,"Ted Stevens Anchorage International Airport area)",Anchorage,AK,"99502"
+2022-08-06,"King Air 200 - Float Pilot","Global Medical Response",globalmedicalresponse.com,"Hospital & Health Care","$102,000 - $111,220 a year",,"Ted Stevens Anchorage International Airport area)",Anchorage,AK,"99502"
+2022-08-06,"King Air 200 Co-Captain","Global Medical Response",globalmedicalresponse.com,"Hospital & Health Care","$82,000 - $90,200 a year",,"Ted Stevens Anchorage International Airport area)",Anchorage,AK,"99502"
+2022-08-07,"Leasing Consultant","Weidner Apartment Homes",weidner.com,"Real Estate","estimated $31.4k - $39.8k a year",,"Northeast area)",Anchorage,AK,"99504"
+2022-08-06,"Customer Experience Host","Best Buy",bestbuy.com,Retail,,,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-05,"Store Sales Associate","Brown Jug",brownjugalaska.net,Retail,,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-07,"Courier Part Time",Labcorp,labcorp.com,"Hospital & Health Care","estimated $29.9k - $37.9k a year",,,Anchorage,AK,"99508"
+2022-08-06,"Clinic Advisor - Part Time",Petco,petco.com,Retail,,,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-06,"Retail Sales ? Part Time",Lowe's,lowes.com,Retail,,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-06,"Vans Retail Sales Associate (Anchorage 5th Ave 472 Anchorage...",Vans,vans.co.uk,"Apparel & Fashion",,,,Anchorage,AK,""
+2022-08-05,"Store Sales Associate","Brown Jug",brownjugalaska.net,Retail,,,,Anchorage,AK,"99507"
+2022-08-07,"Courier Part Time",Labcorp,labcorp.com,"Hospital & Health Care",,,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-06,"Clinic Advisor - Part Time",Petco,petco.com,Retail,,,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-05,"Bass Pro Shops Camo Sales","Bass Pro Shops",basspro.com,Retail,,,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-07,"Part-time Laboratory Assistant",SGS,sgs.com,"International Trade & Development",,,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-07,HR,Schlumberger,slb.com,"Oil & Energy",,,,Anchorage,AK,""
+2022-08-06,"Beauty Advisor",Sephora,sephora.ch,,,,"Downtown area)",Anchorage,AK,"99501"
+2022-08-06,"Veterinary Assistant - Part Time",Petco,petco.com,Retail,,,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-06,"Vans Floor Supervisor (Anchorage 5Th Ave 472 in Anchorage, A...",Vans,vans.co.uk,"Apparel & Fashion",,,,Anchorage,AK,""
+2022-08-05,"Sales Associate","Old Navy",gap.com,Retail,,,"Northeast area)",Anchorage,AK,"99504"
+2022-08-06,"barista - Store# 68422, HUFFMAN & OLD SEWARD",Starbucks,starbucks.com,Retail,,,"Old Seward-Oceanview area)",Anchorage,AK,"99515"
+2022-08-06,"The North Face Sales Associate (Anchorage 511 Anchorage, AK)",Vans,vans.co.uk,"Apparel & Fashion",,,,Anchorage,AK,""
+2022-08-06,"Vans Retail Sales Associate (Anchorage 5Th Ave 472 in Anchor...",Vans,vans.co.uk,"Apparel & Fashion",,,,Anchorage,AK,""
+2022-08-05,"Store Sales Associate","Brown Jug",brownjugalaska.net,Retail,,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-05,"Store Sales Associate","Brown Jug",brownjugalaska.net,Retail,,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-05,"Sales Associate",Gap,,,,,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-07,"Student Assistant -ARLIS Grant Projects Fall 2022","University of Alaska",kodiak.alaska.edu,"Higher Education","estimated $18.4k - $23.2k a year",,"University Area area)",Anchorage,AK,"99508"
+2022-08-06,"Security Officer - Shopping Center","Allied Universal?",,,,,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-07,"Student Assistant -ARLIS Technical Services","University of Alaska",kodiak.alaska.edu,"Higher Education","estimated $19.1k - $24.1k a year",,"University Area area)",Anchorage,AK,"99508"
+2022-08-06,"Veterinary Assistant - Part Time",Petco,petco.com,Retail,,,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-06,"Teller - Anchorage, AK",KeyBank,key.com,Banking,"estimated $25.9k - $32.7k a year",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-05,"Sales Associate LensCrafters",LensCrafters,lenscrafters.com,"Apparel & Fashion",,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-05,Seamstress/Tailor,Buckle,buckleup.com,"Financial Services",,,"Downtown area)",Anchorage,AK,"99501"
+2022-08-05,"Sales Associate LensCrafters",Luxottica,luxottica.com,"Luxury Goods & Jewelry",,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-05,"Peer Health Educator","University of Alaska",kodiak.alaska.edu,"Higher Education","estimated $28.8k - $36.4k a year",,"University Area area)",Anchorage,AK,"99508"
+2022-08-05,"UPD Student Worker - Clerical Assistant","University of Alaska",kodiak.alaska.edu,"Higher Education","$11.34 an hour",,"University Area area)",Anchorage,AK,"99508"
+2022-08-07,"Retail Sales Associate","Octopus Ink, LLC",,,"from $13 an hour",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-08,"Virtual Reality Entertainment Center Team Member","Vortex VR",,,"$12 - $15 an hour",,"Midtown area)",Anchorage,AK,"99518"
+2022-08-05,"Retail Sales Representative/Merchandiser - Food Brokerage","Anchorage, AK",,,,,,,,""
+2022-08-05,"Administrative Assistant/Receptionist","Alaska Group Property Management",,,"from $17 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-08,"Oil & Vinegar","OIL & VINEGAR",,,"$12 - $14 an hour",,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-05,"In Home Caregiver","Midnight Sun Home Care",,,"$15.00 - $17.50 an hour",,"Fairview area)",Anchorage,AK,"99501"
+2022-08-07,"Carl's Jr on Northern Lights is hiring! Starting at $14/hour...","Carl's Jr Northern Lights",ninjagig.com,"Information Technology & Services","from $14 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-08,"Cannabis Pre Roll and Concentrate Packaging","Tundra Farms",,,"from $17 an hour",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-08,"Aurora Borealis | Northern Lights Tour Guide","Greatland Adventures",,,"$22 - $25 an hour",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-05,"Sales Associates - All Anchorage Locations $13+ to Start","Office Depot",officedepot.com,"Business Supplies & Equipment","$13.00 - $13.50 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-05,"Dish Machine Operator - SSH","Sullivan's Steakhouse",sullivanssteakhouse.com,Entertainment,"estimated $24.8k - $31.4k a year",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-06,"On-Call Program Aid/Substitute","Cook Inlet Native Head Start",,,"$13.10 - $19.64 an hour",,"South Addition area)",Anchorage,AK,"99501"
+2022-08-07,Housekeeper,"Paradigm Senior Living",,,"estimated $25.9k - $32.9k a year",,"Northeast area)",Anchorage,AK,"99504"
+2022-08-05,"Customer Service Professional","AK Bark",,,"$15 an hour",,"Sand Lake area)",Anchorage,AK,"99515"
+2022-08-05,"Team Member","Carl's Jr",,,"from $14 an hour",,"Eagle River area)",Anchorage,AK,"99577"
+2022-08-05,"Part Time Assistant Manager",Lids,lids.com,Retail,"$15 - $16 an hour",,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-05,"Host - SSH","Sullivan's Steakhouse",sullivanssteakhouse.com,Entertainment,"estimated $24k - $30.4k a year",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-05,"Leasing Consultant - Part Time","Weidner Apartment Homes",weidner.com,"Real Estate","estimated $30.6k - $38.8k a year",,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-05,"Server - SSH","Sullivan's Steakhouse",sullivanssteakhouse.com,Entertainment,,,"Downtown area)",Anchorage,AK,"99501"
+2022-08-05,"Food Runner/Busser - SSH","Sullivan's Steakhouse",sullivanssteakhouse.com,Entertainment,"estimated $24.8k - $31.4k a year",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-05,"Team Member","Carl's Jr",,,"from $14 an hour",,"Abbott Loop area)",Anchorage,AK,"99507"
+2022-08-06,Barista,"Sip coffee lounge",,,"$11 - $12 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-06,"Server-Lucrative Daily Tipping $$",Benihana,benihana.com,Restaurants,,,"South Addition area)",Anchorage,AK,"99501"
+2022-08-05,"Breakfast Attendent/Houseperson","PRISM HOTELS & RESORTS",prismhotels.com,Hospitality,"from $14.30 an hour",,,Anchorage,AK,"99501"
+2022-08-05,"Alterations Customer Service Representative","David's Bridal",davidsbridal.com,Retail,"$15.20 an hour",,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-05,"Bartender - SSH","Sullivan's Steakhouse",sullivanssteakhouse.com,Entertainment,,,"Downtown area)",Anchorage,AK,"99501"
+2022-08-08,"Property Leasing Manager","Cornerstone Properties USA Inc",,,"$15 - $30 an hour",,,Anchorage,AK,""
+2022-08-07,Housekeeper,"My Place Hotels",,,"$16.50 - $17.50 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-07,"Budtender/Marketing Assistant","Anchorage, AK 99518?(Taku-Campbell area)",,,,,,,,""
+2022-08-07,Cashier,Popeyes,znhfoodsinc.com,,"$13 - $14 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-10,Busser,"49th State Brewing Company",49statebrewing.com,"Food Production","$10.34 an hour",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-06,"Hibachi Benihana Chef - Life Changing Annual Income",Benihana,benihana.com,Restaurants,,,"South Addition area)",Anchorage,AK,"99501"
+2022-08-05,Caregiver,"Home Instead",homeinstead.com.au,"Hospital & Health Care","$16 - $19 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-05,Host/Hostess,IHOP,ihop.com,Restaurants,,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-05,"Pantry Chef - SSH","Sullivan's Steakhouse",sullivanssteakhouse.com,Entertainment,"estimated $32.1k - $40.7k a year",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-05,"Broiler Chef - SSH","Sullivan's Steakhouse",sullivanssteakhouse.com,Entertainment,"estimated $32.4k - $41k a year",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-05,"Culinary Assistant - SSH","Sullivan's Steakhouse",sullivanssteakhouse.com,Entertainment,"estimated $29.3k - $37.1k a year",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-07,"Laundry Attendant","My Place Hotels",,,"$16.25 - $17.00 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-06,"Operating Room Travel Registered Nurse","Aya Healthcare",ayahealthcare.com,"Staffing & Recruiting",,,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-06,"OR Tech / Surgical Tech Surgical Services","Aya Healthcare",ayahealthcare.com,"Staffing & Recruiting",,,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-08,"Property Leasing Manager","Cornerstone Properties USA Inc",,,"$15 - $30 an hour",,,Anchorage,AK,""
+2022-08-06,"Physician - Traumatic Brain Injury - Anchorage, AK","Matrix Providers",,,,,,Anchorage,AK,"99501"
+2022-08-06,"Registered Nurse","Gifted Healthcare",giftedhealthcare.com,"Staffing & Recruiting","estimated $103k - $130k a year",,,Anchorage,AK,""
+2022-08-06,"Registered Nurse","Gifted Healthcare",giftedhealthcare.com,"Staffing & Recruiting","estimated $103k - $130k a year",,,Anchorage,AK,""
+2022-08-08,"Registered Nurse","AK Child & Family",akchild.org,"Mental Health Care","$32 - $35 an hour",,"Mid-Hillside area)",Anchorage,AK,"99507"
+2022-08-07,"Dentist (Full-Time, Part-Time, On-Call)","Anchorage, AK",,,,,,,,""
+2022-08-06,Bookkeeper,"Cooley Tax + Accounting Inc",,,"$20 - $35 an hour",,"Huffman-O'Malley area)",Anchorage,AK,"99516"
+2022-08-05,"In Home Caregiver","Midnight Sun Home Care",,,"$15.00 - $17.50 an hour",,"Fairview area)",Anchorage,AK,"99501"
+2022-08-11,"Customer Care Specialist","Girl Scouts of Alaska",girlscoutsalaska.org,"Nonprofit Organization Management","$22.50 an hour",,"Sand Lake area)",Anchorage,AK,"99502"
+2022-08-09,"Entry Level HR Manager",Securitas,securitasantias.com,"Security & Investigations","$50,000 - $55,000 a year",,,Anchorage,AK,""
+2022-08-11,"Administrative Assistant","The Odom Corporation",odomcorp.com,Wholesale,"estimated $30.2k - $38.2k a year",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-10,"Package Delivery Driver","UNITED PARCEL SERVICE",ups.com,"Logistics & Supply Chain",,,"Sand Lake area)",Anchorage,AK,"99502"
+2022-08-09,"Facilities Maintenance Helper","Anchorage School District",asdk12.org,"Primary/Secondary Education","$23.46 - $27.51 an hour",,,Anchorage,AK,""
+2022-08-10,"$17/HR PATROL OFFICER - SWING/NIGHT SHIFTS",Securitas,securitasantias.com,"Security & Investigations","$17 an hour",,,Anchorage,AK,""
+2022-08-11,"Specimen Accessioner",Labcorp,labcorp.com,"Hospital & Health Care",,,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-11,"Parent Partner","AK Child & Family",akchild.org,"Mental Health Care","$15 an hour",,"Mid-Hillside area)",Anchorage,AK,"99507"
+2022-08-10,"Specimen Accessioner",Labcorp,labcorp.com,"Hospital & Health Care","estimated $29.6k - $37.4k a year",,,Anchorage,AK,"99508"
+2022-08-11,"Community Programs Behavioral Health Specialist","AK Child & Family",akchild.org,"Mental Health Care","$15 an hour",,"Mid-Hillside area)",Anchorage,AK,"99507"
+2022-08-10,"CLEANER - UAA Night","ABM Industries",marriott.com,"Computer Software",,,"University Area area)",Anchorage,AK,"99508"
+2022-08-09,"Safety Security","Anchorage School District",asdk12.org,"Primary/Secondary Education","estimated $30.4k - $38.4k a year",,,Anchorage,AK,""
+2022-08-11,"Human Resources Generalist",BRS,thinkbrs.com,"Business Supplies & Equipment","estimated $51k - $64.6k a year",Remote,,"Remote in Anchorage",AK,""
+2022-08-11,"Ordinary Seaman","Brice Marine, LLC",,,"estimated $39.8k - $50.4k a year",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-10,"Warehouse Coordinator","Convergint Technologies LLC",convergint.com,"Security & Investigations","estimated $34.2k - $43.4k a year",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-10,"Preschool Teacher","Anchorage School District",asdk12.org,"Primary/Secondary Education","estimated $45.8k - $58k a year",,,Anchorage,AK,""
+2022-08-10,"Medical Assistant","Anchorage Neighborhood Health Center",anhc.org,"Medical Practice","$20.55 - $25.69 an hour",,,Anchorage,AK,""
+2022-08-10,"Warehouse Associate",Sysco,sysco.com,"Food & Beverages","$1,500.00 sign-on bonus!! job?",,,Anchorage,AK,"99507"
+2022-08-10,"Security Officer Part Time","Castle Megastore",castlemegastore.com,Retail,"estimated $32.4k - $41k a year",,"Mountain View area)",Anchorage,AK,"99501"
+2022-08-11,"Labor Relations Board Assistant (PCN 1031)","State of Alaska",aebsd.org,"Education Management","$4,017 a month",,,Anchorage,AK,""
+2022-08-10,"Patient Services Representative - Medical","Anchorage Neighborhood Health Center",anhc.org,"Medical Practice","$18.68 - $23.35 an hour",,,Anchorage,AK,""
+2022-08-11,"Part Time Security Monitor","GEO Reentry Services",georeentry.com,Biotechnology,"$20.50 an hour",,,Anchorage,AK,""
+2022-08-09,"AIH Accounts Payable Clerk","Bering Straits Native Corporation (BSNC)",,,"estimated $30.7k - $38.9k a year",,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-09,"Auto Parts Delivery Driver (Full-Time)",AutoZone,autolinesorters.com,,"estimated $22.2k - $28k a year",,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-10,"Corporate Receptionist, Anchorage","Petro Marine Services",petromarineservices.com,"Oil & Energy","estimated $37.5k - $47.5k a year",,,Anchorage,AK,""
+2022-08-10,"Patient Services Representative - Dental","Anchorage Neighborhood Health Center",anhc.org,"Medical Practice","$18.68 - $23.35 an hour",,,Anchorage,AK,""
+2022-08-10,"Community Work Service Coordinator","GEO Reentry Services",georeentry.com,Biotechnology,"$21 an hour",,,Anchorage,AK,""
+2022-08-09,"Auto Parts Delivery Driver (Part-Time)",AutoZone,autolinesorters.com,,"estimated $23.3k - $29.5k a year",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-09,"Contract Specialist (Direct Hire Authority)","US Veterans Health Administration",va.gov,"Government Administration","$54,727 - $80,128 a year",,,Anchorage,AK,""
+2022-08-09,"Protective Services Specialist 4 (PCN 069158)","State of Alaska",aebsd.org,"Education Management","$5,832 a month",,,Anchorage,AK,""
+2022-08-11,"Patient Transporter - PAMC TLC",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-09,"Auto Parts Delivery Driver (Full-Time)",AutoZone,autolinesorters.com,,"estimated $34.4k - $43.6k a year",,"Northeast area)",Anchorage,AK,"99504"
+2022-08-10,"First Officer","Lynden Incorporated",lynden.com,Transportation/Trucking/Railroad,,,"Ted Stevens Anchorage International Airport area)",Anchorage,AK,"99502"
+2022-08-09,"AIH Accounts Payable Clerk","AIH a BSNC Company",,,"estimated $31.2k - $39.4k a year",,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-10,Buyer,"Anchorage School District",asdk12.org,"Primary/Secondary Education","estimated $43.2k - $54.6k a year",,,Anchorage,AK,""
+2022-08-10,"Secretary, Indigenous Education Programs","Anchorage School District",asdk12.org,"Primary/Secondary Education","$15.50 - $16.32 an hour",,,Anchorage,AK,""
+2022-08-10,"Personal Insurance Customer Service Representative","Alaska USA Federal Credit Union",alaskausa.org,"Financial Services",,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-11,Janitor,"Loomis Armored US, LLC",loomis.com,Transportation/Trucking/Railroad,"$18 - $20 an hour",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-10,"Medicolegal Investigator 1/2 (PCN 061738)","State of Alaska",aebsd.org,"Education Management","$24.05 - $27.62 an hour",,,Anchorage,AK,""
+2022-08-11,"Utilization Review Coordinator","North Star Behavioral Health",northstarbehavioral.com,"Mental Health Care",,,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-11,"English Partner Language Immersion Teacher","Anchorage School District",asdk12.org,"Primary/Secondary Education","estimated $53.2k - $67.4k a year",,,Anchorage,AK,""
+2022-08-11,"Associate Personal Banker (SAFE)","Wells Fargo",climaticsolar.com,"Environmental Services",,,,Anchorage,AK,""
+2022-08-11,"Art Teacher","Anchorage School District",asdk12.org,"Primary/Secondary Education","estimated $53.2k - $67.4k a year",,,Anchorage,AK,""
+2022-08-10,"Branch Office Administrator - Anchorage, AK","Edward Jones",bahrainairport.bh,Airlines/Aviation,"$22.60 - $27.12 an hour",,,Anchorage,AK,""
+2022-08-11,"Able Seaman","Brice Marine, LLC",,,"estimated $37.8k - $47.8k a year",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-09,"Safety and Occupational Health Specialist","US Federal Aviation Administration",faa.gov,"Aviation & Aerospace","$57,442 - $89,039 a year",,,Anchorage,AK,""
+2022-08-09,"Health Program Associate (PCN 061373)","State of Alaska",aebsd.org,"Education Management","$27.62 an hour",,,Anchorage,AK,""
+2022-08-10,"Administrative Officer 2 (PCN Administrative/Finance Officer...","State of Alaska",aebsd.org,"Education Management","$5,467 a month",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-09,"Protective Services Specialist 1/2 (PCN 063893M, Week on/Wee...","State of Alaska",aebsd.org,"Education Management","$25.71 - $29.57 an hour",,,Anchorage,AK,""
+2022-08-11,"Undergraduate Academic Advisor","University of Alaska",kodiak.alaska.edu,"Higher Education","from $23.84 an hour",,"University Area area)",Anchorage,AK,"99508"
+2022-08-09,"Mine Safety and Health Inspector","US Mine Safety and Health Administration",msha.gov,Retail,"$36,118 - $87,395 a year",,,Anchorage,AK,""
+2022-08-09,"Assistant Moving Center Manager",U-Haul,uhaul.com,Retail,,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-11,"Recreation and Education Assistant/Residential Behavioral He...","AK Child & Family",akchild.org,"Mental Health Care","$15 an hour",,"Mid-Hillside area)",Anchorage,AK,"99507"
+2022-08-09,"Archive Specialist","Coleman Worldwide Moving",colemanallied.com,Transportation/Trucking/Railroad,"estimated $29.2k - $37k a year",,,Anchorage,AK,""
+2022-08-09,"Research Analyst 3 (PCN 06N22138)","State of Alaska",aebsd.org,"Education Management","$31.82 an hour",,,Anchorage,AK,""
+2022-08-09,"Part-Time and Full-Time Teachers at Tundra Tykes","KinderCare Education",kcecareers.com,"Education Management",,,"Downtown area)",Anchorage,AK,"99501"
+2022-08-09,"NAC Stores & Logistics Agent (2nd/3rd Shift)","Northern Air Cargo LLC",,,"$18.81 an hour",,"Ted Stevens Anchorage International Airport area)",Anchorage,AK,"99502"
+2022-08-10,"Department Manager","Brown Jug",brownjugalaska.net,Retail,,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-09,"MANAGER TRAINEE",AutoZone,autolinesorters.com,,,,"Northeast area)",Anchorage,AK,"99504"
+2022-08-11,"Paraprofessional Educator","Anchorage School District",asdk12.org,"Primary/Secondary Education","$14.79 - $15.71 an hour",,,Anchorage,AK,""
+2022-08-11,"Outbound Warehouse Supervisor",Sysco,sysco.com,"Food & Beverages",,,,Anchorage,AK,"99507"
+2022-08-11,"Residential Behavioral Health Specialist","AK Child & Family",akchild.org,"Mental Health Care","$15.29 an hour",,"Mid-Hillside area)",Anchorage,AK,"99507"
+2022-08-10,"Environmental Program Specialist 3 (Financial Responsibility...","State of Alaska",aebsd.org,"Education Management","$27.62 - $33.41 an hour",,,Anchorage,AK,""
+2022-08-10,"Customer Service Representative",Graybar,graybar.com,Wholesale,,,,Anchorage,AK,"99507"
+2022-08-10,"Elementary School Teacher","Anchorage School District",asdk12.org,"Primary/Secondary Education","estimated $44.6k - $56.4k a year",,,Anchorage,AK,""
+2022-08-10,"Elementary School Teacher","Anchorage School District",asdk12.org,"Primary/Secondary Education","estimated $44.6k - $56.4k a year",,,Anchorage,AK,""
+2022-08-09,"MANAGER TRAINEE",AutoZone,autolinesorters.com,,,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-09,"Part-Time and Full-Time Teachers at ANTHC Child Development...","KinderCare Education",kcecareers.com,"Education Management",,,"University Area area)",Anchorage,AK,"99508"
+2022-08-09,Houseperson,"Residence Inn by Marriott Anchorage Midtown",,,"estimated $24.8k - $31.4k a year",,"Rogers Park area)",Anchorage,AK,"99508"
+2022-08-09,"Middle School Custodial Crew Chief","Anchorage School District",asdk12.org,"Primary/Secondary Education","$17.34 - $21.23 an hour",,,Anchorage,AK,""
+2022-08-09,"MANAGER TRAINEE",AutoZone,autolinesorters.com,,,,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-09,"Fresh Cuts Associate",Sysco,sysco.com,"Food & Beverages",,,,Anchorage,AK,"99507"
+2022-08-10,"Jewelry Assistant Manager","Fred Meyer and Littman Jewelers",,,"estimated $34.9k - $44.3k a year",,"Abbott Loop area)",Anchorage,AK,"99507"
+2022-08-10,"Registered Nurse Residency","Alaska Digestive Center",,,"estimated $63.7k - $80.7k a year",,"University Area area)",Anchorage,AK,"99508"
+2022-08-10,"Finance, Procurement and Travel Specialist","University of Alaska",kodiak.alaska.edu,"Higher Education","estimated $41.9k - $53.1k a year",,"University Area area)",Anchorage,AK,"99508"
+2022-08-10,"Commercial Underwriting - Commercial & Business Financial Sv...","Nuvision Federal Credit Union",nuvisionfederal.com,Banking,,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-11,"Associate Project Manager","University of Alaska",kodiak.alaska.edu,"Higher Education","estimated $68k - $86k a year",,,"Hybrid remote in Anchorage",AK,"99508"
+2022-08-11,"MSB - Jewel Lake - Relationship Manager 2","Nuvision Federal Credit Union",nuvisionfederal.com,Banking,,,"Sand Lake area)",Anchorage,AK,"99502"
+2022-08-11,"FT-Sales Specialist - Cabinets-Day",Lowe's,lowes.com,Retail,,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-11,"Human Resources Generalist",BRS,thinkbrs.com,"Business Supplies & Equipment","estimated $47.7k - $60.5k a year",Remote,,"Remote in Anchorage",AK,""
+2022-08-09,"Psychiatric Nursing Assistant 1/2/3 (Day Shift - PCN 065190M...","State of Alaska",aebsd.org,"Education Management","$18.91 - $21.37 an hour",,"University Area area)",Anchorage,AK,"99508"
+2022-08-09,"Associate Coordinator, Technical Operations",GCI,gci.it,"Information Technology & Services","estimated $34.4k - $43.6k a year",,,Anchorage,AK,""
+2022-08-09,"Teacher K-12","Anchorage School District",asdk12.org,"Primary/Secondary Education","estimated $52.9k - $66.9k a year",,,Anchorage,AK,""
+2022-08-09,"Auto Parts Delivery Driver (Full-Time)",AutoZone,autolinesorters.com,,"estimated $34.4k - $43.6k a year",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-09,"Auto Parts Delivery Driver (Part-Time)",AutoZone,autolinesorters.com,,"estimated $33.5k - $42.5k a year",,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-10,"DAY PORTER","ABM Industries",marriott.com,"Computer Software",,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-10,"Law Office Assistant 1 (PCN 030278)","State of Alaska",aebsd.org,"Education Management","$19.98 an hour",,,Anchorage,AK,""
+2022-08-10,"Language Arts Teacher","Anchorage School District",asdk12.org,"Primary/Secondary Education","estimated $53.4k - $67.6k a year",,,Anchorage,AK,""
+2022-08-09,"Residential Nurse at Clitheroe Centers","The Salvation Army Western USA",salvationarmyusa.org,"Nonprofit Organization Management","estimated $45.6k - $57.8k a year",,,Anchorage,AK,""
+2022-08-09,"Paraprofessional Educator Kindergarten","Anchorage School District",asdk12.org,"Primary/Secondary Education","$14.50 - $15.40 an hour",,,Anchorage,AK,""
+2022-08-10,"Retail Counter Sales","O'Reilly Auto Parts",oreillyauto.com,Retail,,,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-10,"Program Coordinator I, II - FWW","Southcentral Foundation",scfnuka.com,"Hospital & Health Care","estimated $42.6k - $54k a year",,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-10,"Access Monitor - PAMC Security",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-10,"CLEANER -UAA Day cleaning","ABM Industries",marriott.com,"Computer Software",,,"University Area area)",Anchorage,AK,"99508"
+2022-08-11,"Patient Care Technician - Post CV Intervention Unit",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-09,"Lead Associate - Operations",Wesco,,,"estimated $24.1k - $30.5k a year",,,Anchorage,AK,""
+2022-08-11,Janitor,"Loomis Armored US, LLC",loomis.com,Transportation/Trucking/Railroad,"$18 - $20 an hour",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-11,"Resident Operating Room Tech - Operating Room",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-10,"Security Monitor","GEO Reentry Services",georeentry.com,Biotechnology,"$19.50 an hour",,,Anchorage,AK,""
+2022-08-09,"Auto Parts Delivery Driver (Part-Time)",AutoZone,autolinesorters.com,,"estimated $23.3k - $29.5k a year",,"Northeast area)",Anchorage,AK,"99504"
+2022-08-11,"Security Monitor BOP","GEO Reentry Services",georeentry.com,Biotechnology,"$19.50 an hour",,,Anchorage,AK,""
+2022-08-11,"English Partner Language Immersion Teacher","Anchorage School District",asdk12.org,"Primary/Secondary Education","estimated $53.2k - $67.4k a year",,,Anchorage,AK,""
+2022-08-11,"Associate Personal Banker (SAFE)","Wells Fargo",climaticsolar.com,"Environmental Services",,,,Anchorage,AK,""
+2022-08-11,"Operating Room Technician I",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-09,"Part-Time and Full-Time Teachers at Southcentral Foundation","KinderCare Education",kcecareers.com,"Education Management",,,"University Area area)",Anchorage,AK,"99508"
+2022-08-09,"Nurse Consultant 2 (PCN 061676)","State of Alaska",aebsd.org,"Education Management","$7,944 a month",,,Anchorage,AK,""
+2022-08-10,"Elementary Building Plant Operator","Anchorage School District",asdk12.org,"Primary/Secondary Education","$16.83 - $20.29 an hour",,,Anchorage,AK,""
+2022-08-09,"Lead Associate - Operations",Wesco,,,"estimated $29.5k - $37.3k a year",,,Anchorage,AK,""
+2022-08-11,"Paraprofessional Educator Special Education ASL/English","Anchorage School District",asdk12.org,"Primary/Secondary Education","$15.81 - $16.65 an hour",,,Anchorage,AK,""
+2022-08-09,"RN- Emergency Department",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-09,"Protective Services Specialist 4 (PCN 069158)","State of Alaska",aebsd.org,"Education Management","estimated $51.4k - $65k a year",,,Anchorage,AK,"99501"
+2022-08-09,"Public Health Nurse 5 (PCN Deputy Chief)","State of Alaska",aebsd.org,"Education Management","$8,464 - $8,888 a month",,,Anchorage,AK,""
+2022-08-11,"RN - Intensive Care Unit",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-10,"Patient Care Technician - Intensive Care Unit",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-11,"Patient Care Technician - Intensive Care Unit",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-09,"High School Custodial Crew Chief","Anchorage School District",asdk12.org,"Primary/Secondary Education","$17.34 - $21.23 an hour",,,Anchorage,AK,""
+2022-08-10,"Building Maintenance Technician/Maintenance Laborer (7587)","State of Alaska",aebsd.org,"Education Management","$20.15 an hour",,,Anchorage,AK,""
+2022-08-10,"Psychiatric Nurse 1, 2 (Night Shift - PCN 065375M)","State of Alaska",aebsd.org,"Education Management","$41.49 - $44.93 an hour",,"University Area area)",Anchorage,AK,"99508"
+2022-08-09,"Health Program Associate (PCN 061373)","State of Alaska",aebsd.org,"Education Management","estimated $41.6k - $52.6k a year",,,Anchorage,AK,"99501"
+2022-08-09,"Law Office Assistant 1 (PCN 031258M)","State of Alaska",aebsd.org,"Education Management","$19.98 an hour",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-11,"Social Worker, MSW - Hospice",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-09,"Law Office Assistant 1 (PCN 031258M)","State of Alaska",aebsd.org,"Education Management","estimated $32.7k - $41.5k a year",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-11,"Operating Room Technician I",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-11,"Paraprofessional Educator Special Education ASL/English","Anchorage School District",asdk12.org,"Primary/Secondary Education","$15.81 - $16.65 an hour",,,Anchorage,AK,""
+2022-08-10,"RN - Mental Health Unit",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-10,"RN - Mental Health Unit",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-09,"Psychiatric Nursing Assistant 1/2/3 (Day Shift - PCN 065190M...","State of Alaska",aebsd.org,"Education Management","estimated $32.7k - $41.5k a year",,"University Area area)",Anchorage,AK,"99508"
+2022-08-09,"Customer Service Representative","Speedy Glass USA - HQ",,,"from $18 an hour",,"Spenard area)",Anchorage,AK,"99503"
+2022-08-11,"Administrative Assistant","Birchwood Behavioral Health",,,"$20 an hour",,"Huffman-O'Malley area)",Anchorage,AK,"99507"
+2022-08-11,Dispatcher,"YUKON FIRE PROTECTION SERVICES",yukonfire.com,,"up to $22 an hour",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-09,"Team Assistant","Fairweather, LLC",fairweather.com,"Law Practice","estimated $39.6k - $50.2k a year",,,Anchorage,AK,"99518"
+2022-08-10,"Plumbing & Heating Warehouse Helper","Anchorage Plumbing & Heating",,,"from $18 an hour",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-10,Driver,"Asap Transportation",,,"$16 - $17 an hour",,,Anchorage,AK,""
+2022-08-11,"PM Dishwasher","Hearth Artisan Pizza",,,"$14 - $18 an hour",,"Spenard area)",Anchorage,AK,"99503"
+2022-08-09,"Entry Level HR Manager",Rachelle.MacArthur@securitasinc.com,,,"$50,000 - $55,000 a year",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-11,Dispatcher,Microcom,microcom.tv,Telecommunications,"estimated $33.3k - $42.1k a year",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-09,"Warehouse Worker","LSG Sky Chefs",lsg.co.tz,,"$17 an hour",,"Ted Stevens Anchorage International Airport area)",Anchorage,AK,"99502"
+2022-08-10,"Real Estate Photographer","Spotlight Media Group",spotlightmediagroup.com,"Marketing & Advertising","$20 - $100 an hour",,,Anchorage,AK,""
+2022-08-10,"Coffee Barista - Morning Shifts","Kaladi Brothers Coffee",kaizen-partners.co.uk,Accounting,"estimated $22.5k - $28.5k a year",,"Abbott Loop area)",Anchorage,AK,"99507"
+2022-08-09,"Accounts Receivable Specialist","Alaska Garden & Pet Supply, Inc. dba Alaska Mill &...",,,"$21 - $25 an hour",,"Mountain View area)",Anchorage,AK,"99501"
+2022-08-10,"Warehouse Associate","Northwest Auto Parts",northwestautoparts.com,Automotive,"$16 - $20 an hour",,"Northeast area)",Anchorage,AK,"99504"
+2022-08-11,Dishwasher,"Marriott Anchorage Downtown",,,,,"Downtown area)",Anchorage,AK,"99501"
+2022-08-11,"Driver and Farmer Liaison","Arctic Harvest Deliveries",,,"$18 - $19 an hour",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-11,"Sales Associate",Lowe's,lowes.com,Retail,"$18 - $22 an hour",,"Northeast area)",Anchorage,AK,"99504"
+2022-08-10,"Administrative Assistant/Receptionist","Counseling Solutions of Alaska",,,"$16 - $17 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-10,"Reservation Specialist Anchorage","GoNorth Travel, LLC",gonorth-alaska.com,,"from $21 an hour",,"Spenard area)",Anchorage,AK,"99517"
+2022-08-11,"Office Support Specialist","Western National Insurance",wnins.com,Insurance,"estimated $34.1k - $43.1k a year",,"North Star area)",Anchorage,AK,"99503"
+2022-08-09,"Graphic Designer","Bill's Distributing",billsdist.com,"Food & Beverages","$17 - $20 an hour",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-10,"Kitchen Helper","Ryuu Bowl LLC",,,"$11 - $18 an hour",,"Northeast area)",Anchorage,AK,"99504"
+2022-08-11,Dispatcher,"LSG Sky Chefs",lsg.co.tz,,"$22.50 an hour",,"Ted Stevens Anchorage International Airport area)",Anchorage,AK,"99502"
+2022-08-09,"Customer Service Representative - State Farm Agent Team Memb...","Arthur Dorsey - State Farm Agent",,,"$40,000 - $46,000 a year",,"Bayshore-Klatt area)",Anchorage,AK,"99515"
+2022-08-10,"School Secretary","Denali Borough School District",,,"$20.07 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-11,"Leasing Consultant","Weidner Apartment Homes",weidner.com,"Real Estate","$16.00 - $17.50 an hour",,"Northeast area)",Anchorage,AK,"99504"
+2022-08-10,Dishwasher,"Marriott Anchorage Downtown",,,,,"Downtown area)",Anchorage,AK,"99501"
+2022-08-09,"Dispatcher/Storage all shifts flexible, part & full time Anc...","Huntleigh USA",,,"$15.15 an hour",,,Anchorage,AK,""
+2022-08-11,"Food Service Sales Specialist","Pierce Cartwright Co Inc",,,,,"Midtown area)",Anchorage,AK,"99518"
+2022-08-11,Receptionist,WPAS,,,"$14.00 - $17.50 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-09,"Apartment Painter","Cornerstone Properties USA Inc",,,"$20 - $30 an hour",,,Anchorage,AK,""
+2022-08-09,Dishwasher,"Inlet Tower Hotel & Suites",inlettower.com,"Hospital & Health Care","from $14 an hour",,"South Addition area)",Anchorage,AK,"99501"
+2022-08-10,"Sales Associate","Zagg Invisible Shield",,,"from $13.75 an hour",,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-09,"Parts Delivery","O'Reilly Auto Parts",oreillyauto.com,Retail,,,"Abbott Loop area)",Anchorage,AK,"99507"
+2022-08-10,"Warehouse Sanitation","LattCo Services",lattco.com,,"$20 an hour",,"Bayshore-Klatt area)",Anchorage,AK,"99515"
+2022-08-11,"Revenue & Billing Accountant","Ryan Air, Inc",,,"$20 - $26 an hour",,"Ted Stevens Anchorage International Airport area)",Anchorage,AK,"99502"
+2022-08-10,"Team Member",Subway,subway.com,Restaurants,"$14.39 an hour",,,Anchorage,AK,"99506"
+2022-08-10,"CSR - Customer Service Representative","CHEVRON - Denali Express Retail Network",,,"from $16.25 an hour",,"Northeast area)",Anchorage,AK,"99504"
+2022-08-11,"Front Desk Receptionist","TLC Home Care",tlcathomecare.com,"Hospital & Health Care","$15.00 - $16.50 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-10,"Medical Office Scheduler","Internal Medicine Associates, LLC",internalmedak.com,"Medical Practice","$18 - $25 an hour",,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-09,"Customer Service Representative - State Farm Agent Team Memb...","Stacey Allen - State Farm Agent",insuringalaska.com,Insurance,"$42,000 - $52,000 a year",,"Sand Lake area)",Anchorage,AK,"99515"
+2022-08-11,"Alaska Kraken Key Holder",BDA,bdainc.com,"Marketing & Advertising",,,"Downtown area)",Anchorage,AK,"99501"
+2022-08-11,"Retail Supervisor (Midtown Retail Store)","Goodwill Industries",goodwillseiowa.org,"Apparel & Fashion","$17 an hour",,,Anchorage,AK,""
+2022-08-11,"Professional Call Center Representative","Cornerstone Credit Services",cornerstonecredit.net,"Management Consulting","from $16 an hour",,"Russian Jack Park area)",Anchorage,AK,"99508"
+2022-08-10,"Medical Record / Scanning Technician","Internal Medicine Associates, LLC",internalmedak.com,"Medical Practice","$16 - $23 an hour",,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-09,"Accounting Clerk","The Chariot Group Inc",chariotgroup.com,"Custom Software & Technical Consulting","$15 - $18 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-10,"Pizza Maker","GUIDO'S PIZZA",,,"$13 - $17 an hour",,"Midtown area)",Anchorage,AK,"99518"
+2022-08-09,"Therap/QA Specialist","Hearts and Hands of Care",,,"estimated $30.9k - $39.1k a year",,"Abbott Loop area)",Anchorage,AK,"99507"
+2022-08-11,"Customer Service Lead","Everts Air",evertsair.com,,"$18 - $22 an hour",,"Ted Stevens Anchorage International Airport area)",Anchorage,AK,"99502"
+2022-08-10,"IT Administrator",Microcom,microcom.tv,Telecommunications,"$16 - $18 an hour",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-11,Dishwasher,IHOP,ihop.com,Restaurants,,,"Northeast area)",Anchorage,AK,"99504"
+2022-08-11,"Team Member",Subway,subway.com,Restaurants,"$12 - $13 an hour",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-11,Server,IHOP,ihop.com,Restaurants,,,"Bayshore-Klatt area)",Anchorage,AK,"99515"
+2022-08-11,"Inside Sales Representative","DXP Enterprises",,,,,,Anchorage,AK,"99507"
+2022-08-11,"Dental Assistant Training Program","Southcentral Foundation",scfnuka.com,"Hospital & Health Care","$13.31 - $19.97 an hour",,"University Area area)",Anchorage,AK,"99508"
+2022-08-09,"Airline Ramp Agent- ANC",Swissport,swissport.com,Airlines/Aviation,,,"Ted Stevens Anchorage International Airport area)",Anchorage,AK,"99502"
+2022-08-10,"Outpatient Procedure Scheduler","Alaska Digestive and Liver Disease",,,"from $19 an hour",,"University Area area)",Anchorage,AK,"99508"
+2022-08-10,"Room Attendant - Hyatt House Anchorage- AM shifts","Northwest x Southern Hospitality",nwxsouthern.com,Hospitality,"estimated $27.1k - $34.3k a year",,,Anchorage,AK,"99518"
+2022-08-10,"Restaurant Team Member","Papa John's - Buckstone West",,,"estimated $21.5k - $27.3k a year",,,Anchorage,AK,"99518"
+2022-08-11,Server,IHOP,ihop.com,Restaurants,,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-10,"Medical Office Receptionist","Internal Medicine Associates, LLC",internalmedak.com,"Medical Practice","$17 - $24 an hour",,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-11,"Star Tech Patient Care Tech Program","Alaska Regional Hospital",alaskaregional.com,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-10,"Team Member - 5th Ave Mall","Auntie Anne's",auntieannes.com,"Food & Beverages","$16 - $21 an hour",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-09,"Behavioral Health Associate 1","Volunteers of America of Alaska",voaak.org,"Mental Health Care","from $20 an hour",,,Anchorage,AK,""
+2022-08-10,"Class D Driver","Odyssey Logistics & Technology Corporate",odysseylogistics.com,"Logistics & Supply Chain","estimated $36.7k - $46.5k a year",,,Anchorage,AK,"99518"
+2022-08-11,"Care Coordination Program Assistant","Care Coordination Resource of Alaska / Alzheimer's...",,,"$17 - $20 an hour",,"Abbott Loop area)",Anchorage,AK,"99507"
+2022-08-11,"Counter Sales","Thermal Supply, Inc",thermalsupplyinc.com,"Building Materials","$22.08 - $32.00 an hour",,,Anchorage,AK,""
+2022-08-09,"Treatment Coordinator","Woodside Dental Group/Apex Dental",,,"$17.44 - $29.14 an hour",,"University Area area)",Anchorage,AK,"99504"
+2022-08-10,"General Labor","People Ready",,,"$11.11 - $20.00 an hour",,"Spenard area)",Anchorage,AK,"99517"
+2022-08-11,"Salon Coordinator","You Beauty Lounge",,,"from $11.50 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-09,"Direct Support Professional","Hearts and Hands of Care",,,"estimated $32.6k - $41.2k a year",,"Abbott Loop area)",Anchorage,AK,"99507"
+2022-08-10,"Parts Specialist","Continental Auto Group",continentalautogroup.com,Automotive,"from $18 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-09,"BARTENDER (FULL & PART-TIME)",Eurest,eurest-usa.com,"Food & Beverages",,,"Ted Stevens Anchorage International Airport area)",Anchorage,AK,"99502"
+2022-08-09,"Ramp Agent","Alaska Air Transit",flyaat.com,Airlines/Aviation,"from $16 an hour",,"Airport Heights area)",Anchorage,AK,"99501"
+2022-08-09,"Customer Relations Representative - State Farm Agent Team Me...","Todd Jackson - State Farm Agent",sfalaska.com,Sports,"$35,000 - $50,000 a year",,"Old Seward-Oceanview area)",Anchorage,AK,"99515"
+2022-08-11,"Warehouse Associate","Odyssey Logistics & Technology Corporate",odysseylogistics.com,"Logistics & Supply Chain","estimated $29.8k - $37.8k a year",,,Anchorage,AK,"99518"
+2022-08-10,Cashier/Driver,"Ryuu Bowl LLC",,,"from $10.34 an hour",,"Northeast area)",Anchorage,AK,"99504"
+2022-08-09,"Inside Sales Representative/Customer Service","Anchorage, AK 99501?(Fairview area)",,,,,,,,""
+2022-08-10,Janitor/Cleaner,"Frontline Enterprises, LLC",,,"$16.10 an hour",,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-10,"Mud Plant Roustabout","Fairweather, LLC",fairweather.com,"Law Practice","estimated $39.7k - $50.3k a year",,"Old Seward-Oceanview area)",Anchorage,AK,"99515"
+2022-08-09,"Accounting Technician","Hearts and Hands of Care",,,"estimated $33.3k - $42.1k a year",,"Abbott Loop area)",Anchorage,AK,"99507"
+2022-08-10,Partsperson,"Kendall Auto Group",kendallautogroup.com,Automotive,"$30,000 - $70,000 a year",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-09,"Food Service Supervisor","Hearts and Hands of Care",,,"estimated $30.9k - $39.1k a year",,"Abbott Loop area)",Anchorage,AK,"99507"
+2022-08-10,"Infant Teacher for Early Learning Program","Bright Beginnings Early Learning Center",,,"$14 - $16 an hour",,"Bayshore-Klatt area)",Anchorage,AK,"99515"
+2022-08-09,"Administrative Clinic Director","Alaska Med Spa & Chiropractic",,,"$22 - $24 an hour",,"Abbott Loop area)",Anchorage,AK,"99507"
+2022-08-11,"Pediatric Hospitalist","Southcentral Foundation",scfnuka.com,"Hospital & Health Care","$203,528 - $325,645 a year",,"University Area area)",Anchorage,AK,"99508"
+2022-08-10,"Insurance Staff Position - State Farm Agent Team Member","Todd Jackson - State Farm Agent",sfalaska.com,Sports,"$36,000 - $56,000 a year",,"Old Seward-Oceanview area)",Anchorage,AK,"99515"
+2022-08-11,"Retail Sales Associate 2031","Cash America Pawn",,,"$13 - $14 an hour",,"Spenard area)",Anchorage,AK,"99503"
+2022-08-11,"Security Officer - Anchorage Based","Signal 88 Security of Anchorage",signal88.com,"Security & Investigations","$15 - $22 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-10,"Lead Business Analyst","Resource Data",resourcedata.com,"Computer Software","estimated $75.4k - $95.4k a year",,"North Star area)",Anchorage,AK,"99503"
+2022-08-11,"Seeking Experienced BHO Cannabis Extraction Technician","Tundra Farms",,,"$20 - $30 an hour",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-11,"Store Manager",Subway,subway.com,Restaurants,"$15 - $20 an hour",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-10,"Entry Level Mgmt - Internal Key Holder Tech/Furn/Print - Anc...","Office Depot",officedepot.com,"Business Supplies & Equipment","$14.00 - $14.50 an hour",,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-11,"Assistant Resident Manager","NeighborWorks Alaska",nwalaska.org,"Nonprofit Organization Management","$17 - $20 an hour",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-10,"Clinical Services Consultant","Alaska Primary Care Association",alaskapca.org,"Hospital & Health Care","estimated $33.7k - $42.7k a year",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-09,"Service Shop Attendant","Continental Auto Group",continentalautogroup.com,Automotive,"$14 - $15 an hour",,,Anchorage,AK,""
+2022-08-09,"Warehouse Receiving","Northern Sales Company Inc.",,,"$16.00 - $16.88 an hour",,"Bayshore-Klatt area)",Anchorage,AK,"99515"
+2022-08-09,"Guest Services Supervisor","Inlet Tower Hotel & Suites",inlettower.com,"Hospital & Health Care","from $18 an hour",,"South Addition area)",Anchorage,AK,"99501"
+2022-08-10,"MLS/MLT for the Blood Bank of Alaska","Blood Bank of Alaska",bbak.org,,"$25 - $30 an hour",,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-09,"Outside Sales Representative","Todd Communications",,,"$35,000 - $65,000 a year",,,Anchorage,AK,""
+2022-08-10,"Training Center Coordinator - American Heart Association","Southern Region EMS Council, Inc.",,,"from $21.99 an hour",,"Spenard area)",Anchorage,AK,"99503"
+2022-08-11,Janitor,"Kendall Auto Group",kendallautogroup.com,Automotive,"estimated $26.6k - $33.6k a year",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-09,"Mental Health Clinician","Volunteers of America of Alaska",voaak.org,"Mental Health Care","$60,000 - $65,000 a year",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-11,"Store Manager",Subway,subway.com,Restaurants,"$15 - $20 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-09,"Child Care Director in Anchorage - Relocation Costs Reimburs...","Kindercare Learning Centers",,,,,"University Area area)",Anchorage,AK,"99508"
+2022-08-11,"Assistant Manager","DQ Grill & Chill",,,"from $18 an hour",,"Abbott Loop area)",Anchorage,AK,"99507"
+2022-08-09,"Human Resource Assistant","Hearts and Hands of Care",,,"estimated $29.9k - $37.9k a year",,"Abbott Loop area)",Anchorage,AK,"99507"
+2022-08-11,"Accounting Coordinator General Administrative","Builders FirstSource",bldr.com,"Building Materials",,,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-11,"Outpatient Pediatric Clinic CMA","Anchorage Pediatric Group",,,"$18 - $24 an hour",,"University Area area)",Anchorage,AK,"99508"
+2022-08-10,"Floral Sales Associate","Mylords Floral",,,"$15 - $18 an hour",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-11,"Food and Beverage Supervisor (FT)","Hilton Anchorage Downtown",,,"$16 - $17 an hour",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-10,"Barista/Lead Barista","Alaska Native Heritage Center",alaskanative.net,"Museums & Art Galleries","$12.50 - $13.00 an hour",,"Northeast area)",Anchorage,AK,"99504"
+2022-08-09,"Medical Office-Front Desk","Greatland Clinical Associates",,,"$15 - $17 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-10,Houseman/Housekeeper,"Clarion Suites Downtown",,,"from $14.10 an hour",,"South Addition area)",Anchorage,AK,"99501"
+2022-08-10,"Caregiver Coordinator","TLC Home Care",tlcathomecare.com,"Hospital & Health Care","$16 - $18 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-10,"Direct Support Professional","Shine Bright Care",shinebrightcare.com,,"$18 - $19 an hour",,"Northeast area)",Anchorage,AK,"99504"
+2022-08-11,"Caregiver / PCA (FT)","HomeWell Care Services",homewellcares.com,"Hospital & Health Care","estimated $26.1k - $33.1k a year",,"Campbell Park area)",Anchorage,AK,"99507"
+2022-08-10,"Auto Detailer","The Purple Turtle Fine Auto Detailing",,,"$14 - $16 an hour",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-11,"Accounting Coordinator General Administrative","Builders FirstSource",bldr.com,"Building Materials",,,"Abbott Loop area)",Anchorage,AK,"99507"
+2022-08-09,"Ramp Services Agent",Swissport,swissport.com,Airlines/Aviation,"$12 an hour",,"Ted Stevens Anchorage International Airport area)",Anchorage,AK,"99502"
+2022-08-09,"Custom Sewing Specialist-Anchorage","Airframes Alaska",airframesalaska.com,"Aviation & Aerospace","estimated $29.7k - $37.5k a year",,,Anchorage,AK,"99501"
+2022-08-09,"PetZoo Cashier","Animal Supply Company",animalsupply.com,Wholesale,"$15 an hour",,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-10,"Business Analyst","Resource Data",resourcedata.com,"Computer Software","estimated $58.6k - $74.2k a year",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-10,"Commercial Building Maintenance Worker","Frampton & Opinsky, LLC",,,"from $22 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-09,"Home Health OT","Ancora Home Health & Hospice LLC",ancoraalaska.com,"Hospital & Health Care",,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-09,"Retail Supervisor (Dimond Retail Store)","Goodwill Industries",goodwillseiowa.org,"Apparel & Fashion","$17 an hour",,,Anchorage,AK,""
+2022-08-09,"Retail Merchandise Specialist","O'Reilly Auto Parts",oreillyauto.com,Retail,,,"Abbott Loop area)",Anchorage,AK,"99507"
+2022-08-10,"Room Attendant - (Monday to Friday) Holiday Inn Express Anch...","Northwest x Southern Hospitality",nwxsouthern.com,Hospitality,"estimated $24.5k - $31.1k a year",,"Turnagain area)",Anchorage,AK,"99517"
+2022-08-11,"Pediatric Speech Language Pathologist","A Better Tomorrow Therapy and Wellness Center",,,"$42 - $54 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-10,"FOH Supervisor","Silver Gulch Brewing",,,"from $39,900 a year",,"Northeast area)",Anchorage,AK,"99504"
+2022-08-11,"Alaska Kraken Key Holder",BDA,bdainc.com,"Marketing & Advertising",,,"Downtown area)",Anchorage,AK,"99501"
+2022-08-09,"Dedicated Security Officer","Signal 88 Security of Anchorage",signal88.com,"Security & Investigations","$15 - $22 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-10,"Early Learning Leaders -Preschool Teacher","Bright Beginnings Early Learning Center",,,"$14 - $16 an hour",,"Bayshore-Klatt area)",Anchorage,AK,"99515"
+2022-08-10,"Hairdresser - Commission or Booth Rental","HOT Beauty Center",,,"$12 - $20 an hour",,"Spenard area)",Anchorage,AK,"99503"
+2022-08-10,"Breakfast Host - Hyatt House Anchorage","Northwest x Southern Hospitality",nwxsouthern.com,Hospitality,"$14 an hour",,,Anchorage,AK,"99518"
+2022-08-09,"Physician Assistant","Alaska Urology",alaskaurology.com,"Medical Practice","$95,836 - $122,145 a year",,"University Area area)",Anchorage,AK,"99508"
+2022-08-11,"Lawn Mowing, Lawn Care, Full Time Lawn Maintenance Position","Crew Cut Lawns",crewcutlawns.com,,"$16 - $18 an hour",,,Anchorage,AK,""
+2022-08-10,"Outpatient Pediatric Clinic RN/LPN","Anchorage Pediatric Group",,,"$30 - $38 an hour",,"University Area area)",Anchorage,AK,"99508"
+2022-08-11,"Float Medical Assistant/Front Desk Receptionist","Internal Medicine HWL Clinic",,,"$18 - $22 an hour",,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-11,"New Grad RN Ortho","Alaska Regional Hospital",alaskaregional.com,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-10,"Assembler I Direct Millwork","Spenard Builders Supply",sbsalaska.com,"Building Materials","estimated $29.5k - $37.3k a year",,"Turnagain area)",Anchorage,AK,"99517"
+2022-08-11,"Sales Account Executive- Northwest x Southern Hospitality An...","Anchorage, AK 99518",,,,,,,,""
+2022-08-10,"Van Driver (Overnight 11pm-7am) Holiday Inn Express Anchorag...","Northwest x Southern Hospitality",nwxsouthern.com,Hospitality,"$16 an hour",,"Turnagain area)",Anchorage,AK,"99517"
+2022-08-11,"Accounting Coordinator General Administrative","Spenard Builders Supply",sbsalaska.com,"Building Materials","estimated $30.6k - $38.8k a year",,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-09,"Patrol Security Officer","Signal 88 Security of Anchorage",signal88.com,"Security & Investigations","$15 - $22 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-10,"Veterinarian - Dermatologist - Veterinary Specialists of Ala...","SAGE Veterinary Centers",sagecenters.com,Veterinary,,,,Anchorage,AK,""
+2022-08-10,"Housekeeping Inspector-Hyatt House Anchorage","Northwest x Southern Hospitality",nwxsouthern.com,Hospitality,"$16 an hour",,,Anchorage,AK,"99518"
+2022-08-09,"Guest Services Supervisor","Northwest x Southern Hospitality",nwxsouthern.com,Hospitality,"estimated $27.6k - $35k a year",,,Anchorage,AK,"99518"
+2022-08-09,"Guest Service Representative (Front Desk Clerk) - Hyatt Hous...","Northwest x Southern Hospitality",nwxsouthern.com,Hospitality,"$15 an hour",,,Anchorage,AK,"99518"
+2022-08-11,"Accounting Coordinator General Administrative","Builders FirstSource",bldr.com,"Building Materials",,,"Abbott Loop area)",Anchorage,AK,"99507"
+2022-08-11,"Accounting Coordinator General Administrative","Spenard Builders Supply",sbsalaska.com,"Building Materials","estimated $33.8k - $42.8k a year",,,Anchorage,AK,"99507"
+2022-08-11,"Accounting Coordinator General Administrative","Spenard Builders Supply",sbsalaska.com,"Building Materials","estimated $33.8k - $42.8k a year",,,Anchorage,AK,"99507"
+2022-08-10,"Association for Early Learning Leaders -Toddler Teachers","Bright Beginnings Early Learning Center",,,"$14 - $15 an hour",,"Bayshore-Klatt area)",Anchorage,AK,"99515"
+2022-08-10,"Assembler I Direct Millwork","Spenard Builders Supply",sbsalaska.com,"Building Materials","estimated $29.5k - $37.3k a year",,"Turnagain area)",Anchorage,AK,"99517"
+2022-08-10,"Assembler I Direct Millwork","Spenard Builders Supply",sbsalaska.com,"Building Materials","estimated $29.7k - $37.7k a year",,"Turnagain area)",Anchorage,AK,"99517"
+2022-08-10,"Assembler I Direct Millwork","Builders FirstSource",bldr.com,"Building Materials",,,"Turnagain area)",Anchorage,AK,"99517"
+2022-08-10,"Assembler I Direct Millwork","Builders FirstSource",bldr.com,"Building Materials",,,"Turnagain area)",Anchorage,AK,"99517"
+2022-08-10,"Assembler I Direct Millwork","Builders FirstSource",bldr.com,"Building Materials",,,"Turnagain area)",Anchorage,AK,"99517"
+2022-08-10,"Veterinarian - Dermatologist - Veterinary Specialists of Ala...","SAGE Veterinary Centers",sagecenters.com,Veterinary,,,,Anchorage,AK,""
+2022-08-11,"Customer Engagement Specialist","Fred Meyer",fredmeyer.com,Retail,,,"Abbott Loop area)",Anchorage,AK,"99507"
+2022-08-11,"Housekeeper Part Time-101020","Extended Stay America",extendedstayamerica.com,Hospitality,"estimated $25.3k - $32.1k a year",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-10,"Store Sales Associate","Brown Jug",brownjugalaska.net,Retail,,,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-10,"Sales Assistant - Dimond Center Claire's",Claire's,claires.com,Retail,,,"Taku-Campbell area)",Anchorage,AK,""
+2022-08-09,"Retail Sales Associate (Part-Time)",AutoZone,autolinesorters.com,,,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-09,"Auto Parts Delivery Driver (Full-Time)",AutoZone,autolinesorters.com,,"estimated $22.2k - $28k a year",,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-09,"Retail Sales Associate (Part-Time)",AutoZone,autolinesorters.com,,,,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-10,"Part time Sales Assistant","Michael Kors",michaelkors.com,"Apparel & Fashion",,,"Downtown area)",Anchorage,AK,"99501"
+2022-08-09,"Retail Sales Associate (Part-Time)",AutoZone,autolinesorters.com,,,,"Northeast area)",Anchorage,AK,"99504"
+2022-08-09,"Auto Parts Delivery Driver (Part-Time)",AutoZone,autolinesorters.com,,"estimated $23.3k - $29.5k a year",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-10,"Pediatric Urgent Care Front Desk Associate - Anchorage, AK","PM Pediatrics",pmpediatrics.com,"Hospital & Health Care","estimated $32.6k - $41.2k a year",,,Anchorage,AK,""
+2022-08-09,"Auto Parts Delivery Driver (Full-Time)",AutoZone,autolinesorters.com,,"estimated $34.4k - $43.6k a year",,"Northeast area)",Anchorage,AK,"99504"
+2022-08-11,"Life Coach I","Assets, Inc.",usassetsinc.com,"Real Estate","$16.46 an hour",,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-10,"Radiology Technician (Part-Time)","Anchorage Neighborhood Health Center",anhc.org,"Medical Practice","estimated $41.8k - $53k a year",,,Anchorage,AK,""
+2022-08-09,"Research Analyst 3 (PCN 06N22138)","State of Alaska",aebsd.org,"Education Management","$31.82 an hour",,,Anchorage,AK,""
+2022-08-09,"DEPUTY DEAN","US Defense Security Cooperation Agency",,,"$128,192 - $187,300 a year",,,Anchorage,AK,""
+2022-08-10,"Switchboard Operator","Anchorage Neighborhood Health Center",anhc.org,"Medical Practice","$14.04 - $17.54 an hour",,,Anchorage,AK,""
+2022-08-09,"Bass Pro Shops Cashier","Bass Pro Shops",basspro.com,Retail,,,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-09,Houseperson,"Residence Inn by Marriott Anchorage Midtown",,,"estimated $24.8k - $31.4k a year",,"Rogers Park area)",Anchorage,AK,"99508"
+2022-08-11,"Part Time - Entry Level: Field Services Tech (Anchorage, AK)","Medline Industries",,,"estimated $30.6k - $38.8k a year",,,Anchorage,AK,""
+2022-08-10,"Accounts Payable & Travel Student Assistant","University of Alaska",kodiak.alaska.edu,"Higher Education","estimated $28.7k - $36.3k a year",,"University Area area)",Anchorage,AK,"99508"
+2022-08-10,"Rehabilitation Aide - PAMC Rehab Admin",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-11,"RN - Providence Early Assessment Team",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-10,"Mental Health Specialist - Mental Health Unit",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-09,"Auto Parts Delivery Driver (Full-Time)",AutoZone,autolinesorters.com,,"estimated $34.4k - $43.6k a year",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-09,"Auto Parts Delivery Driver (Part-Time)",AutoZone,autolinesorters.com,,"estimated $33.5k - $42.5k a year",,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-10,"Disabilities and Mental Health Coordinator","Kids' Corps Inc.",,,"estimated $34.3k - $43.5k a year",,,Anchorage,AK,""
+2022-08-09,"Paraprofessional Educator Kindergarten","Anchorage School District",asdk12.org,"Primary/Secondary Education","$14.50 - $15.40 an hour",,,Anchorage,AK,""
+2022-08-10,"Merchandising Part Time Days",Lowe's,lowes.com,Retail,,,,Anchorage,AK,""
+2022-08-09,"Auto Parts Delivery Driver (Part-Time)",AutoZone,autolinesorters.com,,"estimated $23.3k - $29.5k a year",,"Northeast area)",Anchorage,AK,"99504"
+2022-08-09,"Temporary Beauty Advisor","Sephora USA",sephora.com,Retail,,,"Downtown area)",Anchorage,AK,"99501"
+2022-08-09,"Temporary Beauty Advisor",Sephora,sephora.ch,,,,"Downtown area)",Anchorage,AK,"99501"
+2022-08-10,"Event Services Student Assistant","University of Alaska",kodiak.alaska.edu,"Higher Education","estimated $27.1k - $34.3k a year",,"University Area area)",Anchorage,AK,"99508"
+2022-08-09,"Research Analyst 3 (PCN 06N22138)","State of Alaska",aebsd.org,"Education Management","estimated $45.5k - $57.5k a year",,,Anchorage,AK,"99501"
+2022-08-10,"Acute Care RN",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-10,"Freelance Food Photographer",OCUS,,,"estimated $34.4k - $43.6k a year",,,Anchorage,AK,""
+2022-08-10,"Food Service Worker","Veterans Canteen Service",,,"$15.75 an hour",,"Northeast area)",Anchorage,AK,"99504"
+2022-08-10,Driver,"Asap Transportation",,,"$16 - $17 an hour",,,Anchorage,AK,""
+2022-08-11,"Santa Claus wanted","Nationwide Santas",,,"$25 an hour",,"Bayshore-Klatt area)",Anchorage,AK,"99515"
+2022-08-11,"PM Dishwasher","Hearth Artisan Pizza",,,"$14 - $18 an hour",,"Spenard area)",Anchorage,AK,"99503"
+2022-08-09,"Office Manager (part-time)","Alaska Sprouts",alaskasprouts.com,"Food Production","$17 - $25 an hour",,"Fairview area)",Anchorage,AK,"99501"
+2022-08-10,"Real Estate Photographer","Spotlight Media Group",spotlightmediagroup.com,"Marketing & Advertising","$20 - $100 an hour",,,Anchorage,AK,""
+2022-08-10,"Coffee Barista - Morning Shifts","Kaladi Brothers Coffee",kaizen-partners.co.uk,Accounting,"estimated $22.5k - $28.5k a year",,"Abbott Loop area)",Anchorage,AK,"99507"
+2022-08-11,"Alaska Kraken Retail Store Associate",BDA,bdainc.com,"Marketing & Advertising",,,"Downtown area)",Anchorage,AK,"99501"
+2022-08-10,"Retail Clerk/Customer Service","Alaska Native Heritage Center",alaskanative.net,"Museums & Art Galleries","$14 - $17 an hour",,"Northeast area)",Anchorage,AK,"99504"
+2022-08-10,"Store Associate",Shiftsmart,shiftsmart.com,Internet,"$14 - $15 an hour",,,Anchorage,AK,""
+2022-08-10,"Physics Tutor","Frontier Tutoring LLC",,,"$18 - $20 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-10,"Kitchen Helper","Ryuu Bowl LLC",,,"$11 - $18 an hour",,"Northeast area)",Anchorage,AK,"99504"
+2022-08-10,"Part-Time Dishwasher","Heather's Choice LLC",,,"$15 an hour",,,Anchorage,AK,"99518"
+2022-08-09,"PetZoo Cashier","Animal Supply Company",animalsupply.com,Wholesale,"$15 an hour",,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-09,"Dispatcher/Storage all shifts flexible, part & full time Anc...","Huntleigh USA",,,"$15.15 an hour",,,Anchorage,AK,""
+2022-08-09,Dishwasher,"Inlet Tower Hotel & Suites",inlettower.com,"Hospital & Health Care","from $14 an hour",,"South Addition area)",Anchorage,AK,"99501"
+2022-08-10,"Sales Associate","Zagg Invisible Shield",,,"from $13.75 an hour",,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-09,"Bingo Gaming Attendant","Lucky Boniface Bingo",,,"from $14 an hour",,"Russian Jack Park area)",Anchorage,AK,"99504"
+2022-08-10,"Team Member",Subway,subway.com,Restaurants,"$14.39 an hour",,,Anchorage,AK,"99506"
+2022-08-10,"CSR - Customer Service Representative","CHEVRON - Denali Express Retail Network",,,"from $16.25 an hour",,"Northeast area)",Anchorage,AK,"99504"
+2022-08-11,"Team Member",Subway,subway.com,Restaurants,"$12 - $13 an hour",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-09,"Fitness Consultant: Eagle River","The Alaska Club",thealaskaclub.com,"Health, Wellness & Fitness","estimated $30.6k - $38.8k a year",,"University Area area)",Anchorage,AK,"99507"
+2022-08-09,"Front Desk Admin","PND Engineers, Inc.",,,"estimated $25k - $31.6k a year",,"Spenard area)",Anchorage,AK,"99503"
+2022-08-11,Server,IHOP,ihop.com,Restaurants,,,"Bayshore-Klatt area)",Anchorage,AK,"99515"
+2022-08-09,"Fitness Consultant: East","The Alaska Club",thealaskaclub.com,"Health, Wellness & Fitness","estimated $27.4k - $34.6k a year",,"University Area area)",Anchorage,AK,"99507"
+2022-08-09,"Fitness Consultant: West","The Alaska Club",thealaskaclub.com,"Health, Wellness & Fitness","estimated $30.6k - $38.8k a year",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-10,"Restaurant Team Member","Papa John's - Buckstone West",,,"estimated $21.5k - $27.3k a year",,,Anchorage,AK,"99518"
+2022-08-11,Server,IHOP,ihop.com,Restaurants,,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-10,"Team Member - 5th Ave Mall","Auntie Anne's",auntieannes.com,"Food & Beverages","$16 - $21 an hour",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-10,"Group Fitness Instructor","The Alaska Club",thealaskaclub.com,"Health, Wellness & Fitness","estimated $39.2k - $49.6k a year",,"University Area area)",Anchorage,AK,"99507"
+2022-08-10,"General Labor","People Ready",,,"$11.11 - $20.00 an hour",,"Spenard area)",Anchorage,AK,"99517"
+2022-08-09,"PRN Medical Device Rep/ Clinical Specialist (Anchorage, Alas...",ConsignMed,consignmed.com,"Medical Devices","$100 - $225 an hour",,,Anchorage,AK,""
+2022-08-10,"Coty Brand Ambassador/Philosophy Skincare & fragrances",Coty,coty.com,Cosmetics,"from $22 an hour",,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-09,"BARTENDER (FULL & PART-TIME)",Eurest,eurest-usa.com,"Food & Beverages",,,"Ted Stevens Anchorage International Airport area)",Anchorage,AK,"99502"
+2022-08-10,"Bartender - Monday & Tuesday","Courtyard by Marriott",,,"$13 an hour",,"Spenard area)",Anchorage,AK,"99517"
+2022-08-10,Cashier/Driver,"Ryuu Bowl LLC",,,"from $10.34 an hour",,"Northeast area)",Anchorage,AK,"99504"
+2022-08-10,"Janitor P/T - Anchorage","Bailey's Furniture",baileysfurniture.com,,"$14 - $18 an hour",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-11,"Retail Sales Associate 2031","Cash America Pawn",,,"$13 - $14 an hour",,"Spenard area)",Anchorage,AK,"99503"
+2022-08-11,"Security Officer - Anchorage Based","Signal 88 Security of Anchorage",signal88.com,"Security & Investigations","$15 - $22 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-11,"Seeking Experienced BHO Cannabis Extraction Technician","Tundra Farms",,,"$20 - $30 an hour",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-11,"Store Manager",Subway,subway.com,Restaurants,"$15 - $20 an hour",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-11,"Front Office Assistant (Frost Dental)",MB2DentalSolution,,,"estimated $29.4k - $37.2k a year",,,Anchorage,AK,""
+2022-08-09,"Guest Services Supervisor","Inlet Tower Hotel & Suites",inlettower.com,"Hospital & Health Care","from $18 an hour",,"South Addition area)",Anchorage,AK,"99501"
+2022-08-10,"Childcare Attendant","Body Renew Alaska",bodyrenewalaska.com,"Health, Wellness & Fitness","$12 an hour",,"Bayshore-Klatt area)",Anchorage,AK,"99515"
+2022-08-11,"Store Manager",Subway,subway.com,Restaurants,"$15 - $20 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-11,"Alaska Kraken Retail Store Associate",BDA,bdainc.com,"Marketing & Advertising",,,"Downtown area)",Anchorage,AK,"99501"
+2022-08-09,"Front Desk Staff Member","Rilke Schule Inc.",,,"$11 - $15 an hour",,"Abbott Loop area)",Anchorage,AK,"99507"
+2022-08-10,"Floral Sales Associate","Mylords Floral",,,"$15 - $18 an hour",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-10,"Barista/Lead Barista","Alaska Native Heritage Center",alaskanative.net,"Museums & Art Galleries","$12.50 - $13.00 an hour",,"Northeast area)",Anchorage,AK,"99504"
+2022-08-10,Houseman/Housekeeper,"Clarion Suites Downtown",,,"from $14.10 an hour",,"South Addition area)",Anchorage,AK,"99501"
+2022-08-10,"Direct Support Professional","Shine Bright Care",shinebrightcare.com,,"$18 - $19 an hour",,"Northeast area)",Anchorage,AK,"99504"
+2022-08-10,"Veterinary Receptionist - Part Time","Cornerstone Animal Hospital",,,"from $16 an hour",,"Campbell Park area)",Anchorage,AK,"99507"
+2022-08-10,"Medical Assistant","Surgery MD",,,"$15 - $17 an hour",,"University Area area)",Anchorage,AK,"99508"
+2022-08-09,"Club Instructor (Supervise Students)","Rilke Schule Inc.",,,"$20 an hour",,"Abbott Loop area)",Anchorage,AK,"99507"
+2022-08-11,"Pediatric Speech Language Pathologist","A Better Tomorrow Therapy and Wellness Center",,,"$42 - $54 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-09,"Dedicated Security Officer","Signal 88 Security of Anchorage",signal88.com,"Security & Investigations","$15 - $22 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-09,"Bridal Sales","David's Bridal",davidsbridal.com,Retail,"$15.20 - $17.20 an hour",,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-10,"Housekeeper Part Time-101020","ESA Management, LLC",,,"estimated $24.7k - $31.3k a year",,,Anchorage,AK,"99501"
+2022-08-11,"PART TIME* Maintenance Technician - Comfort Inn Ship Creek","Northwest x Southern Hospitality",nwxsouthern.com,Hospitality,"estimated $27.8k - $35.2k a year",,,Anchorage,AK,"99501"
+2022-08-11,"Float Medical Assistant/Front Desk Receptionist","Internal Medicine HWL Clinic",,,"$18 - $22 an hour",,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-11,"Advanced Practice Provider - Part Time","Acadia Healthcare",acadiahealthcare.com,"Hospital & Health Care",,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-09,"Patrol Security Officer","Signal 88 Security of Anchorage",signal88.com,"Security & Investigations","$15 - $22 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-10,"Veterinarian - Dermatologist - Veterinary Specialists of Ala...","SAGE Veterinary Centers",sagecenters.com,Veterinary,,,,Anchorage,AK,""
+2022-08-09,"Customer Service Representative","David's Bridal",davidsbridal.com,Retail,"$15.20 an hour",,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-11,"Advanced Practice Provider - Part Time","Acadia Healthcare",acadiahealthcare.com,"Hospital & Health Care",,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-10,"Veterinarian - Dermatologist - Veterinary Specialists of Ala...","SAGE Veterinary Centers",sagecenters.com,Veterinary,,,,Anchorage,AK,""
+2022-08-09,Houseperson,"Residence Inn by Marriott Anchorage Midtown",,,"estimated $24.8k - $31.4k a year",,"Rogers Park area)",Anchorage,AK,"99508"
+2022-08-10,"Medical Surgical Travel Registered Nurse","Aya Healthcare",ayahealthcare.com,"Staffing & Recruiting",,,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-10,"MS/Tele Travel Registered Nurse","Aya Healthcare",ayahealthcare.com,"Staffing & Recruiting",,,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-10,"MS/Tele Travel Registered Nurse","Aya Healthcare",ayahealthcare.com,"Staffing & Recruiting",,,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-10,"PICU Travel Registered Nurse","Aya Healthcare",ayahealthcare.com,"Staffing & Recruiting",,,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-10,"Real Estate Photographer","Spotlight Media Group",spotlightmediagroup.com,"Marketing & Advertising","$20 - $100 an hour",,,Anchorage,AK,""
+2022-08-09,"Apartment Painter","Cornerstone Properties USA Inc",,,"$20 - $30 an hour",,,Anchorage,AK,""
+2022-08-10,"General Labor","People Ready",,,"$11.11 - $20.00 an hour",,"Spenard area)",Anchorage,AK,"99517"
+2022-08-09,"PRN Medical Device Rep/ Clinical Specialist (Anchorage, Alas...",ConsignMed,consignmed.com,"Medical Devices","$100 - $225 an hour",,,Anchorage,AK,""
+2022-08-09,"Maintenance Controller","Snappy Hires",,,"from $25 an hour",,,Anchorage,AK,""
+2022-08-10,"Package Delivery Driver","UNITED PARCEL SERVICE",ups.com,"Logistics & Supply Chain",,,"Sand Lake area)",Anchorage,AK,"99502"
+2022-08-11,"Customer Service Associate - Temporary",WALGREENS,walgreens.com,Retail,,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-09,Houseperson,"Residence Inn by Marriott Anchorage Midtown",,,"estimated $24.8k - $31.4k a year",,"Rogers Park area)",Anchorage,AK,"99508"
+2022-08-11,"Seawolf Campus Store Temporary Associate","University of Alaska",kodiak.alaska.edu,"Higher Education",,,"University Area area)",Anchorage,AK,"99508"
+2022-08-09,"Temporary Beauty Advisor",Sephora,sephora.ch,,,,"Downtown area)",Anchorage,AK,"99501"
+2022-08-10,"Freelance Food Photographer",OCUS,,,"estimated $34.4k - $43.6k a year",,,Anchorage,AK,""
+2022-08-11,"Santa Claus wanted","Nationwide Santas",,,"$25 an hour",,"Bayshore-Klatt area)",Anchorage,AK,"99515"
+2022-08-10,"Laundry Attendant","Aviator Hotel",aviatorhampshire.com,Hospitality,"$15.50 an hour",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-09,"Apartment Painter","Cornerstone Properties USA Inc",,,"$20 - $30 an hour",,,Anchorage,AK,""
+2022-08-10,"General Labor","People Ready",,,"$11.11 - $20.00 an hour",,"Spenard area)",Anchorage,AK,"99517"
+2022-08-09,"Front Desk Staff Member","Rilke Schule Inc.",,,"$11 - $15 an hour",,"Abbott Loop area)",Anchorage,AK,"99507"
+2022-08-10,"Barista/Lead Barista","Alaska Native Heritage Center",alaskanative.net,"Museums & Art Galleries","$12.50 - $13.00 an hour",,"Northeast area)",Anchorage,AK,"99504"
+2022-08-10,"Veterinarian - Dermatologist - Veterinary Specialists of Ala...","SAGE Veterinary Centers",sagecenters.com,Veterinary,,,,Anchorage,AK,""
+2022-08-09,Houseperson,"Residence Inn by Marriott Anchorage Midtown",,,"estimated $24.8k - $31.4k a year",,"Rogers Park area)",Anchorage,AK,"99508"
+2022-08-07,"Dentist (Full-Time, Part-Time, On-Call)","Anchorage, AK",,,,,,,,""
+2022-08-05,"PPAA--Regional Field Organizer (AK)_Public Affairs","Planned Parenthood GNHI",,,"$48,000 - $57,000 a year",Remote,,"Remote in Anchorage",AK,"99508"
+2022-08-05,"Business Development Coordinator","Integrity Environmental, LLC",,,"$22.50 - $27.50 an hour",Remote,,"Remote in Anchorage",AK,""
+2022-08-08,"Registered Nurse","AK Child & Family",akchild.org,"Mental Health Care","$32 - $35 an hour",,"Mid-Hillside area)",Anchorage,AK,"99507"
+2022-08-07,"Cycle Counter",Sysco,sysco.com,"Food & Beverages",,,,Anchorage,AK,"99507"
+2022-08-06,"OFFICE ADMINISTRATIVE SUPPORT SPECIALIST","GEO Reentry Services",georeentry.com,Biotechnology,"$23.75 an hour",,,Anchorage,AK,""
+2022-08-06,"Cycle Counter",Sysco,sysco.com,"Food & Beverages",,,,Anchorage,AK,"99507"
+2022-08-07,"Manager Inflight Base Operations II","Alaska Airlines",alaskaair.com,Airlines/Aviation,,,"Midtown area)",Anchorage,AK,"99509"
+2022-08-05,"Housing Technician (Anchorage)","ALASKA HOUSING FINANCE CORPORATION",ahfc.us,"Government Administration","$41,953 a year",,,Anchorage,AK,""
+2022-08-08,"Outreach Specialist, Therapeutic Treatment Homes","AK Child & Family",akchild.org,"Mental Health Care","$19 an hour",,"Mid-Hillside area)",Anchorage,AK,"99507"
+2022-08-08,"Treatment Program Supervisor","AK Child & Family",akchild.org,"Mental Health Care","$50,000 a year",,"Mid-Hillside area)",Anchorage,AK,"99507"
+2022-08-07,"Assistant Terminal Manager - Full Time/Permanent","Shoreside Petroleum Inc.",,,"estimated $38.7k - $49.1k a year",,,Anchorage,AK,""
+2022-08-07,"Installation Technician (CR-II-KT)","Crown Consulting, Inc.",crownci.com,"Government Relations","estimated $61.6k - $78k a year",,,Anchorage,AK,""
+2022-08-06,"General Manager Full Time-GMA-203100","Extended Stay America",extendedstayamerica.com,Hospitality,"estimated $52.6k - $66.6k a year",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-06,"Operations Supervisor (IDS)","The Inland Group of Companies",inlandgroup.ca,Airlines/Aviation,"estimated $53.9k - $68.3k a year",,"Sand Lake area)",Anchorage,AK,"99502"
+2022-08-06,"Case Management Support - Specialty Pediatrics","Southcentral Foundation",scfnuka.com,"Hospital & Health Care","estimated $47.9k - $60.7k a year",,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-06,"Certified Child Life Specialist",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-06,"Assistant Nurse Manager - Emergency Department",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-05,"EH&B Client Management","Marsh & McLennan Agency",marshmclennanagency.com,Insurance,,,"Downtown area)",Anchorage,AK,"99501"
+2022-08-05,"Head Start Program Manager - Anchorage","RurAL CAP",serviceyear.org,"Nonprofit Organization Management","$78,300 - $94,800 a year",,,"Hybrid remote in Anchorage",AK,"99501"
+2022-08-05,"Data Transformation Specialist","Gainwell Technologies LLC",,,"$87,500 - $109,400 a year",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-05,"RN - Progressive Care Unit",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-06,"AgrAbility Client Specialist","University of Alaska",kodiak.alaska.edu,"Higher Education","estimated $40.1k - $50.7k a year",,"University Area area)",Anchorage,AK,"99508"
+2022-08-05,"Program Coordinator 2 (PCN 06NData Modernization Lead)","State of Alaska",aebsd.org,"Education Management","$36.42 an hour",,,Anchorage,AK,""
+2022-08-06,"Certified Child Life Specialist",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-05,"RN - 5 North Medical Oncology",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-05,"Data Transformation Specialist","Gainwell Technologies LLC",,,"$87,500 - $109,400 a year",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-07,"Registered Nurse Administrator","Blood Bank of Alaska",bbak.org,,"$80,000 - $90,000 a year",,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-07,"Assistant to CFO","GoNorth Travel, LLC",gonorth-alaska.com,,"from $60,000 a year",,"Spenard area)",Anchorage,AK,"99517"
+2022-08-06,"Licensing and Permitting Specialist","Anchorage, AK 99501",,,,,,,,""
+2022-08-05,"Independent Sales Representative","Anchorage, AK",,,,,,,,""
+2022-08-05,"Supervisor of Revenue Cycle - Provider Enrollment","Southcentral Foundation",scfnuka.com,"Hospital & Health Care","$50,897 - $76,356 a year",,"Scenic Foothills area)",Anchorage,AK,"99507"
+2022-08-08,"Manufacturing and Distribution Director","Blood Bank of Alaska",bbak.org,,"$80,000 - $95,000 a year",,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-07,"Community Support Supervisor - Adult Services","Hope Community Resources, Inc.",,,"$24.04 - $28.24 an hour",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-06,"General Ledger Accountant","Gana-A'Yoo, Limited",ganaayoo.com,"Government Relations","estimated $45.5k - $57.5k a year",,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-06,"Computer Lab Resource Assistant","Cook Inlet Tribal Council Inc",citci.org,"Individual & Family Services","estimated $33.3k - $42.1k a year",,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-06,"Administrative Assistant","TOTEM Association of ESP",,,"$22.60 - $24.00 an hour",,"Spenard area)",Anchorage,AK,"99503"
+2022-08-06,"General Manager Full Time-GMA-203100","ESA Management, LLC",,,"estimated $47.4k - $60k a year",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-06,"Full Time Welding Instructor","Charter College",chartercollege.edu,"Higher Education","from $52,744 a year",,"Rogers Park area)",Anchorage,AK,"99508"
+2022-08-06,"Assistant Site Manager","International Auto Logistics",,,"$49,500 - $54,000 a year",,"Fairview area)",Anchorage,AK,"99501"
+2022-08-05,"Consumer Loan Underwriter I, II, III - Midtown Financial Cen...","Northrim Bank",northrim.com,Banking,"$20.66 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-05,"Management Accountant","Oil Search (Alaska) LLC",,,"estimated $66.2k - $83.8k a year",,"Huffman-O'malley area)",Anchorage,AK,"99516"
+2022-08-05,"Lead Pediatric RN","Medical Park Family Care",mpfcak.com,"Medical Practice","from $35 an hour",,"Rogers Park area)",Anchorage,AK,"99508"
+2022-08-06,"Aircraft Maintenance Technician Depot","Guardian Flight",guardianflight.com,"Hospital & Health Care","$30 - $50 an hour",,"Ted Stevens Anchorage International Airport area)",Anchorage,AK,"99502"
+2022-08-05,"Avionics Technician","Guardian Flight",guardianflight.com,"Hospital & Health Care","$35 - $50 an hour",,"Ted Stevens Anchorage International Airport area)",Anchorage,AK,"99502"
+2022-08-07,"Dentist (Full-Time, Part-Time, On-Call)","Anchorage, AK",,,,,,,,""
+2022-08-08,"Registered Nurse","AK Child & Family",akchild.org,"Mental Health Care","$32 - $35 an hour",,"Mid-Hillside area)",Anchorage,AK,"99507"
+2022-08-06,Bookkeeper,"Cooley Tax + Accounting Inc",,,"$20 - $35 an hour",,"Huffman-O'Malley area)",Anchorage,AK,"99516"
+2022-08-08,"Retail Merchandiser Team Lead","Merchandiserson demand",,,"$18 - $25 an hour",,,Anchorage,AK,""
+2022-08-05,"Independent Sales Representative","Anchorage, AK",,,,,,,,""
+2022-08-11,"Contact Center Agent","Anchorage, AK 99502?(Sand Lake area)",,,,,,,,""
+2022-08-11,"Collections - Collections Service Quality and Training Speci...","Nuvision Federal Credit Union",nuvisionfederal.com,Banking,"estimated $37.1k - $46.9k a year",Remote,,"Remote in Anchorage",AK,"99502"
+2022-08-11,"Collections - Collections Service Quality and Training Speci...","Nuvision Federal Credit Union",nuvisionfederal.com,Banking,"estimated $35.1k - $44.5k a year",Remote,,"Remote in Anchorage",AK,"99503"
+2022-08-11,"Collections - Collections Service Quality and Training Speci...","Nuvision Federal Credit Union",nuvisionfederal.com,Banking,"estimated $35.1k - $44.5k a year",Remote,,"Remote in Anchorage",AK,"99504"
+2022-08-11,"Outreach Specialist, Therapeutic Treatment Homes","AK Child & Family",akchild.org,"Mental Health Care","$19 an hour",,"Mid-Hillside area)",Anchorage,AK,"99507"
+2022-08-11,"Store Supervisor, Full-Time (Anchorage)",Transformco,searshc.com,"Hospital & Health Care",,,,Anchorage,AK,""
+2022-08-11,"Assistant Controller","Bering Straits Native Corporation (BSNC)",,,"estimated $72.8k - $92.2k a year",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-10,"Auto Parts Sales Representative","Factory Motor Parts Company",,,"$75,000 a year",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-11,"Registered Nurse","AK Child & Family",akchild.org,"Mental Health Care","$32 - $35 an hour",,"Mid-Hillside area)",Anchorage,AK,"99507"
+2022-08-11,"Treatment Program Supervisor","AK Child & Family",akchild.org,"Mental Health Care","$50,000 a year",,"Mid-Hillside area)",Anchorage,AK,"99507"
+2022-08-09,"Client Service Associate",UBS,americanbehavioralhealth.net,"Hospital & Health Care",,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-10,"Safety and Training Manager","MV Transportation, Inc.",mvtransit.com,Transportation/Trucking/Railroad,,,,Anchorage,AK,""
+2022-08-11,"Product Support Sales Representative","Anchorage, AK 99518?(Taku-Campbell area)",,,,,,,,""
+2022-08-11,"Safety and Training Manager","MV Transportation",,,,,"Campbell Park area)",Anchorage,AK,"99507"
+2022-08-10,"Client Service Executive","Marsh & McLennan Agency",marshmclennanagency.com,Insurance,,,"Downtown area)",Anchorage,AK,"99501"
+2022-08-10,"Chaplain - Spiritual Care",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-09,"CONSTRUCTION BID COORDINATOR (Junior Admin Officer) - Range...","Municipality of Anchorage",muni.org,"Government Relations","$49,670 - $63,378 a year",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-09,"Financial Reporting Manager","Afognak Native Corporation",afognak.org,"Government Administration","estimated $73k - $92.4k a year",Remote,,"Remote in Anchorage",AK,"99503"
+2022-08-10,"Learning and Development Advisor","Southcentral Foundation",scfnuka.com,"Hospital & Health Care","estimated $65.1k - $82.5k a year",,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-11,"Collections - Collections Service Quality and Training Speci...","Nuvision Federal Credit Union",nuvisionfederal.com,Banking,"estimated $35.1k - $44.5k a year",Remote,,"Remote in Anchorage",AK,"99503"
+2022-08-11,"Collections - Collections Service Quality and Training Speci...","Nuvision Federal Credit Union",nuvisionfederal.com,Banking,"estimated $35.1k - $44.5k a year",Remote,,"Remote in Anchorage",AK,"99503"
+2022-08-11,"Collections - Collections Service Quality and Training Speci...","Nuvision Federal Credit Union",nuvisionfederal.com,Banking,"estimated $37.1k - $46.9k a year",Remote,,"Remote in Anchorage",AK,"99503"
+2022-08-11,"Grading Superintendent - Airport Construction","Kiewit Corporation",kwmjv.com,,,,"Fairview area)",Anchorage,AK,"99501"
+2022-08-10,"ACCOUNT EXECUTIVE - KTUU","Gray Television",gray.tv,"Broadcast Media",,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-09,"Analyst, Business Systems",GCI,gci.it,"Information Technology & Services","estimated $79.7k - $101k a year",,,Anchorage,AK,""
+2022-08-10,"CASE MANAGER","GEO Reentry Services",georeentry.com,Biotechnology,"$22.50 an hour",,,Anchorage,AK,""
+2022-08-10,"RN - Labor And Delivery",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-11,"Facility Technician II",Sysco,sysco.com,"Food & Beverages",,,,Anchorage,AK,"99507"
+2022-08-10,"Pediatric Urgent Care Nurse - Anchorage, AK","PM Pediatrics",pmpediatrics.com,"Hospital & Health Care","estimated $68.2k - $86.4k a year",,,Anchorage,AK,""
+2022-08-09,"Co - Sales Manager","Ulta Beauty",ulta.com,Retail,,,"Northeast area)",Anchorage,AK,"99504"
+2022-08-09,"Technician I, SMC",GCI,gci.it,"Information Technology & Services","estimated $51k - $64.6k a year",,"Taku-Campbell area)",Anchorage,AK,"99518"
+2022-08-09,"Lead Commercial Relationship Manager - Global Advisory - Com...","WELLS FARGO BANK",wellsfargo.com,"Financial Services",,,,Anchorage,AK,""
+2022-08-10,"Medical Director","Southcentral Foundation",scfnuka.com,"Hospital & Health Care",,,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-11,"Director of Nursing","Anchorage Neighborhood Health Center",anhc.org,"Medical Practice","estimated $83.5k - $106k a year",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-11,"Assistant Nurse Manager - Labor and Deliver",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-11,"RN Supervisor - St. Elias",Providence,psjhealth.org,"Hospital & Health Care",,,,Anchorage,AK,"99503"
+2022-08-09,"CONSTRUCTION BID COORDINATOR (Junior Admin Officer) - Range...","Municipality of Anchorage",muni.org,"Government Relations",,,"Downtown area)",Anchorage,AK,"99501"
+2022-08-09,"Human Resources Supervisor","Hearts and Hands of Care",,,"estimated $51.4k - $65k a year",,"Abbott Loop area)",Anchorage,AK,"99507"
+2022-08-09,"Human Resources Specialist","Hearts and Hands of Care",,,"estimated $39.8k - $50.4k a year",,"Abbott Loop area)",Anchorage,AK,"99507"
+2022-08-11,"Accounts Payable Specialist","Taylored Restoration Services",,,"$20 - $25 an hour",,"Taku-Campbell area)",Anchorage,AK,"99515"
+2022-08-09,"Warehouse Manager",Safelite,,,,,,Anchorage,AK,"99507"
+2022-08-11,"Food and Beverage Manager (FT)","Hilton Anchorage Downtown",,,,,"Downtown area)",Anchorage,AK,"99501"
+2022-08-10,"Patient Care Coordinator/Receptionist","Audiology Associates",infopoint.com,"Computer & Network Security","$17 - $22 an hour",,"Rogers Park area)",Anchorage,AK,"99508"
+2022-08-09,"Medical Biller","Anchorage Women's Clinic",awcp.net,,"$20 - $23 an hour",,"University Area area)",Anchorage,AK,"99508"
+2022-08-11,"Office Manager","Alaska Community Action on Toxics (ACAT)",,,"$42,000 - $48,000 a year",,"Midtown area)",Anchorage,AK,"99518"
+2022-08-11,"Food Production - Operations Manager","LSG Sky Chefs",lsg.co.tz,,"$37,580 - $83,011 a year",,"Ted Stevens Anchorage International Airport area)",Anchorage,AK,"99502"
+2022-08-11,"Construction Project Manager Job","2H Talent LLC",h2talent.com,"Staffing & Recruiting","$80,000 - $130,000 a year",,"Downtown area)",Anchorage,AK,"99501"
+2022-08-11,"Groundwater Specialist","DXP Enterprises",,,"estimated $37.5k - $47.5k a year",,,Anchorage,AK,"99507"
+2022-08-09,"Human Resources Generalist","Hearts and Hands of Care",,,"estimated $48.1k - $60.9k a year",,"Abbott Loop area)",Anchorage,AK,"99507"
+2022-08-09,"Service Scheduling Coordinator","Guardian Security Systems, Inc.",guardiansecurity.com,"Security & Investigations","$19 - $23 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-11,"Security Guard- Overseas (Req ID: 3455)","Chugach Government Solutions, LLC",chugachgov.com,"Defense & Space",,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-11,"Project Accountant",thread,threadhouston.blogspot.com,Retail,"$58,000 - $62,000 a year",,"Mountain View area)",Anchorage,AK,"99501"
+2022-08-09,"Case Manager","Hearts and Hands of Care",,,"estimated $39.1k - $49.5k a year",,"Abbott Loop area)",Anchorage,AK,"99507"
+2022-08-09,"Sports Pub Manager","O'Malley Ice & Sports Center LLC",omalleysports.com,Restaurants,"$50,000 - $80,000 a year",,,Anchorage,AK,""
+2022-08-09,Controller,AIDEA,aidea.org,"Financial Services","$95,000 - $130,000 a year",,"Spenard area)",Anchorage,AK,"99503"
+2022-08-11,"Marine Manager- Kwajalein Atoll (Req ID: 3478)","Chugach Government Solutions, LLC",chugachgov.com,"Defense & Space",,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-09,"Branch Supervisor - SouthSide Financial Center Branch","Northrim Bank",northrim.com,Banking,"$20.66 an hour",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-11,"Case Manager","Shine Bright Care",shinebrightcare.com,,"$17 - $18 an hour",,"Northeast area)",Anchorage,AK,"99504"
+2022-08-10,"Environmental Scientist","ChemTrack Alaska, Inc.",,,"estimated $57.6k - $73k a year",,"Old Seward-Oceanview area)",Anchorage,AK,"99515"
+2022-08-10,"Quality Control Manager- Kwajalein (Req ID: 2836)","Chugach Government Solutions, LLC",chugachgov.com,"Defense & Space",,,,Anchorage,AK,""
+2022-08-10,"Barber - Commission or Booth Rental","HOT Beauty Center",,,"$15 - $20 an hour",,"Spenard area)",Anchorage,AK,"99503"
+2022-08-09,"Executive Housekeeper","Northwest x Southern Hospitality",nwxsouthern.com,Hospitality,"$45,000 a year",,,Anchorage,AK,"99501"
+2022-08-09,"Fuel Terminal Supervisor (G)",TDX,tdxpert.com,,"estimated $46.4k - $58.8k a year",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-10,"Advanced Nurse Practitioner ? Women?s Health","Anchorage Women's Clinic",awcp.net,,"$100,000 - $120,000 a year",,"Airport Heights area)",Anchorage,AK,"99508"
+2022-08-10,"RN Educator Clinical Professional Development","Alaska Regional Hospital",alaskaregional.com,"Hospital & Health Care",,,,Anchorage,AK,"99508"
+2022-08-11,"Registered Nurse","AK Child & Family",akchild.org,"Mental Health Care","$32 - $35 an hour",,"Mid-Hillside area)",Anchorage,AK,"99507"
+2022-08-10,"Per Diem Physician Assistant or Nurse Practitioner",Providence,psjhealth.org,"Hospital & Health Care",,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-09,"Territory Manager","Anchorage, AK",,,,,,,,""
+2022-08-09,Maintenance,"Volunteers of America of Alaska",voaak.org,"Mental Health Care",,,,Anchorage,AK,""
+2022-08-11,"Recreation Program Supervisor 9 Month (temporary)","University of Alaska",kodiak.alaska.edu,"Higher Education","estimated $33.4k - $42.4k a year",,"University Area area)",Anchorage,AK,"99508"
+2022-08-11,"Vehicle Maintenance Techinican III","Alyeska Resort",,,"estimated $33.3k - $42.1k a year",,,Anchorage,AK,""
+2022-08-11,"Vehicle Maintenance Supervisor","Alyeska Resort",,,"estimated $41k - $52k a year",,,Anchorage,AK,""
+2022-08-10,"Student Health Director, Onsite - MD/DO/ MSN/ DNP","YM Health",myuhealthchart.com,,"$115,000 - $125,000 a year",,,Anchorage,AK,""
+2022-08-10,"Assistant Transportation Business Development Leader",HDR,hdrinc.com,Design,,,"Midtown area)",Anchorage,AK,"99503"
+2022-08-11,"Cost Estimator","Oil Search (Alaska) LLC",,,"estimated $74.7k - $94.7k a year",,"Huffman-O'malley area)",Anchorage,AK,"99516"
+2022-08-11,"Human Resources (HR) Director (H)",TDX,tdxpert.com,,"estimated $85.2k - $108k a year",,"Midtown area)",Anchorage,AK,"99503"
+2022-08-10,"Director of Civil Engineering - Transportation",RESPEC,,,"$100,000 - $158,543 a year",,"Midtown area)",Anchorage,AK,"99503"
+1970-01-01,,,,,,,,,,""

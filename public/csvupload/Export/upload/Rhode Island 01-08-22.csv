@@ -1,0 +1,703 @@
+DATE,"Job Title",Company,Website,Industry,Salary,Remote,AREA,City,State,"Zip Code"
+2022-07-30,"Class of 2023 Technology Leadership Development Program (TLD...","Johnson & Johnson",,,,,,Providence,RI,""
+2022-07-29,"Rehabilitation Aide",Lifespan,lifespan.org,"Hospital & Health Care",,,"Downtown area)",Providence,RI,"2903"
+2022-07-29,"Clerk Specialist",Lifespan,lifespan.org,"Hospital & Health Care","estimated $32.7k - $41.5k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-01,"Entry Level Advertising Account Manager Trainee","Reynolds and Reynolds",reyrey.com,"Computer Software","$60,000 a year",Remote,,"Remote in Providence",RI,"2901"
+2022-07-30,"Custodian - RISD Museum","RISD - Rhode Island School of Design",risd.edu,"Higher Education","estimated $28.1k - $35.5k a year",,"College Hill area)",Providence,RI,""
+2022-07-30,"Providence College Full-time Deli Attendant",Sodexo,sodexo.com,"Facilities Services",,,"Downtown area)",Providence,RI,"2918"
+2022-07-29,"Clerk Specialist",Lifespan,lifespan.org,"Hospital & Health Care","estimated $30.7k - $38.9k a year",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Providence College Full time Cashier",Sodexo,sodexo.com,"Facilities Services",,,"Elmhurst area)",Providence,RI,"2918"
+2022-07-31,"STEAM Instructor","Highlander Charter School",highlandercharter.org,"Education Management","estimated $41.4k - $52.4k a year",,"Elmwood area)",Providence,RI,"2907"
+2022-07-30,"Middle School Dual Language Teacher- Spanish","Nuestro Mundo Public Charter School",,,"estimated $43.2k - $54.8k a year",,"Lower South Providence area)",Providence,RI,"2905"
+2022-07-30,"Physical Education/Health Teacher","Family Service of Rhode Island",,,"estimated $41k - $52k a year",,"Lower South Providence area)",Providence,RI,"2905"
+2022-07-30,"Teacher Assistant","The Providence Center School",,,"estimated $25.5k - $32.3k a year",,"Blackstone area)",Providence,RI,"2906"
+2022-07-30,"Wealth Management Banking Specialist - Providence, RI","Bank of America",appianrx.com,"Hospital & Health Care",,,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"ED Patient Care Tech I",Lifespan,lifespan.org,"Hospital & Health Care","estimated $30.6k - $38.8k a year",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Pizza Station Attendant at Providence College",Sodexo,sodexo.com,"Facilities Services",,,"Elmhurst area)",Providence,RI,"2918"
+2022-07-30,"Teacher Assistant, ( Float )","The Providence Center School",,,"estimated $26.6k - $33.6k a year",,"Blackstone area)",Providence,RI,"2906"
+2022-07-30,"Registered Nurse I",Lifespan,lifespan.org,"Hospital & Health Care",,,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Full-time Culinary Postions at Providence College",Sodexo,sodexo.com,"Facilities Services",,,"Elmhurst area)",Providence,RI,"2918"
+2022-08-01,"Entry Level Outside Sales Trainee","Reynolds and Reynolds",reyrey.com,"Computer Software","$60,000 a year",Remote,,"Remote in Providence",RI,"2901"
+2022-07-30,"Store Manager","East Side Enterprise",,,,,"Blackstone area)",Providence,RI,"2906"
+2022-07-29,"Secretary C",Lifespan,lifespan.org,"Hospital & Health Care","estimated $30.2k - $38.2k a year",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Medical Assistant I","PhyNet Dermatology, LLC",phynet.com,"Medical Practice","estimated $33.9k - $42.9k a year",,,Providence,RI,""
+2022-07-30,"Nursing Assistant II",Lifespan,lifespan.org,"Hospital & Health Care","estimated $31.2k - $39.6k a year",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Teacher Assistants- Kindergarten Dual Language (Spanish)","Nuestro Mundo Public Charter School",,,"estimated $27k - $34.2k a year",,"Lower South Providence area)",Providence,RI,"2905"
+2022-07-30,"Registered Nurse I",Lifespan,lifespan.org,"Hospital & Health Care",,,"Downtown area)",Providence,RI,"2903"
+2022-07-29,"Secretary C",Lifespan,lifespan.org,"Hospital & Health Care","estimated $30.3k - $38.3k a year",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Providence College Catering Delivery/Setup/Pickup",Sodexo,sodexo.com,"Facilities Services",,,"Downtown area)",Providence,RI,"2918"
+2022-07-30,"Nursing Assistant II",Lifespan,lifespan.org,"Hospital & Health Care","estimated $31.2k - $39.6k a year",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Stock/Receiving Clerk","RISD - Rhode Island School of Design",risd.edu,"Higher Education",,,"College Hill area)",Providence,RI,""
+2022-07-30,"Registered Nurse I",Lifespan,lifespan.org,"Hospital & Health Care",,,"Downtown area)",Providence,RI,"2903"
+2022-07-29,"Classroom Behavior Spclist",Lifespan,lifespan.org,"Hospital & Health Care","estimated $33.1k - $41.9k a year",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Sales Associate","RISD - Rhode Island School of Design",risd.edu,"Higher Education",,,"College Hill area)",Providence,RI,""
+2022-07-29,"Classroom Behavior Spclist",Lifespan,lifespan.org,"Hospital & Health Care","estimated $33.1k - $41.9k a year",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"School Social Worker","Nuestro Mundo Public Charter School",,,"estimated $53.4k - $67.6k a year",,"Lower South Providence area)",Providence,RI,"2905"
+2022-07-29,"Assistant Coach, Strength & Conditioning-2","Brown University",brown.sd.us,"Government Administration","estimated $34.1k - $43.1k a year",,"College Hill area)",Providence,RI,"2912"
+2022-07-31,"Inventory Specialist",WALGREENS,walgreens.com,Retail,,,"Silverlake area)",Providence,RI,"2909"
+2022-08-01,"Medical Assistant",Lifespan,lifespan.org,"Hospital & Health Care","estimated $34.8k - $44k a year",,"Hope area)",Providence,RI,"2906"
+2022-08-01,"Registered Nurse",Lifespan,lifespan.org,"Hospital & Health Care","estimated $83.1k - $105k a year",,"Hope area)",Providence,RI,"2906"
+2022-08-01,"Sbarro Team Member",Sbarro,,,,,"Downtown area)",Providence,RI,"2908"
+2022-07-30,"Relationship Banker II- SB (Network Expansion) Olneyville Br...","JPMorgan Chase Bank, N.A.",chase.com,"Financial Services","$22.50 an hour",,,Providence,RI,""
+2022-07-30,"Providence College Union Utility & Floors",Sodexo,sodexo.com,"Facilities Services",,,"Elmhurst area)",Providence,RI,"2918"
+2022-07-30,"Utility Worker",Sodexo,sodexo.com,"Facilities Services",,,"Elmhurst area)",Providence,RI,"2918"
+2022-07-30,"Patient Service Rep",Lifespan,lifespan.org,"Hospital & Health Care","estimated $39.4k - $50k a year",,"Hope area)",Providence,RI,"2906"
+2022-07-30,"Pharmacy Tech",Lifespan,lifespan.org,"Hospital & Health Care","estimated $30.3k - $38.3k a year",,"Hope area)",Providence,RI,"2906"
+2022-07-30,"Patient Scheduler",Lifespan,lifespan.org,"Hospital & Health Care","estimated $31.2k - $39.6k a year",,"Hope area)",Providence,RI,"2906"
+2022-07-30,"Kindergarten Teacher- Dual Language Spanish","Nuestro Mundo Public Charter School",,,"estimated $42.4k - $53.6k a year",,"Lower South Providence area)",Providence,RI,"2905"
+2022-07-30,"ELA Teacher","St. Augustine School",staug-md.org,"Industry:  K-12 Schools, Education","estimated $46.1k - $58.3k a year",,"Mount Pleasant area)",Providence,RI,"2908"
+2022-07-29,"Housekeeping Aide",Lifespan,lifespan.org,"Hospital & Health Care","estimated $26.3k - $33.3k a year",,"Downtown area)",Providence,RI,"2903"
+2022-07-29,"Registered Nurse",Lifespan,lifespan.org,"Hospital & Health Care","estimated $70.7k - $89.5k a year",,"Hope area)",Providence,RI,"2906"
+2022-07-29,"Housekeeping Aide",Lifespan,lifespan.org,"Hospital & Health Care","estimated $27.9k - $35.3k a year",,"Downtown area)",Providence,RI,"2903"
+2022-07-29,"Sensing & Analytics Specialist",Deloitte,deloitte.com,"Management Consulting","estimated $61.2k - $77.6k a year",Remote,,"Remote in Providence",RI,""
+2022-07-30,"Dining Experience Associate","RISD - Rhode Island School of Design",risd.edu,"Higher Education","estimated $25.6k - $32.4k a year",,"College Hill area)",Providence,RI,""
+2022-07-30,"Public Safety Officer II, Rhode Island School of Design","RISD - Rhode Island School of Design",risd.edu,"Higher Education","estimated $32k - $40.6k a year",,"College Hill area)",Providence,RI,""
+2022-07-31,"Pool - Substitute Office Clerk","Providence School District",providenceschools.org,"Primary/Secondary Education","estimated $30.9k - $39.1k a year",,"Federal Hill area)",Providence,RI,"2903"
+2022-07-29,"Patient Service Rep",Lifespan,lifespan.org,"Hospital & Health Care","estimated $32.3k - $40.9k a year",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Pool - Substitute Teacher (Certified)","Providence School District",providenceschools.org,"Primary/Secondary Education","$225 a day",,"Federal Hill area)",Providence,RI,"2903"
+2022-07-30,"Teacher - Elem. PE/Health/Adaptive (SY 22-23)","Providence School District",providenceschools.org,"Primary/Secondary Education","estimated $54.4k - $68.8k a year",,"Federal Hill area)",Providence,RI,"2903"
+2022-07-30,"School Counselor - Middle School [Teacher Leader] (SY 22-23)","Providence Schools",,,"estimated $61.5k - $77.9k a year",,"College Hill area)",Providence,RI,"2901"
+2022-07-30,"Sales and Service Representative","AAA Northeast",aaanortheast.com,,,,"Charles area)",Providence,RI,"2904"
+2022-07-30,"Legal/Scheduling Assistant (6-month temporary position)","Cameron & Mittleman, LLP",,,"$23 - $26 an hour",,"Smith Hill area)",Providence,RI,"2908"
+2022-07-31,Baker,"The Capital Grille",thecapitalgrille.com,Restaurants,"from $17 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Human Intelligence Collector (Army)","goarmy.com Recruiting NewEngland",,,"estimated $33.9k - $42.9k a year",,,Providence,RI,""
+2022-08-04,"IN-STORE PRODUCT ASSEMBLER","National Assemblers",teamnai.com,Retail,"from $20 an hour",,,Providence,RI,""
+2022-07-30,"Human Resources Specialist","goarmy.com Recruiting NewEngland",,,"$1,733 - $2,263 a month",,,Providence,RI,""
+2022-07-29,"Surgical Coordinator","Care New England",carenewengland.org,"Hospital & Health Care","estimated $32.2k - $40.8k a year",,"Washington Park area)",Providence,RI,"2905"
+2022-07-31,"Assistant Store Manager","DSW-Designer Shoe Warehouse",dsw.com,Retail,"$18 - $23 an hour",,"Downtown area)",Providence,RI,"2908"
+2022-07-30,"Front Desk Agent - Full time","Omni Hotels & Resorts",omnihotels.com,Hospitality,,,"Downtown area)",Providence,RI,"2903"
+2022-08-04,"Team Member/Cashier","Rory's Market + Kitchen",,,"$15 - $17 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Special Projects Manager","ONE Neighborhood Builders",oneneighborhoodbuilders.org,"Nonprofit Organization Management","$50,000 - $60,000 a year",,"Olneyville area)",Providence,RI,"2909"
+2022-07-30,"Laboratory Assistant (2nd/3rd Shift)","Providence, RI 02908?(Smith Hill area)",,,,,,,,""
+2022-07-31,Server,"Y Noodle & Bar",,,"$14.00 - $33.88 an hour",,"Federal Hill area)",Providence,RI,"2903"
+2022-07-30,"Cryptologic Linguist (Army)","Providence, RI",,,,,,,,""
+2022-07-30,Host,"Ten Prime Steak & Sushi",tenprimesteakandsushi.com,Restaurants,"from $15 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-08-01,Baker/Mixer,"KNEAD Doughnuts",,,"$16.75 - $19.00 an hour",,"West End area)",Providence,RI,"2907"
+2022-07-30,"Rooms Operations Supervisor - Aloft Providence Downtown","Aloft Providence Downtown Hotel",,,"from $17.50 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-08-01,"Elem. Library Teacher (SY 22-23)","Providence Public Schools",,,"$45,104 - $85,018 a year",,"Mount Pleasant area)",Providence,RI,"2908"
+2022-08-04,"Kitchen Team Member","Rory's Market + Kitchen",,,"$15 - $17 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Take out cashier","Gregg's Restaurants and Taverns",greggsusa.com,"Public Relations & Communications","from $13 an hour",,"Hope area)",Providence,RI,"2906"
+2022-08-04,"Juice Bar Team Member","Rory's Market + Kitchen",,,"$15 - $17 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Mobile Phlebotomist","Rhode Island Blood Center",ribc.org,"Hospital & Health Care","estimated $29.4k - $37.2k a year",,"Smith Hill area)",Providence,RI,"2908"
+2022-08-01,"Nurse Staff","The Providence Community Health Centers, Inc.",providencechc.org,"Medical Practice",,,"Olneyville area)",Providence,RI,"2909"
+2022-07-30,"Medical Assistant","Ortho Rhode Island",,,"estimated $31.2k - $39.4k a year",,"Elmhurst area)",Providence,RI,"2908"
+2022-08-01,"Plumbing Journeyman","Attention To Detail Plumbing And Heating, LLC -...",,,"$35 - $55 an hour",,"Hartford area)",Providence,RI,"2909"
+2022-07-31,"Ambulatory Care Provider & Quality Assurance","Providence, RI 02909?(Olneyville area)",,,,,,,,""
+2022-07-30,"DUNKIN - Crew Member","Dunkin | Blackstone Donuts",,,"estimated $22.9k - $28.9k a year",,"West End area)",Providence,RI,"2907"
+2022-07-30,"Administrative Assistant - Per Diem","Hope Health",hopehealth.com,,"estimated $30.8k - $39k a year",,"Valley area)",Providence,RI,"2904"
+2022-07-30,"Hospice Aide","Hope Health",hopehealth.com,,"estimated $33.2k - $42k a year",,"Valley area)",Providence,RI,"2904"
+2022-08-04,CMT,"Wingate Residences on Blackstone Boulevard",,,"estimated $33.6k - $42.6k a year",,"Blackstone area)",Providence,RI,"2906"
+2022-07-30,"Pediatric RN","Compunnel Healthcare",,,"up to $85 an hour",,"Washington Park area)",Providence,RI,"2905"
+2022-07-30,"Teacher Assistant FT with Infants or Toddlers DD835","Dr. Day Care",drdaycare.com,"Education Management","$14 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Housekeeping Associate- FT","Boscov's Department Store",boscovs.com,Retail,"estimated $24.3k - $30.7k a year",,"Downtown area)",Providence,RI,"2908"
+2022-07-30,"Valet Runner - Providence","Towne Park",townepark.com,Hospitality,,,"Downtown area)",Providence,RI,"2903"
+2022-07-30,Dishwasher,"Gregg's Restaurants and Taverns",greggsusa.com,"Public Relations & Communications","from $12.75 an hour",,"Hope area)",Providence,RI,"2906"
+2022-07-30,"Electronic Weapons Repairer (Army)","goarmy.com Recruiting NewEngland",,,"estimated $27.6k - $35k a year",,,Providence,RI,""
+2022-07-30,"HAZMAT Decontamination Specialist (Army)","Providence, RI",,,,,,,,""
+2022-07-29,"Movers/Helpers Wanted","All My Sons Moving & Storage",allmysons.com,Transportation/Trucking/Railroad,"$15 - $18 an hour",,"Valley area)",Providence,RI,"2904"
+2022-08-01,"Registered Dietitian- Providence, RI",NutraCo,,,"estimated $57.8k - $73.2k a year",,"Elmhurst area)",Providence,RI,"2908"
+2022-08-01,"BH-PAS Clinician, FT-Eve","Care New England",carenewengland.org,"Hospital & Health Care","estimated $54.7k - $69.3k a year",,"Blackstone area)",Providence,RI,"2906"
+2022-07-31,"Residential Case Manager- per diem","Care New England",carenewengland.org,"Hospital & Health Care","estimated $34.9k - $44.3k a year",,"Valley area)",Providence,RI,"2904"
+2022-07-31,"Registered Nurse (RN)","Elmhurst Rehabilitation and Healthcare Center",elmhurstrehabhc.com,"Hospital & Health Care","sign-on bonus: up to $3,000!",,"Elmhurst area)",Providence,RI,"2908"
+2022-07-30,"Medical Assistant","Ortho Rhode Island",,,"estimated $31.2k - $39.4k a year",,"Elmhurst area)",Providence,RI,"2908"
+2022-08-04,CMT,"Wingate Residences on Blackstone Boulevard",,,"estimated $33.6k - $42.6k a year",,"Blackstone area)",Providence,RI,"2906"
+2022-07-30,"Teacher Assistant FT with Infants or Toddlers DD835","Dr. Day Care",drdaycare.com,"Education Management","$14 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Electronic Weapons Repairer (Army)","goarmy.com Recruiting NewEngland",,,"estimated $27.6k - $35k a year",,,Providence,RI,""
+2022-07-31,"Residential Case Manager- per diem","Care New England",carenewengland.org,"Hospital & Health Care","estimated $34.9k - $44.3k a year",,"Valley area)",Providence,RI,"2904"
+2022-07-31,"Delivery Driver","Chick-fil-A - Providence Delivery",,,"$15 an hour",,"Smith Hill area)",Providence,RI,"2908"
+2022-07-31,"School Age Program Manager","Federal Hill House Association",federalhillhouse.org,"Individual & Family Services","$48,000 - $53,000 a year",,"Federal Hill area)",Providence,RI,"2909"
+2022-07-31,"Juice Bar Manager","Rory's Market + Kitchen",,,"from $18 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"DUNKIN - Crew Member","Dunkin | Blackstone Donuts",,,"estimated $21.7k - $27.5k a year",,"Hope area)",Providence,RI,"2906"
+2022-07-30,"DUNKIN - Crew Member","Dunkin | Blackstone Donuts",,,"estimated $22.9k - $28.9k a year",,"Hope area)",Providence,RI,"2906"
+2022-07-30,"Nurse Practitioner / Physician Assistant for Nursing Home Pr...",CoreHealthCare,,,"$110,000 - $130,000 a year",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Access Center Coordinator","Hope Health",hopehealth.com,,,,"Valley area)",Providence,RI,"2904"
+2022-07-30,"Store Manager - Now Hiring","Cumberland Farms, Inc.",,,,,"Wanskuck area)",Providence,RI,"2904"
+2022-07-30,"Hospice Aide - Per Diem","Hope Health",hopehealth.com,,"estimated $30.9k - $39.1k a year",,"Valley area)",Providence,RI,"2904"
+2022-08-04,"Registered Nurse (RN)","Wingate Residences on Blackstone Boulevard",,,"estimated $63.3k - $80.1k a year",,"Blackstone area)",Providence,RI,"2906"
+2022-08-04,LPN,"Wingate Residences on Blackstone Boulevard",,,"estimated $50.6k - $64k a year",,"Blackstone area)",Providence,RI,"2906"
+2022-07-30,"Medical Dosimetrist","Compunnel Healthcare",,,"up to $85 an hour",,"Wayland area)",Providence,RI,"2906"
+2022-07-30,"Outside Sales Representative","City Wide of Southern New England",,,"from $45,000 a year",,,Providence,RI,""
+2022-07-30,"Infantry Candidate (Army)","Providence, RI",,,,,,,,""
+2022-07-30,"Air Defense Crewmember (Army)","Providence, RI",,,,,,,,""
+2022-07-30,"Registered Nurse, Therapeutics","Rhode Island Blood Center",ribc.org,"Hospital & Health Care","estimated $72.2k - $91.4k a year",,"Smith Hill area)",Providence,RI,"2908"
+2022-07-29,"DUNKIN - Crew Member","Dunkin' | S&D Eddy LLC",,,"estimated $22.8k - $28.8k a year",,"Lower South Providence area)",Providence,RI,"2905"
+2022-07-31,"Daytime Team Member","Chick-fil-A - Providence Delivery",,,"$15 an hour",,"Smith Hill area)",Providence,RI,"2908"
+2022-07-31,"Outside Sales Representative","National Federation of Independent Business (NFIB)",nfib.com,"Nonprofit Organization Management","from $200,000 a year",,,Providence,RI,""
+2022-07-30,"On-Call Museum Preparator","RISD - Rhode Island School of Design",risd.edu,"Higher Education","estimated $35.7k - $45.3k a year",,"College Hill area)",Providence,RI,""
+2022-07-30,"Middle School Library Program Assistant","Paul Cuffee School",paulcuffee.org,"Education Management","estimated $30.4k - $38.4k a year",,"Hartford area)",Providence,RI,"2909"
+2022-07-30,"Part-time Barista at Providence College",Sodexo,sodexo.com,"Facilities Services",,,"Elmhurst area)",Providence,RI,"2918"
+2022-07-31,"Retail Sales Technology Associate","Staples Stores",staplesconnect.com,"Business Supplies & Equipment",,,"Mount Hope area)",Providence,RI,"2904"
+2022-07-30,"Part-time Station Attendant at Providence College",Sodexo,sodexo.com,"Facilities Services",,,"Elmhurst area)",Providence,RI,"2918"
+2022-07-30,"Providence College Part-time Cashier",Sodexo,sodexo.com,"Facilities Services",,,"Elmhurst area)",Providence,RI,"2918"
+2022-07-31,"Seasonal Retail Sales Associate, Providence Place",Macy?s,,,,,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"PT Late Night Cashier at Providence College",Sodexo,sodexo.com,"Facilities Services",,,"Elmhurst area)",Providence,RI,"2918"
+2022-07-31,"Seasonal Retail Sales Associate, Providence Place",Macy?s,,,,,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Part-time Deli at Providence College",Sodexo,sodexo.com,"Facilities Services",,,"Elmhurst area)",Providence,RI,"2918"
+2022-07-30,"Providence College Cashier",Sodexo,sodexo.com,"Facilities Services",,,"Downtown area)",Providence,RI,"2918"
+2022-07-30,"Public Programs Coordinator, RISD Museum","RISD - Rhode Island School of Design",risd.edu,"Higher Education","estimated $28.9k - $36.7k a year",,"College Hill area)",Providence,RI,""
+2022-07-30,"Nursing Assistant II",Lifespan,lifespan.org,"Hospital & Health Care","estimated $32.7k - $41.3k a year",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Part-time Wings Station Attendant at Providence College",Sodexo,sodexo.com,"Facilities Services",,,"Elmhurst area)",Providence,RI,"2918"
+2022-07-30,"Temporary Sales Associate","RISD - Rhode Island School of Design",risd.edu,"Higher Education","$15 an hour",,"College Hill area)",Providence,RI,""
+2022-07-31,"Retail Sales Associate","Staples Stores",staplesconnect.com,"Business Supplies & Equipment",,,"Mount Hope area)",Providence,RI,"2904"
+2022-07-30,"Art Teacher","Family Service of Rhode Island",,,"estimated $39.2k - $49.6k a year",,"Federal Hill area)",Providence,RI,"2940"
+2022-07-30,"Nursing Assistant II",Lifespan,lifespan.org,"Hospital & Health Care","estimated $32.7k - $41.3k a year",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Physical Education/Health Teacher","Nuestro Mundo Public Charter School",,,"estimated $36.8k - $46.6k a year",,"Lower South Providence area)",Providence,RI,"2905"
+2022-07-29,"Laundry Aide",Lifespan,lifespan.org,"Hospital & Health Care","estimated $28.9k - $36.7k a year",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Stock Support Associate","Garage Clothing",garageclothing.com,Retail,,,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Part-time Faculty, Colonial Histories of Modern Textiles","RISD - Rhode Island School of Design",risd.edu,"Higher Education",,,"Downtown area)",Providence,RI,"2903"
+2022-07-29,"Housekeeping Aide",Lifespan,lifespan.org,"Hospital & Health Care","estimated $25.2k - $32k a year",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Special Education Administrator (Per Diem )","The Providence Center School",,,"estimated $44.4k - $56.2k a year",,"Blackstone area)",Providence,RI,"2906"
+2022-07-30,"Asset Protection Detective, Providence Place - Standard Part...",Macy?s,,,,,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Paint Night Artist","Muse Paintbar",musepaintbar.com,Entertainment,"estimated $35.7k - $45.3k a year",,"College Hill area)",Providence,RI,"2903"
+2022-07-30,Bartender,"Trinity Repertory Company",trinityrep.com,"Performing Arts","$13.50 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Nursing Assistant II",Lifespan,lifespan.org,"Hospital & Health Care","estimated $30.1k - $38.1k a year",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Nursing Assistant II",Lifespan,lifespan.org,"Hospital & Health Care","estimated $30.1k - $38.1k a year",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Dish Room Attendant (part-time)","RISD - Rhode Island School of Design",risd.edu,"Higher Education","estimated $26.8k - $34k a year",,"College Hill area)",Providence,RI,""
+2022-07-29,"Housekeeping Aide",Lifespan,lifespan.org,"Hospital & Health Care","estimated $25.2k - $32k a year",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Registered Nurse I",Lifespan,lifespan.org,"Hospital & Health Care","estimated $69.4k - $87.8k a year",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Registered Nurse I",Lifespan,lifespan.org,"Hospital & Health Care",,,"Downtown area)",Providence,RI,"2903"
+2022-07-29,"Mental Health Worker",Lifespan,lifespan.org,"Hospital & Health Care","estimated $43.3k - $54.9k a year",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Maintenance Worker","Family Service of Rhode Island",,,"estimated $28.3k - $35.9k a year",,"Federal Hill area)",Providence,RI,"2940"
+2022-07-30,"Clinical Psychologist ( Per Diem )","The Providence Center School",,,"estimated $86.8k - $110k a year",,"Blackstone area)",Providence,RI,"2906"
+2022-08-01,"Sbarro Team Member",Sbarro,,,,,"Downtown area)",Providence,RI,"2908"
+2022-08-01,"Customer Service Associate",WALGREENS,walgreens.com,Retail,,,"Wanskuck area)",Providence,RI,"2908"
+2022-07-30,"Bakery Cake Decorator - Part Time","Whole Foods Market",wholefoodsmarket.com,Supermarkets,,,"Wayland area)",Providence,RI,"2906"
+2022-08-01,Baker/Mixer,"KNEAD Doughnuts",,,"$16.75 - $19.00 an hour",,"West End area)",Providence,RI,"2907"
+2022-08-04,"Team Member/Cashier","Rory's Market + Kitchen",,,"$15 - $17 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,Bookkeeper,"Michael Lombardi Law Firm LLC and Robert Russo Law...",,,"$15.27 - $26.84 an hour",,"Elmhurst area)",Providence,RI,"2908"
+2022-07-31,"Mobile Phlebotomist/Health Screener/Paramedical Examiner 3+...",TravaLab,travalab.com,"Hospital & Health Care","$30 - $45 an hour",,,Providence,RI,""
+2022-07-30,Host,"Ten Prime Steak & Sushi",tenprimesteakandsushi.com,Restaurants,"from $15 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Wedding Photographer Independent Contractor","Yours Truly Media",yourstrulymedia.com,"Media Production","$40 - $90 an hour",,,Providence,RI,""
+2022-07-31,Server,"Y Noodle & Bar",,,"$14.00 - $33.88 an hour",,"Federal Hill area)",Providence,RI,"2903"
+2022-07-30,"Take out cashier","Gregg's Restaurants and Taverns",greggsusa.com,"Public Relations & Communications","from $13 an hour",,"Hope area)",Providence,RI,"2906"
+2022-08-04,"Juice Bar Team Member","Rory's Market + Kitchen",,,"$15 - $17 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-08-04,"Kitchen Team Member","Rory's Market + Kitchen",,,"$15 - $17 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-07-31,"Consumer Electronics Technician","Mobile Technologies Inc.",mtigs.com,"Consumer Electronics","$24 an hour",,,Providence,RI,""
+2022-08-01,Baker/Mixer,"KNEAD Doughnuts",,,"$16.75 - $19.00 an hour",,"West End area)",Providence,RI,"2907"
+2022-07-31,Cashier,Popeyes,znhfoodsinc.com,,,,"Reservoir area)",Providence,RI,"2907"
+2022-07-31,"Consumer Electronics Technician","Mobile Technologies Inc.",mtigs.com,"Consumer Electronics","$24 an hour",,,Providence,RI,""
+2022-07-30,"Membership Sales Representative","Massage Envy",massageenvy.com,"Health, Wellness & Fitness",,,"Wayland area)",Providence,RI,"2906"
+2022-07-30,"Shuttle Driver 7pm-3am PT (Chauffeur license)","Valet Park of America",valetparkofamerica.com,Hospitality,"$20 an hour",,"Elmhurst area)",Providence,RI,"2918"
+2022-07-31,"Afternoon Toddler Teacher Assistant Part-Time","Eastside Early Learning Center",,,"from $15 an hour",,"Blackstone area)",Providence,RI,"2906"
+2022-07-31,"Nurse (Weekends)","Elmhurst Rehabilitation and Healthcare Center",elmhurstrehabhc.com,"Hospital & Health Care","$42 an hour",,"Elmhurst area)",Providence,RI,"2908"
+2022-07-31,"Team Member",Popeyes,znhfoodsinc.com,,,,"Reservoir area)",Providence,RI,"2907"
+2022-07-30,"DUNKIN - Crew Member","Dunkin | Blackstone Donuts",,,"estimated $22.9k - $28.9k a year",,"West End area)",Providence,RI,"2907"
+2022-07-30,"Administrative Assistant - Per Diem","Hope Health",hopehealth.com,,"estimated $30.8k - $39k a year",,"Valley area)",Providence,RI,"2904"
+2022-08-04,CMT,"Wingate Residences on Blackstone Boulevard",,,"estimated $33.6k - $42.6k a year",,"Blackstone area)",Providence,RI,"2906"
+2022-07-30,Dishwasher,"Gregg's Restaurants and Taverns",greggsusa.com,"Public Relations & Communications","from $12.75 an hour",,"Hope area)",Providence,RI,"2906"
+2022-07-29,"DUNKIN - Shift Leader","Dunkin' | S&D Eddy LLC",,,"$12 - $15 an hour",,"Lower South Providence area)",Providence,RI,"2905"
+2022-07-29,"DUNKIN - Crew Member","Dunkin' | S&D Eddy LLC",,,"estimated $22.8k - $28.8k a year",,"Lower South Providence area)",Providence,RI,"2905"
+2022-07-29,"Clinician (Outpatient Mental Health)",JCS,,,"estimated $56.8k - $72k a year",,"Hope area)",Providence,RI,"2906"
+2022-08-01,"Part-Time Registered Dietitian- Providence, RI",NutraCo,,,"estimated $56.7k - $71.7k a year",,"Elmhurst area)",Providence,RI,"2908"
+2022-07-31,"Residential Case Manager- per diem","Care New England",carenewengland.org,"Hospital & Health Care","estimated $34.9k - $44.3k a year",,"Valley area)",Providence,RI,"2904"
+2022-07-31,"Registered Nurse (RN)","Elmhurst Rehabilitation and Healthcare Center",elmhurstrehabhc.com,"Hospital & Health Care","sign-on bonus: up to $3,000!",,"Elmhurst area)",Providence,RI,"2908"
+2022-07-31,"Daytime Team Member","Chick-fil-A - Providence Delivery",,,"$15 an hour",,"Smith Hill area)",Providence,RI,"2908"
+2022-07-31,"Delivery Driver","Chick-fil-A - Providence Delivery",,,"$15 an hour",,"Smith Hill area)",Providence,RI,"2908"
+2022-08-04,"Paid Opportunity for Nurse Practitioners and MDs in Providen...",NPHub,nphub.com,"Hospital & Health Care","up to $3,000 a month",,,Providence,RI,""
+2022-07-30,"DUNKIN - Crew Member","Dunkin | Blackstone Donuts",,,"estimated $21.7k - $27.5k a year",,"Hope area)",Providence,RI,"2906"
+2022-07-30,"DUNKIN - Crew Member","Dunkin | Blackstone Donuts",,,"estimated $22.9k - $28.9k a year",,"Hope area)",Providence,RI,"2906"
+2022-07-30,"Pizza Delivery Driver","Pizza Pie-er",pizzapie-er.com,Restaurants,"$20 an hour",,"Fox Point area)",Providence,RI,"2906"
+2022-07-30,"Nurse Practitioner / Physician Assistant for Nursing Home Pr...",CoreHealthCare,,,"$110,000 - $130,000 a year",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Food Service Worker","Hope Health",hopehealth.com,,"estimated $25.9k - $32.9k a year",,"Valley area)",Providence,RI,"2904"
+2022-07-30,"Hospice Aide - Per Diem","Hope Health",hopehealth.com,,"estimated $30.9k - $39.1k a year",,"Valley area)",Providence,RI,"2904"
+2022-08-04,"Registered Nurse (RN)","Wingate Residences on Blackstone Boulevard",,,"estimated $63.3k - $80.1k a year",,"Blackstone area)",Providence,RI,"2906"
+2022-08-04,LPN,"Wingate Residences on Blackstone Boulevard",,,"estimated $50.6k - $64k a year",,"Blackstone area)",Providence,RI,"2906"
+2022-07-30,"Teacher Assistant FT with Infants or Toddlers DD835","Dr. Day Care",drdaycare.com,"Education Management","$14 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Cake Decorator","Gregg's Restaurants and Taverns",greggsusa.com,"Public Relations & Communications","from $13 an hour",,"Hope area)",Providence,RI,"2906"
+2022-08-04,"Valet Parking Attendant","Infinity Valet",,,"$12.75 - $17.00 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-07-29,"Child Interventionist (Part Time)","Butterfly Effects",butterflyeffects.com,"Individual & Family Services","$18 - $25 an hour",,,Providence,RI,"2912"
+2022-07-30,"Valet Runner - Providence","Towne Park",townepark.com,Hospitality,,,"Downtown area)",Providence,RI,"2903"
+2022-08-04,"RN (Registered Nurse)","Norton Staffing and Recruiting Group",4norton.com,"Staffing & Recruiting","estimated $65.1k - $82.5k a year",,,Providence,RI,""
+2022-07-31,"Associate Real Estate Agent (Independent Contractor) - Provi...",Redfin,redfin.com,"Real Estate",,,,Providence,RI,""
+2022-07-31,"Mobile Phlebotomist/Health Screener/Paramedical Examiner 3+...",TravaLab,travalab.com,"Hospital & Health Care","$30 - $45 an hour",,,Providence,RI,""
+2022-07-30,"Wedding Photographer Independent Contractor","Yours Truly Media",yourstrulymedia.com,"Media Production","$40 - $90 an hour",,,Providence,RI,""
+2022-07-30,"Pediatric RN","Compunnel Healthcare",,,"up to $85 an hour",,"Washington Park area)",Providence,RI,"2905"
+2022-08-04,"Paid Opportunity for Nurse Practitioners and MDs in Providen...",NPHub,nphub.com,"Hospital & Health Care","up to $3,000 a month",,,Providence,RI,""
+2022-07-30,"Medical Dosimetrist","Compunnel Healthcare",,,"up to $85 an hour",,"Wayland area)",Providence,RI,"2906"
+2022-07-30,"Customer Service Technical Support Administrator, Temporary",Pearson,pearson.com,"Education Management",,,"Federal Hill area)",Providence,RI,"2940"
+2022-07-30,"Temporary Sales Associate","RISD - Rhode Island School of Design",risd.edu,"Higher Education","$15 an hour",,"College Hill area)",Providence,RI,""
+2022-07-30,"Legal/Scheduling Assistant (6-month temporary position)","Cameron & Mittleman, LLP",,,"$23 - $26 an hour",,"Smith Hill area)",Providence,RI,"2908"
+2022-07-29,"Surgical Coordinator","Care New England",carenewengland.org,"Hospital & Health Care","estimated $32.2k - $40.8k a year",,"Washington Park area)",Providence,RI,"2905"
+2022-07-31,"Medical Secretary - Temporary","Care New England",carenewengland.org,"Hospital & Health Care","estimated $28.7k - $36.3k a year",,"Washington Park area)",Providence,RI,"2905"
+2022-08-03,"Technology Co-op - 2023 Spring JJT Co-op","Johnson & Johnson",,,,,,Providence,RI,""
+2022-08-03,"Assistant Dean of Students","The UCAP School",,,"up to $55,000 a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-03,"Admissions Records Assistant","Johnson & Wales University",jwu.edu,"Higher Education","estimated $30.3k - $38.3k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-02,"Maintenance Technician I","Marriott International, Inc",,,,,"Downtown area)",Providence,RI,"2903"
+2022-08-02,"Brown/Trinity Non-AEA Stage Managers","Trinity Repertory Company",trinityrep.com,"Performing Arts","$800 a week",,"Downtown area)",Providence,RI,"2903"
+2022-08-04,"General Laborer",Surv,surveaston.com,,"$15 - $24 an hour",,,Providence,RI,""
+2022-08-03,"Restaurant Team Member - Crew (1388 - Brown U)",Chipotle,,,"tuition assistance (100% coverage for select degrees or up to $5,250/year).",,"College Hill area)",Providence,RI,"2906"
+2022-08-02,"Maintenance Technician I","Marriott International, Inc",,,,,"Downtown area)",Providence,RI,"2903"
+2022-08-03,"Campus Police Officer","Brown University",brown.sd.us,"Government Administration","estimated $34.2k - $43.2k a year",,"College Hill area)",Providence,RI,"2912"
+2022-08-03,"Admissions Counselor","Johnson & Wales University",jwu.edu,"Higher Education","estimated $36.1k - $45.7k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-03,"Seasonal Technician ? Full Time","CVS Health Retail",cvshealth.com,"Health, Wellness & Fitness",,,,Providence,RI,""
+2022-08-02,"Seasonal Technician ? Full Time","CVS Health Retail",cvshealth.com,"Health, Wellness & Fitness",,,,Providence,RI,""
+2022-08-02,"FOOD SERVICE WORKER (FULL & PART-TIME)","Chartwells K12",chartwellsk12.com,"Food & Beverages","$12.50 an hour",,,Providence,RI,""
+2022-08-03,"Physical Education/Health Teacher","Family Service of Rhode Island",,,"estimated $39.5k - $50.1k a year",,"Lower South Providence area)",Providence,RI,"2905"
+2022-08-04,"Executive Assistant","Moneycorp US",moneycorp.com,"Financial Services","estimated $39.1k - $49.5k a year",,,Providence,RI,""
+2022-08-02,"Providence College Full-time Deli Attendant",Sodexo,sodexo.com,"Facilities Services",,,"Elmhurst area)",Providence,RI,"2918"
+2022-08-04,"Market Outside Sales Associate",Allstate,al.st,,,,,Providence,RI,""
+2022-08-03,"Outside Sales Rep - Base Salary, Uncapped Commissions, Bonus...","Hibu Inc",,,"$80,000 - $100,000 a year",,,"Hybrid remote in Providence",RI,""
+2022-08-04,"Survey Layout and Machine Specialist","Milton CAT",miltoncat.com,Machinery,,,,Providence,RI,""
+2022-08-04,"Service Desk Specialist II",UNFI,unfi.com,"Food & Beverages",,,,Providence,RI,""
+2022-08-03,"Teacher - Health","Providence, RI 02903?(Downtown area)",,,,,,,,""
+2022-08-02,"Medical Secretary",Lifespan,lifespan.org,"Hospital & Health Care","estimated $43.8k - $55.4k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-03,"Restaurant Team Member - Crew (3600 - Providence Branch Ave)",Chipotle,,,"tuition assistance (100% coverage for select degrees or up to $5,250/year).",,"Mount Hope area)",Providence,RI,"2904"
+2022-08-03,"Second Grade School Teacher","Bishop McVinney Regional School",bmv-school.org,,"estimated $39.3k - $49.7k a year",,"Federal Hill area)",Providence,RI,"2907"
+2022-08-03,"Medical Assistant I","PhyNet Dermatology, LLC",phynet.com,"Medical Practice","estimated $31.4k - $39.8k a year",,,Providence,RI,""
+2022-08-01,"Registered Nurse",Lifespan,lifespan.org,"Hospital & Health Care","estimated $70.7k - $89.5k a year",,"Hope area)",Providence,RI,"2906"
+2022-08-02,"Executive Assistant","Brown University",brown.sd.us,"Government Administration","estimated $43.6k - $55.2k a year",,"College Hill area)",Providence,RI,"2912"
+2022-08-04,"Survey Layout and Machine Specialist","SITECH Northeast Construction Technology",,,"estimated $35.7k - $45.3k a year",,,Providence,RI,""
+2022-08-03,"Clinical Research Asst",Lifespan,lifespan.org,"Hospital & Health Care","estimated $46.2k - $58.4k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-03,"Middle School Nurse Teacher","Paul Cuffee School",paulcuffee.org,"Education Management","estimated $39.9k - $50.5k a year",,"Hartford area)",Providence,RI,"2909"
+2022-08-03,"Assistant Manager","East Side Enterprise",,,"estimated $31.5k - $39.9k a year",,"Blackstone area)",Providence,RI,"2906"
+2022-08-03,"Clinical Research Asst",Lifespan,lifespan.org,"Hospital & Health Care","estimated $46.2k - $58.4k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-03,"Clinical Research Asst",Lifespan,lifespan.org,"Hospital & Health Care","estimated $45.4k - $57.4k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-03,"Nurse Practitioner Primary Care",Lifespan,lifespan.org,"Hospital & Health Care",,,"Downtown area)",Providence,RI,"2903"
+2022-08-03,"Providence College B'Rito Station Attendant FT",Sodexo,sodexo.com,"Facilities Services",,,"Downtown area)",Providence,RI,"2918"
+2022-08-03,"Information Technology Instructor","Year Up",yearup.org,"Nonprofit Organization Management",,,"Downtown area)",Providence,RI,"2903"
+2022-08-03,"Parts Delivery","O'Reilly Auto Parts",oreillyauto.com,Retail,,,"Olneyville area)",Providence,RI,"2909"
+2022-08-02,"Relationship Banker - Operations Specialist/Greater Providen...","HarborOne Bank",harborone.com,Banking,"$24 - $31 an hour",,,Providence,RI,""
+2022-08-03,"PFS Reconciliation Assistant",Lifespan,lifespan.org,"Hospital & Health Care","estimated $33.9k - $42.9k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-02,"Registered Nurse",Lifespan,lifespan.org,"Hospital & Health Care","estimated $83.1k - $105k a year",,"Hope area)",Providence,RI,"2906"
+2022-08-04,RN,"CharterCARE Health Partners",chartercare.org,"Hospital & Health Care","estimated $83k - $105k a year",,"Elmhurst area)",Providence,RI,"2908"
+2022-08-03,"Pre-K Teacher","Bishop McVinney Regional School",bmv-school.org,,"estimated $27.8k - $35.2k a year",,"Federal Hill area)",Providence,RI,"2907"
+2022-08-02,"Registered Nurse",Lifespan,lifespan.org,"Hospital & Health Care","estimated $83.1k - $105k a year",,"Hope area)",Providence,RI,"2906"
+2022-08-03,"Registered Nurse",Lifespan,lifespan.org,"Hospital & Health Care","estimated $70.7k - $89.5k a year",,"Hope area)",Providence,RI,"2906"
+2022-08-02,"Registered Nurse",Lifespan,lifespan.org,"Hospital & Health Care","estimated $83.1k - $105k a year",,"Hope area)",Providence,RI,"2906"
+2022-08-03,"Customer Service Rep",Lifespan,lifespan.org,"Hospital & Health Care",,,"Hope area)",Providence,RI,"2906"
+2022-08-02,"Registered Nurse",Lifespan,lifespan.org,"Hospital & Health Care","estimated $83.1k - $105k a year",,"Hope area)",Providence,RI,"2906"
+2022-08-02,"Registered Nurse",Lifespan,lifespan.org,"Hospital & Health Care","estimated $83.1k - $105k a year",,"Hope area)",Providence,RI,"2906"
+2022-08-02,"Registered Nurse",Lifespan,lifespan.org,"Hospital & Health Care","estimated $70.7k - $89.5k a year",,"Hope area)",Providence,RI,"2906"
+2022-08-03,"Patient Coordinator",Lifespan,lifespan.org,"Hospital & Health Care","estimated $31.7k - $40.1k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-02,"Registered Nurse",Lifespan,lifespan.org,"Hospital & Health Care","estimated $83.1k - $105k a year",,"Hope area)",Providence,RI,"2906"
+2022-08-03,"Parts Delivery","O'Reilly Auto Parts",oreillyauto.com,Retail,,,"Olneyville area)",Providence,RI,"2909"
+2022-08-02,"Seasonal Technician ? Full Time","CVS Health Retail",cvshealth.com,"Health, Wellness & Fitness",,,,Providence,RI,""
+2022-08-03,"Endoscopy (GI) Technician","Ocean State Endoscopy Center",,,"estimated $36.5k - $46.3k a year",,"Mount Hope area)",Providence,RI,"2904"
+2022-08-03,"Mgr Medical Imaging",Lifespan,lifespan.org,"Hospital & Health Care","estimated $70.1k - $88.7k a year",,"Hope area)",Providence,RI,"2906"
+2022-08-04,"Tax Associate",UNFI,unfi.com,"Food & Beverages",,,,Providence,RI,""
+2022-08-03,Phlebotomist,"East Side Clinical Laboratory, Inc.",eastsidelab.com,"Medical Practice",,,"Mount Hope area)",Providence,RI,"2904"
+2022-08-02,"Security Officer","State of Rhode Island",ri.gov,"Government Administration","estimated $36.8k - $46.6k a year",,"Smith Hill area)",Providence,RI,"2908"
+2022-08-02,"ASSISTANT STORE MANAGER","Family Dollar",familydollar.com,Retail,,,"Valley area)",Providence,RI,""
+2022-08-03,"Assistant Store Manager","O'Reilly Auto Parts",oreillyauto.com,Retail,,,"Olneyville area)",Providence,RI,"2909"
+2022-08-02,"ASSISTANT STORE MANAGER","Family Dollar",familydollar.com,Retail,,,"Elmwood area)",Providence,RI,"2907"
+2022-08-03,"Bilingual Store Counter Sales","O'Reilly Auto Parts",oreillyauto.com,Retail,,,"Olneyville area)",Providence,RI,"2909"
+2022-08-04,"Pharmacy Tech II","CharterCARE Health Partners",chartercare.org,"Hospital & Health Care","estimated $38.9k - $49.3k a year",,"Elmhurst area)",Providence,RI,"2908"
+2022-08-02,"Teacher - HS Library (SY 22-23)","Providence School District",providenceschools.org,"Primary/Secondary Education","estimated $52.2k - $66k a year",,"Federal Hill area)",Providence,RI,"2903"
+2022-08-01,"Medical Assistant",Lifespan,lifespan.org,"Hospital & Health Care","estimated $34.3k - $43.5k a year",,"Hope area)",Providence,RI,"2906"
+2022-08-04,"Retail Counter Sales","O'Reilly Auto Parts",oreillyauto.com,Retail,,,"Olneyville area)",Providence,RI,"2909"
+2022-08-02,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,"Wanskuck area)",Providence,RI,""
+2022-08-02,"Pharmacy 340B Specialist",Lifespan,lifespan.org,"Hospital & Health Care","estimated $45.8k - $58k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-04,"Medical Assistant - CCMA","CharterCARE Health Partners",chartercare.org,"Hospital & Health Care","estimated $29.8k - $37.8k a year",,"Elmhurst area)",Providence,RI,"2908"
+2022-08-03,"Tax Associate",CBIZ,cbiz.com,"Management Consulting","estimated $51.1k - $64.7k a year",,,Providence,RI,""
+2022-08-03,"Retail Sales Specialist","O'Reilly Auto Parts",oreillyauto.com,Retail,,,"Olneyville area)",Providence,RI,"2909"
+2022-08-02,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,"Valley area)",Providence,RI,"2908"
+2022-08-03,"School Counselor (SY 22-23)","Providence Schools",,,"estimated $47.4k - $60k a year",,"College Hill area)",Providence,RI,"2901"
+2022-08-02,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,"Olneyville area)",Providence,RI,"2909"
+2022-08-02,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,"Washington Park area)",Providence,RI,"2905"
+2022-08-02,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,"West End area)",Providence,RI,"2907"
+2022-08-03,"Pharmacy Quality Coordinator","CharterCARE Health Partners",chartercare.org,"Hospital & Health Care","estimated $32k - $40.6k a year",,"Elmhurst area)",Providence,RI,"2908"
+2022-08-02,Phlebotomist,Lifespan,lifespan.org,"Hospital & Health Care","estimated $33.3k - $42.1k a year",,"Hope area)",Providence,RI,"2906"
+2022-08-03,"Sbarro Team Member",Sbarro,,,,,"Downtown area)",Providence,RI,"2908"
+2022-08-02,"Teacher - HS Social Studies ESL (SY 22-23)","Providence Schools",,,"estimated $43.6k - $55.2k a year",,"College Hill area)",Providence,RI,"2901"
+2022-08-02,"ASSISTANT STORE MANAGER","Family Dollar",familydollar.com,Retail,,,"Olneyville area)",Providence,RI,""
+2022-08-02,"ASSISTANT STORE MANAGER","Family Dollar",familydollar.com,Retail,,,"West End area)",Providence,RI,""
+2022-08-03,"Teacher- HS Math (SY 22-23)","Providence Schools",,,"estimated $42.4k - $53.8k a year",,"College Hill area)",Providence,RI,"2901"
+2022-08-02,"Teacher Assistant - Behavior Support Assistant Float","Providence Schools",,,"estimated $27.4k - $34.6k a year",,"College Hill area)",Providence,RI,"2901"
+2022-08-02,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,"Valley area)",Providence,RI,"2908"
+2022-08-02,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,"Smith Hill area)",Providence,RI,"2908"
+2022-08-02,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,"Manton area)",Providence,RI,"2909"
+2022-08-02,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,"Silverlake area)",Providence,RI,"2909"
+2022-08-03,"Teacher Assistant - Enhanced Staffing (SY22-23)","Providence Schools",,,"estimated $24.7k - $31.3k a year",,"College Hill area)",Providence,RI,"2901"
+2022-08-02,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,"Washington Park area)",Providence,RI,"2905"
+2022-08-02,"Teacher Assistant - Sp. Ed. Inclusion Co-Teach (SY22-23)","Providence Schools",,,"estimated $31.2k - $39.4k a year",,"College Hill area)",Providence,RI,"2901"
+2022-08-02,"CUSTOMER SERVICE REPRESENTATIVE","Family Dollar",familydollar.com,Retail,,,"Elmwood area)",Providence,RI,"2907"
+2022-08-04,"Front of House Service Team Member","NICKS ON BROADWAY",nicksonbroadway.com,Restaurants,"$20 - $35 an hour",,"Federal Hill area)",Providence,RI,"2909"
+2022-08-04,"Registered Nurse - Medical/Surgical Division","Providence, RI 02903?(Downtown area)",,,,,,,,""
+2022-08-04,"Barista - Pointdexter Cafe @ Graduate Hotel","Infuse Hospitality",infusehospitality.com,"Food & Beverages","from $13.50 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-08-04,"Cold Caller Roofing Sales Position (High Commission & Payout...","CONCEP ROOFS",,,"from $1,500 a week",,"Downtown area)",Providence,RI,"2903"
+2022-08-04,"Kitchen Team Member","Rory's Market + Kitchen",,,"$15 - $17 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-08-02,"Private Investigator - Providence, RI",PhotoFax,photofax.com,"Security & Investigations","$22 - $25 an hour",,,Providence,RI,"2860"
+2022-08-03,"Entry Level Sales Representative","Cedar Valley Exteriors, Inc.",,,"$45,000 - $70,000 a year",,,Providence,RI,""
+2022-08-03,"Sales and Service Call Center Representative (remote)","AAA Northeast",aaanortheast.com,,,Remote,,"Remote in Providence",RI,"2904"
+2022-08-03,"Entry Level Sales Representative","Cedar Valley Exteriors, Inc.",,,"$45,000 - $70,000 a year",,,Providence,RI,""
+2022-08-03,"In-Home Sales Representative","Cedar Valley Exteriors, Inc.",,,"$95,000 - $120,000 a year",,,Providence,RI,""
+2022-08-03,"Food Runner/Server - Ganko Ittetsu Ramen","Ganko Ittetsu Ramen",gankoramen.com,Restaurants,"$12.25 - $35.00 an hour",,"College Hill area)",Providence,RI,"2906"
+2022-08-03,"TerraCorps Comm. Engagement Coordinator with Southside Commu...",TerraCorps,,,"up to $18,500 a year",,"Federal Hill area)",Providence,RI,"2907"
+2022-08-02,"Local Santa - Natural Beard","Cherry Hill Programs",cherryhillprograms.com,Photography,,,"Hartford area)",Providence,RI,"2909"
+2022-08-04,"Patient Navigator","Ortho Rhode Island",,,"estimated $40.1k - $50.7k a year",,"Elmhurst area)",Providence,RI,"2908"
+2022-08-02,"Office Associate SSA at Roger Williams Zoo","SSA Group, LLC",thessagroup.com,"Events Services","estimated $28.2k - $35.8k a year",,"South Elmwood area)",Providence,RI,"2907"
+2022-08-03,"TerraCorps Land Stewardship Coord. -Woonasquatucket River Wa...",TerraCorps,,,"up to $18,500 a year",,"Valley area)",Providence,RI,"2908"
+2022-08-04,"Dunkin' Team Member",Dunkin',,,"from $14 an hour",,"Hope area)",Providence,RI,"2906"
+2022-08-04,"Production Planner/Scheduler","Nelipak Healthcare Packaging",,,"$55,000 - $70,000 a year",,,Providence,RI,"2921"
+2022-08-03,"Field Manager",Janitech,janitechservices.com,"Facilities Services","from $40,000 a year",,,Providence,RI,""
+2022-08-03,"Nurse Practitioner/Medication Management",JCS,,,,,,Providence,RI,""
+2022-08-03,"Natural Gas Field Mechanical Technician","ULC Technologies",ulcrobotics.com,Utilities,"$30.35 an hour",,,Providence,RI,""
+2022-08-02,"In-Store Product Assembler","National Assemblers",teamnai.com,Retail,"$20 an hour",,,Providence,RI,""
+2022-08-02,Server,"Uno Pizzeria & Grill | Uno Restaurants",,,,,"Downtown area)",Providence,RI,"2903"
+2022-08-03,Bartender,"Public Kitchen and Bar",,,,,"Downtown area)",Providence,RI,"2903"
+2022-08-03,"Team Members (Career Advancement Opportunities)","Dunkin Donuts | Cafua Management Company",,,"estimated $23.7k - $30.1k a year",,"Valley area)",Providence,RI,"2908"
+2022-08-03,"TerraCorps Community Eng. Coord. -Woonasquatucket River Wate...",TerraCorps,,,"up to $18,500 a year",,"Valley area)",Providence,RI,"2908"
+2022-08-04,"Kitchen Staff","Wara Wara Japanese Restaurant",,,"$14 - $16 an hour",,"Hope area)",Providence,RI,"2906"
+2022-08-02,"Sales Associate- FT","Boscov's Department Store",boscovs.com,Retail,,,"Downtown area)",Providence,RI,"2908"
+2022-08-03,"Hospital Services Rep Driver","Rhode Island Blood Center",ribc.org,"Hospital & Health Care","estimated $27.1k - $34.3k a year",,,Providence,RI,""
+2022-08-03,"Boarding Agent","Norton Lilly International",nortonlilly.com,Maritime,"estimated $33.6k - $42.6k a year",,"Washington Park area)",Providence,RI,"2905"
+2022-08-03,Upholsterers,"Contrak Draperies Mfg. Co.",,,"$18 - $26 an hour",,"Valley area)",Providence,RI,"2904"
+2022-08-02,"Salesforce Portal Support Specialist (107220)","HCH Enterprises, LLC",hchent.com,"Information Technology & Services","$41,000 - $44,000 a year",,,"Hybrid remote in Providence",RI,"2908"
+2022-08-03,"Access Center Coordinator","Hope Health",hopehealth.com,,"estimated $43.9k - $55.5k a year",,"Valley area)",Providence,RI,"2904"
+2022-08-03,"Clinical Research Asst 30621",Lifespan,lifespan.org,"Hospital & Health Care","$38,189 - $63,003 a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-02,Server,"Providence, RI 02903?(College Hill area)",,,,,,,,""
+2022-08-03,Driver,"Providence, RI 02909?(Valley area)",,,,,,,,""
+2022-08-02,"CREW MEMBER","Chipotle Mexican Grill",chipotlemexicangrill.com,,"$14.50 - $16.00 an hour",,"College Hill area)",Providence,RI,"2906"
+2022-08-03,"Delivery Driver/Warehouse","Automatic Heating Equipment",,,"$15 - $18 an hour",,"Charles area)",Providence,RI,"2904"
+2022-08-02,"CHIPOTLE CREW MEMBER","Chipotle Mexican Grill",chipotlemexicangrill.com,,"$14.50 - $16.00 an hour",,"College Hill area)",Providence,RI,"2906"
+2022-08-04,"Restaurant Server and Cashier",Yoleni's,,,"$12.50 - $20.00 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-08-04,"Spanish Speaking Campaign Organizer","CADC LLC",cadc-llc.com,,,,"Downtown area)",Providence,RI,"2903"
+2022-08-03,"Nurse Staff","The Providence Community Health Centers, Inc.",providencechc.org,"Medical Practice",,,"Olneyville area)",Providence,RI,"2909"
+2022-08-03,"Registered Dietitian Nutritionist","Claxton Dietetic Solutions, LLC",claxtonsolutions.com,"Medical Practice","$28 - $32 an hour",,,Providence,RI,""
+2022-08-02,"Dedicated Retail Representative FT","CROSSMARK, Inc.",crossmark.com,"Consumer Goods",,,"College Hill area)",Providence,RI,"2901"
+2022-08-04,"Med/Surg Registered Nurse","Providence, RI 02906?(Hope area)",,,,,,,,""
+2022-08-04,"Joe's Kwik Mart Cashier","Joe's Kwik Mart",joeskwikmart.com,,,,"Downtown area)",Providence,RI,"2903"
+2022-08-03,Host/Hostess,"Public Kitchen and Bar",,,"$14 - $16 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-08-02,Waiter/Waitress,"Public Kitchen and Bar",,,,,"Downtown area)",Providence,RI,"2903"
+2022-08-03,"Independent Sales Associate","Cedar Valley Exteriors, Inc.",,,"$85,000 - $105,000 a year",,,Providence,RI,""
+2022-08-01,"Nurse Staff","The Providence Community Health Centers, Inc.",providencechc.org,"Medical Practice",,,"Olneyville area)",Providence,RI,"2909"
+2022-08-04,"CMT/Certified Med Tech","Wingate Healthcare",wingatehealthcare.com,"Hospital & Health Care","estimated $44.5k - $56.3k a year",,"Fox Point area)",Providence,RI,"2906"
+2022-08-02,"RN OR - DAYS","Infi Cares",inficarehealth.com,,"from $100 an hour",,"Valley area)",Providence,RI,"2904"
+2022-08-02,"BH-Nutrition Associate -FT","Care New England",carenewengland.org,"Hospital & Health Care","estimated $28.2k - $35.8k a year",,"Blackstone area)",Providence,RI,"2906"
+2022-08-02,"Registration/Reception - Boston IVF Providence, Rhode Island...","Boston IVF",bostonivf.com,"Hospital & Health Care","$22 - $25 an hour",,"Wayland area)",Providence,RI,"2906"
+2022-08-02,"Med/Surg RN","Infi Cares",inficarehealth.com,,"from $71 an hour",,"Elmhurst area)",Providence,RI,"2908"
+2022-08-02,"LPN/RN - Weekend Warrior!","Berkshire Place Nursing And Rehabilitation Center",berkshireplacenursing.com,"Law Practice","$35 - $50 an hour",,"Wanskuck area)",Providence,RI,"2908"
+2022-08-03,"Field Sales Consultant","Cedar Valley Exteriors, Inc.",,,"$85,000 - $110,000 a year",,,Providence,RI,""
+2022-08-03,"Valet Attendant","VPNE Parking Solutions",vpne.com,Transportation/Trucking/Railroad,"estimated $27.8k - $35.2k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-01,"Nurse Staff","The Providence Community Health Centers, Inc.",providencechc.org,"Medical Practice",,,"Olneyville area)",Providence,RI,"2909"
+2022-08-03,"Field Sales Consultant","Cedar Valley Exteriors, Inc.",,,"$85,000 - $110,000 a year",,,Providence,RI,""
+2022-08-04,"Retail Sales Specialist Part time","SAS/Advantage Solutions",,,"from $18 an hour",,,Providence,RI,""
+2022-08-02,"Kitchen Exhaust Cleaning Technician",Nelbud,,,"$17 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-08-02,"Salesperson - Providence, Rhode Island Location - City Line...","City Line Distributors",citylinefoods.com,"Food & Beverages, Food, Beverages & Tobacco, Manufacturing","$55,000 - $85,000 a year",,,Providence,RI,""
+2022-08-04,"Assistant Manager","Public Kitchen and Bar",,,"$18 - $20 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-08-04,"Teacher Assistant Head Start/State Pre-k","Woonsocket Head Start Child Development...",whscda.org,"Education Management","$17.05 - $21.52 an hour",,"Elmhurst area)",Providence,RI,"2908"
+2022-08-03,"Outside Sales Representative","Cedar Valley Exteriors, Inc.",,,"$65,000 - $95,000 a year",,,Providence,RI,""
+2022-08-04,"TPC-Medical Office Assistant / Translator","Care New England",carenewengland.org,"Hospital & Health Care",,,"Valley area)",Providence,RI,"2904"
+2022-08-03,"Patient Services Representative","The Providence Community Health Centers, Inc.",providencechc.org,"Medical Practice",,,"Lower South Providence area)",Providence,RI,"2905"
+2022-08-03,"Counter Sales","Providence, RI 02909?(Valley area)",,,,,,,,""
+2022-08-03,"Patient Services Representative","The Providence Community Health Centers, Inc.",providencechc.org,"Medical Practice",,,"Olneyville area)",Providence,RI,"2909"
+2022-08-02,"Practical Nursing Specialist (ARMY)","goarmy.com Recruiting NewEngland",,,"estimated $30.6k - $38.8k a year",,,Providence,RI,""
+2022-08-02,"Retail Store Security Guard","Metro Security Company, LLC.",,,"$14 - $16 an hour",,"Wanskuck area)",Providence,RI,"2908"
+2022-08-02,"Warehouse Inventory Associate - 1st Shift","Ocean State Book Binding",oceanstatebookbind.com,,"$14 - $18 an hour",,"Reservoir area)",Providence,RI,"2907"
+2022-08-03,"Health Center Assistant","The Providence Community Health Centers, Inc.",providencechc.org,"Medical Practice",,,"Olneyville area)",Providence,RI,"2909"
+2022-08-03,"RN Admissions - Per Diem","Hope Health",hopehealth.com,,"estimated $70.2k - $89k a year",,"Valley area)",Providence,RI,"2904"
+2022-08-02,"Roadside Assistance Tech - Flatbed","AAA Northeast",aaanortheast.com,,"$19 an hour",,"Charles area)",Providence,RI,"2904"
+2022-08-02,"Medical Staff LPN","Hope Health",hopehealth.com,,"estimated $45.8k - $58k a year",,"Valley area)",Providence,RI,"2904"
+2022-08-02,"Plumbing Journeyman","Attention To Detail Plumbing And Heating, LLC -...",,,"$35 - $55 an hour",,"Hartford area)",Providence,RI,"2909"
+2022-08-03,CNA1,"CB Homecare",,,"estimated $30.8k - $39k a year",,"Hartford area)",Providence,RI,"2909"
+2022-08-03,"Electrical Controls Technician","BSC Industries, Inc",,,"estimated $44.6k - $56.4k a year",,"Mount Hope area)",Providence,RI,"2904"
+2022-08-04,"Associate Attorney","DiOrio Law Office",dioriolaw.com,"Law Practice","$80,000 - $110,000 a year",,,Providence,RI,""
+2022-08-03,"Medical Receptionist","Rhode Island Eye Institute, a Division of ReFocus...",,,"estimated $26.9k - $34.1k a year",,"Wayland area)",Providence,RI,"2906"
+2022-08-02,"Registered Nurse (RN)","Berkshire Place Nursing And Rehabilitation Center",berkshireplacenursing.com,"Law Practice","$41 - $50 an hour",,"Wanskuck area)",Providence,RI,"2908"
+2022-08-03,"Counter Sales","Providence, RI 02909?(Valley area)",,,,,,,,""
+2022-08-03,"TPC-Medical Office Specialist - Bilingual","Care New England",carenewengland.org,"Hospital & Health Care","estimated $34.2k - $43.2k a year",,"Valley area)",Providence,RI,"2904"
+2022-08-02,"Case Management","Communities For People, Inc",communities-for-people.org,"Individual & Family Services","$36,000 - $38,000 a year",,"Valley area)",Providence,RI,"2908"
+2022-08-04,"Ophthalmic Assistant/Scribe for Oculoplastics","Providence, RI 02906?(Wayland area)",,,,,,,,""
+2022-08-03,"Hospice Social Worker - Per Diem","Hope Health",hopehealth.com,,"estimated $68.4k - $86.6k a year",,"Valley area)",Providence,RI,"2904"
+2022-08-03,"Travel Merchandiser","MOD- Merchandisers on Demand",,,"$16 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-08-02,"Signal Support Systems Specialist (ARMY)","goarmy.com Recruiting NewEngland",,,"estimated $31.4k - $39.8k a year",,,Providence,RI,""
+2022-08-04,"Wait Staff - Server","Saint Elizabeth Community",stelizabethcommunity.org,"Hospital & Health Care","estimated $24.8k - $31.4k a year",,"Federal Hill area)",Providence,RI,"2907"
+2022-08-02,Host,"Uno Pizzeria & Grill | Uno Restaurants",,,,,"Downtown area)",Providence,RI,"2903"
+2022-08-02,"Warehouse / Inventory - 2nd Shift","Ocean State Book Binding",oceanstatebookbind.com,,"$14 - $18 an hour",,"Reservoir area)",Providence,RI,"2907"
+2022-08-03,"Housekeeping | Turndown Attendant PM| Full Time","Omni Hotels & Resorts",omnihotels.com,Hospitality,,,"Downtown area)",Providence,RI,"2903"
+2022-08-02,"Medical Assistant","Northeast Internal Medicine",,,"$17 - $18 an hour",,"College Hill area)",Providence,RI,"2906"
+2022-08-03,"Hospice Social Worker - Per Diem","Hope Health",hopehealth.com,,"estimated $51k - $64.6k a year",,"Valley area)",Providence,RI,"2904"
+2022-08-03,CNA1,"CB Homecare",,,"estimated $27.6k - $35k a year",,"Elmhurst area)",Providence,RI,"2908"
+2022-08-04,"State Pre-k/Head Start Teacher","Woonsocket Head Start Child Development...",whscda.org,"Education Management","$22.36 - $25.75 an hour",,,Providence,RI,""
+2022-08-03,"Front Desk Medical Secretary","DeCrescenzo Chiropractic",decrescenzochiropractic.com,"Health, Wellness & Fitness","$17 - $19 an hour",,"Smith Hill area)",Providence,RI,"2908"
+2022-08-02,"Assistant Property Manager (Lockwood Plaza)",WinnCompanies,winnco.com,,,,,Providence,RI,""
+2022-08-02,"Child and Family Specialist","Communities For People, Inc",communities-for-people.org,"Individual & Family Services","$40,000 - $45,500 a year",,"Valley area)",Providence,RI,"2908"
+2022-08-02,"Physical Therapy Support Specialist Providence, RI",Concentra,concentra.com,"Health, Wellness & Fitness",,,"Charles area)",Providence,RI,"2904"
+2022-08-04,"Key Sales Associate","Signet Jewelers",signetjewelers.com,Retail,,,"Downtown area)",Providence,RI,"2903"
+2022-08-02,"Machine Operator / Trainee - Second Shift","Ocean State Book Binding",oceanstatebookbind.com,,"$13 - $18 an hour",,"Reservoir area)",Providence,RI,"2907"
+2022-08-03,"Medical Assistant Providence","DeCrescenzo Chiropractic",decrescenzochiropractic.com,"Health, Wellness & Fitness","$16 - $17 an hour",,"Smith Hill area)",Providence,RI,"2908"
+2022-08-03,"Public Space Attendant - Marriott Providence Downtown Hotel","Meyer Jabara Hotels",meyerjabarahotels.com,Hospitality,"estimated $23.9k - $30.3k a year",,"Valley area)",Providence,RI,"2904"
+2022-08-03,"Early Childhood Educator/Service Coordinator","The Groden Center",grodennetwork.org,"Individual & Family Services",,,"Hartford area)",Providence,RI,"2909"
+2022-08-03,"Public Space Attendant - Marriott Providence Downtown Hotel","Meyer Jabara Hotels",meyerjabarahotels.com,Hospitality,"estimated $23.9k - $30.3k a year",,"Valley area)",Providence,RI,"2904"
+2022-08-02,"BH-Occupational Therapy Assistant -FT-Eves-Float","Care New England",carenewengland.org,"Hospital & Health Care",,,"Blackstone area)",Providence,RI,"2906"
+2022-08-03,"Shift Leader",Popeyes,znhfoodsinc.com,,,,"Reservoir area)",Providence,RI,"2907"
+2022-08-02,"School Social Worker","SESI Schools",sesischools.com,"Education Management","$50,000 - $55,000 a year",,,Providence,RI,""
+2022-08-04,Hairstylist/Cosmetologist,"Coiffurium Salon",,,"$15 - $36 an hour",,"Hope area)",Providence,RI,"2906"
+2022-08-02,"Case Manager - Medication Assisted Treatment","Codac Behavioral Health",,,"$17 - $18 an hour",,,Providence,RI,""
+2022-08-02,Dishwasher,"Uno Pizzeria & Grill | Uno Restaurants",,,,,"Downtown area)",Providence,RI,"2903"
+2022-08-03,"Automotive Customer Service Advisor","Pep Boys",pepboys.com,Automotive,"$15 - $18 an hour",,"Hope area)",Providence,RI,"2904"
+2022-08-03,"Endoscopy (GI) Technician","Ocean State Endoscopy Center",,,"estimated $38.4k - $48.6k a year",,"Mount Hope area)",Providence,RI,"2904"
+2022-08-03,"Certified Dental Assistant","The Providence Community Health Centers, Inc.",providencechc.org,"Medical Practice",,,"Lower South Providence area)",Providence,RI,"2905"
+2022-08-03,"Oral Surgeon","ClearChoice Dental Implant Centers",clearchoice.com,"Hospital & Health Care",,,,Providence,RI,"2860"
+2022-08-02,"Account Manager, Wound Reconstruction & Care.US-HOM.040","Integra LifeSciences",,,,,"Downtown area)",Providence,RI,"2903"
+2022-08-03,"Certified Hospice Aide","Harmony Hospice",,,"estimated $32.7k - $41.5k a year",,"Elmhurst area)",Providence,RI,"2908"
+2022-08-03,"Maintenance Worker","Family Service of Rhode Island",,,"estimated $32.7k - $41.3k a year",,"Federal Hill area)",Providence,RI,"2940"
+2022-08-04,"Field Interviewer","NORC at the University of Chicago",norc.org,Research,,,,Providence,RI,""
+2022-08-04,"General Laborer",Surv,surveaston.com,,"$15 - $24 an hour",,,Providence,RI,""
+2022-08-03,"Restaurant Team Member - Crew (1388 - Brown U)",Chipotle,,,"tuition assistance (100% coverage for select degrees or up to $5,250/year).",,"College Hill area)",Providence,RI,"2906"
+2022-08-02,"Evening Event Manager","Brown University",brown.sd.us,"Government Administration","estimated $33.8k - $42.8k a year",,"College Hill area)",Providence,RI,"2912"
+2022-08-02,"Patient Navigator NES",Lifespan,lifespan.org,"Hospital & Health Care","estimated $74.3k - $94.1k a year",,"Hope area)",Providence,RI,"2906"
+2022-08-04,"Cleaner Part Time","C&W Services",cwservices.com,"Facilities Services","estimated $22.8k - $28.8k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-03,"Art Teacher","Family Service of Rhode Island",,,"estimated $39.1k - $49.5k a year",,"Federal Hill area)",Providence,RI,"2940"
+2022-08-02,"Seasonal Technician ? Part Time","CVS Health Retail",cvshealth.com,"Health, Wellness & Fitness",,,,Providence,RI,""
+2022-08-02,"Seasonal Technician ? Part Time","CVS Health Retail",cvshealth.com,"Health, Wellness & Fitness",,,,Providence,RI,""
+2022-08-03,"Part Time Dance Instructor for grades 7-12 at TAPA: Trinity...","TAPA: Trinity Academy for the Performing Arts",tapaprovidence.org,,"$15,000 a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-02,"Seasonal Technician ? Part Time","CVS Health Retail",cvshealth.com,"Health, Wellness & Fitness",,,,Providence,RI,""
+2022-08-02,"Seasonal Technician ? Part Time","CVS Health Retail",cvshealth.com,"Health, Wellness & Fitness",,,,Providence,RI,""
+2022-08-02,"FOOD SERVICE WORKER (FULL & PART-TIME)","Chartwells K12",chartwellsk12.com,"Food & Beverages","$12.50 an hour",,,Providence,RI,""
+2022-08-02,"Subway Sandwich Artist?",Subway,subway.com,Restaurants,,,"Downtown area)",Providence,RI,"2903"
+2022-08-03,"Restaurant Team Member - Crew (3600 - Providence Branch Ave)",Chipotle,,,"tuition assistance (100% coverage for select degrees or up to $5,250/year).",,"Mount Hope area)",Providence,RI,"2904"
+2022-08-03,"Consultant - MLL Multi Language Learner Specialist","Charette Charter School",charettepvd.org,,"estimated $43.8k - $55.4k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-02,"Part-time Utility at Providence College Priory",Sodexo,sodexo.com,"Facilities Services",,,"Elmhurst area)",Providence,RI,"2918"
+2022-08-03,"Operations Assistant","Brown University",brown.sd.us,"Government Administration","estimated $25.9k - $32.7k a year",,"College Hill area)",Providence,RI,"2912"
+2022-08-02,"Float Server at Providence College",Sodexo,sodexo.com,"Facilities Services",,,"Elmhurst area)",Providence,RI,"2918"
+2022-08-02,"Subway Sandwich Artist?",Subway,subway.com,Restaurants,,,"Hartford area)",Providence,RI,"2909"
+2022-08-02,"Part-time Pizza Attendant at Providence College",Sodexo,sodexo.com,"Facilities Services",,,"Elmhurst area)",Providence,RI,"2918"
+2022-08-02,"Immediate Opening Part-Time Center Associate - RI Area","Providence, RI 02903?(Downtown area)",,,,,,,,""
+2022-08-02,"Registered Nurse",Lifespan,lifespan.org,"Hospital & Health Care","estimated $68k - $86k a year",,"Hope area)",Providence,RI,"2906"
+2022-08-04,Cashier,"East Side Enterprise",,,"$15 an hour",,"Washington Park area)",Providence,RI,"2905"
+2022-08-03,"On-Call Bartender/Server","RISD - Rhode Island School of Design",risd.edu,"Higher Education",,,"College Hill area)",Providence,RI,""
+2022-08-03,"Office Clerk",Lifespan,lifespan.org,"Hospital & Health Care","estimated $24.8k - $31.4k a year",,"Hope area)",Providence,RI,"2906"
+2022-08-03,"Call Center Contact Associate",Lifespan,lifespan.org,"Hospital & Health Care",,,"Hope area)",Providence,RI,"2906"
+2022-08-04,"Customer Service Associate",WALGREENS,walgreens.com,Retail,,,"Blackstone area)",Providence,RI,"2906"
+2022-08-01,"Customer Service Associate",WALGREENS,walgreens.com,Retail,,,"Wanskuck area)",Providence,RI,"2908"
+2022-08-04,"Security Guard Residential Complex","Allied Universal?",,,,,"Valley area)",Providence,RI,"2904"
+2022-08-03,"Hospital Services Representative -Third Shift","Rhode Island Blood Center",ribc.org,"Hospital & Health Care","estimated $26.9k - $34.1k a year",,"Smith Hill area)",Providence,RI,"2908"
+2022-08-02,Cashier,"East Side Enterprise",,,"$15 an hour",,"Blackstone area)",Providence,RI,"2906"
+2022-08-02,"Patient Service Rep",Lifespan,lifespan.org,"Hospital & Health Care","estimated $31.6k - $40k a year",,"Hope area)",Providence,RI,"2906"
+2022-08-03,"Unit Secretary",Lifespan,lifespan.org,"Hospital & Health Care","estimated $31.1k - $39.3k a year",,"Hope area)",Providence,RI,"2906"
+2022-08-03,"Nursing Assistant",Lifespan,lifespan.org,"Hospital & Health Care","estimated $32.9k - $41.7k a year",,"Hope area)",Providence,RI,"2906"
+2022-08-03,"Nursing Assistant",Lifespan,lifespan.org,"Hospital & Health Care","estimated $32.9k - $41.7k a year",,"Hope area)",Providence,RI,"2906"
+2022-08-03,"Unit Secretary",Lifespan,lifespan.org,"Hospital & Health Care","estimated $29.2k - $37k a year",,"Hope area)",Providence,RI,"2906"
+2022-08-03,"Retail Counter Sales","O'Reilly Auto Parts",oreillyauto.com,Retail,,,"Olneyville area)",Providence,RI,"2909"
+2022-08-03,"Sbarro Team Member",Sbarro,,,,,"Downtown area)",Providence,RI,"2908"
+2022-08-02,Interpreter,"Plentiful Harvest",,,"$17 - $40 an hour",,,Providence,RI,""
+2022-08-04,"Gallery Assistant","Providence Art Club",providenceartclub.org,"Fine Art","$15 an hour",,"College Hill area)",Providence,RI,"2903"
+2022-08-04,"Front of House Service Team Member","NICKS ON BROADWAY",nicksonbroadway.com,Restaurants,"$20 - $35 an hour",,"Federal Hill area)",Providence,RI,"2909"
+2022-08-04,"Registered Nurse - Medical/Surgical Division","Providence, RI 02903?(Downtown area)",,,,,,,,""
+2022-08-04,"Barista - Pointdexter Cafe @ Graduate Hotel","Infuse Hospitality",infusehospitality.com,"Food & Beverages","from $13.50 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-08-04,"Kitchen Team Member","Rory's Market + Kitchen",,,"$15 - $17 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-08-03,"Front of House Staff",Amy?s,,,"$12 - $21 an hour",,"Fox Point area)",Providence,RI,"2906"
+2022-08-04,"Cold Caller Roofing Sales Position (High Commission & Payout...","CONCEP ROOFS",,,"from $1,500 a week",,"Downtown area)",Providence,RI,"2903"
+2022-08-02,"Early Morning Baker","KNEAD Doughnuts",,,"$16 - $18 an hour",,"West End area)",Providence,RI,"2907"
+2022-08-02,"BH-Staff Nurse-Patient Assesment-PT-Days","Care New England",carenewengland.org,"Hospital & Health Care","estimated $54k - $68.4k a year",,"Blackstone area)",Providence,RI,"2906"
+2022-08-02,"Local Santa - Natural Beard","Cherry Hill Programs",cherryhillprograms.com,Photography,,,"Hartford area)",Providence,RI,"2909"
+2022-08-03,"Food Runner/Server - Ganko Ittetsu Ramen","Ganko Ittetsu Ramen",gankoramen.com,Restaurants,"$12.25 - $35.00 an hour",,"College Hill area)",Providence,RI,"2906"
+2022-08-04,"Dunkin' Team Member",Dunkin',,,"from $14 an hour",,"Hope area)",Providence,RI,"2906"
+2022-08-04,"BH-Staff Nurse -PT-Eves-D3","Care New England",carenewengland.org,"Hospital & Health Care","estimated $56.7k - $71.7k a year",,"Blackstone area)",Providence,RI,"2906"
+2022-08-04,"Dunkin' Team Member",Dunkin',,,"from $14 an hour",,"Hope area)",Providence,RI,"2906"
+2022-08-02,"Office Associate SSA at Roger Williams Zoo","SSA Group, LLC",thessagroup.com,"Events Services","estimated $28.2k - $35.8k a year",,"South Elmwood area)",Providence,RI,"2907"
+2022-08-04,"BH-Research Assistant","Care New England",carenewengland.org,"Hospital & Health Care","estimated $34.9k - $44.3k a year",,"Blackstone area)",Providence,RI,"2906"
+2022-08-02,"Professional Pet Sitter - Weekends","Furry Fellas Pet Service LLC",,,"estimated $31.9k - $40.3k a year",,"Blackstone area)",Providence,RI,"2906"
+2022-08-03,Bartender,"Public Kitchen and Bar",,,,,"Downtown area)",Providence,RI,"2903"
+2022-08-02,"Legal Assistant/Word Processer","Strauss Factor Laing & Lyons",sfandllaw.com,,"from $16.50 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-08-03,"Hospital Services Representative-3rd shift-Sat. - Tue.-11pm-...","Rhode Island Blood Center",ribc.org,"Hospital & Health Care","estimated $30.8k - $39k a year",,"Smith Hill area)",Providence,RI,"2908"
+2022-08-03,"Team Members (Career Advancement Opportunities)","Dunkin Donuts | Cafua Management Company",,,"estimated $23.7k - $30.1k a year",,"Valley area)",Providence,RI,"2908"
+2022-08-04,"Restaurant Server and Cashier",Yoleni's,,,"$12.50 - $20.00 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-08-02,"Hostess and Cashier","Wara Wara Japanese Restaurant",,,"$12 - $14 an hour",,"Hope area)",Providence,RI,"2906"
+2022-08-04,"Assistant Site Coordinator","Providence After School Alliance",mypasa.org,"Education Management","$17 an hour",,"Federal Hill area)",Providence,RI,"2909"
+2022-08-04,"Kitchen Staff","Wara Wara Japanese Restaurant",,,"$14 - $16 an hour",,"Hope area)",Providence,RI,"2906"
+2022-08-03,"Customer Service Associate","VPNE Parking Solutions",vpne.com,Transportation/Trucking/Railroad,"estimated $24.6k - $31.2k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-02,Server,"Providence, RI 02903?(College Hill area)",,,,,,,,""
+2022-08-04,"Head Club Volleyball Coach (Co-ed)","Moses Brown School Athletics",mbquakers.com,,"estimated $36.1k - $45.7k a year",,"College Hill area)",Providence,RI,"2906"
+2022-08-02,"CHIPOTLE CREW MEMBER","Chipotle Mexican Grill",chipotlemexicangrill.com,,"$14.50 - $16.00 an hour",,"College Hill area)",Providence,RI,"2906"
+2022-08-02,"CREW MEMBER","Chipotle Mexican Grill",chipotlemexicangrill.com,,"$14.50 - $16.00 an hour",,"College Hill area)",Providence,RI,"2906"
+2022-08-02,Waiter/Waitress,"Public Kitchen and Bar",,,,,"Downtown area)",Providence,RI,"2903"
+2022-08-04,"CMT/Certified Med Tech","Wingate Healthcare",wingatehealthcare.com,"Hospital & Health Care","estimated $44.5k - $56.3k a year",,"Fox Point area)",Providence,RI,"2906"
+2022-08-02,HOST,"Atwells Restaurant Group",atwellsgrouphospitality.com,,"$13 - $17 an hour",,"Federal Hill area)",Providence,RI,"2903"
+2022-08-02,"Dining/Banquet Team Member","Hope Club",hopeclub.com,Hospitality,"$14 - $17 an hour",,"College Hill area)",Providence,RI,"2906"
+2022-08-03,Host/Hostess,"Public Kitchen and Bar",,,"$14 - $16 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-08-04,"Psychiatric Nurse Practitioner","Enhanced Psychological Care",enhancedpsychological.com,,"$800 - $900 a day",,"West End area)",Providence,RI,"2907"
+2022-08-04,"Med/Surg Registered Nurse","Providence, RI 02906?(Hope area)",,,,,,,,""
+2022-08-04,"Assistant Manager","Public Kitchen and Bar",,,"$18 - $20 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-08-03,"Lot Attendant","VPNE Parking Solutions",vpne.com,Transportation/Trucking/Railroad,"estimated $25.3k - $32.1k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-04,"Joe's Kwik Mart Cashier","Joe's Kwik Mart",joeskwikmart.com,,,,"Downtown area)",Providence,RI,"2903"
+2022-08-03,Dishwasher,"Public Kitchen and Bar",,,"$13 - $15 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-08-04,"Key Holder (Part-Time) - Intimissimi","Calzedonia USA",calzedonia.com,"Apparel & Fashion",,,"Downtown area)",Providence,RI,"2903"
+2022-08-03,"RN Admissions - Per Diem","Hope Health",hopehealth.com,,"estimated $70.2k - $89k a year",,"Valley area)",Providence,RI,"2904"
+2022-08-02,"Retail Store Security Guard","Metro Security Company, LLC.",,,"$14 - $16 an hour",,"Wanskuck area)",Providence,RI,"2908"
+2022-08-03,"Hospice Social Worker - Per Diem","Hope Health",hopehealth.com,,"estimated $68.4k - $86.6k a year",,"Valley area)",Providence,RI,"2904"
+2022-08-04,"Healthcare Inventory Associate (PT)","WIS International",wisintl.com,Retail,"from $19 an hour",,,Providence,RI,""
+2022-08-03,"Hospice Social Worker - Per Diem","Hope Health",hopehealth.com,,"estimated $51k - $64.6k a year",,"Valley area)",Providence,RI,"2904"
+2022-08-03,"Travel Merchandiser","MOD- Merchandisers on Demand",,,"$16 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-08-02,"Medical Front Desk Part-time","Pediatric Ophthalmology and Strabismus Associates",childrenseye.com,"Health, Wellness & Fitness","$16 - $18 an hour",,"Washington Park area)",Providence,RI,"2905"
+2022-08-04,"After School Teacher","Montessori Children's House",mchsf.com,,"$16 - $18 an hour",,"Blackstone area)",Providence,RI,"2906"
+2022-08-04,"Key Sales Associate","Signet Jewelers",signetjewelers.com,Retail,,,"Downtown area)",Providence,RI,"2903"
+2022-08-03,"Physical Therapy Assistant (PTA) Per Diem","Berkshire Place Nursing and Rehabilitation Center",berkshireplacenursing.com,"Law Practice",,,"Wanskuck area)",Providence,RI,"2908"
+2022-08-04,Dentist,"Veterans Evaluation Services",,,"$78,000 - $312,000 a year",,,Providence,RI,"2860"
+2022-08-02,"CMT: Certified Med Techs for Assisted Living","Saint Elizabeth Community",stelizabethcommunity.org,"Hospital & Health Care","$20.50 an hour",,"Federal Hill area)",Providence,RI,"2907"
+2022-08-04,Hairstylist/Cosmetologist,"Coiffurium Salon",,,"$15 - $36 an hour",,"Hope area)",Providence,RI,"2906"
+2022-08-03,"Oral Surgeon","ClearChoice Dental Implant Centers",clearchoice.com,"Hospital & Health Care",,,,Providence,RI,"2860"
+2022-08-02,"Contractor Delivery Assembly Outdoor/Indoor Products - Provi...","Select Express & Logistics",selectexp.com,"Logistics & Supply Chain","$40,000 - $100,000 a year",,"Valley area)",Providence,RI,"2904"
+2022-08-03,"Salesforce Portal Support Specialist (Contract)","The Consultant?s Consortium",,,"estimated $50.9k - $64.5k a year",,,"Hybrid remote in Providence",RI,"2908"
+2022-08-02,Interpreter,"Plentiful Harvest",,,"$17 - $40 an hour",,,Providence,RI,""
+2022-08-04,"Program Specialist",ITExpertUS,itexpertus.com,"Information Technology & Services","$25 an hour",,"Smith Hill area)",Providence,RI,"2908"
+2022-08-02,"Salesforce Portal Support Specialist (107220)","HCH Enterprises, LLC",hchent.com,"Information Technology & Services","$41,000 - $44,000 a year",,,"Hybrid remote in Providence",RI,"2908"
+2022-08-03,"Sub-Contractor Network Partner","Assemblers Group",assemblersgroup.com,"Electrical/Electronic Manufacturing","estimated $38.9k - $49.3k a year",,,Providence,RI,""
+2022-08-02,"RN OR - DAYS","Infi Cares",inficarehealth.com,,"from $100 an hour",,"Valley area)",Providence,RI,"2904"
+2022-08-02,"Med/Surg RN","Infi Cares",inficarehealth.com,,"from $71 an hour",,"Elmhurst area)",Providence,RI,"2908"
+2022-08-02,"RN Med/Surg","Insigma Healthcare Inc",,,"$65 - $70 an hour",,"Elmhurst area)",Providence,RI,"2908"
+2022-08-04,Dentist,"Veterans Evaluation Services",,,"$78,000 - $312,000 a year",,,Providence,RI,"2860"
+2022-08-04,"Field Interviewer","NORC at the University of Chicago",norc.org,Research,,,,Providence,RI,""
+2022-08-03,"Seasonal Technician ? Full Time","CVS Health Retail",cvshealth.com,"Health, Wellness & Fitness",,,,Providence,RI,""
+2022-08-02,"Seasonal Technician ? Full Time","CVS Health Retail",cvshealth.com,"Health, Wellness & Fitness",,,,Providence,RI,""
+2022-08-02,"Seasonal Technician ? Part Time","CVS Health Retail",cvshealth.com,"Health, Wellness & Fitness",,,,Providence,RI,""
+2022-08-02,"Seasonal Technician ? Part Time","CVS Health Retail",cvshealth.com,"Health, Wellness & Fitness",,,,Providence,RI,""
+2022-08-02,"Seasonal Technician ? Part Time","CVS Health Retail",cvshealth.com,"Health, Wellness & Fitness",,,,Providence,RI,""
+2022-08-02,"Seasonal Technician ? Part Time","CVS Health Retail",cvshealth.com,"Health, Wellness & Fitness",,,,Providence,RI,""
+2022-08-02,"Seasonal Technician ? Full Time","CVS Health Retail",cvshealth.com,"Health, Wellness & Fitness",,,,Providence,RI,""
+2022-08-03,"Hospitality Guest Services Coordinator","Brown Bears Sports Properties",,,"$15 - $20 an hour",,"Blackstone area)",Providence,RI,"2906"
+2022-08-04,"Spanish Speaking Campaign Organizer","CADC LLC",cadc-llc.com,,,,"Downtown area)",Providence,RI,"2903"
+2022-08-03,"TerraCorps Comm. Engagement Coordinator with Southside Commu...",TerraCorps,,,"up to $18,500 a year",,"Federal Hill area)",Providence,RI,"2907"
+2022-08-03,"TerraCorps Land Stewardship Coord. -Woonasquatucket River Wa...",TerraCorps,,,"up to $18,500 a year",,"Valley area)",Providence,RI,"2908"
+2022-08-03,"TerraCorps Community Eng. Coord. -Woonasquatucket River Wate...",TerraCorps,,,"up to $18,500 a year",,"Valley area)",Providence,RI,"2908"
+2022-07-30,"RISD Retail Stores, Buyer","RISD - Rhode Island School of Design",risd.edu,"Higher Education",,,"College Hill area)",Providence,RI,""
+2022-07-30,"Registrar Services Operational Assistant","RISD - Rhode Island School of Design",risd.edu,"Higher Education","estimated $35.2k - $44.6k a year",,"College Hill area)",Providence,RI,""
+2022-07-30,Baker,"RISD - Rhode Island School of Design",risd.edu,"Higher Education","estimated $30.7k - $38.9k a year",,"College Hill area)",Providence,RI,""
+2022-07-30,"Department Administrative Coordinator, Illustration (Rhode I...","RISD - Rhode Island School of Design",risd.edu,"Higher Education","estimated $39.5k - $50.1k a year",,"College Hill area)",Providence,RI,""
+2022-07-30,"Philanthropy Officer","RISD - Rhode Island School of Design",risd.edu,"Higher Education","estimated $74.6k - $94.4k a year",,"College Hill area)",Providence,RI,""
+2022-07-30,"Talent Acquisition Partner","RISD - Rhode Island School of Design",risd.edu,"Higher Education","estimated $60.5k - $76.7k a year",,"College Hill area)",Providence,RI,""
+2022-07-30,"Standards and Training Captain","RISD - Rhode Island School of Design",risd.edu,"Higher Education","estimated $65.1k - $82.5k a year",,"College Hill area)",Providence,RI,""
+2022-08-01,"Medical Assistant - Urgent Care",Lifespan,lifespan.org,"Hospital & Health Care","estimated $32.3k - $40.9k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-01,"Medical Assistant",Lifespan,lifespan.org,"Hospital & Health Care","estimated $32.7k - $41.5k a year",,"Hope area)",Providence,RI,"2906"
+2022-08-01,"Rotating BOH Supervisor","Tallulah's Taqueria",tallulahstaqueria.com,Restaurants,"$20 an hour",,"Fox Point area)",Providence,RI,"2906"
+2022-07-30,"Project Manager- Water and Wastewater",Jacobs,jacobs.com,"Civil Engineering","estimated $108k - $137k a year",,"Downtown area)",Providence,RI,"2902"
+2022-07-30,"Project Management - GMP Commercial Scale Up","Vertex Pharmaceuticals",vrtx.com,Biotechnology,"estimated $74.8k - $94.8k a year",,,Providence,RI,""
+2022-07-29,"Medical Assistant Ambulatory",Lifespan,lifespan.org,"Hospital & Health Care","estimated $32.1k - $40.7k a year",,"Downtown area)",Providence,RI,"2903"
+2022-07-29,"Lead Marketing Specialist",Deloitte,deloitte.com,"Management Consulting","estimated $82.3k - $104k a year",,,Providence,RI,""
+2022-07-30,"Manager, Program and Content Development","RISD - Rhode Island School of Design",risd.edu,"Higher Education","estimated $64.4k - $81.6k a year",,"College Hill area)",Providence,RI,""
+2022-07-30,"Institutional Research Analyst","RISD - Rhode Island School of Design",risd.edu,"Higher Education","estimated $47k - $59.6k a year",,"College Hill area)",Providence,RI,""
+2022-07-30,"Culinary Production Supervisor","RISD - Rhode Island School of Design",risd.edu,"Higher Education","estimated $52k - $65.8k a year",,"College Hill area)",Providence,RI,"2906"
+2022-07-30,"Assistant Catering Manager","RISD - Rhode Island School of Design",risd.edu,"Higher Education","estimated $35.5k - $44.9k a year",,"College Hill area)",Providence,RI,""
+2022-07-30,"Assistant Manager, RISD Dining","RISD - Rhode Island School of Design",risd.edu,"Higher Education","estimated $35.6k - $45k a year",,"College Hill area)",Providence,RI,""
+2022-07-30,"Assistant Director, Corporate + Foundation Relations","RISD - Rhode Island School of Design",risd.edu,"Higher Education","estimated $53k - $67k a year",,"College Hill area)",Providence,RI,""
+2022-07-30,"Corp Travel-Event Advisor","AAA Northeast",aaanortheast.com,,,,"Charles area)",Providence,RI,"2904"
+2022-07-30,"Accounting Assistant (Two Positions)","Narragansett Bay Commission",narrabay.com,Utilities,"$43,352 - $65,028 a year",,"Washington Park area)",Providence,RI,"2905"
+2022-07-30,"Private Client Legal Administrative Assistant-Providence, RI","Staff Insight",,,"$60,000 - $65,000 a year",,,"Hybrid remote in Providence",RI,"2903"
+2022-07-30,"Data and Learning Manager","ONE Neighborhood Builders",oneneighborhoodbuilders.org,"Nonprofit Organization Management","$55,000 - $70,000 a year",,"Olneyville area)",Providence,RI,"2909"
+2022-07-30,"Gas Maintenance Supervisor","Cumberland Farms",nowhiring.com,Retail,"$65,000 - $80,000 a year",Remote,,"Remote in Providence",RI,""
+2022-07-30,"Consumer Loan Workout Specialist - Ipswich, MA / Turks Head,...","Providence, RI 02903?(Downtown area)",,,,,,,,""
+2022-07-30,"Environmental Scientist","Narragansett Bay Commission",narrabay.com,Utilities,"$54,435 - $89,818 a year",,"Washington Park area)",Providence,RI,"2905"
+2022-07-30,"Application Technology Specialist",Intelerad,intelerad.com,"Medical Devices","estimated $86k - $109k a year",,,Providence,RI,""
+2022-07-30,"Hospice Clinical Manager","Hope Health",hopehealth.com,,"estimated $72.3k - $91.5k a year",,"Valley area)",Providence,RI,"2904"
+2022-08-01,"Plumber's Apprentice","TJ's Plumbing and Heating, Inc.",tjsradiantheat.com,"Individual & Family Services","$18 - $24 an hour",,,Providence,RI,"2860"
+2022-08-01,"Elementary Bilingual Teacher (SY 22-23)","Providence Public Schools",,,"$45,107 - $85,018 a year",,"Mount Pleasant area)",Providence,RI,"2908"
+2022-08-01,"Middle School English ESL Teacher (SY 22-23)","Providence Public Schools",,,"$45,104 - $85,018 a year",,"Mount Pleasant area)",Providence,RI,"2908"
+2022-08-01,"Middle School Math Teacher (SY 22-23)","Providence Public Schools",,,"$45,104 - $85,018 a year",,"Mount Pleasant area)",Providence,RI,"2908"
+2022-07-30,"Facilities Assistant","Hope Health",hopehealth.com,,"estimated $34.2k - $43.2k a year",,"Valley area)",Providence,RI,"2904"
+2022-07-30,"Catering Chef","Pranzi Catering and Events",,,"$20 - $25 an hour",,"Silverlake area)",Providence,RI,"2909"
+2022-07-30,"Maintenance Supervisor (4197.1)","Wingate Management Company",wingatecompanies.com,"Real Estate","from $48,000 a year",,"Valley area)",Providence,RI,"2904"
+2022-07-30,"Audio Visual Technician",ATR/Treehouse,,,"estimated $49.8k - $63k a year",,"Charles area)",Providence,RI,"2904"
+2022-07-30,"Facilities Food Service Technician","Cumberland Farms",nowhiring.com,Retail,"$18.50 - $24.67 an hour",,,Providence,RI,""
+2022-08-01,"Middle/High School Science Teacher (FT)","Providence Public Schools",,,"$45,104 - $85,018 a year",,"Mount Pleasant area)",Providence,RI,"2908"
+2022-07-30,"Academic and K-12 Programs Coordinator, RISD Museum","RISD - Rhode Island School of Design",risd.edu,"Higher Education","estimated $36.5k - $46.3k a year",,"College Hill area)",Providence,RI,""
+2022-07-30,"Technical Assistant III, Studio for Research in Sound and Te...","RISD - Rhode Island School of Design",risd.edu,"Higher Education","estimated $35.2k - $44.6k a year",,"College Hill area)",Providence,RI,""
+2022-07-29,"Utilization Care Manager",Lifespan,lifespan.org,"Hospital & Health Care","estimated $60.6k - $76.8k a year",,"Downtown area)",Providence,RI,"2903"
+2022-07-29,"Medical Assistant Ambulatory",Lifespan,lifespan.org,"Hospital & Health Care","estimated $33.2k - $42k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-01,"Oracle Primavera Unifier Implementation Specialist","TekBank Consultants Inc.",tekbank.net,"Information Technology & Services","$65 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-07-30,"Facilities Assistant","Hope Health",hopehealth.com,,"estimated $34.2k - $43.2k a year",,"Valley area)",Providence,RI,"2904"
+2022-07-30,"Catering Chef","Pranzi Catering and Events",,,"$20 - $25 an hour",,"Silverlake area)",Providence,RI,"2909"
+2022-08-01,"Oracle Primavera Unifier Implementation Specialist","TekBank Consultants Inc.",tekbank.net,"Information Technology & Services","$65 an hour",,"Downtown area)",Providence,RI,"2903"
+2022-08-02,"Program Director for Community Dialogue","Brown University",brown.sd.us,"Government Administration","estimated $57.8k - $73.2k a year",,"College Hill area)",Providence,RI,"2912"
+2022-08-04,"Associate Category Manager - Drug","Sanofi US",,,,,,Providence,RI,""
+2022-08-04,"Director of Assessment","Rhode Island College",ric.edu,"Higher Education","$88,784 a year",,"Mount Pleasant area)",Providence,RI,"2908"
+2022-08-03,"Representative - Inside Sales",Verizon,verizon.co.in,,,Remote,,"Remote in Providence",RI,"2905"
+2022-08-03,"Project Manager (Design)",sgsco,sgsco.com,"Marketing & Advertising","estimated $88.7k - $112k a year",,"Hartford area)",Providence,RI,"2909"
+2022-08-03,"Special Events Manager","RISD - Rhode Island School of Design",risd.edu,"Higher Education","estimated $49.3k - $62.5k a year",,"College Hill area)",Providence,RI,""
+2022-08-02,"Associate General Counsel","RISD - Rhode Island School of Design",risd.edu,"Higher Education","estimated $90.7k - $115k a year",,"College Hill area)",Providence,RI,""
+2022-08-03,"Talent Acquisition Coordinator",UNFI,unfi.com,"Food & Beverages",,Remote,,"Remote in Providence",RI,""
+2022-08-03,"Project Manager (Design)","Southern Graphic Systems, LLC",,,"estimated $88.7k - $112k a year",,"Hartford area)",Providence,RI,"2909"
+2022-08-03,"General Manager, RISD Caters","RISD - Rhode Island School of Design",risd.edu,"Higher Education","estimated $66.6k - $84.4k a year",,"College Hill area)",Providence,RI,""
+2022-08-02,"Foundation Manager",UNFI,unfi.com,"Food & Beverages",,,,Providence,RI,""
+2022-08-03,"Deloitte Foundation - Manager, Strategic Initiatives and Pro...",Deloitte,deloitte.com,"Management Consulting","estimated $66.5k - $84.3k a year",,,Providence,RI,""
+2022-08-03,"LITIGATION SECRETARY (PROVIDENCE)","Locke Lord LLP",lockelord.com,"Law Practice","estimated $55.6k - $70.4k a year",,,Providence,RI,""
+2022-08-03,"Manager of Desktop Engineering","Johnson & Wales University",jwu.edu,"Higher Education","estimated $93.8k - $119k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-02,"Community and Research Engagement Services Coordinator","Brown University",brown.sd.us,"Government Administration","estimated $41.5k - $52.5k a year",,"College Hill area)",Providence,RI,"2912"
+2022-08-03,"Academic Administrative Manager",Lifespan,lifespan.org,"Hospital & Health Care","estimated $63.5k - $80.3k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-02,"Executive Operations Coordinator","Brown University",brown.sd.us,"Government Administration","estimated $54k - $68.4k a year",,"College Hill area)",Providence,RI,"2912"
+2022-08-04,"Nurse Care Manager (Primary Care) - CCMA","CharterCARE Health Partners",chartercare.org,"Hospital & Health Care","estimated $59k - $74.6k a year",,"Elmhurst area)",Providence,RI,"2908"
+2022-08-03,"Lead Compliance Analyst",Deloitte,deloitte.com,"Management Consulting","estimated $77.8k - $98.4k a year",,,Providence,RI,""
+2022-08-04,"Cloud Sales Specialist, AVS - Opportunity for Working Remote...",VMware,thebrunswicknews.com,Newspapers,,Remote,,"Remote in Providence",RI,""
+2022-08-02,"Nurse Supervisor",Lifespan,lifespan.org,"Hospital & Health Care","estimated $107k - $136k a year",,"Hope area)",Providence,RI,"2906"
+2022-08-02,"Assistant Principal - Middle School (SY 22-23)","Providence School District",providenceschools.org,"Primary/Secondary Education",,,"Federal Hill area)",Providence,RI,"2903"
+2022-08-01,"Medical Assistant",Lifespan,lifespan.org,"Hospital & Health Care","estimated $32.1k - $40.7k a year",,"Hope area)",Providence,RI,"2906"
+2022-08-03,"Project Mgr",Lifespan,lifespan.org,"Hospital & Health Care","estimated $46k - $58.2k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-02,"Associate Solutions Specialist - Product Sales",Verizon,verizon.co.in,,,,"Downtown area)",Providence,RI,"2903"
+2022-08-04,"Electrical EIT",Jacobs,jacobs.com,"Civil Engineering","estimated $63.8k - $80.8k a year",,"Downtown area)",Providence,RI,"2902"
+2022-08-02,"Revenue Integrity Coordinator",Lifespan,lifespan.org,"Hospital & Health Care",,,,"Hybrid remote in Providence",RI,"2903"
+2022-08-03,"Advertising, Marketing and Commerce - MarTech Consultant",Deloitte,deloitte.com,"Management Consulting","estimated $73.1k - $92.5k a year",,,Providence,RI,""
+2022-08-01,"Medical Assistant - Urgent Care",Lifespan,lifespan.org,"Hospital & Health Care","estimated $32.3k - $40.9k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-02,"Teacher - On-line Virtual Learning (SY 22-23)","Providence School District",providenceschools.org,"Primary/Secondary Education","estimated $56.7k - $71.7k a year",,"Federal Hill area)",Providence,RI,"2903"
+2022-08-03,"School Nurse - High School (SY 22-23)","Providence Schools",,,"estimated $47.4k - $60k a year",,"College Hill area)",Providence,RI,"2901"
+2022-08-02,"Math Specialist - Secondary (SY 22-23)","Providence School District",providenceschools.org,"Primary/Secondary Education","estimated $58.5k - $74.1k a year",,"Federal Hill area)",Providence,RI,"2903"
+2022-08-02,"Math Specialist - Secondary (SY 22-23)","Providence Schools",,,"estimated $49.4k - $62.6k a year",,"College Hill area)",Providence,RI,"2901"
+2022-08-03,"Patient Consultant","Bosley Inc",,,"$90,000 - $120,000 a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-02,"Process Operator","e2o U.S., LLC",,,"$50 - $75 an hour",,"Washington Park area)",Providence,RI,"2905"
+2022-08-04,"Architectural Sales Territory Manager",Forms+Surfaces,,,"$70,000 - $80,000 a year",,,Providence,RI,""
+2022-08-03,"Executive Assistant to CEO","Nurses Middle College Charter High School -...",nursesmc.org,,"$50,000 - $62,000 a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-03,"Data Coordinator",Lifespan,lifespan.org,"Hospital & Health Care","from $65,000 a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-04,"Store Manager - Dunkin'","Pembroke & Co.",pembrokeandco.com,"Management Consulting","$20 an hour",,"West End area)",Providence,RI,"2907"
+2022-08-02,"Patient Consultant",Bosley,bosley.com,"Medical Practice","$90,000 - $120,000 a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-02,"Dynamic technology problem solver","Everlasting Designs, Inc.",,,"$35,000 - $65,000 a year",,,Providence,RI,""
+2022-08-02,"Office Administrator","Marstone, Inc.",,,"$55,000 - $65,000 a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-04,"Executive Creative Director","Semper Home Loans",semperhomeloans.com,"Financial Services","$100,000 - $150,000 a year",,"Reservoir area)",Providence,RI,"2907"
+2022-08-03,"Lead Superintendent (Traveling) - Retail, TJ MAXX","Scott Humphrey Corporation",,,"$90,000 - $100,000 a year",,,Providence,RI,""
+2022-08-02,"Program Director","CODAC Behavioral Health Services",,,"$62,000 - $65,000 a year",,"Silverlake area)",Providence,RI,"2909"
+2022-08-02,"Design and Construction Specialist","Rhode Island Housing",rihousing.com,"Financial Services","$64,264 - $92,994 a year",,,"Hybrid remote in Providence",RI,"2903"
+2022-08-02,"Dispatcher - 3rd shift (hybrid) - Providence, RI","AAA Northeast",aaanortheast.com,,,Remote,,"Remote in Providence",RI,"2904"
+2022-08-03,"Patient Care Coordinator","Brown Surgical Associates",brownsurgicalassociates.org,"Hospital & Health Care",,,"Downtown area)",Providence,RI,"2903"
+2022-08-03,"CAREER ADVISOR","Equus Workforce Solutions",equusworks.com,"Staffing & Recruiting",,,"Downtown area)",Providence,RI,"2903"
+2022-08-04,"Solution Delivery Specialist","mPulse Mobile",mpulsemobile.com,"Health, Wellness & Fitness",,,,"Hybrid remote in Providence",RI,""
+2022-08-03,"Supervisor, Custodial Services (Overnight)","Brown University",brown.sd.us,"Government Administration","$60,000 - $67,000 a year",,"College Hill area)",Providence,RI,"2912"
+2022-08-02,"Manager of Medical Engineering",Lifespan,lifespan.org,"Hospital & Health Care","from $80,000 a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-02,"Supervisor, Facilities","The Providence Community Health Centers, Inc.",providencechc.org,"Medical Practice",,,"Lower South Providence area)",Providence,RI,"2905"
+2022-08-03,"Chaplain - Per Diem","Hope Health",hopehealth.com,,,,"Valley area)",Providence,RI,"2904"
+2022-08-03,"Regional Recruitment Onboarding Specialist","Elmhurst Rehabilitation and Healthcare Center",elmhurstrehabhc.com,"Hospital & Health Care",,,"Elmhurst area)",Providence,RI,"2908"
+2022-08-04,"Sales Enablement Manager","mPulse Mobile",mpulsemobile.com,"Health, Wellness & Fitness",,,,"Hybrid remote in Providence",RI,""
+2022-08-03,"Hospice Office Supervisor","Hope Health",hopehealth.com,,"estimated $37.9k - $47.9k a year",,"Valley area)",Providence,RI,"2904"
+2022-08-04,"Managing Director","Encore Hospitality Group",,,"estimated $38.6k - $48.8k a year",,"Wayland area)",Providence,RI,"2906"
+2022-08-04,"Maintenance Supervisor I (RI Regional Operations)",WinnCompanies,winnco.com,,"estimated $45.6k - $57.8k a year",,,Providence,RI,""
+2022-08-03,"Assistant Property Manager","Trinity Management, LLC",,,"$21 - $23 an hour",,"Olneyville area)",Providence,RI,"2909"
+2022-08-03,"Chaplain - Per Diem","Hope Health",hopehealth.com,,,,"Valley area)",Providence,RI,"2904"
+2022-08-02,"Financial Business Analyst- Cash Flow Forecasting","GURNET CONSULTING LLC",gurnet.com,"Information Technology & Services","estimated $78.5k - $99.5k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-04,"Director of Social Services","Elmhurst Rehabilitation and Healthcare Center",elmhurstrehabhc.com,"Hospital & Health Care",,,"Elmhurst area)",Providence,RI,"2908"
+2022-08-04,"Sales & Commercial Operations Manager","mPulse Mobile",mpulsemobile.com,"Health, Wellness & Fitness",,,,"Hybrid remote in Providence",RI,""
+2022-08-04,"ATM Technician (2950)","Nautilus Hyosung America Inc",hyosungamericas.com,"Information Technology & Services","estimated $39.7k - $50.3k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-04,"Assistant Estimator","Site Specific",sitespecificllc.com,Construction,"estimated $52.5k - $66.5k a year",,"Fox Point area)",Providence,RI,"2906"
+2022-08-03,"Behavioral Health Community Health Advocate","The Providence Community Health Centers, Inc.",providencechc.org,"Medical Practice",,,"Olneyville area)",Providence,RI,"2909"
+2022-08-03,"Vice President - Clinical Excellence and Patient Experience","Hope Health",hopehealth.com,,"estimated $92.8k - $117k a year",,"Valley area)",Providence,RI,"2904"
+2022-08-03,"Child and Youth Advocate","Sojourner House, Inc.",sojournerhousepa.org,"Individual & Family Services","$20 - $22 an hour",,"Smith Hill area)",Providence,RI,"2908"
+2022-08-03,"Air Support Advisor","AAA Northeast",aaanortheast.com,,,,"Charles area)",Providence,RI,"2904"
+2022-08-04,"ATM Technician (2950)","Nautilus Hyosung America Inc",hyosungamericas.com,"Information Technology & Services","estimated $39.6k - $50.2k a year",,,Providence,RI,"2860"
+2022-08-04,"IT Support Specialist","Providence Housing Authority",provhousing.org,,"$55,000 a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-02,"Nurse Manager","Clinica Esperanza/ Hope Clinic",aplacetobehealthy.org,"Hospital & Health Care","estimated $66.3k - $83.9k a year",,"Olneyville area)",Providence,RI,"2909"
+2022-08-03,"Behavioral Health Community Health Advocate","The Providence Community Health Centers, Inc.",providencechc.org,"Medical Practice",,,"Elmhurst area)",Providence,RI,"2908"
+2022-08-04,"Client Account Analyst (Billing Coordinator)","Higgins, Cavanagh & Cooney LLP",,,"estimated $44.5k - $56.3k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-02,"Operations-Assistant Residential Director","May Institute",mayinstitute.org,"Individual & Family Services",,,,Providence,RI,""
+2022-08-03,"Data Analyst III","AAA Northeast",aaanortheast.com,,,,"Charles area)",Providence,RI,"2904"
+2022-08-04,"SEO Specialist",Matter,matterapp.com,"Computer Software",,,"Downtown area)",Providence,RI,"2903"
+2022-08-03,"Litigation Legal Secretary","Locke Lord LLP(Dallas, TX)",,,"estimated $48.4k - $61.2k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-04,"Account Executive - Providence, RI","Providence, RI",,,,,,,,""
+2022-08-02,Actuary,"Blue Cross & Blue Shield of Rhode Island",bcbsri.com,Insurance,"$88,100 - $132,100 a year",,,"Hybrid remote in Providence",RI,"2903"
+2022-08-03,"Cardiac Sonographer",Lifespan,lifespan.org,"Hospital & Health Care","estimated $75.7k - $95.9k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-02,"Auto Body Technician","Avco Automotive Agency",,,"$20 - $28 an hour",,"West End area)",Providence,RI,"2907"
+2022-08-01,"Plumber's Apprentice","TJ's Plumbing and Heating, Inc.",tjsradiantheat.com,"Individual & Family Services","$18 - $24 an hour",,,Providence,RI,"2860"
+2022-08-02,"Assistant Clinical Mgr",Lifespan,lifespan.org,"Hospital & Health Care",,,"Downtown area)",Providence,RI,"2903"
+2022-08-02,"Nurse Supervisor",Lifespan,lifespan.org,"Hospital & Health Care","estimated $77.8k - $98.6k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-03,Bartender,Snookers,snookersri.com,Restaurants,"$17 - $40 an hour",,"Mount Hope area)",Providence,RI,"2904"
+2022-08-03,"Donor Services Driver","Rhode Island Blood Center",ribc.org,"Hospital & Health Care","estimated $25.8k - $32.6k a year",,"Smith Hill area)",Providence,RI,"2908"
+2022-08-02,"Dynamic technology problem solver","Everlasting Designs, Inc.",,,"$35,000 - $65,000 a year",,,Providence,RI,""
+2022-08-03,"Chaplain - Per Diem","Hope Health",hopehealth.com,,,,"Valley area)",Providence,RI,"2904"
+2022-08-03,"Chaplain - Per Diem","Hope Health",hopehealth.com,,,,"Valley area)",Providence,RI,"2904"
+2022-08-04,"BH-Intake Coordinator -PT-Eve","Care New England",carenewengland.org,"Hospital & Health Care","estimated $40.1k - $50.7k a year",,"Blackstone area)",Providence,RI,"2906"
+2022-08-03,"Cardiac Sonographer",Lifespan,lifespan.org,"Hospital & Health Care","estimated $75.7k - $95.9k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-03,"Hospitality Manager","Brown Bears Sports Properties",,,"$20 - $25 an hour",,"Blackstone area)",Providence,RI,"2906"
+2022-08-01,"Interior Project Architect",Jacobs,jacobs.com,"Civil Engineering","estimated $75k - $95k a year",Remote,,"Remote in Providence",RI,"2902"
+2022-07-30,"Marketing Manager",Deloitte,deloitte.com,"Management Consulting","estimated $81.5k - $103k a year",,,Providence,RI,""
+2022-08-03,"Director of College Events and Engagement","Rhode Island College",ric.edu,"Higher Education","$95,000 - $105,000 a year",,"Mount Pleasant area)",Providence,RI,"2908"
+2022-08-02,"Assistant Director of Financial Analysis","Brown University",brown.sd.us,"Government Administration",,,"College Hill area)",Providence,RI,"2912"
+2022-08-04,"Project Manager","S & B Engineers and Constructors",sbec.com,"Oil & Energy","estimated $82.8k - $105k a year",,,Providence,RI,""
+2022-08-02,"VP Talent Acquisition Sourcing",Lifespan,lifespan.org,"Hospital & Health Care","estimated $105k - $133k a year",,"Downtown area)",Providence,RI,"2903"
+2022-08-01,"Interior Project Architect",Jacobs,jacobs.com,"Civil Engineering","estimated $75k - $95k a year",Remote,,"Remote in Providence",RI,"2902"
+2022-08-04,"Director, Partnerships & Alliances","mPulse Mobile",mpulsemobile.com,"Health, Wellness & Fitness","estimated $72.9k - $92.3k a year",Remote,,"Remote in Providence",RI,""
+1970-01-01,,,,,,,,,,""
